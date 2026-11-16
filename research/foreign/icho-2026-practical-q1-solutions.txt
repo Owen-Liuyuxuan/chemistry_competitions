@@ -1,0 +1,476 @@
+Experiment
+Q1-1
+English (Official)
+P1. Synthesise and analyse (A new complex problem)
+Equipment
+Item
+Quantity
+Label
+Part A
+Magnetic stirrer bar
+1
+Steel spatula
+1
+Sintered funnel
+1
+Round bottom flask with
+ground-glass joint
+1
+Vacuum pump with hose
+connected to a bubbler at the
+back
+1
+Glass beaker, 100 mL
+1
+Pre-weighed glass vial with cap
+for product
+1
+A + student code
+Measuring cylinder, 10 mL
+1
+Magnetic rod
+1
+Yellow paper for product
+transfer
+1
+Part B
+Graduated pipette, 10.0 mL
+1
+Glass beaker, 50 mL
+2
+Erlenmeyer flask, 100 mL
+2
+Measuring cylinder, 10 mL
+1
+Part C
+Plastic Pasteur pipette, 3 mL
+12
+Eppendorf tube, 0.5 mL
+15
+
+Experiment
+Q1-2
+English (Official)
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Part A
+Solution R1
+(synthesis)
+aq
+To be
+determined
+10.0 mL
+Glass vial with
+cap, 30 mL
+R1-syn
+Solution R2
+aq
+1.03 M
+10.0 mL
+Glass vial with
+cap, 30 mL
+R2
+Pyridine in ethanol
+(synthesis)
+sol
+8.4 % v/v
+10 mL
+Plastic tube
+(15 mL) in
+plastic cup
+Py
+Part B
+Solution R1
+(analysis)
+aq
+To be
+determined
+10.0 mL
+Volumetric
+flask, 100 mL
+R1-an
+Ethylenediamine-
+tetraacetic acid
+disodium salt
+aq
+0.0770 M
+50 mL
+Bottle, 50 mL
+EDTA
+Ammonia buffer
+aq
+-
+40 mL
+Bottle, 50 mL
+NH3 buffer
+Eriochrome Black T
+s
+1% in NaCl
+0.2 g
+Sample
+container
+Eriochrome
+Part C
+Complex A
+s
+-
+10 mg
+Eppendorf tube,
+0.5 mL
+A
+Iron(III) nitrate
+aq
+0.4 %
+0.5 mL
+Eppendorf tube,
+0.5 mL
+Fe3+
+Copper(II) sulphate
+aq
+5%
+0.5 mL
+Eppendorf tube,
+0.5 mL
+Cu2+
+Pyridine in ethanol
+(analysis)
+sol
+8.4 % v/v
+0.5 mL
+Eppendorf tube,
+0.5 mL
+Py-qual
+X−
+aq
+0.1 M
+0.5 mL
+Eppendorf tube,
+0.5 mL
+X−−qual
+Unknown solvent
+l
+-
+1 mL
+Eppendorf tube,
+1.5 mL
+Solvent
+Dithizone
+s
+-
+1 mg
+Eppendorf tube,
+0.5 mL
+Dithiz.
+Dichloromethane
+l
+-
+0.75 mL
+Eppendorf tube,
+1.5 mL
+CH2Cl2
+
+Experiment
+Q1-3
+English (Official)
+14% of total
+Question
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+1.10
+Total
+Total
+10
+0
+10
+1
+3
+1
+4
+2
+1
+1
+33
+In this problem, you will synthesise and analyse complex A with molecular formula [M(Py)𝑚X𝑛] where:
+- M𝑘+ is an unknown metal cation;
+- Py (pyridine);
+- X−is either OCN−or SCN−;
+- m = 0, 1, 2, 3, ...;
+- n = 1, 2, 3, ...
+Part A. Synthesis
+To synthesise complex A, solutions R1-syn and R2 are used:
+• Solution R1-syn contains 10.0 mL of an aqueous solution of a M𝑘+ salt with unknown concentration.
+• Solution R2 contains 10.0 mL of an aqueous solution of potassium salt of X−with a concentration
+of 1.03 M.
+1. Put the stirrer bar in the 100 mL beaker.
+2. Transfer the whole solution R1-syn to the same beaker.
+3. Rinse the vial R1-syn with 1 mL of water using a Pasteur pipette and transfer the remains to the
+beaker.
+4. Add dropwise the whole solution R2 using a Pasteur pipette while stirring on the magnetic stirrer.
+5. Rinse the vial R2 with 1 mL of water using a Pasteur pipette and transfer the remains to the beaker.
+6. Add dropwise the whole pyridine solution (Py) using a Pasteur pipette while stirring.
+7. Continue stirring for 5 minutes.
+8. Connect sintered funnel to a round bottom flask to assemble the vacuum filtration apparatus.
+9. Filter the product using vacuum filtration and wash it three times with 10 mL portions of water.
+10. Once you have finished washing, ask the lab assistant to collect the filtrate to avoid spills. For this,
+raise the green card with a question mark, turn off the pump and disconnect the vacuum hose.
+Remove the filter and hand the flask to the lab assistant. The lab assistant will discard the filtrate
+and return the empty flask.
+11. Reassemble the filtration setup and let your product dry for 1 hour with the vacuum turned on.
+During the drying, it is important to use your spatula to break up any aggregates of the product
+formed on the filter.
+12. After complete drying, carefully transfer your product to the vial labelled “A + Student Code”. For
+this you can use the yellow paper provided.
+
+Experiment
+Q1-4
+English (Official)
+Q1.1
+The lab assistant will collect your product at the end of the exam. Both you
+and the lab assistant should sign your answer sheet.
+The organisers will further dry your product in an oven before measuring the
+mass, however it is important you have vacuum dried the product for 1 hour
+and broken up any aggregates to remove the vast majority of the water before
+putting it in the vial.
+(If the product is not transferred to the vial, it will not be collected and ZERO
+points will be awarded for the synthesis.)
+SOLUTION:
+Maximum mass (𝑚𝑚𝑎𝑥) of the product is 1.7 g calculated for 100% theoretical
+yield. Points will be awarded based on the mass of the synthesised product (𝑚)
+and purity of the complex (calculated from the melting point).
+The melting point is measured twice for each sample and the onset point and
+clear point are recorded. An average value is taken for the start and end of the
+melting and then the average melting range is calculated (Δ𝑇= 𝑇𝑎𝑣𝑒𝑟
+𝑜𝑛𝑠𝑒𝑡−𝑇𝑎𝑣𝑒𝑟
+𝑐𝑙𝑒𝑎𝑟).
+If the start of the melting is above 200 °C, 0 pt are awarded for the synthesis. If
+the start of the melting is below 190 °C, 0 pt are awarded for the synthesis.
+If the start of the melting is in range 195-200 °C, the sample is treated as pure
+and the purity coefficient (PC) is considered as 𝑃𝐶= 1.
+If the start of the melting is in range 190-195 °C, the sample is treated as impure
+and the purity coefficient (PC) is calculated as: 𝑃𝐶= 0.2 ∗𝑇𝑎𝑣𝑒𝑟
+𝑜𝑛𝑠𝑒𝑡−38.
+Yield of the pure product is calculated as: 𝑌= 100𝑚∗𝑃𝐶/𝑚𝑚𝑎𝑥
+If 87 ≤𝑌< 105, 10 pt are awarded for the synthesis.
+If 𝑌< 87, points are calculated 𝑝𝑜𝑖𝑛𝑡𝑠= 0.1149 ∗𝑌.
+If 𝑌≥105, 0 pt are awarded.
+If the obtained product mass is greater than 1.9 g, 0 pt mark will be awarded
+for the synthesis.
+-2 pt penalty is awarded if the melting range is above 4 °C.
+-10 pt penalty if a residue of a major impropper impurity (e.g. paper, piece of
+plastic, pieces of gloves) is detected in the product by the naked eye.
+-2 pt penalty is awarded if small impurities are detected during the melting point
+determination which does not melt (e.g. pieces of scraped sintered funnel).
+-2 pt penalty if the product is not a white powder.
+If the product is not transferred to the vial, it will not be collected and 0 pt mark
+will be awarded for the synthesis.
+10 pt
+SOLUTION:
+
+Experiment
+Q1-5
+English (Official)
+Part B. Quantitative Analysis
+You will use a complexometric titration to determine the concentration of M𝑘+ in solution R1-an. The
+volumetric flask R1-an contains 10.0 mL of M𝑘+ solution with the same concentration as in R1-syn in Part
+A.
+1. Dilute the R1-an solution in the volumetric flask with H2O up to the mark and mix thoroughly.
+2. Fill the burette with 0.0770 M EDTA.
+3. Add a 10.0 mL aliquot of the diluted solution R1-an using a graduated pipette, 5 mL of ammonia
+buffer solution (NH3 buffer), and a tip of the plastic spatula of indicator (Eriochrome; the spatula
+is inside the sample container) to an Erlenmeyer flask. Close the bottle of NH3 buffer after using
+it.
+4. Titrate the mixture with 0.0770 M EDTA solution until the colour turns a stable blue.
+5. Repeat steps 3-4 if necessary.
+Q1.2
+Record the observed volumes (V0, mL – initial burette reading; V𝑓, mL– final
+burette reading; T, mL - titre). This table is for your convenience and will not be
+graded.
+SOLUTION:
+The table in Q1.2 will not be graded.
+0 pt
+
+Experiment
+Q1-6
+English (Official)
+Q1.3
+Record your accepted final titre of EDTA (VEDTA, mL).
+SOLUTION:
+If Q1.3 is empty, 0pt are given and Q1.2 is not graded.
+10 pt
+Q1.4
+Calculate the ratio of X− 
+ 
+and M𝑘+ (𝑛𝑋−/𝑛𝑀𝑘+) used in the synthesis according
+to your result. Round your answer to two decimal places.
+SOLUTION:
+𝑛𝑋−can be calculated from the concentration given in the task.
+𝑛𝑀𝑘+in sample R1-syn is calculated from the accepted titre (concentration of
+M𝑘+ in R1-syn is the same as in R1-an):
+𝑛𝑀𝑘+ = 𝑉(𝐸𝐷𝑇𝐴) ∗𝑐(𝐸𝐷𝑇𝐴) ∗𝑉(𝑓𝑙𝑎𝑠𝑘)/𝑉(𝑎𝑙𝑖𝑞𝑢𝑜𝑡)
+ 
+Error carried from Q1.3 is not penalised. Full marks are given for correct ratio
+calculation with wrong volume. 0.5pt points are given if rounded incorrectly
+(e.g., the calculated value was 3.1234, but the student wrote 3.1 or 3.123; this
+student will be given 0.5 pt only).
+1 pt
+Part C. Qualitative Analysis
+In this part, you need to perform different chemical tests to identify the components of complex A.
+1. Prepare a 0.4 mL solution of complex A in the Eppendorf tube by adding the solvent with a Pasteur
+pipette from the Eppendorf tube labelled Solvent until the 0.4 mL mark. If the sample has not
+dissolved completely, shake the tube and use the supernatant for the tests below.
+
+Experiment
+Q1-7
+English (Official)
+2. Prepare a 0.4 mL solution of the indicator Dithizone (Dithiz.) in the Eppendorf tube by adding the
+solvent with a Pasteur pipette from the Eppendorf tube labelled Solvent until the 0.4 mL mark. The
+structure of the indicator is given below.
+3. Take four empty Eppendorf tubes and transfer 1 drop of the solution of A obtained to each.
+4. Perform the individual tests T1−T4 by adding the following reagents to each of the four Eppendorf
+tubes:
+• T1: 2 drops of Fe3+(acidified Fe(NO3)3)
+• T2: 2 drops of the prepared Dithizone solution
+• T3: 2 drops of Cu2+(CuSO4)
+• T4: 2 drops of Cu2+(CuSO4) followed by 3 drops of CH2Cl2 and shake
+You may perform additional tests; for this you are provided with extra equipment and chemicals (e.g.,
+solutions of Py and X−). Additional information: 𝜌(CH2Cl2) = 1.32 g/cm3
+Q1.5
+Tick the correct box(es) corresponding to your observation(s) in T1 - T3.
+(a) No visible change
+(b) Formation of precipitate
+(c) Solution became colourless
+(d) Solution became red or pink
+SOLUTION:
+T1: 1 pt for (d); 0 pt for any other option.
+T2: 1 pt for (d); 0 pt for any other option.
+T3: 1 pt for (b), option (c) can be chosen (does not affect the final point); 0 pt if
+(a) or (d) is chosen.
+1 pt for each correct answer.
+0 pt for each incorrect answer.
+Each of the tests T1-T3 is graded separately.
+3 pt
+
+Experiment
+Q1-8
+English (Official)
+Q1.6
+Tick the correct box(es) corresponding to your observation(s) in T4.
+(a) The aqueous phase changed colour
+(b) The aqueous phase did not change colour
+(c) The CH2Cl2 phase changed colour
+(d) The CH2Cl2 phase did not change colour
+SOLUTION:
+1 pt for choosing both (c) and (a) or both (c) and (b).
+(a) or (b) should be chosen (the result depends on the concentration), but (a)
+and (b) can not be chosen together (0 pt for this question in this case).
+0 pt if (d) is chosen.
+1 pt
+
+Experiment
+Q1-9
+English (Official)
+Q1.7
+The above tests T1−T4 are designed to identify the components of the complex
+A. Tick the box(es) that correctly describe(s) the result(s) of each test.
+(a) Identifies presence of metal M𝑘+
+(b) Identifies presence of ligand X−
+(c) Identifies presence of ligand Py
+(d) Identifies absence of ligand Py
+SOLUTION:
+T1 is the ferric thiocyanate test.
+T2 gives a positive result with different metals, but dithizone-zinc complex yields
+a characteristic pink colour.
+T3 and T4 give such a result only with Py and SCN−together which can be
+checked by additional tests with:
+1) Cu2+ with Py,
+2) Cu2+ with SCN−,
+3) Cu2+ with Py and SCN−together.
+As a result of the test, the organic phase gets coloured due to formation of
+Cu(Py)2(SCN)2 and its extraction.
+T1-T2: 1 pt for each correct answer.
+T3-T4: 0.5 pt for each correct answer, 1 pt in total.
+4 pt
+
+Experiment
+Q1-10
+English (Official)
+Q1.8
+Identify ligand X−and metal M𝑘+ with its charge in complex A.
+SOLUTION:
+X−= SCN−can be identified by test T1 (ferric thiocyanate test).
+M𝑘+ = Zn2+ can be identified by test T2 (dithizone-zinc complex yields a pink
+colour) and by additional tests with NH3-buffer or NaOH.
+ 
+The student might suggest another metal/ligand pair that fits the results of the
+tests and described observations.
+For instance, test T1 was performed incorrectly and the specific colour change
+was not observed; thus, option (a) was chosen in Q1.5 T1; as such the student
+reports X−= OCN−which is graded fully in the question Q1.8, however, the test
+result in Q1.5 T1 is graded with zero points.
+ 
+0.5 pt for correct ligand that corresponds to the test results.
+1.5 pt for correct metal that corresponds to the test results. If one observation
+of the student does not match the metal suggested, 1 pt is given for metal de-
+termination; if two observations do not match the metal suggested, 0 pt are
+given for metal determination.
+-0.5 pt penalty if the metal is specified without a charge.
+2 pt
+Q1.9
+From the list below, choose the correct description of M𝑘+/X−stoichiometry in
+the synthesis based on your reported results. Consider as little as an additional
+1 mol% as an excess of the reagent.
+(a) M𝑘+ and X−were used in a stoichiometric amount
+(b) M𝑘+ was used in excess
+(c) X−was used in excess
+SOLUTION:
+The answer should correspond to the answer in Q1.4 and to metal/ligand ratio
+from Q1.8 and Q1.10.
+If the ratio 𝑛𝑋−/𝑛𝑀𝑘+ = 2.09 is reported in Q1.4 and the metal complex formula
+is reported as 𝑀𝑋2, answer (c) should be graded fully.
+If the ratio 𝑛𝑋−/𝑛𝑀𝑘+ = 2.00 is reported in Q1.4 and the metal complex formula
+is reported as 𝑀𝑋2, answer (a) should be graded fully.
+If the ratio 𝑛𝑋−/𝑛𝑀𝑘+ = 1.95 is reported in Q1.4 and the metal complex formula
+is reported as 𝑀𝑋2, answer (b) should be graded fully.
+1 pt for correct answer that corresponds to Q1.3 and Q1.4.
+0 pt here if the titration result is not reported in Q1.3.
+0 pt here if the ratio 𝑛𝑋−/𝑛𝑀𝑘+ is not reported in Q1.4.
+1 pt
+
+Experiment
+Q1-11
+English (Official)
+Q1.10
+Write the molecular formula of complex A assuming it follows the 18-electron
+rule.
+SOLUTION:
+Zn(Py)2X2
+If the 18-electron rule is applied correctly on the wrong metal atom and/or lig-
+and X−, full marks are awarded.
+ 
+For example, In(Py)(SCN)3 can be graded fully if the tests in Q1.4-Q1.6 are re-
+ported with the following results:
+- Q1.8, X−= SCN−and M𝑘+ = In3+;
+- Q1.9, b (as 3 eq. of SCN−is required for it to be in stoichiometric amount with
+In3+);
+- Q1.10, In(Py)X3 which corresponds to hypothetically possible complex that fits
+18-electron rule.
+ 
+Both options Zn(Py)2(SCN)2 and Zn(Py)2(NCS)2 are graded as correct ones (con-
+nectivity of Zn-X is not graded).
+ 
+1 pt if the answer corresponds to correct ligand/metal ratio and to the tests in
+Q1.5-Q1.6.
+0pt if the answer does not follow 18-electron rule.
+1 pt

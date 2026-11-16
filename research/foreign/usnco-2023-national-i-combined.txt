@@ -1,0 +1,1817 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+Distributed by the American Chemical Society, 1155 16
+th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+2023 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART I 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Jesse Bernstein, Miami Country Day School, Miami, FL (retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+James Dohm, ExxonMobil, Houston, TX 
+Xu Duan, Holton-Arms School, Bethesda, MD 
+Kimberly Gardner, United States Air Force Academy, CO  
+Paul Groves, South Pasadena HS, South Pasadena, CA (retired) 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Sarah Leite, Hopkins School, New Haven, CT 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los Angeles, CA 
+Jane Nagurney, Scranton Preparatory School, Scranton, PA (retired) 
+DIRECTIONS TO THE EXAMINER 
+The USNCO Subgroup is conducting a survey in an effort to determine the impact of the Olympiad program on students. At the end 
+of the exam there are four questions, which should be answered on the same Scantron sheet students use for the exam. These 
+questions may be administered after the 90 minutes allotted for the exam; each student should be encouraged to answer these 
+questions. 
+Part I of this test is designed to be taken with a Scantron answer sheet on which the student records their responses. Only this 
+Scantron sheet is graded for a score on Part I. Testing materials, scratch paper, and the Scantron sheet should be made available to the 
+student only during the examination period. All testing materials including scratch paper should be turned in and kept secure until 
+April 23, 2023, after which tests can be returned to students and their teachers for further study. 
+Allow time for students to read the directions, ask questions, and fill in the requested information on the Scantron sheet. The answer 
+sheet must be completed using a pencil, not pen. When the student has completed Part I, or after one hour and thirty minutes has 
+elapsed, the student must turn in the Scantron sheet, Part I of the testing materials, and all scratch paper. 
+There are three parts to the National Chemistry Olympiad Examination. You have the option of administering the three parts in 
+any order, and you are free to schedule rest breaks between parts.
+1 hour, 30 minutes 
+1 hour, 45 minutes 
+Part I 
+60 questions 
+single answer, multiple-choice
+Part II
+8 questions
+problem-solving, explanations 
+Part III
+2 lab problems
+laboratory practical 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page 2 for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, watch, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+DIRECTIONS TO THE EXAMINEE – DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+Answers to questions in Part I must be entered on a Scantron answer sheet to be scored. Be sure to write your name and assigned ID 
+number on the answer sheet. Make a record of this ID number because you will use the same number on Parts II and III. Each 
+item in Part I consists of a question or an incomplete statement that is followed by four possible choices. Select the single choice that 
+best answers the question or completes the statement. Then use a pencil to blacken the space on your answer sheet next to the same letter 
+as your choice. You may write on the examination, but the test booklet will not be used for grading. Scores are based on the number of 
+correct responses. When you complete Part I (or at the end of one hour and 30 minutes), you must turn in all testing materials, scratch 
+paper, and your Scantron answer sheet.  
+Do not forget to turn in your U.S. citizenship/Green Card Holder statement before leaving the testing site today. 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                   y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022 ´
+ 1023 mol–1 
+h = 6.626 ´
+ 10–34 J s 
+c = 2.998 ´
+ 108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+-
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+æ
+ö
+-D
+æ
+ö
+=
++
+ç
+÷ç
+÷
+è
+ø
+è
+ø
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+æ
+ö
+æ
+ö
+=
+-
+ç
+÷
+ç
+÷
+è
+ø
+è
+ø
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 3 
+ 
+DIRECTIONS 
+§ 
+When you have selected your answer to each question, blacken the corresponding space on the answer sheet using a soft, #2 
+pencil. Make a heavy, full mark, but no stray marks. If you decide to change an answer, erase the unwanted mark very carefully.  
+§ 
+There is only one correct answer to each question. Any questions for which more than one response has been blackened will not 
+be counted.  
+§ 
+Your score is based solely on the number of questions you answer correctly. It is to your advantage to answer every question. 
+ 
+1. An amino acid (M = 174) with a formula of CaHbNxO2 
+contains 8.1% by mass of H and 41.3% by mass of C.  
+What is the value of x in its formula? 
+(A) 1 
+(B) 2 
+(C) 3 
+(D) 4 
+ 
+2. Potassium tris(oxalato)ferrate(III) trihydrate is prepared 
+by precipitation from aqueous solution according to the 
+following equation: 
+3 K2C2O4(aq) + FeCl3(aq) + 3 H2O(l) ® 
+K3Fe(C2O4)3 • 3H2O(s) + 3 KCl(aq) 
+A student mixes 10.00 g K2C2O4 (M = 166.2) and 5.00 g 
+FeCl3 (M = 162.2) in 20.0 mL water and isolates 5.74 g 
+K3Fe(C2O4)3 • 3H2O by filtration.  What is the percent 
+yield of this reaction? 
+(A) 19.4% 
+(B) 37.9% 
+(C) 58.3% 
+(D) 65.5% 
+ 
+3. Carbon tetrachloride (CCl4, M = 153.8, density = 1.59 g 
+mL-1) and heptane (C7H16, M = 100.2, density = 0.68 g 
+mL-1) are miscible liquids.  Which solution has the 
+highest concentration of CCl4? 
+(A) 5% v/v CCl4 in heptane 
+(B) 5% w/w CCl4 in heptane 
+(C) 5 mol% CCl4 in heptane 
+(D) All three solutions have the same concentration of 
+CCl4. 
+ 
+ 
+5. A 1.802-g sample of a hydrated double salt containing 
+two different metal ions with the formula of 
+MA(MB)2(SO4)4 • 22H2O is heated strongly to drive off 
+all the water, leaving a residue of 1.000 g.  What is the 
+identity of MA? 
+(A) Ca 
+(B) Ti 
+(C) Fe 
+(D) Ba 
+ 
+ 
+6. Hypochlorite ion reacts with hydrogen peroxide to 
+produce oxygen gas. 
+OCl–(aq) + H2O2(aq) ® H2O(l) + Cl–(aq) + O2(g) 
+A series of experiments is carried out where 10.0 mL of a 
+0.30 M solution of hydrogen peroxide is mixed with a 
+varying volume of 0.40 M sodium hypochlorite solution, 
+and the oxygen gas evolved is collected over water.  
+Which graph best represents how the volume of O2 varies 
+with the volume of NaOCl solution used? 
+(A) 
+ 
+(B) 
+  
+(C) 
+ 
+(D) 
+ 
+ 
+7. A weighed sample of iron ore is dissolved in 10 mL of 
+1.0 M hydrochloric acid and then titrated with 0.100 M 
+KMnO4 to determine the percent iron by mass in the 
+sample.  Which glassware is the best choice for 
+measuring the hydrochloric acid? 
+ (A) 50 mL buret 
+ (B) 10 mL volumetric pipet 
+(C) 10 mL graduated pipet 
+(D) 10 mL graduated cylinder 
+ 
+8. A 0.1 M aqueous solution containing which metal ion is 
+least intensely colored? 
+(A) Cr2+ 
+(B) Mn2+ 
+(C) Co2+ 
+(D) Ni2+ 
+ 
+ 
+4. A solution of 5.00 g of which substance dissolved in 
+100.0 g water has the highest boiling point? 
+(A) H3PO4 
+(B) H2SO4 
+(C) H3AsO4 
+(D) H2SeO4 
+
+ 
+Page 4  
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+9. When equal volumes of a 1.0 M ammonium sulfate 
+solution and a saturated solution of barium hydroxide are 
+mixed, what is observed? 
+I. 
+Gas is evolved 
+II. 
+A white precipitate forms. 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+10. A weighed sample of a copper-nickel alloy is dissolved 
+in a known volume of nitric acid.  Which method is most 
+suitable for determining the mass percent of copper in the 
+alloy? 
+(A) Treatment of an aliquot of the solution with excess 
+iodide, followed by titration of the iodine produced 
+with sodium thiosulfate. 
+(B) Measurement of the absorbance of the solution at a 
+wavelength of light at which both Cu2+ and Ni2+ 
+absorb, and comparison with the absorbances of 
+known standards of the two ions. 
+(C) Addition of excess sodium hydroxide to the 
+solution, isolation of the metal hydroxides by 
+filtration, and measurement of the mass of the 
+precipitate. 
+(D) Bubbling hydrogen gas through the solution and 
+measuring the mass of the metal that precipitates 
+from the solution. 
+ 
+11. Which metal ion forms the least soluble perchlorate salt? 
+(A) Li+ 
+(B) Mg2+ 
+(C) K+ 
+(D) Ca2+ 
+ 
+12. A sample of malachite, Cu2CO3(OH)2, is heated over a 
+Bunsen burner to form CuO.  The mass percent copper in 
+the sample is calculated based on the mass before and 
+after heating.  Which could explain the experimentally 
+determined percent copper being lower than that 
+expected for malachite? 
+(A) The sample is not heated as strongly as 
+recommended in the procedure (not long or hot 
+enough). 
+(B) The sample is heated more strongly than 
+recommended in the procedure (too long or too hot). 
+(C) Azurite (Cu3(CO3)2(OH)2) is present in the sample. 
+(D) Goethite (FeO(OH)) is present in the sample. 
+ 
+13. A bicycle tire is filled with air to a pressure of 72 psi at a 
+temperature of 25.0 °C.  If the air temperature inside the 
+tire increases to 55.0 °C, and the volume of the tire 
+increases by 5.0%, what is the pressure inside the tire? 
+(A) 69 psi 
+(B) 75 psi 
+(C) 83 psi 
+(D) 166 psi 
+14. Which C5H10O isomer has the highest normal boiling 
+point? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+15. Two substances Q and R have the same normal boiling 
+point.  Substance Q has a larger enthalpy of vaporization 
+than substance R.  Which is true about the relative 
+boiling points of the substances at 2.0 atm pressure? 
+(A) The boiling point of Q is lower than the boiling 
+point of R at 2.0 atm. 
+(B) The boiling points of Q and R are the same at  
+2.0 atm. 
+(C) The boiling point of Q is higher than the boiling 
+point of R at 2.0 atm. 
+(D) The relative boiling points cannot be predicted from 
+the information given. 
+ 
+16. The density of white tin is 7.28 g cm-3 and the density of 
+gray tin is 4.75 g cm-3.  The conversion of white tin to 
+gray tin, Sn(s, white) ® Sn(s, gray), has a standard 
+enthalpy of reaction of –2.1 kJ mol-1 at 298 K.  At 1 atm 
+pressure, white tin and gray tin are in equilibrium at 13 
+°C.  Which best represents the phase diagram of tin near 
+13 °C and 1 atm? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+17. Nickel crystallizes in a face-centered cubic structure.  
+The edge of a unit cell has a length of 352 pm.  What is 
+the distance between the nuclei of two adjacent nickel 
+atoms in this lattice? 
+(A) 117 pm 
+(B) 176 pm 
+(C) 249 pm 
+(D) 305 pm 
+  
+  
+O
+OH
+OH
+O
+13 °C
+T
+P
+1 atm
+White Sn
+Gray Sn
+13 °C
+T
+P
+1 atm
+White Sn
+Gray Sn
+13 °C
+T
+P
+1 atm
+White 
+Sn
+Gray Sn
+13 °C
+T
+P
+1 atm
+Gray 
+Sn
+White Sn
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 5 
+18. A 10-gram sample of a substance is added to a rigid 
+evacuated 1 L vessel.  The pressure in the vessel is 
+measured as a function of temperature and the following 
+graph is obtained: 
+ 
+Which graph is obtained if a 10-gram sample of the 
+substance is heated in a 2 L vessel? 
+(A) 
+ 
+(B) 
+  
+(C) 
+ 
+(D) 
+ 
+ 
+19. The phase change 
+X(s) ® X(l) 
+has ∆G° > 0 at 300 K.  Which statement about this 
+reaction must be correct? 
+(A) Keq < 1 at 300 K 
+(B) ∆S° < 0 at 300 K 
+(C) Liquid X cannot exist at 300 K 
+(D) The melting point of X is greater than 300 K 
+ 
+20. For which reaction is ∆H°rxn closest to ∆G°rxn? 
+(A) 2 CO2(g) ® 2 CO(g) + O2(g) 
+(B) 2 HCl(g) ® H2(g) + Cl2(g) 
+(C) 2 H2O(l) ® 2 H2(g) + O2(g) 
+(D) 2 NaCl(s) ® 2 Na(s) + Cl2(g) 
+ 
+ 
+ 
+21. 2.00 g solid iodine, initially at 300 K, is heated in a 
+sealed vessel maintained at 1.00 atm pressure.  The 
+temperature of the sample as a function of the amount of 
+heat added to it is shown below. 
+ 
+What is the entropy of vaporization of I2, ∆S°vap, at its 
+normal boiling point? 
+(A) 40.1 J mol-1 K-1 
+(B) 52.6 J mol-1 K-1 
+(C) 56.8 J mol-1 K-1 
+(D) 92.8 J mol-1 K-1 
+ 
+22. 20.0 mL of NaOH(aq) is titrated against 1.00 M HCl(aq) 
+in a well-insulated vessel with constant stirring. Each 
+solution is initially at 22.0° C, and the temperature of the 
+reaction mixture is monitored after each 2.0 mL of 
+hydrochloric acid is added.  What is ∆H° for the reaction 
+that takes place?  Assume that all solutions’ densities and 
+heat capacities are the same as that of pure water, and 
+that solution volumes are additive. 
+ 
+(A) –15 kJ mol-1 
+(B) –31 kJ mol-1 
+(C) –39 kJ mol-1 
+(D) –54 kJ mol-1 
+ 
+23. Silver ion reacts with ammonia to form a complex ion: 
+Ag+(aq) + 2 NH3(aq) ® Ag(NH3)2
++(aq) 
+In a certain solution at equilibrium at 298 K, [Ag+] = 
+[NH3] = [Ag(NH3)2
++] = C.  What is ∆Grxn at 298 K if 
+[Ag+] = [NH3] = [Ag(NH3)2
++] = 0.1C? 
+(A) –5.7 kJ mol-1 
+(B) 0 kJ mol-1 
+(C) 5.7 kJ mol-1 
+(D) 11.4 kJ mol-1 
+ 
+ 
+
+ 
+Page 6  
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+24. Equal volumes of 1.00 M HSO4
+–(aq) and 1.00 M SO4
+2–
+(aq) are mixed.  The pH of this solution varies with the 
+reciprocal of the absolute temperature as shown. 
+ 
+What is the standard enthalpy change for the acid 
+dissociation of HSO4
+–(aq)? 
+HSO4
+–(aq) ® H+(aq) + SO4
+2-(aq) ∆H°rxn = ??? 
+(A) –24.0 kJ mol-1 
+(B) –10.4 kJ mol-1 
+(C) 10.4 kJ mol-1 
+(D) 24.0 kJ mol-1 
+ 
+25. Hydroxide ion reacts with methyl iodide to give methanol 
+in an irreversible second-order reaction with a rate 
+constant k = 6.5 ´ 10-5 L mol-1 s-1. 
+OH–(aq) + CH3I(aq) ® CH3OH(aq) + I–(aq) 
+Rate = k[OH–][CH3I] 
+How long will it take the concentration of CH3I to 
+decrease from 0.010 M to 0.0020 M in a 1.00 M solution 
+of sodium hydroxide? 
+(A) 120 s 
+(B) 2.5 ´ 104 s 
+(C) 4.1 ´ 106 s 
+(D) 6.2 ´ 106 s 
+ 
+26. The temperature-dependence of the rate constant of a 
+chemical reaction can be described by the Arrhenius 
+equation, k = Ae–Ea/RT.  Which elementary chemical 
+reaction has the largest Arrhenius pre-factor A? 
+(A) (CH3)3CBr(aq) ® (CH3)3C+(aq) + Br–(aq) 
+(B) N2O4(g) ® 2 NO2(g) 
+(C) CH3NC(g) ® CH3CN(g) 
+(D) (CH3O)2SO2(aq) + OH–(aq) ®  
+CH3OH(aq) + CH3OSO3
+–(aq) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27. The iodination of acetone is irreversible and has a rate 
+law of Rate = k[CH3COCH3][H+]. 
+CH3COCH3(aq) + I3
+–(aq) ® 
+CH3COCH2I(aq) + H+(aq) + 2 I–(aq) 
+When the reaction is carried out with an initial 
+concentration of I3
+– much smaller than those of either 
+acetone or H+, it is observed that the yellow color due to 
+I3
+– fades over time, finally disappearing abruptly at a time 
+t.  How does t depend on the initial concentrations? 
+Dependence on: [CH3COCH3] 
+[H+] 
+[I3
+–] 
+(A) 
+  Direct 
+ Direct 
+  None 
+(B) 
+  Inverse 
+ Inverse 
+  None 
+(C) 
+  Direct  
+ Direct 
+  Inverse 
+(D) 
+  Inverse 
+ Inverse 
+  Direct 
+ 
+ 
+28. The reaction between A and B is carried out twice, with 
+[A]0 = 0.50 M in each run but with two different initial 
+concentrations of B, and the results are shown below.  
+What can be concluded about the rate law? 
+ 
+(A) Rate = (0.0069 s-1)[B] 
+(B) Rate = (0.0069 M-1 s-1)[A][B] 
+(C) Rate = (0.014 M-1 s-1)[A][B] 
+(D) The reaction is first order in B, but the order in A 
+cannot be determined from the available data. 
+ 
+29. Nitrogen dioxide reacts with carbon monoxide with the 
+rate law shown 
+NO2(g) + CO(g) ® NO(g) + CO2(g) 
+Rate = k[NO2]2 
+Which mechanisms are consistent with this rate law? 
+ 
+I. 
+2 NO2 ⇄ N2O4 
+fast, unfavorable 
+ 
+N2O4 + CO ® N2O3 + CO2 
+slow 
+ 
+N2O3 ® NO + NO2 
+fast 
+II. 
+2 NO2 ® NO + NO3 
+slow 
+ 
+NO3 + CO ® NO2 + CO2 
+fast 
+ 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 7 
+30. The reaction coordinate diagram of a reaction that takes 
+place at 300 K is shown below. 
+ 
+Which best represents the reaction coordinate diagram 
+for the same reaction at 340 K? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+31. Pure PCl5 is placed in a rigid flask so that its pressure at 
+250 °C is 2.000 bar. The gas slowly decomposes to PCl3 
+and Cl2 at this temperature, and the partial pressure of Cl2 
+is eventually 0.814 bar. What is the value of Kp for the 
+reaction? 
+PCl5(g) ⇄ PCl3(g) + Cl2(g) 
+Kp = ??? 
+(A) 0.559 
+(B) 0.686 
+(C) 0.814 
+(D) 1.78 
+ 
+32. What is the maximum concentration of lead(II) ions at 
+equilibrium in a solution with pH = 10.50?  The Ksp of 
+Pb(OH)2 is 1.4 ´ 10-15. 
+(A) 7.1 ´ 10-6 M 
+(B) 1.4 ´ 10-8 M 
+(C) 3.5 ´ 10-9 M 
+(D) 4.4 ´ 10-12 M 
+ 
+33. The pKa of methylammonium ion, CH3NH3
++, is 10.64.  
+What is the percent ionization of a 0.20 M solution of 
+methylamine, CH3NH2? 
+(A) 0.0011% 
+(B) 0.071% 
+(C) 1.1% 
+(D) 4.7% 
+ 
+ 
+ 
+ 
+ 
+34. Which statement best describes the differences between a 
+0.1 M solution of ammonium bicarbonate, NH4(HCO3), 
+and a 0.1 M solution of ammonium carbonate, 
+(NH4)2CO3? 
+(A) The pH of the ammonium bicarbonate solution is 
+lower because bicarbonate is a weaker base than 
+carbonate. 
+(B) The pH of the ammonium bicarbonate solution is 
+lower because both ammonium ion and bicarbonate 
+ion can act as Brønsted acids. 
+(C) The pH of the ammonium bicarbonate solution is 
+higher because it has only half the ammonium ion 
+concentration of the ammonium carbonate solution. 
+(D) The pH of the ammonium bicarbonate solution is 
+higher because it contains only two-thirds as many 
+total ions as the ammonium carbonate solution. 
+ 
+35. A mixture of N2O4(g) and NO2(g) is contained in a vessel 
+whose total volume can change but where the total 
+pressure is maintained at 1.00 atm.  The initial 
+temperature is 298 K, and the two gases are in 
+equilibrium.  Which changes will result in an increase in 
+the number of moles of NO2 present at equilibrium? 
+N2O4(g) ⇄ 2 NO2(g) 
+∆H° = 57.6 kJ mol-1 
+I. 
+Adding Ne(g) 
+II. 
+Increasing the temperature to 310 K 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+36. Silver iodide is a sparingly soluble salt.  Silver also forms 
+a soluble complex ion, AgI2
+–, with iodide ion.  A series of 
+solutions saturated with solid AgI and containing various 
+concentrations of dissolved iodide ion are prepared, and 
+the total concentration of silver dissolved in each solution 
+is measured.  Which graph of the logarithm of the total 
+silver concentration as a function of the logarithm of the 
+iodide concentration best represents the results of this 
+experiment? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+reaction coordinate
+Enthalpy (H)
+reactants
+products
+reaction coordinate
+Enthalpy (H)
+reactants
+products
+reaction coordinate
+Enthalpy (H)
+reactants
+products
+reaction coordinate
+Enthalpy (H)
+reactants
+products
+reaction coordinate
+Enthalpy (H)
+reactants
+products
+
+ 
+Page 8  
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+37. Which species has the largest coefficient when the 
+chemical equation for the disproportionation of white 
+phosphorus in basic solution is balanced? 
+__ P4(s) + __ OH–(aq) + __ H2O(l) ® 
+__ PH3(g) + __ PO4
+3-(aq) 
+(A) P4(s) 
+(B) OH–(aq) 
+(C) H2O(l) 
+(D) PH3(g) 
+ 
+38. Which reagent would spontaneously reduce Fe2+(aq) to 
+Fe(s) under standard conditions? 
+(A) H2(g) 
+(B) Ni(s) 
+(C) Sn2+(aq) 
+(D) Zn(s) 
+ 
+39. In a test of the selectivity of an electrocatalyst for the 
+reduction of carbon dioxide to methanol, electrolysis is 
+carried out with a constant current of 0.370 A for 155 
+minutes.  Afterwards, the cathodic compartment of the 
+cell is analyzed and is found to contain 5.30 ´ 10-3 mol 
+CH3OH.  What is the faradaic yield (the percent yield 
+based on the current passed through the cell)? 
+(A) 14.8% 
+(B) 29.7% 
+(C) 59.4% 
+(D) 89.2% 
+ 
+40. The cathodic compartment of an electrolytic cell is 0.100 
+M in the ions Fe(CN)6
+3- and Cu2+ and has a chemically 
+inert electrode.  As current is passed through the cell, 
+which best describes how Cu(s) is deposited on the 
+electrode? 
+Half-reaction 
+E°, V 
+Cu2+(aq) + 2e– ® Cu(s) 
++0.337 
+Fe(CN)6
+3- + e–  ® Fe(CN)6
+4- 
++0.370 
+ 
+(A) Copper is deposited immediately, but at a rate much 
+lower than 1 mol per 193000 C.  As the electrolysis 
+proceeds, the rate of copper deposition increases. 
+(B) Copper is deposited immediately, at a rate close to 1 
+mol per 193000 C.  As the electrolysis proceeds, the 
+rate of copper deposition decreases. 
+(C) No copper is deposited for a certain length of time, 
+then copper deposition begins. 
+(D) Copper is deposited at a rate of 1 mol per 193000 C 
+for a certain length of time, then the rate of copper 
+deposition decreases. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41. What is E° for the disproportionation of hydrogen 
+manganate ion in acidic solution? 
+5 HMnO4
+–(aq) + 3 H+(aq) ® 
+4 MnO4
+–(aq) + Mn2+(aq) + 4 H2O(l) 
+ 
+Half-reaction 
+E°, V 
+MnO4
+–(aq) + H+(aq) + e– ® HMnO4
+–(aq) 
++0.90 
+MnO4
+–(aq) + 8 H+(aq) + 5 e– ®  
+Mn2+(aq) + 4 H2O(l) 
++1.51 
+ 
+(A) 0.61 V 
+(B) 0.76 V 
+(C) 0.99 V 
+(D) 1.21 V 
+ 
+42. In the galvanic cell shown, the silver electrode is 
+oxidized to Ag+ while AuCl4
+– is reduced to elemental Au, 
+and the measured cell potential is 0.13 V. 
+ 
+Which change will result in the largest value of the 
+measured cell potential? 
+(A) The concentration of AuCl4
+– is decreased to 0.10 M. 
+(B) The concentration of Cl– is decreased to 0.10 M. 
+(C) The concentration of Ag+ is decreased to 0.10 M. 
+(D) The surface area of the Ag electrode is decreased by 
+a factor of 10. 
+ 
+43. One electron in a ground-state gas-phase Ge atom has 
+quantum numbers (n, l, ml, ms) of (4, 1, 1, –½).  Which of 
+the following cannot be a valid set of quantum numbers 
+for another electron in this atom? 
+(A) (3, 2, 1, ½) 
+(B) (4, 0, 0, –½) 
+(C) (4, 1, 0, ½) 
+(D) (4, 1, –1, –½) 
+ 
+44. How many nodes does the radial wave function of a 3s 
+orbital have? 
+(A) 0 
+(B) 1 
+(C) 2 
+(D) 3 
+ 
+45. Which transition in a gas-phase hydrogen atom would 
+absorb the most energy? 
+(A) n = 1 ® n = 3 
+(B)  n = 2 ® n = 4 
+(C) n = 3 ® n = 1 
+(D) n = 4 ® n = 2 
+ 
+salt bridge
+V
+Au
+Ag
+1.0 M AuCl4–
+1.0 M Cl–
+1.0 M Ag+
+anode
+cathode
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 9 
+46. Which element has a gas-phase electron affinity closest 
+to that of sulfur (S)? 
+(A) O 
+(B) P 
+(C) Cl 
+(D) Se 
+ 
+47. The first ionization energy of gallium (Ga, 578.8 kJ   
+mol-1) is greater than that of aluminum (Al, 577.5 kJ  
+mol-1). Which is the best explanation for this? 
+(A) The 3d electrons in gallium imperfectly screen the 
+nuclear charge from the outermost electrons. 
+(B) The 4p orbitals in gallium have an additional radial 
+node compared to the 3p orbitals in aluminum and 
+thus have more electron density very close to the 
+nucleus. 
+(C) Gallium has a half-filled subshell, which is 
+unusually stable. 
+(D) Because electron energy is proportional to 1/n2, 
+electrons with higher principal quantum numbers 
+have lower energies and hence are more difficult to 
+ionize. 
+ 
+48. By what mode does the isotope 31S undergo radioactive 
+decay? 
+(A) Alpha decay 
+(B) Beta decay 
+(C) Gamma decay 
+(D) Positron emission 
+ 
+49. Which species has the longest carbon-oxygen bond? 
+(A) HCO2
+– 
+(B) CO3
+2– 
+(C) CO2 
+(D) COS 
+ 
+50. Which molecule has a dipole moment of zero? 
+(A) BCl3 
+(B) NI3 
+(C) AsH3 
+(D) BrF3 
+ 
+51. Which ions are linear? 
+I. 
+NO2
++ 
+II. 
+ICl2
+– 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+52. Which is the best description of the structure of the 
+substance whose empirical formula is NPF10? 
+(A) F5N–PF5 
+(B) F3N–PF7 
+(C) [NF4][PF6] 
+(D) [PF4][NF6] 
+ 
+53. Which is the best representation of the three-dimensional 
+arrangement of the atoms in dimethyl carbodiimide, 
+CH3NCNCH3? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+54. Two substances with the formula (en)2CoCl3 (en = 
+ethylenediamine, H2NCH2CH2NH2) have different 
+aqueous solubilities and different UV-visible spectra in 
+aqueous solution.  Which is the most likely explanation 
+for this observation? 
+(A) The substances are enantiomers. 
+(B) The substances are geometric isomers. 
+(C) One substance contains [(en)2CoCl2]Cl with six-
+coordinate cobalt and the other contains (en)2CoCl3 
+molecules with seven-coordinate cobalt. 
+(D) One substance contains [(en)2CoCl2]Cl with six-
+coordinate cobalt and the other contains 
+[(en)2Co]Cl3 with four-coordinate cobalt. 
+ 
+55. Which molecule is achiral in all of its stereoisomeric 
+forms? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+56. How many methyl groups are axial in the most stable 
+chair conformation of the trimethylcyclohexane shown 
+below? 
+ 
+(A) Zero 
+(B) One 
+(C) Two 
+(D) Three 
+ 
+57. Which series lists the carboxylic acid derivatives in 
+increasing order of reactivity in hydrolysis reactions? 
+(A) CH3CH2CONH2 < CH3CH2COOCH3 < 
+CH3CH2COCl 
+(B) CH3CH2COOCH3 < CH3CH2CONH2 < 
+CH3CH2COCl 
+(C) CH3CH2CONH2 < CH3CH2COCl < 
+CH3CH2COOCH3 
+(D) CH3CH2COOCH3 < CH3CH2COCl < 
+CH3CH2CONH2 
+ 
+ 
+ 
+ 
+ 
+H3C
+N
+C
+N
+CH3
+H3C
+N
+C
+N
+CH3
+H3C
+N
+C
+N
+CH3
+H3C
+N
+C
+N
+CH3
+OH
+HO
+OH
+OH
+OH
+OH
+OH
+HO
+CH3
+CH3
+CH3
+
+ 
+Page 10  
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+58. Which C6H10 isomer has the most positive standard 
+enthalpy of formation? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+59. Which reagent reacts readily with butanal 
+(CH3CH2CH2CHO), but not with 2-pentanone 
+(CH3CH2CH2COCH3)? 
+(A) K2Cr2O7 in aqueous H2SO4 
+(B) I2 in aqueous NaOH 
+(C) CH3MgBr in Et2O 
+(D) NaBH4 in CH3OH 
+ 
+60. α-D-glucose and β-D-glucose interconvert in aqueous 
+solution at pH 7 (mutarotation).  Which best describes the 
+intermediate in this isomerization? 
+ 
+(A) A planar oxacyclohexane 
+(B) An acyclic aldohexose 
+(C) A disaccharide 
+(D) An achiral glycoside 
+ 
+ 
+END OF TEST 
+ 
+ 
+PLEASE ANSWER THE FOLLOWING 
+FOUR QUESTIONS 
+ 
+THANK YOU! 
+ 
+When you have finished answering this examination or time has 
+been called by the Examiner, please provide responses to the 
+following 4 items. Your answers will not affect your score on 
+the exam but will help with a study being conducted by the U.S. 
+National Chemistry Olympiad (USNCO) Subgroup.  
+ 
+61.  The amount of time I spend doing experiments in the   
+laboratory per week on average during my chemistry 
+course was/is?  
+(A) less than ½ hour 
+(B) between ½ and 1 hour 
+(C) between 1 and 2 hours 
+(D) more than 2 hours 
+ 
+The following questions should be answered using the scale  
+(A) Strongly agree 
+(B) Agree 
+(C) Disagree 
+(D) Strongly disagree 
+ 
+62.  As a result of my participation in the USNCO program, 
+I plan to study more chemistry.  
+  
+63.  As a result of my participation in the USNCO program, 
+I plan to major in chemistry in college.  
+  
+64.  As a result of my participation in the USNCO program, 
+I have a more positive view of chemistry than I did before 
+participating.  
+ 
+ 
+ 
+ 
+H
+H
+H
+H
+O
+H
+HO
+H
+HO
+H
+OH
+OH
+H
+H
+OH
+α-D-glucose
+O
+H
+HO
+H
+HO
+H
+H
+OH
+H
+OH
+OH
+β-D-glucose
+
+Olympiad 2023  
+USNCO National Exam 
+KEY 
+Number 
+Answer 
+1.
+D
+2.
+C
+3.
+A
+4.
+B
+5.
+C
+6.
+D
+7.
+D
+8.
+B
+9.
+B
+10.
+A
+11.
+C
+12.
+C
+13.
+B
+14.
+C
+15.
+A
+16.
+D
+17.
+C
+18.
+D
+19.
+D
+20.
+B
+21.
+D
+22.
+D
+23.
+D
+24.
+A
+25.
+B
+26.
+B
+27.
+D
+28.
+D
+29.
+B
+30.
+A
+Number 
+Answer 
+31.
+A
+32.
+B
+33.
+D
+34.
+A
+35.
+C
+36.
+D
+37.
+B
+38.
+D
+39.
+D
+40.
+C
+41.
+B
+42.
+B
+43.
+C
+44.
+C
+45.
+A
+46.
+D
+47.
+A
+48.
+D
+49.
+B
+50.
+A
+51.
+C
+52.
+C
+53.
+C
+54.
+B
+55.
+D
+56.
+B
+57.
+A
+58.
+C
+59.
+A
+60.
+B
+% Correct 
+Answers
+Correct
+% Correct 
+Answers
+Correct
+81%
+52%
+41%
+47%
+78%
+35%
+36%
+42%
+29%
+9%
+18%
+72%
+37%
+29%
+37%
+54%
+16%
+27%
+79%
+41%
+40%
+35%
+24%
+42%
+31%
+31%
+58%
+76%
+35%
+67%
+57%
+38%
+38%
+27%
+23%
+63%
+53%
+28%
+22%
+9%
+27%
+37%
+62%
+69%
+35%
+48%
+43%
+53%
+72%
+42%
+45%
+31%
+23%
+48%
+30%
+25%
+20%
+37%
+33%

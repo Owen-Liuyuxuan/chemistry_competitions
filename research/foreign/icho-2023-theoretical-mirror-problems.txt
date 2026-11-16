@@ -1,0 +1,2682 @@
+Theory
+G0-1
+English (Official)
+General Instructions
+• This examination has 10 problems.
+• Each signal is given by the ringing of a cowbell.
+• You may begin working as soon as the START command is given. You will then have 5 hours to
+complete the exam.
+• All results must be written in the appropriate answer boxes with pen on the answer sheets. Use
+the back of the question sheets if you need scratch paper. Remember that answers written outside
+the answer boxes will not be graded.
+• Write relevant calculations in the appropriate boxes when necessary. Full marks will be given for
+correct answers only when your work is shown.
+• For the multiple choice questions, if you want to change your answer, fill the tick box completely
+and then make a new box next to it.
+• Use only the pen and calculator provided.
+• The official English version of this examination is available on request for clarification only.
+• The supervisors will announce a 30-minute warning before the STOP command.
+• You must stop working when the STOP command is given. Failure to stop writing can lead to the
+nullification of your examination.
+• After the supervisor tells you to do so, put all sheets with the cover sheet on top back into the
+envelope. Do not seal the envelope.
+• You are not allowed to leave your working place without permission. If you need any assistance,
+raise the corresponding nonverbal communication card (see table below for meanings).
+• Do not draw anything into or close to the QR codes.
+
+Theory
+G0-2
+English (Official)
+I
+need
+to
+use
+the toilet, grab a
+snack, or take a
+break
+I need my water
+bottle refilled
+I need to see the
+official English ver-
+sion for clarifica-
+tion
+Meanings of the non-verbal communication cards.
+GOOD LUCK!
+
+Theory
+G0-3
+English (Official)
+Problems and Grading Information
+Title
+Question
+Pages
+Answer
+Pages
+Total
+Score
+Percentage
+1
+Molecular Imaging
+3
+4
+22
+5
+2
+Electrochemical CO2 Reduction
+4
+5
+33
+5
+3
+Artificial Photosynthesis
+4
+6
+29
+6
+4
+Fluorinated and Hypervalent Compounds
+6
+4
+34
+6
+5
+Hydrodesulfurization
+3
+4
+34.5
+7
+6
+Direct
+Conversion
+of
+Methane
+to
+Methanol
+3
+5
+32
+7
+7
+Enzyme Kinetics
+3
+5
+34
+7
+8
+Nazarov Reaction
+3
+3
+31
+5
+9
+Electrolysis in Organic Synthesis
+6
+5
+29
+6
+10
+Switzerland - The Country of Pharmaceu-
+ticals
+6
+4
+39
+6
+Total
+60
+
+Theory
+G0-4
+English (Official)
+Physical Constants and Equations
+Constants
+Planck constant
+ℎ= 6.626 ⋅10−34 J s
+Boltzmann constant
+𝑘𝐵= 1.381 ⋅10−23 kg m2 s−2 K−1
+Speed of Light
+𝑐= 2.998 ⋅108 m s−1
+Elementary charge
+𝑒= 1.602 ⋅10−19 C
+Avogadro constant
+𝑁𝐴= 6.022 ⋅1023 mol−1
+Universal gas constant
+𝑅= 8.314 J mol−1 K−1
+Faraday constant
+𝐹= 96485 C mol−1
+Standard pressure
+𝑝0 = 1 ⋅105 Pa = 1 bar
+SHE:
+Standard Hydrogen Electrode (𝑝= 1 bar)
+Electronvolt
+1 eV = 1.602 ⋅10−19 J
+Electric Charge & Current
+1 C = 1 A ⋅1 s
+Absolute zero
+0 K = −273.15 ∘C
+Ångstrom
+1 Å = 10−10 m
+pico (p)
+10−12
+nano (n)
+10−9
+micro (𝜇)
+10−6
+milli (m)
+10−3
+centi (c)
+10−2
+deci (d)
+10−1
+kilo (k)
+103
+mega (M)
+106
+giga (G)
+109
+tera (T)
+1012
+Pi (𝜋)
+𝜋= 3.141592 …
+Euler's number
+𝑒= 2.718281 …
+
+Theory
+G0-5
+English (Official)
+Equations
+Ideal gas law
+𝑝𝑉= 𝑛𝑅𝑇= 𝑁𝑘𝐵𝑇
+Gibbs free energy
+Δ𝐺= Δ𝐻−𝑇Δ𝑆
+Δ𝐺∘= −𝑅𝑇ln 𝐾∘
+Δ𝑟𝐺∘= −𝑛𝐹𝐸∘
+𝑐𝑒𝑙𝑙
+where 𝑛is the number of electrons
+Δ𝑟𝐺= Δ𝑟𝐺∘+ 𝑅𝑇ln 𝑄
+Reaction quotient 𝑄for reaction: 𝑎𝐴+𝑏𝐵⇌𝑐𝐶+𝑑𝐷
+𝑄= [𝐶]𝑐[𝐷]𝑑
+[𝐴]𝑎[𝐵]𝑏
+Nernst equation
+𝐸= 𝐸0 −𝑅𝑇
+𝑛𝐹ln 𝑄
+Electric current
+𝐼= 𝑄/𝑡
+Faraday equation
+𝐼⋅𝑡= 𝑛⋅𝑧⋅𝐹
+Energy of charge 𝑞in electric field
+𝐸= 𝑘𝑞1𝑞2
+𝑑
+Arrhenius law
+𝑘= 𝐴exp ( −𝐸𝐴
+𝑅𝑇)
+Lambert Beer equation
+𝐴= log(𝐼0/𝐼1) = 𝜀⋅𝑙⋅𝑐
+Henderson-Hasselbalch equation
+pH = pKa + log( [𝐴−]
+[𝐻𝐴])
+Energy of a photon
+𝐸= ℎ𝜈= ℎ𝑐
+𝜆
+Integrated rate laws for ...
+... zeroth order
+[𝐴] = [𝐴]0 −𝑘𝑡
+... first order
+ln[𝐴] = ln[𝐴]0 −𝑘𝑡
+... second order
+1
+[𝐴] =
+1
+[𝐴]0 + 𝑘𝑡
+Half life for a first order reaction
+𝑡1/2 = ln 2
+𝑘
+Half life for a second order process
+𝑡1/2 =
+1
+[𝐴]0𝑘
+Radioactivity
+𝐴= 𝑘⋅𝑁
+Surface area of a sphere with radius 𝑅
+𝐴= 4𝜋𝑅2
+Volume of a sphere with radius 𝑅
+𝑉= 4𝜋
+3 𝑅3
+
+Theory
+G0-6
+English (Official)
+Periodic Table of the Elements
+
+Theory
+G0-7
+English (Official)
+Table of NMR Chemical Shifts
+1H NMR Chemical Shifts
+Possible translation for aromatic, aliphatic and alkyne
+13C NMR Chemical Shifts
+Possible translation for aromatic, aliphatic and alkyne
+
+Theory
+G0-8
+English (Official)
+1H NMR Coupling Constants
+Type of hydrogen
+|Jab| (Hz)
+R2CHaHb
+4-20
+R2CHa-CR2Hb
+2-12
+R2CHa-CR2-CR2Hb
+If rotation free: < 0.1
+Otherwise (fixed): 1-8
+RHaC=CRHb
+cis: 7-12
+trans: 12-18
+R2C=CHaHb
+0.5-3
+RHaC=CR-CR2Hb
+0.5-2.5
+List of Amino Acids
+Possible translations for the English expressions in the figure above.
+
+Theory
+Q1-1
+English (Official)
+Molecular Imaging
+5% of total
+Question
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+1.10 Total
+Points
+1
+2
+2
+1
+1
+2
+4
+4
+2
+3
+22
+Score
+Molecular imaging is a powerful tool in medical diagnostics. The nuclear isomer 99mTc (m = metastable)
+of the isotope 99gTc (g = ground state) has excellent radiation properties (𝛾−emitter, 𝑡1/2= 6.015 h) for
+radioimaging. 99mTc is obtained by 𝛽−decay of a mother nuclide in a so-called technetium generator as
+99mTc-pertechnetate [99mTcO4]–.
+1.1
+Identify the mother nuclide (A) of 99mTc and and the emitted particle (B).
+A ⟶99mTc + B
+1.0pt
+1.2
+Provide the oxidation states of the radiometal in the following 99mTc-probes on
+the answer sheet.
+Figure 1.
+a)
+99mTc-Sestamibi (Cardiolite) heart imaging, b) 99mTc-
+DBODC5 heart imaging, c) Neurolite® brain imaging d) bone imaging
+2.0pt
+
+Theory
+Q1-2
+English (Official)
+The redox potentials of the group seven elements manganese (Mn), technetium (Tc) and rhenium (Re)
+follow the general trend in the periodic tables (see Figure 2 below).
+Figure 2: Latimer diagram of the manganese triad for acidic conditions vs.
+standard hydrogen electrode (SHE), potentials given in Volt.
+1.3
+Calculate the two missing redox potentials i) and ii).
+2.0pt
+1.4
+Compare [MnO4]–, [TcO4]– and [ReO4]–. Choose the strongest oxidizing agent
+and tick your answer on the answer sheet.
+1.0pt
+1.5
+Based on the values indicated by Figure 2 above, select if TcO2 would dispro-
+portionate to Tc and TcO2−
+4
+under acidic conditions.
+1.0pt
+Tc and Re complexes at the oxidation state +V (d2 systems) which contain a terminal oxo- (O=) or nitrido-
+ligand (N≡) are diamagnetic. The scheme on the answer sheet shows three possible molecular orbital
+energy diagrams.
+1.6
+Choose which orbital energy diagram explains the observed diamagnetism and
+tick your answer. Draw the corresponding electron configuration in the correct
+diagram on your answer sheet.
+2.0pt
+((C4H9)4N)[99gTcO4] is a colorless powder. By the addition of conc. HCl this common starting compound
+for 99gTc chemistry is converted into the green complex ((C4H9)4N)[99gTcOCl4].
+1.7
+Write down both oxidation and reduction half-reactions using the formulas of
+ions or neutral molecules, and the complete redox reaction.
+4.0pt
+
+Theory
+Q1-3
+English (Official)
+All
+99mTc radiotracers in clinics are prepared in “one pot” reactions,
+applying commercialized
+kits (99mTc t1/2= 6.015 h).
+Typically, an eluate of a 99mTc generator has an activity of 12.5 GBq
+(GBq = giga Becquerel= 109decays per second).
+1.8
+Calculate how many mol 99mTc are present in such samples.
+4.0pt
+For standard imaging, around 200 MBq 99mTc are administered to the patient.
+1.9
+Assume that no activity is lost through excretion. Calculate how many hours
+the patient has to wait until the injected activity decreases to under 1% of the
+starting activity.
+2.0pt
+Bioconjugation of radiometals is a chemical challenge. A recent example is the (3+2) cycloaddition of
+[99mTcO3(tacn)]+ (A) (tacn = 1,4,7-triazacyclononane) with alkenes. In this context (3 + 2) refers to the
+number of atoms involved and not to the numbers of electrons. The following scheme shows an example
+of this reaction by labeling a protected carbohydrate.
+1.10
+Draw the structures of compound A and B on your answer sheet. Further, state
+the oxidation state of the technetium in these compounds.
+3.0pt
+
+Theory
+A1-1
+English (Official)
+Molecular Imaging Answer Sheet
+5% of total
+Question
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+1.10 Total
+Points
+1
+2
+2
+1
+1
+2
+4
+4
+2
+3
+22
+Score
+1.1 (1.0 pt)
+Identify the mother nuclide (A) of 99mTc and and the emitted particle (B).
+A ⟶99mTc + B
+ 
+A=
+ 
+B=
+ 
+ 
+1.2 (2.0 pt)
+Provide the oxidation states of the radiometal in the 99mTc-probes given in the question sheet.
+ 
+a)
+ 
+b)
+ 
+c)
+ 
+d)
+1.3 (2.0 pt)
+Calculate the two missing redox potentials i) and ii).
+ 
+i)
+ 
+ 
+ii)
+ 
+ 
+1.4 (1.0 pt)
+Compare [MnO4]–, [TcO4]– and [ReO4]–. Choose the strongest oxidizing agent and tick your answer.
+□[MnO4]–
+□[TcO4]–
+□[ReO4]–
+
+Theory
+A1-2
+English (Official)
+1.5 (1.0 pt)
+Based on the values indicated by Figure 2 in the question sheet, select if TcO2 would disproportion-
+ate to Tc and TcO2−
+4
+under acidic conditions.
+□yes
+□no
+1.6 (2.0 pt)
+Choose which orbital energy diagram explains the observed diamagnetism and tick your answer.
+Draw the corresponding electron configuration in the correct diagram.
+
+Theory
+A1-3
+English (Official)
+1.7 (4.0 pt)
+Write down both oxidation and reduction half-reactions using the formulas of ions or neutral
+molecules, and the complete redox reaction.
+ 
+Reduction half-reaction:
+ 
+ 
+ 
+ 
+ 
+Oxidation half-reaction:
+ 
+ 
+ 
+ 
+ 
+Complete redox-reaction:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.8 (4.0 pt)
+Calculate how many mol 99mTc are present in such samples.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mol
+
+Theory
+A1-4
+English (Official)
+1.9 (2.0 pt)
+Assume that no activity is lost through excretion. Calculate how many hours the patient has to wait
+until the injected activity decreases to under 1% of the starting activity.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+𝑡=
+h
+1.10 (3.0 pt)
+Draw the structures of compound A and B. Further, state the oxidation state of the technetium in
+these compounds.
+ 
+Oxidation state A:
+ 
+Oxidation state B:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+Q2-1
+English (Official)
+Electrochemical CO2 Reduction
+5% of total
+Question
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+Total
+Points
+2
+8
+3
+3
+5
+8
+4
+33
+Score
+In recent years, the electrochemical conversion of CO2 into higher value products has been considered
+a promising and technologically feasible approach to mitigate the negative climatic effects caused by
+its increasing levels in the atmosphere. Several technologies have been developed to achieve this goal.
+Among these, CO2 reduction through electrochemical means (CO2RR) warrants particular attention due
+to its ability to be powered by renewable energy to transform environmentally harmful CO2 into platform
+chemicals.
+Electrocatalysts are essential not only to accelerate the intrinsically slow CO2RR but also to direct the
+electrolysis reaction towards the desired reaction products (product selectivity). In this context, it is not
+only the chemical nature of the catalyst itself which governs the resulting CO2RR product distribution but
+also its morphological characteristics on various length scales. A new concept of CO2RR catalyst design
+relies on the electrodeposition of foam-type materials, which offer a large surface area that is accessible
+to reactants (e.g. H2O, H2, and CO2). Copper-based materials are the only known metallic CO2RR catalysts
+that can produce hydrocarbons and alcohols in significant amounts from CO2 electrolysis.
+Given below are thermodynamic data of selected substances:
+△𝑓H⊖kJ mol−1
+S⊖, J mol−1 K−1
+H2O (l)
+-285.83
+69.95
+O2 (g)
+0
+205.15
+H2 (g)
+0
+130.68
+CO2 (g)
+-393.52
+213.79
+ethanol (l)
+-276.00
+159.86
+n-propanol (l)
+-302.54
+192.80
+Table 1. Standard formation enthalpy △𝑓H⊖and standard entropy S⊖for some substances under
+standard conditions (T = 298.15 K, p = 1 bar).
+
+Theory
+Q2-2
+English (Official)
+Cell reaction
+E, V vs. SHE
+Cu2+ + 2e−⟷Cu
++0.34
+2H+ + 2e−⟷H2
+0.00
+Table 2. Selected half-cell reactions and corresponding standard potentials under the standard
+conditions.
+2.1
+Write and balance the chemical equation of the half-cell reactions for the fol-
+lowing electrochemical reduction processes in acidic environment (i) CO2 to
+ethanol; (ii) CO2 to n-propanol.
+2pt
+2.2
+Combine the half-cell of the reduction process with an H2/2H+ half-cell where
+the latter acts as anode. Calculate the value of the standard cell potential of
+the CO2 to ethanol reduction.
+8pt
+Cu foam electrodeposition processes (see Figure 1) were carried out in an aqueous 1.5 M sulfuric acid
+solution containing 0.2 M copper sulfate (CuSO4·5H2O) as the copper source. A Cu disk (1 cm2) and a Pt
+foil served as the cathode and the anode, respectively.
+2.3
+Write all the reduction and oxidation half-cell reactions taking place at the cath-
+ode and the anode, respectively.
+3pt
+Figure 1 shows the principle of dynamic hydrogen bubble-templated metal deposition.
+Figure 2 displays top-down scanning electron microscopy (SEM) images of three different Cu foams ob-
+tained upon interruption of the metal deposition at different times: 5 s, 20 s, and 80 s
+
+Theory
+Q2-3
+English (Official)
+Figure 1. Depiction of the electrodeposition of foam-type materials. In the course of elec-
+trochemical metal deposition (black arrows) at high current densities in aqueous media, the
+Hydrogen Evolution Reaction (HER) takes place on the metallic (Cu) support (1). The surface
+becomes thus partially covered by H2 bubbles (2). The H2 bubbles act as a template for metal
+deposition (3). As a result a highly porous metal foam emerges (4).
+2.4
+Considering this mechanism, assign the correct deposition time to the Cu
+foams shown in Figure 2 on the answer sheet (white boxes upper left cor-
+ner).
+Figure 2. Cu foams obtained by galvanostatic Cu electrodeposition at
+a current density of 𝑗= −3 A cm−2 The deposition was, in each case,
+interrupted at distinct elapsed duration: 5 s, 20 s, and 80 s. The scale
+bar is the same in all panels.
+3pt
+Bimetallic CuAg systems are excellent catalysts for the electrosynthesis of alcohols from CO2. 5.4 mg of
+
+Theory
+Q2-4
+English (Official)
+a bimetallic Cu-Ag foam catalyst (90 wt.% Cu, 𝑀𝐶𝑢= 63.546 g 𝑚𝑜𝑙−1; 10 wt.% Ag, 𝑀𝐴𝑔= 107.868 g 𝑚𝑜𝑙−1)
+was galvanostatically deposited onto a Cu foil (1 cm2) at a current density of 𝑗= −3 A cm−2 applied for
+20 s (the minus sign accounts for a reductive/cathodic process).
+2.5
+Calculate the Faradaic efficiency (FE in %) of this metal deposition process. FE
+is defined as 𝑄product/𝑄total ⋅100%. 𝑄denotes the charge.
+5pt
+We consider a CO2 electrolysis experiment carried out in 35 mL CO2-saturated 0.5 M KHCO3 electrolyte
+solution over the bimetallic Cu-Ag foam catalyst (90 wt.% Cu; 10 wt.% Ag). The CO2 electrolysis was car-
+ried out at a constant (total) current density of 𝑗(𝑡𝑜𝑡) = −30 mA cm−2 for 3600 s (note the current density is
+normalized to the geometric surface area of 1 cm2; the minus sign accounts for a reductive/cathodic pro-
+cess). A product analysis, carried out after the electrolysis, revealed mass concentrations of 41.3 mg L−1
+and 7.4 mg L−1 for ethanol and n-propanol, respectively. Both alcohols are liquid reaction products and
+accumulate in the electrolyte in the course of the electrolysis reaction. We assume that gaseous hydro-
+gen (H2) is formed as the only by-product of the process.
+2.6
+Calculate the current densities required for the formation of (a) ethanol
+(𝑀𝑊ethanol = 46.08 g mol−1) and (b) n-propanol (𝑀𝑊𝑛-propanol = 60.10 g mol−1)
+assuming that the current densities do not change with electrolysis time.
+8pt
+2.7
+Calculate the volume of the formed hydrogen on the 1 cm2 catalyst area at
+298.15 K and 1 bar, assuming ideal behavior of the formed hydrogen, and its
+complete release into the gas phase.
+If you did not get a result in Task 2.5, continue with 𝐹𝐸(𝐸𝑡𝑂𝐻) = 45.1% and
+𝐹𝐸(𝑃𝑟𝑂𝐻) = 4.8%.
+4pt
+
+Theory
+A2-1
+English (Official)
+Electrochemical CO2 Reduction
+5% of total
+Question
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+Total
+Points
+2
+8
+3
+3
+5
+8
+4
+33
+Score
+2.1 (2 pt)
+Write and balance the chemical equation of the half-cell reactions for the following electrochemical
+reduction processes in acidic environment (i) CO2 to ethanol; (ii) CO2 to n-propanol.
+ 
+(i)
+ 
+ 
+ 
+(ii)
+ 
+ 
+ 
+2.2 (8 pt)
+Combine the half-cell of the reduction process with an H2/2H+ half-cell where the latter acts as anode.
+Calculate the value of the standard cell potential of the CO2 to ethanol reduction.
+E(CO2 to ethanol)
+V
+
+Theory
+A2-2
+English (Official)
+2.3 (3 pt)
+Write all the reduction and oxidation half-cell reactions taking place at the cathode and the anode,
+respectively.
+Anode reaction(s):
+ 
+ 
+ 
+Cathode reaction(s):
+ 
+ 
+ 
+ 
+ 
+ 
+2.4 (3 pt)
+Considering this mechanism, assign the correct deposition time to the Cu foams shown in Figure 2
+below (white boxes upper left corner).
+
+Theory
+A2-3
+English (Official)
+2.5 (5 pt)
+Calculate the Faradaic efficiency (FE in %) of this metal deposition process.
+FE is defined as
+𝑄product/𝑄total ⋅100%. 𝑄denotes the charge.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+𝐹𝐸=
+%
+
+Theory
+A2-4
+English (Official)
+2.6 (8 pt)
+Calculate the current densities required for the formation of (a) ethanol (𝑀𝑊ethanol = 46.08 g mol−1)
+and (b) n-propanol (𝑀𝑊𝑛-propanol = 60.10 g mol−1) assuming that the current densities do not change
+with electrolysis time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 𝑗(ethanol) =
+A cm−2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 𝑗(𝑛-propanol) =
+A cm−2
+
+Theory
+A2-5
+English (Official)
+2.7 (4 pt)
+Calculate the volume of the formed hydrogen on the 1 cm2 catalyst area at 298.15 K and 1 bar,
+assuming ideal behavior of the formed hydrogen, and its complete release into the gas phase.
+If you did not get a result in Task 2.5, continue with 𝐹𝐸(𝐸𝑡𝑂𝐻) = 45.1% and 𝐹𝐸(𝑃𝑟𝑂𝐻) = 4.8%.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VH2 =
+cm3
+
+Theory
+Q3-1
+English (Official)
+Artificial Photosynthesis
+6% of total
+Question
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+Total
+Points
+3
+4
+3
+2
+6
+6
+1
+4
+29
+Score
+The field of artificial photosynthesis research aims at storing solar energy in chemical bonds. Photons
+are absorbed by exciting sensitizers, thereby producing a charge-separated state. The excited electron
+is transferred to a catalyst (hydrogen evolving catalyst, HER), which is reduced twice and then produces
+H2. The photosensitizer or light absorber is often [Ru(bpy)3]2+ (bpy=2,2'-bipyridine), and the HERs are
+often cobalt complexes.
+Energetics of Water Splitting
+3.1
+Calculate the enthalpy of the reaction H2(g) ⟶2H+(aq) + 2e−.
+ 
+Solvation enthalpy of proton: ΔH𝑎𝑞(H+) = −1190 kJ mol−1
+ 
+Ionization energy of hydrogen: IE1 = 13.6 eV
+ 
+Dissociation enthalpy of H2: ΔHdiss(H2) = 432 kJ mol−1
+3pt
+Ideally, electrochemical water splitting into O2 and H2 runs at 1.23 V at 25 ∘C. Since 𝑇Δ𝑆for this pro-
+cess is > 0, heat from the environment is needed. If additional voltage produces the heat required to
+compensate the decrease in temperature the process is called thermoneutral.
+The enthalpy of H2O(l) formation at 25 ∘C, ΔH∘
+H2O, is -285 kJ mol−1
+3.2
+Calculate (a) the water splitting reaction entropy Δ𝑆∘
+R at 25 ∘C of 1 mol of H2O
+and (b) the voltage at which water splitting is thermoneutral.
+4pt
+Catalysts
+Cobalt-salen (salcomin) type complexes are potential catalysts for H2 formation from protons and elec-
+trons. The structure of salcomin is given below:
+
+Theory
+Q3-2
+English (Official)
+Figure 1. The structure of salcomin.
+3.3
+• Determine the oxidation state of the cobalt atom in salcomin.
+• Determine the geometric structure around the cobalt center of salcomin,
+choosing from these three possibilities: tetrahedral, square planar or oc-
+tahedral. Fill in the corresponding checkbox on the answer sheet.
+3pt
+In solution, salcomin can bind O2; that links two salcomin moieties by coordinating to the two Co centres.
+The oxidation state of both Co centres is then +III.
+3.4
+Draw the resulting structure.
+2pt
+The H2 formation takes place exclusively at the cobalt center. The reaction is described by a 4-step cat-
+alytic cycle starting with Co2+ using 2 H+ and 2 electrons. During one step a hydride is formed by an
+intramolecular electron transfer.
+3.5
+Write down two possible variations of the catalytic cycle with charges of the
+complex and oxidations states of the Co center. The oxidation state on the Co
+center should not be larger than +III. Mark the hydride formation step with an
+asterisk and label H+ uptake with C (chemical reaction), and electron uptake
+with E (electrochemical reaction), see example cycle in Figure 2 below. [CoII]
+stands for the Cobalt-salen complex.
+Figure 2. An example cycle for task 3.5.
+6pt
+Redox Potentials
+
+Theory
+Q3-3
+English (Official)
+3.6
+• Using the redox potential values of different cobalt complexes given in
+Table 1, write down which complex is suitable for a) water oxidation at
+neutral pH b) water reduction at neutral pH.
+• Write down the corresponding overall reaction for both processes (only
+for the complexes, capable of performing it) and calculate the cell poten-
+tials at neutral pH.
+• The half-cell potential for the proton reduction at pH = 7, T = 298 K is -0.41
+V.
+Co(III/II) redox couple
+Eo vs normal hydrogen electrode
+[Co(H2O)6]3+/2+
++1.92 V
+[Co(C2O4)3]3–/4–
++0.55 V
+[Co(EDTA)]1–/2–
++0.38 V
+[Co(NH3)6]3+/2+
++0.06 V
+[Co(en)3]3+/2+
+-0.18 V
+[Co(CN)5]2–/3–
+-0.6 V
+Table 1. Possible redox couples for task 3.6. [C2O4]2– = oxalate, en =
+1,2-ethylendiamine.
+6pt
+A Glimpse at the Natural Process
+The natural storage of biological H2 equivalents is NADPH, which is produced from NADP+ through the
+addition of a hydride ion. The structure of NADPH is shown in Figure 3.
+Figure 3. The structure of NADPH.
+3.7
+Draw the structure of NADP+.
+1pt
+
+Theory
+Q3-4
+English (Official)
+Chlorophyll has an extinction coefficient of about 𝜀= 8 ⋅104 M−1 cm−1 at 680 nm.
+3.8
+Assuming an efficiency (photon to hydrogen H atom) of 𝜙= 20% at 680nm
+and at a photon flux of 100 nE s−1 cm−2 (1 E = 1 mol of photons), calculate a)
+the number of photons per second and b) the concentration of chlorophyll in a
+1x1x1 cm cell needed to get a turnover frequency of 1 nmol H2 per second.
+4pt
+
+Theory
+A3-1
+English (Official)
+Artificial Photosynthesis - Answer Sheet
+6% of total
+Question
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+Total
+Points
+3
+4
+3
+2
+6
+6
+1
+4
+29
+Score
+3.1 (3 pt)
+Calculate the enthalpy of the reaction H2(g) ⟶2H+(aq) + 2e−.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A3-2
+English (Official)
+3.2 (4 pt)
+Calculate (a) the water splitting reaction entropy Δ𝑆∘
+R at 25 ∘C of 1 mol of H2O and (b) the voltage at
+which water splitting is thermoneutral.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Δ𝑆∘
+R =
+J mol−1 K−1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)
+V
+3.3 (3 pt)
+• Determine the oxidation state of the cobalt atom in salcomin.
+• Determine the geometric structure around the cobalt center of salcomin, choosing from these
+three possibilities: tetrahedral, square planar or octahedral. Fill in the corresponding check-
+box.
+ 
+Oxidation number:
+ 
+Geometric structure (Fill in the corresponding checkbox):
+ 
+□tetrahedral
+ 
+□square planar
+ 
+□octahedral
+
+Theory
+A3-3
+English (Official)
+3.4 (2 pt)
+Draw the resulting structure.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A3-4
+English (Official)
+3.5 (6 pt)
+Write down two possible variations of the catalytic cycle with charges of the complex and oxidations
+states of the Co center. The oxidation state on the Co center should not be larger than +III. Mark the
+hydride formation step with an asterisk and label H+ uptake with C (chemical reaction), and electron
+uptake with E (electrochemical reaction), see example cycle in Figure 2 in the question sheet. [CoII]
+stands for the Cobalt-salen complex.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A3-5
+English (Official)
+3.6 (6 pt)
+• Using
+the
+redox
+potential
+values
+of
+different
+cobalt
+complexes
+given
+in
+Table
+1,
+write down which complex is suitable for a) water oxidation at neutral pH b) water reduction
+at neutral pH.
+• The half-cell potential for the proton reduction at pH = 7, T = 298 K is -0.41 V.
+ 
+ 
+a)
+ 
+ 
+b)
+ 
+ 
+ 
+• Write down the corresponding overall reaction for both processes (only for the complexes,
+capable of performing it) and calculate the cell potentials at neutral pH.
+ 
+ 
+a)
+ 
+ 
+b)
+ 
+ 
+ 
+ 
+ 
+ 
+3.7 (1 pt)
+Draw the structure of NADP+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A3-6
+English (Official)
+3.8 (4 pt)
+Assuming an efficiency (photon to hydrogen H atom) of 𝜙
+=
+20% at a 680 nm photon flux
+of 100 nE s−1 cm−2 (1 E = 1 mol of photons), calculate a) the number of photons per second and
+b) the concentration of chlorophyll in a 1x1x1 cm cell needed to get a turnover frequency of
+1 nmol H2 per second.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M
+
+Theory
+Q4-1
+English (Official)
+Fluorinated and Hypervalent Compounds
+6% of total
+Question
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+Total
+Points
+4
+4
+4
+2
+6
+4
+1
+4
+5
+34
+Score
+Introduction - Fluorine forms stable and isolable compounds with essentially all elements, including
+the noble gases Kr and Xe. Fluorine-containing molecules often feature uncommon structures. Thus,
+fluorine is frequently involved in the formation of compounds with elements of groups 14-18, which are
+defined as hypervalent. The synthesis of fluorinated organic compounds is nowadays heavily based on
+the availability of specifically designed reagents, compound 4 below being an example.
+Hint: Any element E in the series E1-E8 may be represented more than once.
+I Molecular Geometry
+
+Theory
+Q4-2
+English (Official)
+4.1
+Identify elements E1, E2, E3, and E4 in the three species 1, [2]–, and [3]–. Write
+the answer in the appropriate box on your answer sheet.
+1: neutral, non-zwitterionic molecule, E1, square pyramidal; E2, octahe-
+dral,
+av. d(E1–F)=1.91Å; av. d(E2–F)=1.58Å
+[2]–: anion, square pyramidal
+av. d(E3–F)=1.96Å
+[3]–: anion, pentagonal planar
+av. d(E4–F)=1.98Å
+15
+16
+17
+18
+d(P–F), 1.50-1.68 Å
+d(S–F) 1.52-1.60 Å
+d(Cl–F), 1.63-1.85 Å
+d(As–F), 1.68-1.72 Å
+d(Se–F), 1.75-1.80 Å
+d(Br–F), 1.77-1.97 Å
+d(Kr–F), 1.77-1.89 Å
+d(Sb–F), 1.85-2.05 Å
+d(Te–F), 1.80-2.00 Å
+d(I–F), 1.90-2.00 Å
+d(Xe–F), 1.77-2.00 Å
+Table 1. Typical E–F bond distance ranges for a selection of elements in
+Groups 15 - 18
+Hints:
+1. The specified molecular geometries refer to the arrangement of atoms bond-
+ing to E1-E4
+2. The elemental analysis of 1 gives a carbon content of 17.75 wt.%
+4.0pt
+Assume that molecule 1 is a zwitterion, with single formal charges at both E1 and E2, thereby giving rise
+to the hypothetic molecules 1' and 1'', shown below.
+
+Theory
+Q4-3
+English (Official)
+4.2
+Choose which elements E5 / E6 and E7 / E8, respectively, would display the given
+molecular geometry, including E-F bond distances close to those in 1 (see table
+1). Write the answer in the boxes provided on your answer sheet.
+4.0pt
+II Reactivity and structure
+Consider the reaction shown below:
+4.3
+• Specify the ideal geometry of compound 6 in terms of the arrangement
+of the valence-shell electron-pair domains around the Te atom. Tick the
+right box on your answer sheet.
+• Provide the expected ideal bond angles C1-Te-I, C2-Te-I, I-Te-O, and C1-Te-
+C2. Write the answer on your answer sheet in the respective box.
+4.0pt
+4.4
+Write the number of 1H-NMR signals you expect for the two methyl groups in
+compounds 4 and 6 respectively on your answer sheet.
+2.0pt
+4.5
+Compound
+6
+reacts consecutively
+with
+AgF and
+(H3C)3SiCF3
+(TMSCF3).
+Formulate the Te-containing intermediate A and final product B, including their
+correct geometry, as well as the byproducts C and D. Draw A and B and write
+the by-products C and D on your answer sheet.
+Hint: MW of D is 92.08 𝑔𝑚𝑜𝑙−1.
+6.0pt
+
+Theory
+Q4-4
+English (Official)
+Assume that compound 6 reacts with a sterically bulky, chiral, enantiomerically pure Lewis acid, such
+as the known boron derivative 8, as shown below. This reaction should lead to the formation of a new
+product 9 the composition of which corresponds to the sum of 6 and 8. Further assume that 9 is a salt,
+in which the cation derives from 6 and the anion from 8.
+4.6
+Draw the structure of both the Te-containing cation and the boron-containing
+anion and tick the box corresponding to the ideal geometry of the cation in
+terms of the arrangement of the valence-shell electron-pair domains around
+the Te atom. Draw on your answer sheet.
+Hint: Use for compound 8 (chiral, enantiomerically pure) the following generic
+schematic representation:
+4.0pt
+4.7
+Write the number of possible stereochemically different salts 9 on your answer
+sheet.
+1.0pt
+III Synthesis of a λ3-difluoroiodane and rotation around a single bond
+Compound 12 is prepared from starting material 10 by oxidation with trichloroisocyanuric acid (TCICA,
+11) in the presence of excess KF in dry acetonitrile as shown below.
+
+Theory
+Q4-5
+English (Official)
+4.8
+Formulate balanced half-cell reactions and a balanced overall reaction for this
+process. Write the reactions on your answer sheet.
+Hint: Abbreviate 10 as R–I and 12 as R–IF2 and TCICA as C3Cl3N3O3.
+The six-
+membered ring of TCICA stays intact upon reduction.
+4.0pt
+The IF2 group in 12 can rotate around the I-C bond (imagine a molecular propeller). The corresponding
+rotation barrier has been measured experimentally: 𝐸𝑎= 30 kJ mol–1. Furthermore, the rate constant
+for the rotation is 𝑘= 2500 s–1 at 228 K.
+
+Theory
+Q4-6
+English (Official)
+4.9
+Determine how fast the IF2 group can in principle rotate at room temperature
+(298 K). Consider this process as if it were a chemical reaction for which you are
+determining the rate constant. Write your answer on the answer sheet. The
+unit of the constant should be given in 𝑠−1.
+5.0pt
+
+Theory
+A4-1
+English (Official)
+Fluorinated and Hypervalent Compounds - Answer sheet
+6% of total
+Question
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+Total
+Points
+4
+4
+4
+2
+6
+4
+1
+4
+5
+34
+Score
+4.1 (4.0 pt)
+Identify elements E1, E2, E3, and E4 in the three species 1, [2]–, and [3]–.
+4.2 (4.0 pt)
+Choose which elements E5 / E6 and E7 / E8, respectively, would display the given molecular geometry,
+including E-F bond distances close to those in 1.
+4.3 (4.0 pt)
+Specify the ideal geometry of compound 6 in terms of the arrangement of the valence-shell electron-
+pair domains around the Te atom. Tick one of the following boxes:
+□square planar
+□trigonal bipyramidal
+□tetrahedral
+□square pyramidal
+□octahedral
+  Provide the expected ideal bond angles C1-Te-I, C2-Te-I, I-Te-O, and C1-Te-C2.
+
+Theory
+A4-2
+English (Official)
+4.4 (2.0 pt)
+Write the number of 1H-NMR signals you expect for the two methyl groups in compounds 4 and 6
+respectively.
+Compound 4:
+signal(s)
+Compound 6:
+signal(s)
+4.5 (6.0 pt)
+Formulate the Te-containing intermediate A and final product B, including their correct geometry,
+as well as the byproducts C and D. Draw the intermediates and write the by-products. Hint: MW of
+D is 92.08 𝑔𝑚𝑜𝑙−1.
+
+Theory
+A4-3
+English (Official)
+4.6 (4.0 pt)
+Draw the structure of both the Te-containing cation and the boron-containing anion and and tick the
+box corresponding to the ideal geometry of the cation in terms of the arrangement of the valence-
+shell electron-pair domains around the Te atom. Hint: Use for compound 8 (chiral, enantiomerically
+pure) the generic schematic representation given in the question sheet.
+ 
+cation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+anion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tick the box containing the ideal molecular structure
+□square-planar
+□trigonal-planar
+□tetrahedral
+□trigonal-pyramidal
+□trigonal-bipyramidal
+ 
+4.7 (1.0 pt)
+Write the number of possible stereochemically different salts 9.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A4-4
+English (Official)
+4.8 (4.0 pt)
+Formulate balanced half-cell reactions and a balanced overall reaction for this process. Hint: Abbre-
+viate 10 as R–I and 12 as R–IF2 and TCICA as C3Cl3N3O3. The six-membered ring of TCICA stays intact upon
+reduction.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.9 (5.0 pt)
+Determine how fast the IF2 group can in principle rotate at room temperature (298 K). Consider this
+process as if it were a chemical reaction for which you are determining the rate constant. The unit
+of the constant should be given in 𝑠−1.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+Q5-1
+English (Official)
+Hydrodesulfurization
+7% of total
+Question
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+Total
+Points
+2.5
+3
+3.5
+5
+8
+12.5
+34.5
+Score
+The production of sulfur-free fuels is the general trend towards lowering the emission of sulfur-
+containing compounds that are toxic to the environment.
+To remove sulfur, the hydrogen-assisted
+hydrodesulfurization process is used at the refineries.
+5.1
+Draw the structure of products A to E of thiophene hydrodesulfurization, know-
+ing that A and B are cyclic regioisomers and C is cyclic.
+Figure 1. Thiophene hydrodesulfurization process.
+2.5pt
+Sulfur has two most common natural stable isotopes, 32S and 34S, with a relative molar abundance of
+𝜒(32S) = 94.8% and 𝜒(34S) = 4.37%, respectively. For hydrogen, the stable natural isotopes are 1H and
+2H(D), with a relative molar abundance of 𝜒(1H) = 99.986% and 𝜒(2H) = 0.014%, respectively.
+5.2
+Considering only the isotopes listed above, list all isotopologues of H2S.
+3pt
+5.3
+Considering only the isotopes listed above, list all isotopologue of H2S contain-
+ing simultaneously D and 34S nuclei and for each calculate the respective rela-
+tive molar abundance in %.
+3.5pt
+The desulfurization is a catalytic process typically carried out over MoS2 supported on SiO2 (MoS2/SiO2)
+catalyst. To study the surface of the catalyst, isotope exchange methods can be employed. The isotope
+exchange reaction takes place at the gas-solid interface, resulting in the exchange of the surface atoms
+exclusively. In a first approximation, the bulk atoms do not participate in the exchange (Figure 2).
+In the experiment,
+the isotope exchange between the MoS2/SiO2 catalyst (Mo mass fraction
+𝑤Mo
+=
+4.280 wt.%, initially containing only 32S) and gaseous isotopically-labeled H2
+34S was stud-
+ied in a flow reactor (Figure 2).
+The MoS2/SiO2 catalyst (𝑚cat
+=
+1.2350 g) was kept in a flow
+(p = 1.00 bar, 𝑣
+=
+20.0 mL min−1, T = 23.0
+∘C) of gas mixture containing H2
+34S balanced with Ar
+(volume fraction 𝜙𝐻34
+2 𝑆= 1.00 vol.% H2
+34S, 34S isotopic purity 𝛼= 99.95 𝑚𝑜𝑙.%).
+
+Theory
+Q5-2
+English (Official)
+The experiment duration was t = 10.0 min and gas from the outlet was collected during the entire exper-
+iment. The measured fraction of 34S isotope among the sulfur atoms (𝛾) in the collected gas phase was
+𝛾= 87.3 mol.%. Assume ideal gas behavior, and that the elemental (not isotopic!) composition of MoS2
+on the surface and in the bulk are identical, and by the end of the experiment all sulfur atoms from the
+surface are exchanged with the gas phase.
+Figure 2. Schematic representation of the experiment in the course (A) and at the final stage
+(B). Sulfur atoms on the surface are shown in red, sulfur atoms in the bulk are shown in blue.
+Molybdenum atoms are not shown.
+5.4
+Calculate the number of exchanged sulfur atoms 𝑛(𝑆)surface, give your answer
+in mol.
+5pt
+If you have been unable to calculate the number of total exchanged sulfur atoms, use the value 1.53 ⋅10−5 𝑚𝑜𝑙
+in all the following calculations.
+Assume that the MoS2 phase consists of uniform spherical particles, and at the end of the experiment
+all sulfur atoms located on the surface are exchanged, while the bulk atoms did not participate in the
+exchange reaction. The density 𝜌of MoS2 is 𝜌= 5.06 g cm−3, the average area occupied by S and Mo
+atoms on the surface is equal to 𝐴S = 3.00⋅10−19 m2 and 𝐴Mo = 5.00⋅10−19 m2, respectively. The area of a
+sphere with radius 𝑅can be calculated as 𝑆= 4𝜋𝑅2, and its volume as 𝑉= 4
+3𝜋𝑅3 . Assume that isotopic
+composition does not affect the density of MoS2.
+5.5
+Calculate the particle radius R of the MoS2 particles, give your answer in nm.
+8pt
+In reality, the isotopically-labeled atoms from the surface diffuse into the bulk and the non-labeled atoms
+from the bulk travel to the surface, undergoing a gradual exchange (Figure 3A). Therefore, for a given
+moment, the fraction of the labeled atoms inside the particle decreases from the surface of the particle
+to its center. Simultaneously, with an increase in time of exchange, the involvement of bulk atoms to the
+exchange reaction increases, as sketched in Figure 3B.
+
+Theory
+Q5-3
+English (Official)
+Figure 3. A) Schematic representation of the diffusion of sulfur isotopes from the surface to
+the bulk in MoS2 particle. Sulfur atoms on the surface are shown in red, sulfur atoms in the
+bulk are shown in blue. Molybdenum atoms are not shown. B) The fraction of 34S atoms in
+the bulk as function of time and distance from center of the particle. redge corresponds to the
+radius of MoS2 particle.
+At the end of the experiment, the surface atoms are completely exchanged, and additionally a fraction of
+the bulk is exchanged due to the diffusion. The fraction F of the exchanged bulk atoms (𝑛(𝑆)𝑒𝑥
+𝑏𝑢𝑙𝑘) and the
+total bulk atoms of sulfur (𝑛(𝑆)𝑡𝑜𝑡𝑎𝑙
+𝑏𝑢𝑙𝑘) can be calculated as follows: 𝐹= 𝑛(𝑆)𝑒𝑥
+𝑏𝑢𝑙𝑘/𝑛(𝑆)𝑡𝑜𝑡𝑎𝑙
+𝑏𝑢𝑙𝑘= 1−𝑒−𝐷⋅𝑡
+𝑅2 , where
+𝑡is the time of exchange experiment (described above), 𝑅is the particle size (radius for a spherical shape
+particle) and 𝐷is the diffusion coefficient. The catalyst described above was independently studied by
+means of electron microscopy, which showed that the MoS2 particles are uniformly distributed spheres
+with a radius of 35.0 nm.
+5.6
+Using 𝑅= 35.0 nm as the radius and the data of the exchange experiment de-
+scribed above, calculate the diffusion coefficient D for the diffusion of sulfur
+atoms in MoS2, give your answer in m2 s−1. In your calculations, use the follow-
+ing approximation: 𝑒𝑥≈1 + 𝑥for 𝑥≪1.
+12.5pt
+
+Theory
+A5-1
+English (Official)
+Hydrodesulfurization - Answer Sheet
+7% of total
+Question
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+Total
+Points
+2.5
+3
+3.5
+5
+8
+12.5
+34.5
+Score
+5.1 (2.5 pt)
+Draw the structure of products A to E of thiophene hydrodesulfurization, knowing that A and B are
+cyclic regioisomers and C is cyclic.
+A
+ 
+ 
+ 
+ 
+ 
+B
+C
+D
+E
+5.2 (3 pt)
+Considering only the isotopes listed in the question sheet, list all isotopologues of H2S.
+
+Theory
+A5-2
+English (Official)
+5.3 (3.5 pt)
+Considering only the isotopes listed the question sheet, list all isotopologue of H2S containing si-
+multaneously D and 34S nuclei and for each calculate the respective relative molar abundance in
+%.
+%
+%
+5.4 (5 pt)
+Calculate the number of exchanged sulfur atoms 𝑛(𝑆)surface, give your answer in mol.
+𝑛(𝑆)surface =
+mol
+
+Theory
+A5-3
+English (Official)
+5.5 (8 pt)
+Calculate the particle radius 𝑅of the MoS2 particles, give your answer in nm.
+5.5 (cont.)
+𝑅=
+nm
+
+Theory
+A5-4
+English (Official)
+5.6 (12.5 pt)
+Using 𝑅= 35.0 nm as the radius and the data of the exchange experiment described on the question
+sheet, calculate the diffusion coefficient D for the diffusion of sulfur atoms in MoS2, give your answer
+in m2 s−1. In your calculations, use the following approximation: 𝑒𝑥≈1 + 𝑥for 𝑥≪1.
+𝐷=
+m2 ⋅s−1
+
+Theory
+Q6-1
+English (Official)
+Direct conversion of methane to methanol
+7% of total
+Question
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+6.9
+6.10
+Total
+Points
+2
+4
+1
+2
+4
+3
+3
+3
+4
+6
+32
+Score
+Methane is widely available as natural gas making it an attractive feedstock for the chemical industry,
+such as for the production of methanol. However, control of this process is challenging as methanol is
+more easily oxidized than methane.
+Overoxidation is avoided in a chemical looping process, where active sites of copper-exchanged zeolite
+catalysts provide only the single oxygen atom required for oxidation to methanol and are consumed. In
+a second step, the catalyst is regenerated with oxygen in the absence of methane. The scheme below
+shows two potential catalytic copper sites.
+During the reaction, CuII is reduced to CuI.
+6.1
+Give the number of S1 sites and the number of S2 sites required to oxidize one
+methane molecule to methanol.
+2pt
+In the absence of oxygen, the formed methanol does not desorb from zeolite. If the reaction is performed
+in a container with constant volume and temperature (an autoclave), a pressure drop results only from
+the consumption of methane, which can be considered as an ideal gas. In a 1 L autoclave containing
+200 mg of zeolite loaded with 4.3 wt.% copper, the initial methane pressure 𝑝0 = 933 Pa dropped to 𝑝∞=
+925 Pa after completion of the reaction at 528 K.
+6.2
+Compute the percentage of copper that reacted.
+4pt
+
+Theory
+Q6-2
+English (Official)
+Figure 1: Semi-logarithmic graph of normalized methane pressure 𝑝versus time for the re-
+action with copper-loaded zeolite containing sites S1 and S2 in an autoclave at various tem-
+peratures. The symbols denote experimental data points. The solid lines are linear fits to
+appropriate time ranges. The dotted lines are guides to the eyes.
+6.3
+Experimental data is plotted in Figure 1. Based on this, decide on the (pseudo)
+order of the oxidation of CH4. Tick the box with the correct statement on the
+answer sheet.
+1pt
+6.4
+Write down the (pseudo) rate law for the oxidation of CH4 that is consistent with
+the experimental data under the given conditions. Note that it may depend on
+the concentrations of CH4 as well as of sites S1 and S2 and on the rate constants.
+2pt
+6.5
+Tick the boxes with correct statements on the answer sheet.
+4pt
+
+Theory
+Q6-3
+English (Official)
+Paramagnetic sites S1 can be observed by electron paramagnetic resonance (EPR) spectroscopy, whereas
+diamagnetic sites S2 do not give an EPR signal. EPR spectroscopy measures the number of electron spins.
+Thus, the number of S1 sites is proportional to the double integral 𝐼2 of the EPR spectrum, i.e. [S1] ∝𝐼2.
+Spectra were measured at different temperatures 𝑇and at each temperature at different times 𝑡after
+initiating the reaction.
+6.6
+Derive the equation linear in time that relates 𝐼2(𝑡) to the rate constant for the
+loss of S1 sites.
+3pt
+6.7
+Tick the boxes on the answer sheet for each measurement that needs to be
+calibrated with a known Cu(II) standard.
+3pt
+From EPR measurements, it is known that the rate constant for the reaction with S1 sites at 528 K is
+2.604×10-3 s-1.
+6.8
+Considering Figure 1 and based on a calculation, decide on the answer sheet
+if methane reacts faster or slower with S2 sites than with S1 sites.
+3pt
+Methanol can be further converted into valuable olefins with different zeolite catalysts. In this pro-
+cess, one observes an intermediate product with molar mass 86.09 g mol−1, elemental analysis
+(55.8 wt.% C, 7.0 wt.% H) and an 1H NMR spectrum consisting of signals at four different chemical shifts
+(a: 12.2 ppm (1H, s), broad, disappears when D2O is added; b: 6.3 ppm (1H, d); c: 5.7 ppm (1H, d); d:
+2.0 ppm (3H, s)).
+6.9
+Draw the structure of the intermediate product and assign protons a and d.
+4pt
+The United States Department of Energy assigned 12 chemical compounds only containing C, H and
+O as platform chemicals. These are the most promising candidates, easy to prepare from renewable
+resources and with multiple target derivatives to be prepared from them.
+One of them is compound A, that can either be further derivatized or used for example in medicinal
+applications or in detergents.
+• 1H NMR in DMSO: 7.81 ppm (a, s), 13.0 ppm (b, s, broad, disappears when D2O is added), both signals
+have the same integral.
+• 13C NMR: 165.1 ppm (1), 150.6 ppm (2) and 120.6 ppm (3).
+• MW: 156.03 g mol−1. Elemental analysis (EA): 46.15 wt.% C, 2.56 wt.% H.
+6.10
+Give a possible structure of A and assign all protons and carbon 1.
+6pt
+
+Theory
+A6-1
+English (Official)
+Direct conversion of methane to methanol - Answer Sheet
+7% of total
+Question
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+6.9
+6.10
+Total
+Points
+2
+4
+1
+2
+4
+3
+3
+3
+4
+6
+32
+Score
+6.1 (2 pt)
+Give the number of S1 sites and the number of S2 sites required to oxidize one methane molecule
+to methanol.
+ 
+ 
+6.2 (4 pt)
+Compute the percentage of copper that reacted.
+ 
+ 
+%
+6.3 (1 pt)
+Experimental data is plotted in Figure 1. Based on this, decide on the (pseudo) order of the oxidation
+of CH4. Tick the box with the correct statement.
+□The reaction is of (pseudo) zeroth order.
+□The reaction is of (pseudo) first order.
+□The reaction is of (pseudo) second order.
+
+Theory
+A6-2
+English (Official)
+6.4 (2 pt)
+Write down the (pseudo) rate law for the oxidation of CH4 that is consistent with the experimental
+data under the given conditions. Note that it may depend on the concentrations of CH4 as well as of
+sites S1 and S2 and on the rate constants.
+ 
+ 
+ 
+ 
+6.5 (4 pt)
+Tick the boxes with correct statements:
+□At least two types of copper sites react, each with a different rate constant.
+□The overall methane oxidation by copper-loaded zeolite is faster at higher temperature.
+□At higher temperature, a larger fraction of the copper sites will have reacted with methane after
+completion of the reaction.
+□One of the reactions becomes slower at higher temperature.
+6.6 (3 pt)
+Derive the equation linear in time that relates 𝐼2(𝑡) to the rate constant for the loss of S1 sites.
+ 
+ 
+
+Theory
+A6-3
+English (Official)
+6.7 (3 pt)
+Tick the boxes for each measurement that needs to be calibrated with a known Cu(II) standard.
+ 
+□Total number of paramagnetic Cu(II) sites in the sample
+□Concentration of paramagnetic Cu(II) sites in the sample
+□Rate constant
+□Types of different paramagnetic Cu(II) species in the sample
+6.8 (3 pt)
+Considering Figure 1 on the question sheet and based on a calculation, decide if methane reacts
+faster or slower with S2 sites than with S1 sites.
+ 
+ 
+□Methane reacts faster with S1.
+□Both reaction rates are the same.
+□Methane reacts faster with S2.
+
+Theory
+A6-4
+English (Official)
+6.9 (4 pt)
+Draw the structure of the intermediate product and assign protons a and d.
+ 
+ 
+ 
+
+Theory
+A6-5
+English (Official)
+6.10 (6 pt)
+Give a possible structure of A and assign all protons and carbon 1.
+ 
+ 
+ 
+
+Theory
+Q7-1
+English (Official)
+Enzyme Kinetics
+7% of total
+Question
+7.1
+7.2
+7.3
+7.4
+7.5
+Total
+Points
+3
+4
+2
+8
+17
+34
+Score
+The Michaelis–Menten (MM) mechanism was introduced in 1913 to describe the kinetics of enzyme catal-
+ysis. In this mechanism, enzyme E catalyzes the conversion of substrate S to the product P:
+E + S
+𝑘1
+⇄
+𝑘2
+ES
+𝑘3
+→E + P
+The initial rate for an enzymatic reaction following the MM mechanism is usually given as:
+𝑣0 =
+𝑣max[S]0
+[S]0 + 𝐾𝑀
+(1)
+when the initial concentration of E is much lower than the initial concentration of S ([E]0 ≪[S]0). The
+Michaelis constant is defined as 𝐾𝑀= 𝑘2+𝑘3
+𝑘1
+. The initial rate can also be expressed as the product of the
+relative flow 𝑗and [E]0:
+𝑣0 = 𝑗[E]0
+(2)
+Note: Questions 7.1 and 7.2 can have one, multiple, or no correct answer(s).
+7.1
+Choose the correct alternative form(s) of the initial rate (𝑣0) expressions (1) and
+(2) on the answer sheet. [ES]max is the maximum concentration of the ES com-
+plex.
+3pt
+7.2
+Choose the pair(s) of axes (𝑦vs. 𝑥) on the answer sheet that are expected to
+give a linear plot.
+4pt
+Many enzymes catalyze multi- rather than single-substrate transformations. However, if the concentra-
+tion of one of the substrates is much higher than that of the other substrate or it is kept constant, the MM
+kinetics is also valid. Here we will look at two independent enzymatic systems that follow the MM kinetics.
+
+Theory
+Q7-2
+English (Official)
+Enzymatic System I
+Enzyme E converts substrates A and B to products PA and PB. At rapid pre-equilibrium between the free
+enzyme and all enzyme-substrate complexes, the following 𝑣0 equation applies:
+𝑣0 =
+𝑘[E]0[A]0[B]0
+(𝐾+ [A]0)(𝐾+ [B]0)
+(3)
+𝑘is the rate constant of one of the reactions. The same equilibrium constant 𝐾characterizes the disso-
+ciation of either substrate from the corresponding active site of E.
+7.3
+Show that equation (3) takes the MM form (1) if the concentration of substrate
+B is maintained at a constant value 𝑐0. Give the expression for 𝑣max in this case.
+2pt
+7.4
+Propose a kinetic scheme for the Enzymatic System I consistent with equation
+(3), showing all the intermediates and products. Indicate the reaction with a
+rate constant 𝑘.
+8pt
+Enzymatic System II
+Enzyme E has five active sites, each of which is specific to one of the substrates SA, SB, or SC that are
+selectively transformed to products PA, PB, or PC, respectively. There is at least one active site for each
+substrate. Each active site is independent of the others.
+For E, it is known that:
+1. The affinity for SC is higher than for SB.
+
+Theory
+Q7-3
+English (Official)
+2. The plot of 𝑣0𝑖vs 𝑣0𝑖/[Si]0, known as Eadie–Hofstee plot, for SA, SB, SC, with rate given per active site
+(𝑣0𝑖), is shown below, but the scale and the legend are omitted.
+3. When E is saturated with SA, SB, SC, the catalytic turnover number (TON) for SC per site is 10200 min−1,
+and 2023 PA, PB, PC, product molecules in total are synthesized per second. At the same time, no more
+than 5.94 ⋅106 molecules of PA and PB are detected to form per hour.
+4. At equimolar concentrations of SA, SB, SC, which are at least 1000 times lower than corresponding 𝐾𝑀
+values, the PA, PB, PC, concentrations become proportional to the catalytic efficiency (𝜀𝑖=
+𝑘𝑖3
+𝐾𝑀,𝑖), and
+their ratio is 3 ∶2 ∶5, respectively.
+5. Two ESi complexes have equal rate constants for dissociation to E and Si. The activation barrier for
+the reaction of ESC into the initial compounds is 1266 J mol−1 higher than for the reaction into the final
+products. Assume that the pre-exponential factors are equal for both reactions and 𝑇= 25 ∘C.
+6. For E + Si reaction: 𝑘𝑐1 = 1.57 ⋅107 M−1s−1 and 𝑘𝑎1 = 𝑘𝑏1.
+7.5
+Fill in the table on the answer sheet and provide your calculations.
+Hints:
+• Use information from 1. and 2. to find the relation between 𝐾𝑀,𝐴, 𝐾𝑀,𝐵
+and 𝐾𝑀,𝐶(<, >, =).
+• Information from 3. and 5. allows you to complete the first column (num-
+ber of active sites for each substrate) and the last row (all the constants for
+substrate SC) of the table. Check that the sum of active sites is equal to 5.
+17pt
+
+Theory
+A7-1
+English (Official)
+Enzyme Kinetics - Answer Sheet
+7% of total
+Question
+7.1
+7.2
+7.3
+7.4
+7.5
+Total
+Points
+3
+4
+2
+8
+17
+34
+Score
+7.1 (3 pt)
+Choose the correct alternative form(s) of the initial rate (𝑣0) expressions (1) and (2):
+□𝑣0 = 𝑘3[E]0[S]0
+[S]0+𝐾𝑀
+□𝑣0 =
+𝑘3[E]
+1+𝐾𝑀/[S]0
+□𝑣0 = 𝑗[ES]max
+□𝑣0 = 𝑘3[E]0[ES]max
+[S]0+𝐾𝑀
+□𝑣0 =
+𝑘3[E]0
+1+𝐾𝑀/[S]0
+ 
+□𝑣0 =
+𝑗[E]0
+𝐾𝑀+[S]0
+7.2 (4 pt)
+Choose the pair(s) of axes (𝑦vs. 𝑥) that are expected to give a linear plot:
+□𝑣0 vs. 1/[S]0
+□𝑣0 vs. 𝑣0/𝐾𝑀
+□𝑣0 vs. 𝐾𝑀/𝑣0
+□1/𝑣0 vs. 𝑣0/[S]0
+□1/𝑣0 vs. 𝑣0/𝐾𝑀
+□[S]0/𝑣0 vs. [S]0
+
+Theory
+A7-2
+English (Official)
+7.3 (2 pt)
+Show that equation (3) takes the MM form (1) if the concentration of substrate B is maintained at a
+constant value 𝑐0:
+Give the expression for 𝑣max in this case:
+𝑣max =
+
+Theory
+A7-3
+English (Official)
+7.4 (8 pt)
+Propose a kinetic scheme for the Enzymatic System I consistent with equation (3), showing all the
+intermediates and products. Indicate the reaction with a rate constant 𝑘.
+7.5 (17 pt)
+Fill in the table:
+Number of
+active sites
+k1
+k2
+k3
+KM
+SA
+SB
+SC
+1.57 ⋅107 M−1s−1
+
+Theory
+A7-4
+English (Official)
+7.5 (cont.)
+Provide your calculations:
+ 
+ 
+
+Theory
+A7-5
+English (Official)
+7.5 (cont.)
+
+Theory
+Q8-1
+English (Official)
+Nazarov Reaction
+5% of total
+Question
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+Total
+Points
+5
+2
+6
+2
+8
+8
+31
+Score
+The Nazarov reaction is a frequently used reaction of divinyl ketones to give cyclopentenones. It proceeds
+either photochemically or via acid catalysis and is an electrocyclization, followed by a proton transfer.
+8.1
+Draw the pi molecular orbitals to describe the Nazarov reaction. Fill in the elec-
+trons into the respective energy levels. Mark with an X the i) HOMO (highest oc-
+cupied molecular orbital) and ii) LUMO (lowest unoccupied molecular orbital).
+For this exercise, you can consider the divinyl ketone as a pentadienyl cation
+with five p-orbitals.
+ 
+5pt
+8.2
+From the pi molecular orbitals you derived in Task 8.1, predict under which
+conditions the Nazarov reaction of the divinyl ketone will proceed in a disrota-
+tory or conrotatory fashion. In the table on the answer sheet, mark with an
+X the conditions under which the reaction is allowed.
+2pt
+8.3
+The Nazarov reaction was used as key reaction in a synthesis of Farnesin. For
+both conditions below, draw one possible structure for each of A and B, includ-
+ing stereochemistry. Note that the products of both reactions show a signal at
+6.70 - 6.73 ppm in the 1H NMR.
+6pt
+
+Theory
+Q8-2
+English (Official)
+The synthesis of Capnellene commences with unsaturated aldehyde C shown below. Treatment with
+conditions D, followed by reaction with MnO2 supported on carbon gave divinyl ketone E shown below.
+Exposure to a mixture of P2O5 and MsOH yielded F, which was elaborated via a sequence of reactions to
+the unsaturated ketone I.
+8.4
+Choose the reagent(s) from the list on the answer sheet that would be suitable
+as D.
+2pt
+8.5
+Give the structures of intermediates F, G, and H, including their stereochem-
+istry.
+8pt
+Enone I was then subjected to H2C=CHMgBr and CuI in THF to give intermediate J, followed by ozonol-
+ysis to yield intermediate K, which shows a signal at 9.61 ppm in the 1H NMR. Treatment with 5% KOH
+in a mixture of THF and ether yielded intermediate L. Hydrogenation with a Pt-catalyst and under an
+atmosphere of H2 yielded M, which finally gave rise to Capnellene.
+
+Theory
+Q8-3
+English (Official)
+8.6
+Give the structures of J, K, L, and M, including their stereochemistry.
+8pt
+
+Theory
+A8-1
+English (Official)
+Nazarov Reaction - Answer Sheet
+5% of total
+Question
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+Total
+Points
+5
+2
+6
+2
+8
+8
+31
+Score
+8.1 (5 pt)
+Draw the pi molecular orbitals to describe the Nazarov reaction. Fill in the electrons into the respec-
+tive energy levels. Mark with an X the i) HOMO (highest occupied molecular orbital) and ii) LUMO
+(lowest unoccupied molecular orbital).
+8.2 (2 pt)
+From the pi molecular orbitals you derived in Task 8.1, predict under which conditions the Nazarov
+reaction of the divinyl ketone will proceed in a disrotatory or conrotatory fashion. In the table, mark
+with an X the conditions under which the reaction is allowed.
+disrotatory
+conrotatory
+thermal
+photochemical
+
+Theory
+A8-2
+English (Official)
+8.3 (6 pt)
+Draw one possible structure for each of A and B, including stereochemistry.
+8.4 (2 pt)
+Choose the reagent(s) from the list that would be suitable as D.
+□H2C=CHMgBr
+□1. NaBH4 2. H2C=CHLi
+□H2C=CHBr, Pd(PPh3)4
+□H2C=CHMgBr, CuI
+8.5 (8 pt)
+Give the structures of intermediates F, G, and H, including their stereochemistry.
+
+Theory
+A8-3
+English (Official)
+8.6 (8 pt)
+Give the structures of J, K, L, and M, including their stereochemistry.
+
+Theory
+Q9-1
+English (Official)
+Electrolysis in Organic Synthesis
+6% of total
+Question
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+Total
+Points
+3
+3
+2
+5
+5
+2
+9
+29
+Score
+The Kolbe electrolysis describes the decarboxylative dimerization of two carboxylic acids and only pro-
+ceeds if the acid is deprotonated. The unbalanced equation is shown here.
+Translations:
+1:
+2:
+3:
+Two gases (B and C) are produced during the reaction. B reacts with Ca(OH)2, while C is highly flammable.
+9.1
+Provide the structural formulae of A, B, and C.
+3pt
+9.2
+The synthesis is formally a redox reaction, where the carboxylate is oxidized and
+the solvent is reduced. Formulate the oxidative and reductive half reactions
+and the full redox reaction.
+3pt
+9.3
+Provide the intermediates in the mechanism for the oxidative decarboxylation
+and formation of the product.
+2pt
+
+Theory
+Q9-2
+English (Official)
+The Kolbe electrolysis is usually only efficient for long-chained saturated carboxylic acids and not for
+certain carboxylic acids, such as D. Here, the overoxidation of the radical intermediate E to a positively
+charged species F is facilitated.
+Intermediate F can react with nucleophiles to form different side products, for example it reacts with D
+to form an ester G, and with MeOH to form H.
+9.4
+Provide the structures of D-H.
+5pt
+The electrolysis of carboxylic acid I in the presence of an excess of co-acid J yields two main products (by
+1H NMR analysis) that are inseparable by silica gel chromatography. Their spectroscopic data are almost
+identical. In the 1H NMR spectrum, the two species are only distinguishable by two signals with small
+differences in chemical shifts. The spectrum looks as follows (1:1 mixture of products):
+1H NMR (K and L): 4.18−4.08 (m, 4 H), 3.95−3.60 (m, 6 H), 3.43 (dt, 2 H, 𝐽= 7.8, 2.2 Hz), 2.55−2.25 (m, 4 H),
+2.20 −1.95 (m, 2 H), 1.65 −1.50 (m, 2 H).
+Specific signals for K: 1.26 (t, 3 H, 𝐽= 7.2 Hz), 1.20 (d, 3 H, 𝐽= 6.6 Hz).
+Specific signals for L: 1.24 (t, 3 H, 𝐽= 7.2Hz), 1.15 (d, 3 H, 𝐽= 6.6 Hz).
+
+Theory
+Q9-3
+English (Official)
+Translation:
+1:
+2:
+9.5
+Provide the structures for both products K and L. Indicate how the two prod-
+ucts are related.
+5pt
+The choice of the electrode material can influence the selectivity of an organic electrosynthetic reaction.
+The reductive electrolysis of benzaldehyde (M) (16 mM in 1 M aqueous KOH, Pt anode, −1.3 V vs. Ag/AgCl)
+yields different products depending on the cathode material used. Strong binding to the surface favours
+intermolecular reactions. The figure below shows the product distribution for different cathode materi-
+als and the mass spectra of the products.
+
+Theory
+Q9-4
+English (Official)
+9.6
+Provide the structure of N and O.
+2pt
+Alkenes, such as enol ethers, can be oxidatively coupled. This typically involves the anodic oxidation of
+the alkene fragment to yield a radical cation which can be intercepted by a nucleophile.
+
+Theory
+Q9-5
+English (Official)
+Translation:
+1: RVC = glassy carbon
+2:
+3:
+4:
+5:
+Cp = cyclopentadienyl
+
+Theory
+Q9-6
+English (Official)
+9.7
+Provide the structural formulae of compounds P, Q, R, and S. Indicating stere-
+ochemistry is not required. Hint: S is a tricyclic product.
+9pt
+
+Theory
+A9-1
+English (Official)
+Electrolysis in Organic Synthesis - Answer Sheet
+6% of total
+Question
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+Total
+Points
+3
+3
+2
+5
+5
+2
+9
+29
+Score
+9.1 (3 pt)
+Provide the structural formulae of A, B, and C.
+9.2 (3 pt)
+Formulate the oxidative and reductive half reactions and the full redox reaction.
+Reductive half reaction:
+ 
+ 
+ 
+ 
+ 
+Oxidative half reaction:
+ 
+ 
+ 
+ 
+ 
+Full redox reaction:
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A9-2
+English (Official)
+9.3 (2 pt)
+Provide the intermediates in the mechanism for the oxidative decarboxylation and formation of the
+product.
+Translation:
+1:
+2:
+
+Theory
+A9-3
+English (Official)
+9.4 (5 pt)
+Provide the structures of D-H.
+
+Theory
+A9-4
+English (Official)
+9.5 (5 pt)
+Provide the structures for both products K and L. Indicate how the two products are related.
+□Epimer
+□Diastereomer
+□Enantiomer
+□Constitutional Isomer
+9.6 (2 pt)
+Provide the structure of N and O.
+
+Theory
+A9-5
+English (Official)
+9.7 (9 pt)
+Provide the structural formulae of compounds P, Q, R, and S. Indicating stereochemistry is not re-
+quired. Hint: S is a tricyclic product.
+
+Theory
+Q10-1
+English (Official)
+Switzerland - The Country of Pharmaceuticals
+6% of total
+Question
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+Total
+Points
+2
+11
+6
+6
+6
+6
+2
+39
+Score
+Pasireotide (1) is a peptide-based drug developed by the Swiss pharmaceutical company Novartis to treat
+the Cushing's disease.
+10.1
+Determine the number of stereogenic centers (𝑛) in Pasireotide (1). Calculate
+the total number of all possible stereoisomers (𝑡) of Pasireotide (1).
+2pt
+
+Theory
+Q10-2
+English (Official)
+Pasireotide (1) is a cyclic peptide. An advanced intermediate in its synthesis (linear peptide 2) can be
+prepared by solid-phase peptide synthesis (SPPS) using the Fmoc/tBu strategy as shown in Scheme 1.
+Scheme 1. SPPS of peptide 2. i) Linker; ii) Resin; iii) Resin loading; iv) SPPS: repetition of 1. Fmoc
+deprotection 2. amino acid coupling + final Fmoc deprotection; v) Peptide cleavage from resin
+and deprotection of PG-2.
+The synthesis starts with the preparation of Fmoc-Tyr(Bn)-OH (3) from Boc-Tyr-OH (7).
+
+Theory
+Q10-3
+English (Official)
+10.2
+Draw reagents A and D and intermediates B and C in the synthesis of Fmoc-
+Tyr(Bn)-OH (3) as shown above.
+11pt
+The SPPS of intermediate 2 begins with attaching the Fmoc-Tyr(Bn)-OH (3) to a suitable resin-bound
+linker.
+Scheme 2. Suggested structures of linkers 4. ii) Resin; a) 2-Chlorotrityl-chloride linker; b)
+Safety-catch linker; c) Rink amide linker; d) SASRIN-chloride linker; e) Sieber amide linker; f)
+Wang linker.
+10.3
+Choose the linker(s) 4 that are appropriate for SPPS of peptide 2 according to
+Scheme 1. Incorrect answers will result in deductions of points but the total
+score may not be negative.
+6pt
+
+Theory
+Q10-4
+English (Official)
+10.4
+Choose the most suitable side-chain protecting groups PG-1 and PG-2 for SPPS
+of 2 according to Scheme 1 that can be orthogonally cleaved in the presence of
+all other functional groups present in Pasireotide (1). Only one answer is correct
+for each of the protecting groups.
+6pt
+Next, linear peptide 2 undergoes an intramolecular coupling reaction to form cyclic peptide 8 according
+to the following scheme:
+Scheme 3. vi) Base.
+10.5
+Choose the correct statement(s) on the answer sheet about the cyclization of
+peptide 2 to 8 shown above. Relevant structures are shown in Scheme 4 below.
+Incorrect answers will result in deductions of points but the total score may not
+be negative.
+6pt
+
+Theory
+Q10-5
+English (Official)
+Scheme 4. Relevant structures for question 10.5.
+
+Theory
+Q10-6
+English (Official)
+The last steps of the synthesis involve functionalization of the OH-group of the 4-hydroxyproline residue
+in 8, followed by cleavage of all protecting groups to give Pasireotide (1).
+Scheme 5. vii) can be used as simplification of 8; viii) Cleavage of protecting groups.
+10.6
+Draw the structures of intermediate E (including stereochemistry) and reagent
+F. Abbreviate intermediate 8 as (vii) and the protecting group as PG-1 in struc-
+tures E and F as depicted in Scheme 5.
+6pt
+10.7
+Determine the lowest possible molar equivalents of compound 12 that are nec-
+essary to enable full conversion of 8 to 13.
+2pt
+
+Theory
+A10-1
+English (Official)
+Switzerland - The Country of Pharmaceuticals - Answer Sheet
+6% of total
+Question
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+Total
+Points
+2
+11
+6
+6
+6
+6
+2
+39
+Score
+10.1 (2 pt)
+Determine the number of stereogenic centers (𝑛) in Pasireotide (1). Calculate the total number of
+all possible stereoisomers (𝑡) of Pasireotide (1).
+ 
+ 
+𝑛=
+𝑡=
+
+Theory
+A10-2
+English (Official)
+10.2 (11 pt)
+Draw reagents A and D and intermediates B and C in the synthesis of Fmoc-Tyr(Bn)-OH.
+
+Theory
+A10-3
+English (Official)
+10.3 (6 pt)
+Choose the linker(s) 4 that are appropriate for SPPS of peptide 2 according to Scheme 1 in the ques-
+tion sheet. Incorrect answers will result in deductions of points but the total score may not be neg-
+ative.
+□2-Chlorotrityl-chloride linker (a)
+□Safety-catch linker (b)
+□Rink amide linker (c)
+□SASRIN-chloride linker (d)
+□Sieber amide linker (e)
+□Wang linker (f)
+10.4 (6 pt)
+Choose the most suitable side-chain protecting groups PG-1 and PG-2 for SPPS of 2 according to
+Scheme 1 in the question sheet that can be orthogonally cleaved in the presence of all other func-
+tional groups present in Pasireotide. Only one answer is correct for each of the protecting groups.
+PG-1
+•
+□g
+•
+□h
+•
+□i
+•
+□j
+•
+□k
+•
+□l
+PG-2
+•
+□g
+•
+□h
+•
+□i
+•
+□j
+•
+□k
+•
+□l
+10.5 (6 pt)
+Choose the correct statement(s) about the cyclization of peptide 2 to 8. Incorrect answers will result
+in deductions of points but the total score may not be negative.
+□A possible side-product of the reaction is tetramethylguanidylation of the N-terminal phenylalanine
+residue resulting in compound 9.
+□A possible side-product of the reaction is the cleavage of protecting group PG-1 and cyclization via
+the amino group of the lysine residue to give compound 10.
+□The reaction must be carried out at a high peptide concentration to achieve a sufficient reaction
+rate.
+□The reaction must be carried out at a low peptide concentration to prevent polycondensation.
+□Piperidine (11) is a suitable base for the reaction.
+
+Theory
+A10-4
+English (Official)
+10.6 (6 pt)
+Draw the structures of intermediate E (including stereochemistry) and reagent F. Abbreviate inter-
+mediate 8 as (vii) and the protecting group as PG-1 in structures E and F as depicted in Scheme 5 in
+the question sheet.
+10.7 (2 pt)
+Determine the lowest possible molar equivalents of compound 12 that are necessary to enable full
+conversion of 8 to 13.
+ 
+ 

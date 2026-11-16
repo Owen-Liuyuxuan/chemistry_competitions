@@ -1,0 +1,1199 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after April 26, 2020 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+ 
+2020 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART II 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+Joshua de Groot, College of Southern Idaho, Twin Falls, ID 
+James Dohm, Vanderbilt University, Nashville, TN 
+Xu Duan, Holton-Arms School, Bethesda, MD 
+Valerie Ferguson, Moore HS, Moore, OK (retired) 
+Julie Furstenau, Thomas B. Doherty HS, Colorado Springs, CO (retired) 
+Kimberly Gardner, United States Air Force Academy, CO 
+Paul Groves, South Pasadena HS, South Pasadena, CA 
+Nicolas Hamel, Clackamas Community College, Oregon City, OR 
+David W. Hostage, Taft School, Watertown, CT 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los Angeles, CA 
+Jane Nagurney, Scranton Preparatory School, Scranton, PA (retired) 
+DIRECTIONS TO THE EXAMINER 
+Part II of this test requires that student answers be written in a response booklet with blank pages. Only this "Blue Book" is graded for 
+a score on Part II. Testing materials, scratch paper, and the "Blue Book" should be made available to the student only during the 
+examination period. All testing materials including scratch paper should be turned in and kept secure until April 27, 2020, after which 
+tests can be returned to students and their teachers for further study. 
+Allow time for the student to read the directions, ask questions, and fill in the required information on the "Blue Book". When the 
+student has completed Part II, or after one hour and forty-five minutes have elapsed, the student must turn in the "Blue Book", Part II 
+of the testing materials, and all scratch paper. Be sure that the student has supplied all of the information requested on the front of the 
+"Blue Book," and that the same identification number used for Part I has been used again for Part II. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page two for student reference. 
+ 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, or any 
+other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+ 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO.  
+Part II requires complete responses to questions involving problem-solving and explanations. One hour and forty-five minutes are 
+allowed to complete this part. Be sure to print your name, the name of your school, and your identification number in the spaces 
+provided on the "Blue Book" cover. (Be sure to use the same identification number that you used for Part I.) Answer all of the 
+questions in order, and use both sides of the paper. Use separate sheets for scratch paper and do not attach your scratch paper to this 
+examination. When you complete Part II (or at the end of one hour and forty-five minutes) you must turn in all testing materials, 
+scratch paper, and your "Blue Book".  
+ 
+Do not forget to turn in your U.S. citizenship/Green Card Holder statement before leaving the testing site today.  
+ 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 26, 2020  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+ 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022 × 1023 mol–1 
+h = 6.626 × 10–34 J s 
+c = 2.998 × 108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−∆
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 26, 2020  
+Page 3 
+1. [14%]  A substance X is 18.93% C, 25.21% O, and 55.86% a halogen by mass.  X is a gas at 70 °C and 1.00 bar pressure, 
+with a vapor density of 4.45 g/L. 
+a. 
+What is the molar mass of X? 
+b. What is the molecular formula of X? 
+c. 
+Draw the Lewis structure of X. 
+A 1.00 g sample of X is added to an excess of aqueous sodium hydroxide, which causes evolution of a colorless gas.  The gas 
+is collected over water at an ambient pressure of 1.00 bar and a temperature of 21 °C, and the volume of the gas is found to be 
+197 mL.  Addition of a dilute solution of barium nitrate to the aqueous solution results in the formation of a white precipitate. 
+d. How many moles of gas are evolved in this reaction?  (The vapor pressure of water at 21 °C is 18.7 mm Hg.) 
+e. 
+Write a balanced net ionic equation for the reaction of X with aqueous sodium hydroxide, and explain how this 
+reaction is consistent with the number of moles of gas calculated in part (d), and with the observation of a precipitate 
+upon addition of barium nitrate. 
+ 
+2. [12%]  1-Hydroxypyrene-3,6,8-trisulfonate (HPTS) is a monoprotic acid that can be used as a fluorescent acid-base indicator 
+because its conjugate acid form does not emit light (on excitation at λ = 454 nm), while its conjugate base form does.  The 
+fluorescence intensity (at 520 nm) of an HPTS solution was measured in seven different phosphate buffers of differing pH, 
+giving the relative fluorescence intensities shown below. 
+ 
+a. 
+How much energy is lost as heat when a photon with λ = 454 nm is absorbed by HPTS and a photon with λ = 520 
+nm is emitted? 
+b. What is the pKa of HPTS?  Explain your answer. 
+c. 
+The phosphate buffers used in this experiment were prepared by adding solid NaOH to 100 mL of a 0.100 M 
+solution of H3PO4.  How many moles of NaOH would be required to make buffers with each of the following pH 
+values?  You may assume that the volume remains 100 mL.  H3PO4 has pK1 = 2.12, pK2 = 7.21, and pK3 = 12.32. 
+i. pH = 6.50 
+ii. pH = 13.00 
+d. Explain why one cannot prepare an effective buffer solution at pH = 10.0 using only 0.100 M H3PO4 and solid 
+NaOH. 
+ 
+
+ 
+Page 4  
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 26, 2020 
+3. [13%]  The Mond process was used in the late 19th and early 20th centuries to purify nickel metal away from impurities such 
+as iron and cobalt.  The process relies on the facile reaction of nickel with carbon monoxide to form volatile nickel 
+tetracarbonyl, which can be separated from the solid impurities: 
+Ni(s) + 4 CO(g) → Ni(CO)4(g) 
+ 
+Ni(s) 
+Ni(g) 
+CO(g) 
+Ni(CO)4(g) 
+ΔH°f (kJ mol-1) 
+0 
+430.1 
+–110.5 
+–607 
+S° (J mol-1 K-1) 
+30 
+182.2 
+198 
+417 
+a. 
+Draw or clearly describe the three-dimensional arrangement of the atoms in Ni(CO)4. 
+b. Calculate the average bond dissociation enthalpy for the nickel-carbon bonds in Ni(CO)4(g). 
+c. 
+Calculate ∆H°rxn and ∆S°rxn for the production of Ni(CO)4(g) by the Mond process. 
+d. The boiling point of Ni(CO)4 at 1 bar pressure is 42 °C and its heat of vaporization is 29.0 kJ mol-1.  Calculate ∆H°f 
+and S° for Ni(CO)4(l). 
+e. 
+After the Ni(CO)4 vapor has been separated from the solid impurities, Ni metal is recovered by heating the Ni(CO)4 
+to high temperature, causing it to re-form nickel metal and carbon monoxide.  At 230 °C, what is the equilibrium 
+pressure of Ni(CO)4(g) in the presence of nickel metal, assuming that the carbon monoxide pressure is maintained at 
+0.10 bar? 
+ 
+4. [12%]  Gas-phase bromine monoxide, BrO, decomposes according to two possible pathways: 
+2 BrO(g) → O2(g) + 2 Br(g) 
+(4a) 
+2 BrO(g) → O2(g) + Br2(g) 
+(4b) 
+The reaction can be studied by generating BrO(g) by using a laser.  If this is carried out in the presence of excess ozone, then 
+any Br(g) that is present reacts with ozone to produce bromine monoxide much more rapidly than either reaction 4a or 4b. 
+Br(g) + O3(g) → BrO(g) + O2(g) 
+fast 
+The disappearance of BrO(g) was studied spectrophotometrically at both 267 K and 298 K, either in the absence of excess 
+ozone (open squares) or in the presence of excess ozone (open circles).  The reciprocal of the concentration of BrO as a 
+function of time is graphed below for the four experiments. 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 26, 2020  
+Page 5 
+ 
+a. 
+What is the reaction order in BrO for its decomposition in the absence of O3?  Justify your answer based on the 
+experimental data. 
+b. A sample of BrO in N2 at 298 K with an initial concentration of 4.0 × 1014 molecules cm-3 is prepared.  How much 
+time will it take for the BrO concentration to decay to half its original value? 
+c. 
+Is the observed decomposition of BrO faster or slower in the presence of ozone?  Justify your answer based on the 
+experimental data and provide a chemical explanation for the observed difference. 
+d. Calculate the values of k4a and k4b at 298 K. 
+e. 
+Calculate the activation energy for the decomposition of BrO in the presence of ozone. 
+5. [12%]  Write net equations for each of the reactions below.  Use appropriate ionic and molecular formulas and omit formulas 
+for all ions or molecules that do not take part in a reaction.  Write structural formulas for all organic substances.  You need 
+not balance the equations. 
+a. 
+Chlorine gas is bubbled through cold aqueous sodium hydroxide. 
+b. Solid calcium carbonate is roasted. 
+c. 
+Solutions of iron(III) nitrate and potassium thiocyanate are mixed. 
+d. Ethyl formate (ethyl methanoate) is heated with aqueous potassium hydroxide. 
+e. 
+Nitrous oxide (dinitrogen monoxide) is heated with solid sodium amide. 
+f. 
+Boron-10 captures a neutron to produce an alpha particle and another species. 
+6. [13%]  A solution is made by adding some CuSO4•5H2O to water, followed by enough sulfuric acid to make the pH = 1.00.  
+Two platinum electrodes are then placed in the solution (which has a total volume of 0.500 L) and the solution is electrolyzed 
+at a constant current of 0.120 A, separately capturing any gases that are evolved at the two electrodes. 
+Initially, gas is evolved at the anode, but no gas is evolved at the cathode.  However, after 10.0 min of electrolysis, gas 
+evolution begins at the cathode as well, and eventually the total volume of gas evolved at the cathode is equal to the total 
+volume of gas evolved at the anode. 
+Half-Reaction 
+Eº, V 
+Half-Reaction 
+Eº, V 
+Cu+(aq) + e– → Cu(s) 
+0.518 
+Cu2+(aq) + 2 e– → Cu(s) 
+0.337 
+O2(g) + 2 H+(aq) + 2 e– →  H2O2(aq) 
+1.780 
+O2(g) + 4 H+(aq) + 4 e– → 2 H2O(l) 
+1.229 
+2 H+(aq) + e– → H2(g) 
+0.000 
+ 
+ 
+a. 
+Write the balanced reaction that takes place initially in this electrolytic cell. 
+b. How many moles of copper(II) sulfate pentahydrate were initially added to the solution? 
+c. 
+What is the initial cell potential for this reaction at 298 K?  (In air, the partial pressure of O2(g) is 0.20 bar and the 
+partial pressure of H2(g) may be taken to be 10-4 bar.) 
+d. As the electrolysis proceeds (before t = 10.0 min), will this cell potential become more positive, more negative, or 
+remain unchanged?  Explain your answer. 
+
+ 
+Page 6  
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 26, 2020 
+e. 
+What gas is evolved at the anode?  What gas is evolved at the cathode (after t = 10.0 min)? 
+f. 
+At what time will the total volumes of evolved gases at the two electrodes be equal? 
+7. [12%]  Silicon and its compounds have a number of interesting features. 
+a. 
+Elemental silicon adopts a structure analogous to diamond.  Describe this structure and explain why no form of 
+elemental silicon analogous to graphite is known. 
+b. Explain why elemental silicon is a much better conductor of electricity than diamond. 
+c. 
+Silicon tetrafluoride readily reacts with fluoride ion to form species such as SiF5– and SiF62-.  Sketch or describe the 
+three-dimensional shapes of these fluorosilicate anions, and explain why SiF4 readily reacts with fluoride ion while 
+Si(CH3)4 does not. 
+d. Explain why the ionization energy of a ground-state gas-phase silicon atom (787 kJ mol-1) is smaller than that of a 
+phosphorus atom (1012 kJ mol-1), but the amount of energy released on adding an electron to a gas-phase Si atom 
+(144 kJ mol-1) is greater than that of a P atom (71 kJ mol-1). 
+e. 
+Explain why SiH2(g) in its ground state has no unpaired electrons, while CH2(g) in its ground state has two unpaired 
+electrons. 
+8. [12%]  Two hydrocarbons with the formula C5H10 are cyclopentane and 2-methyl-2-butene. 
+ 
+a. 
+One can imagine replacing one hydrogen in each of these compounds to form new compounds with the formula 
+C5H9Cl.  Draw clear structures of all the possible distinct C5H9Cl isomers that can be formed in this way from 
+i. cyclopentane 
+ii. 2-methyl-2-butene 
+b. One of the two compounds (cyclopentane or 2-methyl-2-butene) reacts readily with water in the presence of an acid 
+catalyst to give an alcohol.  Indicate which compound reacts, and give the structure of the alcohol formed. 
+c. 
+Which is more thermodynamically stable, cyclopentane or 2-methyl-2-butene?  Explain your answer. 
+d. Clearly draw the structure of a chiral compound with the formula C5H10. 
+
+2020 USNCO Part 2 Solutions 
+ 
+1 
+1. a. 
+At 70 °C and 1.00 bar pressure, a 1-L gas sample would contain: 
+n = PV/RT = (1.00 bar)(1.00 L)/(0.08314 L bar mol-1 K-1)(343.15 K) 
+n = 0.03505 mol 
+ 
+The molar mass is thus 4.45 g/0.03505 mol = 127.0 g/mol 
+ 
+b. 
+C:  0.1893 × 127.0 g/mol = 24.0 g/mol C = 2 mol C/mol X 
+ 
+O:  0.2521 × 127.0 g/mol = 32.0 g/mol O = 2 mol O/mol X 
+ 
+Halogen:  0.5586 × 127.0 g/mol = 70.9 g halogen/mol X 
+ 
+  
+This would correspond to 3.73 mol F, 2.00 mol Cl, 0.887 mol Br, or 0.559 mol I.  
+The halogen must therefore be Cl, and the molecular formula is C2O2Cl2. 
+ 
+c. 
+ 
+ 
+d. 
+P = 1.000 bar – 18.7 mm Hg•(1.013 bar/760 mm Hg) = 0.975 bar 
+ 
+n = PV/RT = (0.975 bar)(0.197 L)/(0.08314 L bar mol-1 K-1)(294.15 K) = 7.85 × 10-3 mol 
+gas 
+ 
+e. 
+The only reasonable colorless gases that could be produced would be CO and CO2; the 
+latter would immediately form carbonate ion, which would explain the white precipitate 
+with Ba2+ (BaCO3).  The production of 7.85 × 10-3 mol gas per (1.00 g/127.0 g/mol) = 
+7.87 × 10-3 mol X is consistent with production of one mol CO per mol of X, suggesting 
+the other C in C2O2Cl2 forms carbonate.  In the absence of an oxidant and in basic 
+solution, the only reasonable fate of Cl is Cl–(aq), giving a net balanced reaction of: 
+ 
+ 
+ 
+C2O2Cl2 + 4 OH–(aq) → 2 Cl–(aq) + CO32-(aq) + CO(g) + 2 H2O(l) 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+2 
+2. a. E = hc/λ, so  
+ 
+E = (6.626 × 10-34 J s)(2.998 × 108 m s-1)/(454 × 10-9 m) = 4.38 × 10-19 J excitation 
+ 
+E = (6.626 × 10-34 J s)(2.998 × 108 m s-1)/(520 × 10-9 m) = 3.82 × 10-19 J emission 
+ 
+ 
+Energy lost = 4.38 × 10-19 J – 3.82 × 10-19 J = 5.6 × 10-20 J  
+ 
+ 
+ 
+(5.6 × 10-20 J)(6.022 × 1023 mol-1) = 34 kJ mol-1 
+ 
+b. 
+At pH = pKa, half of the HPTS will be in the conjugate base form and so the fluorescence 
+will be at half-maximal intensity.  Inspection of the curve gives the half-maximal 
+fluorescence at pH = 7.4. 
+ 
+c.i. 
+Since 6.50 >> 2.12, almost all the first proton of H3PO4 will have been neutralized, 
+requiring 0.0100 mol NaOH.  The amount of H2PO4– and HPO42- is given by the 
+Henderson-Hasselbalch equation: 
+ 
+ 
+6.50 = 7.21 + log([HPO42-]/[H2PO4–]), so [HPO42-]/[H2PO4–] = 0.195. 
+ 
+The total phosphate concentration is 0.100 M, so [HPO42-] = (0.195/1.195)•0.100 M = 
+0.0163 M, requiring an additional 0.00163 mol NaOH to achieve.  Thus a total of 0.0116 
+mol of NaOH must be added. 
+ 
+   ii. 
+As in (i), the first two protons must be neutralized (requiring 0.0200 mol NaOH), then: 
+ 
+ 
+13.00 = 12.32 + log([PO43-]/[HPO42-]), so [PO43-]/[HPO42-] = 4.79 
+[PO43-] = 0.100 M•(4.79/5.79) = 0.0827 M 
+ 
+This requires an additional 0.00827 mol NaOH to remove the third proton from H3PO4. 
+ 
+ 
+BUT WAIT!  At pH = 13.00, [OH–] = 0.100 M.  This must come from yet more NaOH, 
+another 0.0100 mol of it.  (This was not an issue at pH = 6.5, where the OH– 
+concentration was much smaller than the concentrations of the phosphate ions and so 
+made a negligible difference in the amount of hydroxide one needed to add.)  So the total 
+amount of NaOH one must add is 0.0200 mol + 0.00827 mol + 0.0100 mol = 0.0383 mol 
+NaOH. 
+ 
+ 
+An alternative approach to this problem would involve charge balance considerations.  
+The anions present in significant concentration at pH = 13 are HPO42- (0.0173 M), PO43– 
+(0.0827 M), and OH– (0.100 M).  The only cation present in significant concentration is 
+Na+, so [Na+] = 2[HPO42–] + 3[PO43–] + [OH–] = 2[0.0173] + 3[0.0827] + [0.100] = 0.383 
+M.  It would require adding 0.0383 mol NaOH to 100 mL to achieve this concentration of 
+Na+. 
+ 
+d. 
+At pH = 10.0, almost all the phosphate must be in the form of HPO42-, with less than 1% 
+in the form of either H2PO42- or PO43-.  So any addition of acid will result in a significant 
+increase of [H2PO4–] and hence a significant drop in pH, and addition of base will result 
+in a significant increase in [PO43-] and a significant rise in pH.  Without a significant 
+concentration of both an acid and its conjugate base, buffering is ineffective. 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+3 
+3. a. 
+The nickel center is tetrahedral and the Ni–C–O bond is linear: 
+ 
+b. 
+For the gas-phase reaction 
+Ni(CO)4(g) → Ni(g) + 4 CO(g) 
+∆H° = 4•(–110.5 kJ mol-1) + 430 kJ mol-1 – (–607 kJ mol-1) = 595 kJ mol-1 
+ 
+Since this reaction involves breaking four nickel-CO bonds, the average BDE is (595 kJ 
+mol-1)/4 = 149 kJ mol-1. 
+ 
+c. 
+∆H°rxn = (–607 kJ mol-1) – 4•(–110.5 kJ mol-1) = –165 kJ mol-1 
+ 
+∆S°rxn = (417 J mol-1 K-1) – 4•(198 J mol K-1) – 30 J mol-1 K-1 = –405 J mol-1 K-1 
+ 
+d. 
+For: 
+Ni(CO)4(l) → Ni(CO)4(g) 
+ 
+∆G°vap = 0 at the boiling point at 1 bar pressure and T = 315 K.  ∆H°vap = 29.0 kJ mol-1.  
+So: 
+0 = 29000 J mol-1 – (315 K)(∆S°vap) 
+∆S°vap = 92.1 J mol-1 K-1 
+ 
+∆H°f (Ni(CO)4(g)) – ∆H°f (Ni(CO)4(l)) = ∆H°vap 
+–607 kJ mol-1 – ∆H°f (Ni(CO)4(l)) = 29.0 kJ mol-1 
+∆H°f (Ni(CO)4(l)) = –636 kJ mol-1 
+ 
+S° (Ni(CO)4(g)) – S° (Ni(CO)4(l)) = ∆S°vap 
+417 J mol-1 K-1 – S° (Ni(CO)4(l)) = 92.1 J mol-1 K-1 
+S° (Ni(CO)4(l)) = 325 J mol-1 K-1 
+ 
+ 
+e. 
+At 230 ºC = 503 K, ∆G°rxn = –165 kJ mol-1 –(503 K)(–405 J mol-1 K-1) = 39 kJ mol-1 
+Keq = e–(39000 J mol-1)/(503 K • 8.314 J mol-1 K-1) = 9.5 × 10-5 
+9.5 × 10-5 = 
+ 𝑝𝑝(Ni(CO)4)
+𝑝𝑝(CO)4
+ = 
+ 𝑝𝑝(Ni(CO)4)
+(0.1)4
+ 
+p(Ni(CO)4) = 9.5 × 10-9 bar 
+ 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+4 
+4. a. 
+Since 1/[BrO] increases linearly with time, the reaction is second-order in BrO. 
+ 
+b. 
+ 
+ 
+ 
+ 
+1/[BrO]t = 1/[BrO]0 + kt 
+1/[2.0 × 1014 molecule cm-3] = 1/[4.0 × 1014 molecule cm-3] + (5.80 × 10-12 cm3 molecule-1)t 
+t = 4.3 × 10-4 s 
+ 
+c. 
+The steeper the slope of the plot, the faster BrO is disappearing.  Thus the rates are 
+slower in the presence of ozone than in its absence.  The reason is that in the presence of 
+ozone, Br(g) reacts rapidly to form equimolar BrO(g), so reaction 4a does not result in 
+the net disappearance of BrO(g)—it is regenerated from the Br(g) and O3(g).  In the 
+presence of ozone, kobs = 2k4b, while in its absence kobs = 2k4a + 2k4b, which must be 
+larger. 
+ 
+[The factor of two is because the reaction consumes two moles of BrO(g); this 
+convention will be used in part (d), but students will not be penalized for answers that 
+omit the factor of 2.] 
+ 
+d. 
+The slopes of the second-order plots are equal to the kobs for the reaction. From part b, the 
+reaction in the presence of O3 gives  
+k4b = 0.5(6.24 × 10-13 cm3 molecule-1 s-1) = 3.12 × 10-13 cm3 molecule-1 s-1. 
+ 
+In the absence of O3,  
+k4a + k4b = 0.5(5.80 × 10-12 cm3 molecule-1 s-1) = 2.90 × 10-12 cm3 molecule-1 s-1 
+k4a = (2.90 × 10-12 – 3.12 × 10-13) cm3 molecule-1 s-1 = 2.59 × 10-12 cm3 molecule-1 s-1. 
+ 
+e. 
+ln(k2/k1) = (Ea/R)(1/T1 – 1/T2) 
+ 
+ln(6.24 × 10-13/8.64 × 10-13) = (Ea/8.314 J mol-1 K-1)(1/267 K – 1/298 K) 
+ 
+Ea = –6.94 kJ mol-1 
+ 
+ 
+The reaction goes slower at higher temperatures, so it has a negative activation energy!  
+This is rare, but sometimes is observed in reactions where there is a lot of bond-forming 
+to make the activated complex.  Here, the reaction is hypothesized to involve side-on 
+combination of the two OBr molecules to form an O2Br2 square, which then fragments to 
+give the O2 + Br2 products. 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+5 
+5. a. 
+Cl2(g) + OH–(aq) → OCl–(aq) + Cl–(aq) + H2O(l) 
+b. 
+CaCO3(s) → CaO(s) + CO2(g) 
+c. 
+Fe3+(aq) + SCN–(aq) → Fe(SCN)2+(aq) 
+d. 
+ 
+e. 
+NaNH2(s) + N2O(g) → NaN3(s) + NaOH(s) + NH3(g) 
+f. 
+10B + 1n → 4He + 7Li 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+6 
+6. a.  
+2 Cu2+(aq) + 2 H2O(l) → 2 Cu(s) + O2(g) + 4 H+(aq) 
+ 
+b. 
+Gas evolution begins at the cathode when the Cu(II) is exhausted from the solution. 
+ 
+0.120 A × 600. s = 72.0 C  
+ 
+72.0 C / 96500 C mol-1 = 7.46 × 10-4 mol electrons 
+ 
+Since each mol of Cu(s) deposited requires 2 mol electrons, there must have initially been 
+(7.46 × 10-4 mol)/2 = 3.73 × 10-4 mol CuSO4 
+ 
+c. 
+E° = 0.337 V – 1.229 V = –0.892 V 
+ 
+From the Nernst equation, E = Eº – (RT/nF)ln([PO2][H+]4/[Cu2+]2) 
+= –0.892 V – (0.0591/4)log([0.20][0.1]4/[7.46 × 10-4]2) 
+= –0.915 V 
+ 
+d. 
+As electrolysis proceeds, the reactants are depleted and the products increase in 
+concentration.  These will both contribute to an increasingly negative cell potential. 
+ 
+e. 
+Oxygen is evolved at the anode and hydrogen at the cathode. 
+ 
+f. 
+One mole of O2 is evolved for every four electrons, while one mole of H2 is evolved for 
+every two moles of electrons.  Thus, once H2 evolution begins, in ten minutes as much 
+volume of H2 will be evolved as O2 is evolved in twenty minutes.  In other words, the two 
+volumes will be equal at t = 20.0 min. 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+7 
+7. a. 
+In elemental Si, each Si is σ-bonded to four other Si atoms, arranged as a tetrahedron.  A 
+graphite-like structure would require Si-Si π bonds, which are very weak compared to 
+carbon-carbon π bonds. 
+ 
+b. 
+Si–Si σ bonding is weaker than C–C σ bonding.  These elements have electrons in 
+nominally filled valence bands separated from nominally empty conduction bands by an 
+energy gap that is larger the stronger the σ bonding (since the valence band is σ bonding 
+in character and the conduction band σ antibonding).  In silicon, this gap is small enough 
+in energy that a small number of electrons are promoted from the valence band to the 
+conduction band; these electrons and vacancies in the valence band (“holes”) are mobile 
+charge carriers and allow electrical conductivity.  The much larger band gap in diamond 
+gives rise to a negligible number of such carriers. 
+ 
+c. 
+ 
+ 
+The Lewis acidity of SiX4 relies on donation of the lone pair from the Lewis base to the 
+σ* orbital of the Si–X bond.  The more electronegative F atom lowers this in energy and 
+thus enhances the Lewis acidity of the silicon. 
+ 
+d. 
+P has one more proton than Si, and that proton is only incompletely shielded by its 
+additional electron.  Thus P has a greater attraction for its highest-energy valence electron 
+than Si and a correspondingly higher ionization energy.  Addition of an electron to P 
+requires it to enter an orbital that is already singly occupied, whereas Si can accept an 
+electron into an empty 3p orbital.  For phosphorus, the additional electron-electron 
+repulsion outweighs its higher Zeff. 
+ 
+e. 
+In carbon compounds, the 2s orbital and 2p orbital both interact strongly with other 
+atoms.  So the two nonbonding electrons in CH2 must occupy a p orbital and what is 
+effectively an sp2 orbital, which are close enough in energy that it is preferable to occupy 
+each orbital singly than to put both electrons in the lower-energy sp2 orbital.  In Si 
+compounds, the s orbital is too small to interact strongly with the H atoms, which bond to 
+essentially pure p orbitals.  The 3s orbital is much lower in energy than the 3p orbital, so 
+both nonbonding electrons occupy it. 
+ 
+ 
+ 
+
+2020 USNCO Part 2 Solutions 
+ 
+8 
+8. a. 
+i. 
+ 
+ 
+ 
+ii. 
+ 
+b. 
+2-methyl-2-butene reacts to form 2-methylbutanol, 
+ 
+ 
+c. 
+Cyclopentane is more stable.  Both compounds contain ten C–H bonds, but cyclopentane 
+contains five C–C single bonds, while 2-methyl-2-butene contains three C–C single 
+bonds and one C=C double bond.  The bond strength of a C=C double bond is less than 
+that of two C–C single bonds. 
+ 
+d. 
+ (or its enantiomer) 
+ 
+ 
+ 

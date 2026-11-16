@@ -1,0 +1,1730 @@
+Practical
+G0-1
+English (Official)
+General Instructions
+• This examination has 3 problems.
+• Before the start of the practical exam, the READ signal is given. You will have 15 minutes to read
+the exam booklet. You may only read during this time. Do not write nor use the calculator. Do
+not work on any problem nor interact with any equipment.
+• You may begin working as soon as the START signal is given. You will then have 5 hours to complete
+the exam.
+• Each signal is given by the ringing of a cowbell.
+• You may do practical work on only P3 first for up to 60 minutes. During this time you will only
+have access to the chemicals and equipment for P3 which are on your bench. Signals after 50 and
+60 minutes will be given.
+• Once finished with practical work on P3, raise the technical assistance card. A supervisor will collect
+all chemicals and equipment used only for P3. Question and answer sheets for P3 will not be
+collected. After this, you can start working on P1 and P2. The chemicals and equipment for these
+tasks are stored in the cabinet below your workspace.
+• All results and answers must be clearly written in pen in their respective designed areas on the
+answer sheets. Answers written outside the answer boxes will not be graded. Some figures are
+reproduced in your question sheets for scratch work. They will not be graded. Make sure to copy
+your final answer to your answer sheets.
+• For the multiple choice questions, if you want to change your answer, shade the check box com-
+pletely and then make a new box next to it. Mark your intended answer with a check.
+• Use only the pen (in Box "P3") and calculator provided.
+• The official English version of the exam booklet is available upon request and serves for clarification
+only.
+• Shelves above the benches are not to be used during the task for the purpose of equality.
+• You may use the cabinets below your work space to store any material. The cabinets become
+available after handing in materials for only P3.
+
+Practical
+G0-2
+English (Official)
+• You must follow the safety rules given in the IChO regulations. Any safety rule violation can result
+in your dismissal from the laboratory and the nullification of your practical examination.
+• Chemicals and labware, unless otherwise noticed, will be refilled or replaced without penalty only
+for the first incident (one item). Each further incident will result in the deduction of 1 point from
+your 40 practical exam points.
+• Only chemicals listed in a problem may be used to solve that problem. Failure to comply will result
+in the nullification your practical exam.
+• When necessary or instructed to do so, wash your glassware at your workspace. The sinks must
+not be used for washing glassware.
+• The supervisors will announce a 30-minute warning before the STOP signal.
+• You must stop your work immediately when the STOP signal is announced. Failure to stop working
+or writing can lead to nullification of your practical exam.
+• After the STOP signal has been given, the lab supervisor will come to sign your answer sheet.
+• After both the supervisor and you sign, put all sheets with the cover sheet on top back into the
+envelope. Do not seal the envelope. Submit it for grading together with your products and thin-
+layer chromatography (TLC) plates.
+• You are not allowed to leave your working place without permission. If you need any assistance,
+raise the corresponding nonverbal communication card (see table below for meanings).
+• Do not draw anything into or close to the QR codes.
+I
+need
+to
+use
+the toilet, grab a
+snack, or take a
+break
+I
+need
+technical
+assistance
+I have a medical
+emergency
+I need to see the
+official English ver-
+sion for clarifica-
+tion
+Meanings of the non-verbal communication cards.
+
+Practical
+G0-3
+English (Official)
+GOOD LUCK!
+
+Practical
+G0-4
+English (Official)
+Problems and Grading Information
+Title
+Question
+Pages
+Answer
+Pages
+Total Score
+Percentage
+1
+Bleach,
+a
+Chameleonic
+Reagent
+10
+4
+70
+16
+2
+Titration Tango
+4
+4
+90
+13
+3
+Beauty in Simplicity
+2
+4
+59
+11
+Total
+40
+
+Practical
+G0-5
+English (Official)
+Physical Constants and Equations
+Constants
+Planck constant
+ℎ= 6.626 ⋅10−34 J s
+Boltzmann constant
+𝑘𝐵= 1.381 ⋅10−23 kg m2 s−2 K−1
+Speed of Light
+𝑐= 2, 99792458 ⋅108 m s−1
+Elementary charge
+𝑒= 1.602 ⋅10−19 C
+Avogadro constant
+𝑁𝐴= 6.022 ⋅1023 mol−1
+Universal gas constant
+𝑅= 8.314 J mol−1 K−1
+Faraday constant
+𝐹= 96485 C mol−1
+Standard pressure
+𝑝0 = 1 ⋅105 Pa
+Electronvolt
+1 eV = 1.602 ⋅10−19 J
+Electric Charge & Current
+1 C = 1 A ⋅1 s
+Absolute zero
+0 K = −273.15 ∘C
+Ångstrom
+1 Å = 10−10 m
+pico
+1 pm = 10−12 m
+nano
+1 nm = 10−9 m
+micro
+1 𝜇m = 10−6 m
+milli
+1 mm = 10−3 m
+centi
+1 cm = 10−2 m
+deci
+1 dm = 10−1 m
+kilo
+1 km = 103 m
+mega
+1 Mm = 106 m
+giga
+1 Gm = 109 m
+tera
+1 Tm = 1012 m
+Pi (𝜋)
+𝜋= 3.141592 …
+Euler's number
+𝑒= 2.718281 …
+
+Practical
+G0-6
+English (Official)
+Equations
+Ideal gas law
+𝑝𝑉= 𝑛𝑅𝑇= 𝑁𝑘𝐵𝑇
+Gibbs free energy
+Δ𝐺= Δ𝐻−𝑇Δ𝑆
+Δ𝐺∘= −𝑅𝑇ln 𝐾∘
+Δ𝑟𝐺∘= −𝑛𝐹𝐸∘
+𝑐𝑒𝑙𝑙
+where 𝑛is the number of electrons
+Δ𝑟𝐺= Δ𝑟𝐺∘+ 𝑅𝑇ln 𝑄
+Reaction quotient 𝑄for reaction: 𝑎𝐴+𝑏𝐵⇌𝑐𝐶+𝑑𝐷
+𝑄= [𝐶]𝑐[𝐷]𝑑
+[𝐴]𝑎[𝐵]𝑏
+Nernst equation
+𝐸= 𝐸0 −𝑅𝑇
+𝑛𝐹ln 𝑄
+Electric current
+𝐼= 𝑄/𝑡
+Faraday equation
+𝐼⋅𝑡= 𝑛⋅𝑧⋅𝐹
+Energy of charge 𝑞in electric field
+𝐸= 𝑘𝑞1𝑞2
+𝑑
+Arrhenius law
+𝑘= 𝐴exp ( −𝐸𝐴
+𝑅𝑇)
+Lambert Beer equation
+𝐴= 𝜀𝑙𝑐
+Henderson-Hasselbalch equation
+pH = pKa + log( [𝐴−]
+[𝐻𝐴])
+Energy of a photon
+𝐸= ℎ𝜈= ℎ𝑐
+𝜆
+Integrated rate laws for ...
+... zeroth order
+[𝐴] = [𝐴]0 −𝑘𝑡
+... first order
+ln[𝐴] = ln[𝐴]0 −𝑘𝑡
+... second order
+1
+[𝐴] =
+1
+[𝐴]0 + 𝑘𝑡
+Half life for a first order reaction
+𝑡1/2 = ln 2
+𝑘
+Half life for a second order process
+𝑡1/2 =
+1
+[𝐴]0𝑘
+Radioactivity
+𝐴= 𝑘⋅𝑁
+Surface area of a sphere with radius 𝑅
+𝐴= 4𝜋𝑅2
+Volume of a sphere with radius 𝑅
+𝑉= 4𝜋
+3 𝑅3
+
+Practical
+G0-7
+English (Official)
+Periodic Table of the Elements
+
+Practical
+G0-8
+English (Official)
+Safety
+When in the laboratory students must respect the rules:
+• Do not eat or drink in the lab. Chewing gum is not allowed.
+• Work only in the designated area. Keep your work area and the common work areas tidy.
+• No unauthorized experiments are allowed. No modification of the experiments is allowed.
+• Vials and screw capped bottles must be kept closed whenever possible.
+• Do not pipette with your mouth. Always use a pipette filler bulb.
+• Inform your lab assistant about spills and broken glassware immediately. Inform the assistants
+about any accident.
+• All waste must be properly discarded to prevent contamination or injury. Dispose the solutions in
+the containers with the correct labels. If any containers is full inform your lab assistant.
+• Contact lenses are prohibited in the laboratory.
+During the examination, the students will be required to wear:
+• pants covering their whole legs;
+• closed and flat shoes;
+• a lab coat with long sleeves;
+• safety goggles fitting the contour of their face;
+• if applicable, long hair and beards tied back.
+Any student that would fail to respect these rules will not be allowed to enter the lab along with
+the nullification of their practical exam and exclusion from the practical exam.
+
+Practical
+G0-9
+English (Official)
+GHS Statements
+The GHS hazard and precautionary statements associated with the materials used are indicated in the
+problems. Their meanings are as follows:
+H-phrases Physical Hazards
+H224: Extremely flammable liquid and vapour
+H225: Highly flammable liquid and vapour
+H226: Flammable liquid and vapour
+H260: In contact with water releases flammable gases which may ignite spontaneously
+H272: May intensify fire: oxidizer
+H290: May be corrosive to metals
+H-phrases Health Hazards
+H301: Toxic if swallowed
+H301+H331: Toxic if swallowed or if inhaled
+H302: Harmful if swallowed
+H302+H312: Harmful if swallowed or in contact with skin
+H302+H312+H332: Harmful if swallowed, in contact with skin or if inhaled
+H302+H332: Harmful if swallowed or inhaled
+H304: May be fatal if swallowed and enters airways
+H311: Toxic in contact with skin
+H311+H331: Toxic in contact with skin or if inhaled
+H312: Harmful in contact with skin
+
+Practical
+G0-10
+English (Official)
+H312+H332: Harmful in contact with skin or if inhaled
+H314: Causes severe skin burns and eye damage
+H315: Causes skin irritation
+H317: May cause an allergic skin reaction
+H318: Causes serious eye damage
+H319: Causes serious eye irritation
+H331: Toxic if inhaled
+H332: Harmful if inhaled
+H335: May cause respiratory irritation
+H336: May cause drowsiness or dizziness
+H351: Suspected of causing cancer
+H361: Suspected of damaging fertility or the unborn child
+H361d: Suspected of damaging the unborn child
+H361f: Suspected of damaging fertility
+H371: May cause damage to organs
+H372: Causes damage to organs through prolonged or repeated exposure
+H373: May cause damage to organs through prolonged or repeated exposure
+H-phrases Environmental Hazards
+H400: Very toxic to aquatic life
+H410: Very toxic to aquatic life with long lasting effects
+
+Practical
+G0-11
+English (Official)
+H411: Toxic to aquatic life with long lasting effects
+H412: Harmful to aquatic life with long lasting effects
+H441: Very toxic to terrestrial invertebrates
+Prevention precautionary statements
+P202: Do not handle until all safety precautions have been read and understood.
+P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.
+P220: Keep/Store away from clothing/.../combustible materials.
+P223: Do not allow contact with water.
+P231: Handle and store contents under inert gas/...
+P232: Protect from moisture.
+P233: Keep container tightly closed.
+P234: Keep only in original container/packaging.
+P235: Keep cool.
+P240: Ground and bond container and receiving equipment.
+P241: Use explosion-proof electrical/ventilating/light/.../equipment.
+P242: Use only non-sparking tools.
+P243: Take action to prevent static discharges.
+P260: Do not breathe dust/fume/gas/mist/vapours/spray.
+P261: Avoid breathing dust/fume/gas/mist/vapours/spray.
+P264: Wash ... thoroughly after handling.
+
+Practical
+G0-12
+English (Official)
+P270: Do not eat, drink or smoke when using this product.
+P271: Use only outdoors or in a well-ventilated area.
+P273: Avoid release to the environment.
+P280: Wear protective gloves/protective clothing/eye protection/face protection.
+Response precautionary statements
+P301: IF SWALLOWED:
+P301+P310: IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician.
+P301+P312: IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel unwell.
+P301+P330+P331: IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.
+P302: IF ON SKIN:
+P302+P352: IF ON SKIN: Wash with soap and water.
+P303: IF ON SKIN (or hair):
+P303+P361+P353: IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse
+skin with water [or shower].
+P304: IF INHALED:
+P304+P340: IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for
+breathing.
+P305: IF IN EYES:
+P305+P351+P338: IF IN EYES: Rinse continuously with water for several minutes. Remove contact
+lenses if present and easy to do. Continue rinsing.
+P308: IF exposed or concerned:
+P308+P311: IF exposed or concerned: Call a POISON CENTER or doctor/physician.
+
+Practical
+G0-13
+English (Official)
+P310: Immediately call a POISON CENTER or doctor/physician.
+P311: Call a POISON CENTER or doctor/physician.
+P312: Call a POISON CENTER or doctor/physician if you feel unwell.
+P313: Get medical advice/attention.
+P314: Get Medical advice/attention if you feel unwell.
+P315: Get immediate medical advice/attention.
+P320: Specific treatment is urgent (see ... on this label).
+P330: Rinse mouth.
+P331: Do NOT induce vomiting.
+P332: If skin irritation occurs:
+P332+P313: If skin irritation occurs: Get medical advice/attention.
+P337: If eye irritation persists:
+P337+P313: If eye irritation persists: Get medical advice/attention.
+P338: Remove contact lenses if present and easy to do. Continue rinsing.
+P340: Remove victim to fresh air and keep at rest in a position comfortable for breathing.
+P351: Rinse cautiously with water for several minutes.
+P352: Wash with plenty of water.
+P353: Rinse skin with water [or shower].
+P361: Remove/Take off immediately all contaminated clothing.
+P363: Wash contaminated clothing before reuse.
+
+Practical
+G0-14
+English (Official)
+P370: In case of fire:
+P370+P378: In case of fire: Use ... to extinguish.
+P378: Use ... to extinguish.
+P391: Collect spillage.
+Storage precautionary statements
+P403: Store in a well ventilated place.
+P403+P233: Store in a well ventilated place. Keep container tightly closed.
+P403+P235: Store in a well ventilated place. Keep cool.
+P405: Store locked up.
+P422: Store contents under ...
+Disposal precautionary statements
+P501: Dispose of contents/container to ...
+
+Practical
+E0-1
+English (Official)
+List of Chemicals, Glassware, and Equipment
+Problem 1: Organic Synthesis: Bleach, a Chameleonic Reagent
+Chemical
+Labelled as
+Comment
+GHS Statements
+CH3COOH, 4 mL
+"AcOH"
+Corrosive
+H226, H314; P280, P210, P233,
+P240, P241, P242, P243, P260,
+P264, P280, P301+P330+P331,
+P302+P361+P354,
+P303+P361+P353, P304+P340,
+P305+P354+P338, P316, P321,
+P363, P370+P378, P403+P235,
+P405, P501
+Eluent
+(C6H14/EtOAc,
+80:20, v/v), 15 mL
+"Eluent"
+Flammable
+Ethyl Acetate:
+H225,
+H319,
+H336; P210, P233, P240, P241,
+P242, P243, P261, P264+P265,
+P271, P280, P303+P361+P353,
+P304+P340, P305+P351+P338,
+P319, P337+P317, P370+P378,
+P403+P233, P403+P235, P405,
+P501.
+Hexane:
+H225, H304, H361f,
+H373,
+H315,
+H336,
+H411;
+P203, P210, P233, P240, P241,
+P242, P243, P260, P261, P264,
+P271, P273, P280, P301+P316,
+P302+P352, P303+P361+P353,
+P304+P340, P318, P319, P321,
+P331, P332+P317, P362+P364,
+P370+P378, P391, P403+P233,
+P403+P235, P405, P501
+HCl, 2 M in H2O, 25 mL
+"2 M HCl"
+Corrosive
+H290,
+H314,
+H318,
+H335;
+P260, P280, P303+P361+P353,
+P305+P351+P338
+
+Practical
+E0-2
+English (Official)
+p-
+Methoxyacetophenone,
+2 x 500 mg
+"SM-A"
+"SM-B"
+H302, H315; P264, P270, P280,
+P301+P317, P302+P352, P321,
+P330, P332+P317, P362+P364,
+P501
+NaHSO3 (ca. 40% in H2O),
+8 mL
+"NaHSO3 (aq)"
+H302; P264, P270, P301+P317,
+P330, P501
+NaOCl (ca. 14% in H2O),
+7.5 mL for preparation of
+product A,
+4.0 mL for preparation of
+product B
+"Bleach-A"
+"Bleach-B"
+Corrosive
+H314,
+H318,
+H400,
+H410;
+P260,
+P264,
+P264+P265,
+P273, P280, P301+P330+P331,
+P302+P361+P354, P304+P340,
+P305+P354+P338, P316, P317,
+P321, P363, P391, P405, P501
+Na2SO4, ca. 5 g
+"Na2SO4"
+H315,
+H318;
+P264,
+P264+P265, P280, P302+P352,
+P305+P354+P338, P317, P321,
+P332+P317, P362+P364
+C6H5CH3, 40 mL
+"Toluene"
+Flammable
+H225,
+H304,
+H315,
+H336,
+H361d,
+H373,
+H412;
+P203,
+P210, P233, P240, P241, P242,
+P243, P260, P261, P264, P271,
+P280, P301+P316, P302+P352,
+P303+P361+P353, P304+P340,
+P318,
+P319,
+P321,
+P331,
+P332+P317,
+P362+P364,
+P370+P378,
+P403+P233,
+P403+P235, P405, P501
+Distilled water
+"dest. Wasser"
+Not hazardous according to
+Regulation (EC) no. 1272/2008
+NaOH
+(1 M
+in
+H2O),
+6.7 mL
+"NaOH (aq)"
+Corrosive
+H290,
+H314;
+P260,
+P264,
+P280,
+P301+P330+P331,
+P302+P361+P354, P304+P340,
+P305+P354+P338, P316, P321,
+P363, P405, P501
+(CH3)2CO
+"Aceton"
+Flammable
+H225, H319, H336; P210, P233,
+P240, P241, P242, P305 + P351
++ P338
+
+Practical
+E0-3
+English (Official)
+Personal equipment
+Quantity
+Laboratory stand
+1
+Clamp with clamp holder
+4
+Magnetic stirrer with hotplate
+1
+Magnetic stir bar (rod-shaped, 2.5 cm)
+2
+Magnetic stir bar (olive-shaped, 2 cm long, 1 cm thick)
+1
+Water bath: crystallization dish (filled 1/3 with water,
+equiped with 1 magnetic stir bar)
+1
+Thermometer (0 −100 ∘C)
+1
+Round-bottom flask (50 mL)
+2
+Vigreux column
+1
+Hose adapter, bent,
+connected to gas bubbler
+1
+Gas bubbler with PVC hose,
+charged with trap solution (EtOH/aq. 1 M NaOH, 10:90, v/v)
+1
+Graduated cylinder (10 mL)
+1
+Graduated cylinder (50 mL)
+1
+Erlenmeyer flask (50 mL)
+1
+Suction flask (500 mL),
+with rubber protection sleeve and rubber gasket,
+connected to vacuum trap
+1
+Vacuum trap, connected to vacuum module
+1
+Glass filter crucible (8 mL)
+1
+Separatory funnel (50 mL) with plastic stopper
+1
+Glass funnel
+1
+TLC elution chamber with lid
+1
+TLC plate, in the ziplock bag labeled "TLC + [student code]"
+3
+
+Practical
+E0-4
+English (Official)
+TLC capillary
+6
+Vials (4 mL), labeled "TLC-SM", "TLC-A", and "TLC-B"
+3
+Vial (20 mL), labeled "Product A + [student code]"
+1
+Vials (20 mL), labeled "SM-A", "SM-B", "Bleach-A", "Bleach-B", "AcOH",
+"NaOH (aq)", "NaHSO3 (aq)", "Na2SO4"
+8
+Bottles (50 mL), labeled "Eluent", "Toluene", and "2 M HCl"
+3
+Volumetric flask (50 mL), labeled "Product B + [student code]"
+1
+Pasteur pipette
+12
+Beaker (100 mL)
+1
+Spatula (large)
+1
+Spatula (small)
+1
+Tweezers
+1
+Joint clip
+1
+Cork ring
+1
+pH Indicator strip, in the ziplock bag labeled "TLC +[student code]"
+10
+Filter paper
+1
+Pencil
+1
+Ruler
+1
+Squeeze wash bottle for acetone (500 mL)
+1
+Bottle for aqueous waste (250 mL),
+labelled "Waste (aq)",
+pre-charged with Na2S2O3 solution
+1
+Bottle for organic waste (100 mL), labelled "Waste (org)"
+1
+Weighing paper
+3
+Shared equipment
+Quantity (per lab, 20 capita)
+UV lamp
+1
+Magnetic stir bar remover
+2
+Crushed ice, bucket
+2
+
+Practical
+E0-5
+English (Official)
+Problem 2: Titration Tango
+Chemical
+State
+Comment
+GHS Hazard Statements
+CaCl2.2H2O
+Solid
+in vial labeled "CaCl2.2H2O +
+[student code] + [mass]"
+H319; P264, P280, P305 + P351 +
+P338, P337 + P313
+Distilled water
+Liquid
+In wash bottle labeled "dest.
+Wasser"
+Not a hazardous substance or mix-
+ture according to Regulation (EC) No.
+1272/2008
+EDTA standard so-
+lution (10.0 mM)
+Liquid
+500 mL, in PE bottle labeled
+"EDTA"
+H290, H314, H335; P234, P261, P271,
+P280, P303 + P361 + P353, P305 +
+P351 + P338
+0.1 M HCl
+Liquid
+10 mL, corrosive, in vial la-
+beled "0.1 M HCl"
+H290; P234, P390
+Sample (mixture),
+dissolved in HCl,
+pH = 1
+Liquid
+in vial labeled "Sample +
+[student code] + [mass]",
+corrosive
+H290, H319; P234, P264, P280, P305
++ P351 + P338, P337 + P313, P390
+Eriochrome®
+Black T (1 wt. % in
+NaCl)
+Solid
+1 g, indicator, in vial labeled
+"Erio T"
+H319, H411; P264, P273, P280, P305
++ P351 + P338, P337 + P313, P391
+Variamine
+Blue
+(1 wt. % in NaCl)
+Solid
+1 g, indicator, in vial labeled
+"Variamine"
+H302, H312, H332; P264, P270, P301
++ P312, P330, P501, P280, P302 +
+P352, P312, P322, P363, P261, P271,
+P304 + P340
+Schwarzenbach
+buffer (pH = 10,
+𝑐HB+ + 𝑐B = 8.8 M)
+Liquid
+10 mL, containing NH4Cl and
+NH3, in vial labeled "Buffer"
+H302,
+H314,
+H319,
+H335,
+H410;
+P261, P264, P270, P271, P273, P280,
+P303 + P361 + P353, P305 + P351 +
+P338, P310 + P312, P337 + P313
+Ethanol
+Liquid
+200 mL,
+flammable,
+in
+250 mL bottle labeled "EtOH"
+H225, H319; P210, P233, P240, P241,
+P242, P305 + P351 + P338
+
+Practical
+E0-6
+English (Official)
+Item
+Count
+20 mL vial
+6, labeled "CaCl2.2H2O + [student code] +
+[mass]", "0.1 M HCl", "Erio T", "Sample + [stu-
+dent code] + [mass]", "Variamine", "Buffer"
+Volumetric flask (100 mL)
+1
+Volumetric flask (250 mL)
+1
+Small funnel, fitting the burette
+1
+Spatula
+1
+Erlenmeyer flask (300 mL)
+3
+Volumetric pipette (5.0 mL)
+1
+Pipette bulb
+1
+Graduated cylinder (50 mL)
+1
+Glass Pasteur pipette
+4
+Burette (50 mL)
+1
+Laboratory stand with burette holder
+1
+PE bottle (500 mL), labeled "EDTA"
+1
+Bottle (250 mL), labeled "EtOH")
+1
+Beaker (50 mL)
+1
+Volumetric pipette (20.0 mL)
+1
+Beaker (1000 mL), labeled "Waste (P2)"
+1
+
+Practical
+E0-7
+English (Official)
+Problem 3: Beauty in Simplicity
+Chemical
+State
+Comment
+GHS Hazard Statements
+Solutions S1-S6
+Liquid
+Corrosive,
+in vials labeled
+"S1"/"S2"/"S3"/"S4"/"S5"/"S6"
++ "[student code]"
+H272,
+H290,
+H301,
+H302,
+H314,
+H315,
+H318,
+H319,
+H332,
+H335,
+H373, H400, H410, H411
+Item
+Count
+Bottle (100 mL), labeled "Waste (P3)"
+1
+Sample
+vials
+(20 mL),
+labeled
+"S1"/"S2"/"S3"/"S4"/"S5"/"S6"
++
+"[student
+code]"
+6
+Test tubes
+18
+Glass Pasteur pipettes
+10
+Test tube rack
+1
+Equipment shared among all problems
+Personal Equipment for all Problems
+Quantity
+Pen, in box "P3"
+1
+Felt pen, in box "P3"
+1
+Rubber bulb for Pasteur pipettes, in box "P3"
+3
+Protective gloves
+(S, M, L, XL) available upon request to lab assis-
+tant
+Paper towel roll
+1
+Squeeze wash bottle for water (500 mL),
+to be refilled w/o penalty at any time
+1
+
+Practical
+Q1-1
+English (Official)
+Bleach, a Chameleonic Reagent
+16% of total
+Question
+Yield
+A
+TLC
+A
+Deductions
+A
+Yield
+B
+TLC
+B
+Deductions
+B
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+Total
+Points
+25
+3
+-6
+25
+3
+-25
+4
+2
+2
+2
+2
+2
+70
+Score
+Experimental Procedure
+Legend for translation: Bleach, p-methoxyacetophenone, major product
+Preparation of Product A
+1. Turn on the magnetic stirrer hotplate and set the control knob between 100 °C and 150 °C in order
+to reach the desired water bath temperature of 70 −80 °C. While stirring, control the temperature
+of the water bath with a thermometer clamped to the stand.
+2. While the water bath is heating up, take a small sample (small spatula tip) of p-methoxyacetophenone
+from the vial labeled “SM-A”, transfer it to the vial labeled “TLC-SM” and set it aside for thin layer
+chromatography (TLC) analysis (to be carried out after the preparation of product B).
+3. To a 50 mL round-bottom flask, add a stir bar (olive-shaped), p-methoxyacetophenone (500 mg, en-
+tire content of the vial labeled “SM-A”, a weighing paper may be used for the transfer), NaOH (aq)
+(6.7 mL, entire content of the vial labeled “NaOH (aq)”), and bleach (7.5 mL, entire content of the
+vial labeled “Bleach-A”).
+4. Clamp the flask to the stand and lower it into the water bath by adjusting the position of the clamp.
+Make sure the reaction mixture is stirring rapidly (ca. 750 rpm).
+
+Practical
+Q1-2
+English (Official)
+5. Attach a Vigreux column to the flask (Figure 1). To the top of the Vigreux column, attach the bent
+hose adapter which is connected via tubing to a gas bubbler (filled with a trap solution of NaOH in
+EtOH/H2O). Secure the joint with a clip.
+6. Let the reaction run at 70 −80 °C for 60 minutes.
+Figure 1: 1 = Laboratory stand, 2 = water bath, 3 = clamp holder with clamp, 4 = thermometer,
+5 = gas bubbler, 6 = tubing, 7 = hose adapter with inner ground glass joint, 8 = joint clip, 9 =
+Vigreux column, 10 = round-bottom flask, 11 and 12 = magnetic stir bar, 13 = magnetic stirrer
+with hotplate
+7. Turn off the heating, raise the flask above the water bath by adjusting the position of the clamps.
+Raise the technical assistance card for the removal of the water bath by an assistant. Allow the
+mixture to cool down while stirring and proceeding with the next steps.
+8. Disconnect the gas bubbler from the Vigreux column by removing the bent hose adapter. Remove
+the Vigreux column (it will be reused in the preparation of product B).
+9. Ask a lab assistant for crushed ice and cool the reaction flask in an ice-water bath while stirring (ca.
+5 minutes).
+10. With the flask still in the ice-water bath, slowly add NaHSO3 solution (aq, 40%) (ca. 5 mL from the
+vial “NaHSO3 (aq)”; 1 mL corresponds to ½ Pasteur pipette, see Figure 2) with a Pasteur pipette.
+Keep stirring. A white precipitate (product A) will form.
+
+Practical
+Q1-3
+English (Official)
+Figure 2: Pasteur pipette with approximate volume indications (scale 1:2)
+11. Adjust the pH to 1−2 by adding 2 M HCl (aq) (ca. 6 −8 mL, from the screw cap glass bottle labeled
+“2 M HCl (aq)”) with a Pasteur pipette. Check the pH of the reaction mixture, using pH indicator
+strips (for reference color pattern see Figure 3). To do so, withdraw a small aliquot of the reaction
+mixture with a fresh Pasteur pipette and drip a drop onto a pH indicator strip, do not dip the strips
+into the reaction mixture. Continue adding HCl until pH ≈1−2, then stop.
+Figure 3: Color scale for pH determination by visual comparison with the reaction zones on
+the indicator strips. The pH values are the numbers indicated on the left. All four reaction
+zones on the pH paper strip have to match the color scale at a given pH value. You may ask
+your lab assistant to see the commercial product with the color scale printed on it.
+
+Practical
+Q1-4
+English (Official)
+12. Ask a lab assistant for a magnetic stir bar remover, turn off the stirrer and remove the stir bar
+from the flask. Clean the stir bar by rinsing it first with water (→"Waste (aq)"), then with acetone
+(→"Waste (org)") and dry it with a paper towel. It will be reused later.
+13. Set up a vacuum filtration apparatus:
+Clamp the suction flask to the laboratory stand and
+make sure the conical rubber gasket is sitting on the rubber protection sleeve (Figure 4).
+Figure 4: 1 = Glass filter crucible, 2 = conical rubber gasket, 3 = rubber protection sleeve, 4 =
+towards vacuum, 5 = suction flask
+14. Place the glass filter crucible onto the conical rubber gasket. Make sure it fits tightly.
+15. Apply vacuum and pour the suspension of the solid to be filtered into the glass filter crucible.
+Depending on the amount of liquid, this needs to be done portionwise.
+16. Wash the solid thoroughly with water (2 x 10 mL; a measuring cylinder may be used).
+17. Let air suck through the precipitate to remove most of the water (no more than 10 minutes), then
+turn off the vacuum and disconnect the vacuum source.
+18. Set aside a small sample (1 small spatula tip) of product A in the glass vial labeled “TLC-A” for thin
+layer chromatography (TLC) analysis (to be carried out later).
+19. Transfer the product from the glass filter crucible to the vial labeled “Product A + [student code]”
+with a spatula.
+
+Practical
+Q1-5
+English (Official)
+20. Cap the vial labeled “Product A + [student code]”. At the end of the exam, it will be picked up by
+your lab assistant.
+21. Dispose of the filtrate (suction flask) in the “Waste (aq)” bottle.
+Preparation of product B
+1. Take a fresh 50 mL round-bottom flask, add a magnetic stir bar (olive-shaped) and clamp the flask
+to the stand.
+2. Add p-methoxyacetophenone (500 mg, entire content of the vial “SM-B”, a weighing paper may be
+used for the transfer) and glacial acetic acid (4 mL, entire content of the vial “AcOH”) to the flask.
+3. While stirring, add bleach (4.0 mL, entire content of the vial “Bleach-B”) dropwise over a period of
+1 −2 minutes, using a Pasteur pipette.
+4. Attach a Vigreux column to the flask.
+5. Rapidly stir the reaction (750 rpm) at room temperature for 45 minutes.
+6. Remove the Vigreux column and dropwise add aqueous sodium bisulfite solution (40 %) (ca. 3 mL,
+remaining content of the vial “NaHSO3 (aq)”) to the mixture over a period of 1 minute, using a
+Pasteur pipette. Note that the mixture warms up during the addition.
+7. Ask a lab assistant for a magnetic stir bar remover, turn off the stirrer and remove the stir bar
+from the flask.
+8. Clamp a 50 mL separatory funnel to the stand. Add 10 mL of water (a measuring cylinder may be
+used).
+9. Pour the reaction mixture from the round-bottom flask via a glass funnel into the separatory funnel.
+10. Add toluene (ca. 10 mL, from the screw cap bottle “Toluene”; a measuring cylinder may be used),
+then remove the funnel.
+11. Seal the separatory funnel with a stopper and shake it vigorously for a while. Make sure to inter-
+rupt shaking and to vent the funnel from time to time, with its spout pointing away from yourself
+and others.
+12. Stop shaking, vent the funnel one more time, then clamp it to the stand. Remove the stopper and
+let the layers separate.
+
+Practical
+Q1-6
+English (Official)
+13. Drain the lower (aqueous) layer into the used reaction flask (round-bottom flask). Pour the top
+(organic) layer containing product B into a 50 mL Erlenmeyer flask.
+14. Extract the aqueous phase two more times with toluene by repeating steps 9 to 13 twice. Collect
+the organic extracts in the same Erlenmeyer flask.
+15. Rinse the glass funnel with acetone (→“Waste (org)”) and let it dry.
+16. Add sodium sulfate (entire content of the vial “Na2SO4”) to the Erlenmeyer flask with the combined
+organic extracts. Add a stir bar (rod-shaped) and stir the suspension for 3 minutes on the magnetic
+stirrer, then turn off the stirrer.
+17. Let the glass funnel sit on a clamp and have its spout protrude into the volumetric flask labeled
+“Product B + [student code]”. Place a filter paper into the glass funnel and wet it with a small
+amount of toluene using a Pasteur pipette.
+18. Filter the contents of the Erlenmeyer flask into the volumetric flask “Product B + [student code]”
+(the solution does not reach the mark). Rinse the Erlenmeyer flask with toluene (ca. 5 mL), using
+the same Pasteur pipette, and pour the solvent into the filter.
+19. With a Pasteur pipette, transfer 4 drops of your “product B” solution into the vial “TLC-B”.
+20. Stopper the volumetric flask. At the end of the exam, it will be picked up by your lab assistant.
+21. Dispose of the aqueous phase collected in the reaction flask (→“Waste (aq)”).
+
+Practical
+Q1-7
+English (Official)
+Thin Layer Chromatography (TLC) Analysis
+Figure 5: SM = starting material = p-methoxyacetophenone, A = product A, SM+A = co-spot
+of starting material and product A, B = product B, SM+B = co-spot of starting material and
+product B.
+1 = starting line, 2 = front line, 3 = position to write down your student code.
+1. Prepare the elution chamber: Load it to a level of ca. 0.5 cm with the eluent (mixture hexane/EtOAc
+in a 80:20 ratio, screw cap bottle “Eluent”) and cover it with the lid. If necessary, you can get extra
+eluent from your lab assistant without penalty.
+2. Prepare your samples: Using a Pasteur pipette, add ca. 0.5 mL of eluent to each of the vials “TLC-
+SM”, “TLC-A”, and “TLC-B” to dissolve/dilute the respective samples. Cap the vial “TLC-A” and shake
+it (ca. 0.5 minute) for faster dissolution.
+3. Prepare a TLC plate (stationary phase: SiO2 on aluminium) for the analysis of product A (Fig-
+ure 5, left): With pencil and ruler, gently draw the starting line ca. 1 cm above the bottom of
+the plate and mark the positions to spot 3 samples.
+Label them “SM” = starting material =
+p-methoxyacetophenone, “A” = product A, and “SM+A” = co-spot of SM and product A (both com-
+pounds are deposited on the same point of the TLC plate). On the top left of the plate, write down
+your Student Code.
+4. Similarly prepare another TLC plate for the analysis of product B (Figure 5, right).
+
+Practical
+Q1-8
+English (Official)
+5. Using capillary spotters, spot the two TLC plates on the starting line according to the labeling just
+done (Figure 5). Use a different capillary for each sample. Wait until the solvents have evaporated
+and the spots are dry.
+6. Develop the TLC plates (either simultaneously or one after the other): Using tweezers, insert the
+TLC plate(s) into the elution chamber and cover it with the lid. Let the eluent reach a level of
+1−2 cm below the top of each plate. Remove the lid and, using tweezers, remove the plate(s) from
+the chamber. Mark the eluent front gently with a pencil and let the plate(s) air-dry.
+7. Visualize the dry TLC plates under the UV lamp kept on a common bench. With a pencil, gently
+circle all visible spots.
+8. Complete the templates on the answer sheet by sketching in the spots observed under the UV
+light. Use these sketches to answer the TLC-related questions on the answer sheet.
+9. Carefully place your dry TLC plates into the zip lock bag with your student code. Avoid that the
+plates scratch each other.
+10. Have the following items ready to be picked up by your lab assistant:
+• The glass vial and the volumetric flask with your products. They are labeled with your
+student code and the designation of the respective product (“Product A + [student code]”
+and “Product B + [student code]”).
+
+Practical
+Q1-9
+English (Official)
+• A zipped bag labeled with your student code and containing the two TLC plates (TLC analysis
+of products A and B).
+Note added post festum: The elaboration of the present exam question was inspired by the following
+publication: C. E. Ballard, J. Chem. Educ. 2010, 87, 190. The yields of products A and B were determined
+by 1H-NMR spectroscopy and gas chromatography (GC), respectively, using internal standards.
+
+Practical
+Q1-10
+English (Official)
+Analytics - Reserved for administration (not to be filled by the participant)
+Yield.A
+25pt
+TLC.A
+3pt
+Ded.A
+-6pt
+Yield.B
+25pt
+TLC.B
+3pt
+Ded.B
+-25pt
+Questions
+Legend for translation: Bleach, p-methoxyacetophenone, major product
+Answer each of the following questions by ticking the appropriate checkbox (1 correct answer per ques-
+tion; ambiguous answers will be marked as incorrect).
+
+Practical
+Q1-11
+English (Official)
+1.1
+Answer questions a – d based on the above sketch of your TLC plates (stationary
+phase: SiO2 on aluminium; eluent: hexane/EtOAc in a 80:20 ratio). No points
+will be attributed if the sketch is not done.
+ 
+a. Which of the two products is more polar, A or B? Choose the correct answer.
+ 
+b. Which of the following two compounds is more polar, product A or the start-
+ing material (SM)? Choose the correct answer.
+ 
+c. Does your product A contain some remaining starting material? Choose the
+correct answer.
+ 
+d. Does your product B contain some remaining starting material? Choose the
+correct answer.
+4pt
+1.2
+Identify the structure of product A (empirical formula C8H8O3). The possible
+answers can be found of the answer sheet.
+2pt
+1.3
+As apparent from the empirical formula of product A (C8H8O3), a C1 (= one car-
+bon atom containing) fragment is cleaved off the starting molecule (C9H10O2)
+in the course of the formation of A. After the reaction, the C1 fragment ends up
+containing chlorine. Identify its structure. The possible answers can be found
+on the answer sheet.
+2pt
+1.4
+The formation of product A is a redox reaction.
+ 
+a. In this reaction, which atom type (element) is affected by an increase in oxi-
+dation number? Choose the correct answer on the answer sheet.
+ 
+b. In this reaction, which atom type (element) is affected by a decrease in oxi-
+dation number? Choose the correct answer on the answer sheet.
+ 
+2pt
+1.5
+Identify the structure of product B (empirical formula C9H9ClO2). The possible
+answers can be found on the answer sheet.
+2pt
+1.6
+At some point in the synthesis of product B, NaHSO3 (aq) is added to the reac-
+tion mixture. While serving its purpose, hydrogensulfite (HSO−
+3 ) undergoes a
+chemical reaction. Identify the resulting sulfur-containing species. Note that
+this question is not aimed at the protonation state of the resulting S-containing
+species (acid-base equilibria are ignored here). The possible answers can be
+found on the answer sheet.
+2pt
+
+Practical
+A1-1
+English (Official)
+Bleach, a Chameleonic Reagent - Answer Sheet
+16% of total
+Question
+Yield
+A
+TLC
+A
+Deductions
+A
+Yield
+B
+TLC
+B
+Deductions
+B
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+Total
+Points
+25
+3
+-6
+25
+3
+-25
+4
+2
+2
+2
+2
+2
+70
+Score
+Thin Layer Chromatography (TLC) Analysis
+Templates for step 8 of the TLC analysis:
+
+Practical
+A1-2
+English (Official)
+Submitted Items
+Product A
+□
+Product B
+□
+TLC A
+□
+TLC B
+□
+Signatures
+Student
+Lab Assistant
+Analytics - Reserved for administration (not to be filled by the participant)
+Yield.A (25 pt)
+TLC.A (3 pt)
+Ded.A (−6 pt)
+Yield.B (25 pt)
+TLC.B (3 pt)
+Ded.B (−25 pt)
+
+Practical
+A1-3
+English (Official)
+Questions
+Legend for translation: Bleach, p-methoxyacetophenone, major product
+Answer each of the following questions by ticking the appropriate checkbox (1 correct answer per ques-
+tion; ambiguous answers will be marked as incorrect).
+1.1 (4 pt)
+Answer questions a-d based on the above sketch of your TLC plates (stationary phase: SiO2 on alu-
+minium; eluent: hexane/EtOAc in a 80:20 ratio). No points will be attributed if the sketch is not done.
+ 
+a. Which of the two products is more polar, A or B? Choose the correct answer.
+□Product A
+□Product B
+ 
+b. Which of the following two compounds is more polar, product A or the starting material (SM)?
+Choose the correct answer.
+□Product A
+□Starting Material
+ 
+c. Does your product A contain some remaining starting material? Choose the correct answer.
+□Yes
+□No
+ 
+d. Does your product B contain some remaining starting material? Choose the correct answer.
+□Yes
+□No
+1.2 (2 pt)
+Identify the structure of product A (empirical formula C8H8O3):
+
+Practical
+A1-4
+English (Official)
+1.3 (2 pt)
+As apparent from the empirical formula of product A (C8H8O3), a C1 fragment is cleaved off the start-
+ing molecule (C9H10O2) in the course of the formation of A. After the reaction, the C1 (= one carbon
+atom containing) fragment ends up containing chlorine. Identify its structure:
+1.4 (2 pt)
+The formation of product A is a redox reaction.
+a. In this reaction, which atom type (element) is affected by an increase in oxidation number? Choose
+the correct answer:
+b. In this reaction, which atom type (element) is affected by a decrease in oxidation number? Choose
+the correct answer.
+1.5 (2 pt)
+Identify the structure of product B (empirical formula C9H9ClO2):
+
+Practical
+A1-5
+English (Official)
+1.6 (2 pt)
+At some point in the synthesis of product B, NaHSO3 (aq) is added to the reaction mixture. While
+serving its purpose, hydrogensulfite (HSO−
+3 ) undergoes a chemical reaction. Identify the resulting
+sulfur-containing species. Note that this question is not aimed at the protonation state of the re-
+sulting S-containing species (acid-base equilibria are ignored here).
+
+Practical
+Q2-1
+English (Official)
+Titration Tango
+Points:
+13% of total
+Question
+Titration 1
+Titration 2
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+Total
+Points
+30
+40
+5
+4
+4
+2
+1
+2
+2
+90
+Score
+Introduction
+Iron was historically mined and processed in 19 Swiss cantons, meeting local and regional demand.
+Evidence of this activity remains, particularly in the Swiss Jura. To produce iron and steel efficiently,
+knowledge of the composition of the iron ore is essential. A versatile method to analyze any metal in
+solution is the complexometric titration, pioneered by Prof. Gerold Schwarzenbach at ETH in the 1940s.
+You are provided with a sample containing only hydrates of FeCl3 and CaCl2, dissolved in aqueous HCl.
+This simulates an iron ore sample, which has been digested with hydrochloric acid. Your task is to
+determine the iron concentration and the overall composition of the sample by complexometric
+titrations.
+Any aqueous waste of this task is considered to contain heavy metals and should be collected in the
+beaker labelled “Waste P2”.
+Procedure
+Part I. Dilution of Unknown Iron Ore Sample
+1. You are given a sample of ca. 1200 mg of simulated iron ore. The exact mass is written on the label
+of your vial. Report it in your Answer Sheet. The sample has already been dissolved in aqueous
+HCl of pH 1.
+2. Prepare 100 mL of sample solution in the 100 mL volumetric flask using the whole content from the
+vial labelled "Sample + [student code]" and distilled water. You may use a funnel. This solution is
+called A. This solution will be used in part II and IV.
+Part II. Direct Titration of Iron Ore Solution
+3. Fill the burette with 10.0 mM EDTA solution, labelled as "EDTA". You may use a funnel and a beaker.
+
+Practical
+Q2-2
+English (Official)
+4. In a 300 mL Erlenmeyer flask:
+• Add 5.00 mL of solution A using a volumetric pipette;
+• Add 10 drops of 0.1 M hydrochloric acid using a glass Pasteur pipette;
+• Fill up to the 100 mL mark of your Erlenmeyer flask with distilled water;
+• Add a small amount of variamine blue using a spatula.
+5. Titrate the content of the Erlenmeyer flask until the solution becomes yellow. Record the titration
+volume V1 in your Answer Sheet.
+6. Discard the titrated content of the Erlenmeyer flask in the beaker labelled “Waste P2”.
+7. Repeat the procedure (steps 3 – 6) as needed.
+8. Report your final result in the last row on the Answer Sheet.
+Part III. Titer preparation
+9. You are given a sample of ca. 550 mg of pure calcium chloride dihydrate (CaCl2⋅2H2O). The exact
+mass is written on the label of your vial. Report it in the table in your Answer Sheet.
+10. Prepare 250 mL of calcium chloride solution in the 250 mL volumetric flask using the whole sample
+of solid CaCl2⋅2H2O (MW = 147.0 g/mol) and distilled water. You may need a funnel to transfer the
+solid. This solution is called B. It will be used in part IV.
+Part IV. Indirect Titration of Iron Ore Solution
+11. Empty the burette. Rinse the burette well with distilled water and then with solution B. You may
+use a beaker. Discard the rinse solutions in the beaker labelled “Waste P2”.
+12. Fill the burette with solution B. You may use a funnel and a beaker.
+13. In a 300 mL Erlenmeyer flask, add:
+• 5.00 mL of solution A using a volumetric pipette;
+• 40.0 mL of 10.0 mM EDTA solution, labelled as "EDTA", using a volumetric pipette;
+
+Practical
+Q2-3
+English (Official)
+• 10 drops of buffer solution using a glass Pasteur pipette (be careful when opening the buffer
+solution, as there can be evolution of ammonia);
+• 25 mL of distilled water using a graduated cylinder;
+• 30 mL of ethanol using a graduated cylinder.
+Your sample may be turbid.
+14. To the 300 mL Erlenmeyer flask, add a small amount of Eriochrome® Black T, from the vial labelled
+with "Erio T". Your sample should now be intense blue-green. Perform the titration immediately
+after the addition of the indicator.
+Note: After addition of the indicator, the color will change to red after several minutes, regardless
+of the progress of the titration. At that point, the titration endpoint is no longer detectable.
+15. Titrate the content of the Erlenmeyer flask until the solution turns grey. Record the titration vol-
+ume V2. Your expected volume is below 15 mL.
+16. Discard the titrated content of the Erlenmeyer flask in the beaker labelled “Waste P2”.
+17. Repeat the procedure (steps 12 – 16) as needed.
+18. Report your final result in the last row on the Answer Sheet.
+Titr.1
+30pt
+Titr.2
+40pt
+
+Practical
+Q2-4
+English (Official)
+Questions
+2.1
+Provide the chemical formula of the resulting EDTA complex formed in the di-
+rect titration up to the equivalence point. The structure of EDTA is given be-
+low. In your chemical formula, abbreviate EDTA as "H4Y", its conjugate bases
+as "H3Y-", "H2Y2-" etc.
+Hint: Under these conditions, one of the metal ions in solution preferentially
+forms an EDTA complex.
+5pt
+Structure of EDTA (equivalent to H4Y).
+2.2
+Calculate the mass percentage of iron(III) chloride (without water of crystalliza-
+tion), in 𝑤𝑡.%, of the provided sample. The molar mass of FeCl3 is 162.2 g/mol.
+4pt
+2.3
+Calculate the mass percentage of calcium chloride (without water of crystalliza-
+tion), in 𝑤𝑡.%, of the provided sample. The molar mass of CaCl2 is 111.0 g/mol.
+4pt
+2.4
+Calculate the mass percentage of water of crystallization, 𝑤𝑡.%, of the provided
+sample.
+2pt
+2.5
+Why is it necessary to keep the sample solution A at pH < 2?
+ 
+Identify the correct answer among the four choices below and fill in the cor-
+responding checkbox in your Answer Sheet.
+1pt
+2.6
+The solution you were given simulates the digestion of iron ore with concen-
+trated HCl. Which of the following mixtures could be analyzed by the same
+procedure?
+ 
+Identify the correct answer among the four choices below and fill in the cor-
+responding checkbox in your Answer Sheet.
+2pt
+
+Practical
+Q2-5
+English (Official)
+2.7
+Why does the sample for the indirect titration show a color change from blue
+to red regardless of the progress of the titration?
+ 
+Identify the correct answer among the four choices below and fill in the cor-
+responding checkbox in your Answer Sheet.
+2pt
+
+Practical
+A2-1
+English (Official)
+Titration Tango
+13% of total
+Question
+Titration 1
+Titration 2
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+Total
+Points
+30
+40
+5
+4
+4
+2
+1
+2
+2
+90
+Score
+Procedure:
+Part I. Dilution of Unknown Iron Ore Sample
+Mass of simulated iron ore [mg] (Report the
+value on the label)
+Part II. Direct Titration of Iron Ore Solution
+Analysis Nr.
+V1 [mL]
+1
+2
+3
+Reported value V1 [mL]
+Titr.1 (30 pt)
+Part III. Titer preparation
+Mass of calcium chloride dihydrate [mg] (MW =
+147.0 g/mol)
+(Report the value on the label)
+
+Practical
+A2-2
+English (Official)
+Part IV. Indirect Titration of Iron Ore Solution
+Analysis Nr.
+V2 [mL]
+1
+2
+3
+Reported value V2 [mL]
+Titr.2 (40 pt)
+
+Practical
+A2-3
+English (Official)
+Questions
+2.1 (5 pt)
+Provide the chemical formula of the resulting EDTA complex formed in the direct titration up to the
+equivalence point. The structure of EDTA is given below. In your chemical formula, abbreviate EDTA
+as "H4Y", its conjugate bases as "H3Y-", "H2Y2-" etc. Hint: Under these conditions, one of the metal
+ions in solution preferentially forms an EDTA complex.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Structure of EDTA (equivalent to H4Y).
+
+Practical
+A2-4
+English (Official)
+2.2 (4 pt)
+Calculate the mass percentage of iron(III) chloride (without water of crystallization), in wt.%, of the
+provided sample. The molar mass of FeCl3 is 162.2 g/mol.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wt.%(FeCl3) =
+2.3 (4 pt)
+Calculate the mass percentage of calcium chloride (without water of crystallization), , in wt.%, of the
+provided sample. The molar mass of CaCl2 is 111.0 g/mol.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wt.%(CaCl2) =
+2.4 (2 pt)
+Calculate the mass percentage of water of crystallization, wt.%, of the provided sample.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wt.%(H2O) =
+
+Practical
+A2-5
+English (Official)
+2.5 (1 pt)
+Why is it necessary to keep the sample solution A at pH < 2?
+ 
+Identify the correct answer among the four choices below.
+ 
+□To chemically stabilize Ca2+ in solution
+□To chemically stabilize Fe3+ in solution
+□To reduce Ca2+ in solution
+□To reduce Fe3+ in solution
+2.6 (2 pt)
+The solution you were given simulates the digestion of iron ore with concentrated HCl. Which of the
+following mixtures could be analyzed by the same procedure?
+ 
+Identify the correct answer among the four choices below.
+ 
+□Hematite (Fe2O3) + Limestone (CaCO3)
+□Magnetite (Fe3O4) + Chalcopyrite (CuFeS2)
+□Ilmenite (FeTiO3) + Goethite (FeO(OH))
+□Siderite (FeCO3) + Dolomite (CaMg(CO3)2)
+2.7 (2 pt)
+Why does the sample for the indirect titration show a color change from blue to red regardless of
+the progress of the titration?
+ 
+Identify the correct answer among the four choices below.
+ 
+□Reduction of Fe3+ EDTA complex by ethanol
+□Hydrolysis of Eriochrome® Black T under basic conditions
+□Irreversible ligand exchange of Fe3+ EDTA complex by Eriochrome® Black T
+□Eriochrome® Black T adsorption onto precipitated CaCO3
+
+Practical
+Q3-1
+English (Official)
+Beauty in simplicity
+11% of total
+Question
+3.1
+3.2
+3.3
+Total
+Points
+30
+14
+15
+59
+Score
+Introduction
+You are provided with 6 solutions S1–S6 (ca. 10 mL of each) of unknown composition. Solution Sx is
+labeled “[student code] + Sx”, with x going from 1 to 6. Your task is to identify all cations and anions
+dissolved in these solutions.
+Hints:
+• There are 7 cations and 7 anions which have been introduced in aqueous solutions S1–S6 from the
+list:
+– Cations: Ag+, Ba2+, Ca2+, Fe3+, K+, Mn2+, Na+;
+– Anions: CH3COO−, Cl−, I−, NO−
+3 , PO3−
+4 , S2−, SO2−
+4 ;
+• 2 or 3 ions in total were introduced into each solution;
+• Each of the ions was introduced only into one solution;
+• Na+ and K+ are present together in the same solution;
+• In some cases, it might take up to 15 minutes before a visible change occurs; fill in the table in
+question 3.1 with your final observations;
+• Some solutions can get colored or attain some precipitate due to oxidation under air.
+
+Practical
+Q3-2
+English (Official)
+Questions
+3.1
+Perform the cross-reactions between solutions S1–S6. Fill in the first table of
+your answer sheet with your observations using these symbols:
+• “↓” for precipitation;
+• “↑” for gas evolution;
+• “ S ” for colour change of the solution;
+• “ – ” if there are no visible observations.
+Report the colours of the precipitates using the following letters:
+• “ W ” for white/colorless;
+• “ B ” for black;
+• “ C ” for colored.
+30pt
+3.2
+Based on your observations and the above-mentioned hints, identify the ions
+in S1–S6. Fill in the second table in your answer sheet.
+14pt
+3.3
+Write ionic equations of the performed reactions that explain your observa-
+tions in the third table of your answer sheet. Use “↓” for precipitates and “↑”
+for gases.
+15pt
+
+Practical
+A3-1
+English (Official)
+Beauty in simplicity
+11% of total
+Question
+3.1
+3.2
+3.3
+Total
+Points
+30
+14
+15
+59
+Score
+
+Practical
+A3-2
+English (Official)
+3.1 (30 pt)
+Perform the cross-reactions between solutions S1–S6. Fill in the table below with your observations
+using these symbols:
+• “↓” for precipitation;
+• “↑” for gas evolution;
+• “ S ” for colour change of the solution;
+• “ – ” if there are no visible observations.
+Report the colours of the precipitates using the following letters:
+• “ W ” for white/colorless;
+• “ B ” for black;
+• “ C ” for colored.
+Solutions
+S2
+S3
+S4
+S5
+S6
+S1
+S2
+S3
+S4
+S5
+
+Practical
+A3-3
+English (Official)
+3.2 (14 pt)
+Based on your observations and the hints given in the question sheet, identify the ions in S1–S6 and
+fill in the table below.
+Solution
+Cation(s)
+Anion(s)
+S1
+S2
+S3
+S4
+S5
+S6
+3.3 (15 pt)
+In the table below, write the ionic equations of the performed reactions that explain your observa-
+tions. Use “↓” for precipitates and “↑” for gases.
+Combination
+Ionic Reaction Equation(s)
+S1+S2
+
+Practical
+A3-4
+English (Official)
+3.3 (cont.)
+Combination
+Ionic Reaction Equation(s)
+S1+S3
+S1+S4
+S1+S5
+S1+S6
+S2+S3
+S2+S4
+S2+S5
+
+Practical
+A3-5
+English (Official)
+3.3 (cont.)
+Combination
+Ionic Reaction Equation(s)
+S2+S6
+S3+S4
+S3+S5
+S3+S6
+S4+S5
+S4+S6
+S5+S6

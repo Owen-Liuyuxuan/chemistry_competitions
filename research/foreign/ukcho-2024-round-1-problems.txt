@@ -1,0 +1,696 @@
+1 
+ 
+ 
+ 
+ 
+ 
+56th INTERNATIONAL  
+CHEMISTRY OLYMPIAD  
+2024 
+UK Round One  
+ 
+STUDENT QUESTION BOOKLET  
+ 
+* * * * *  
+■ 
+The time allowed is two hours. 
+■ 
+Attempt all five questions.  
+■ 
+Write your answers in the student answer booklet.  
+■ 
+Write only the essential steps of your calculations in the answer booklet. 
+■ 
+Always give the appropriate unit and number of significant figures.  
+■ 
+A copy of the periodic table and some useful physical constants and formulae 
+are provided as a separate document.  
+■ 
+Do NOT write anything in the right-hand margin of the answer booklet. 
+■ 
+The marks available for each question are shown below. These may be helpful 
+when dividing your time between questions. 
+ 
+Question 
+1 
+2 
+3 
+4 
+5 
+Total 
+Marks 
+Available 
+8 
+15 
+20 
+24 
+15 
+82 
+ 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward. 
+ 
+ 
+
+2 
+ 
+Q1 This question is about Bronze 
+The England women’s football team achieved 
+success at the 2023 World Cup. One of the players 
+was Lucy Bronze. The metal bronze is an alloy of 
+copper and tin.  
+The World Cup trophy was made of silver coated 
+with yellow and white gold. It has a mass of 
+4.60 kg. 
+ 
+ 
+(a) 
+Which of the following represents the electronic configuration of a silver atom? Tick the 
+correct answer in the answer booklet.  
+[Ar]4d10 
+[Ar]4d105s1 
+[Kr]4d10 
+[Kr]4d105s1 
+(b) 
+Which of the following represents the electronic configuration of a Cu2+ ion? Tick the 
+correct answer in the answer booklet. 
+1s22s22p63s23p63d104s1 
+1s22s22p63s23p63d10 
+1s22s22p63s23p63d9 
+1s22s22p63s23p64s23d9 
+(c) 
+Calculate the volume of the trophy assuming that it was solid silver. The density of 
+silver is 10.5 g cm−3. 
+Trophies are often made of bronze instead as it is cheaper. 
+The density of bronze varies depending on the fraction of tin, 𝑦, in the alloy. The density of 
+the bronze, in g cm−3, can be calculated by the following equation, where  
+V = 5.93  10−23 cm3 and M(Cu) and M(Sn) are molar masses in g mol−1. 
+density =
+4 (𝑀(Cu) + 𝑦(𝑀(Sn) −𝑀(Cu)))
+𝑉× 𝑁A
+ 
+(d) 
+Calculate the percentage of tin in a sample of bronze with density 7.85 g cm−3. 
+ 
+ 
+ 
+
+3 
+ 
+Bronze generally has the same structure as 
+pure copper. Copper has a face centred cubic 
+unit cell shown on the right.  
+The atomic radius of a copper atom, r, is 
+128 pm. The length of the diagonal across the 
+face is 4r. 
+ 
+(e) 
+Calculate the length of the side of the unit cell, a, in cm. 
+(f) 
+Calculate the volume of the unit cell in cm3. 
+(g) 
+Calculate the density of copper metal in g cm−3. 
+ 
+ 
+ 
+
+4 
+ 
+Q2 This question is about iodate salts 
+Most minerals of iodine contain iodate 
+ions, IO3−. One such mineral is called 
+salesite. 
+ 
+A sample of the mineral of salesite 
+(a) 
+Give the oxidation state of iodine in the iodate ion. 
+(b) 
+Draw the dot and cross diagram of the iodate ion. 
+(c) 
+What is the most likely O–I–O bond angle in the iodate ion? Tick the correct answer in 
+the answer booklet. 
+<109.5° 
+109.5° 
+>109.5° 
+Nuclear disasters can release radioactive isotopes of iodine which are harmful. 
+A daily dose of the element iodine equivalent to 130 mg of potassium iodide can prevent the 
+absorption of radioactive isotopes.  
+Potassium iodide can easily degrade. The UK government has a stock of a more stable 
+iodine source, potassium iodate, as a source of the element iodine for this purpose. 
+(d) 
+Calculate the mass of potassium iodate which contains the same amount of iodine as 
+130 mg of potassium iodide.  
+Iodate ions react with iodide ions under acidic conditions to give iodine. 
+(e) 
+(i) 
+Write an ionic equation for the reaction between iodate ions and iodide ions under 
+acidic conditions.  
+ 
+(ii) 
+What type of reaction is this? Tick the correct answer(s) in the answer booklet. 
+redox 
+electrophilic 
+substitution 
+elimination 
+disproportionation 
+polymerisation 
+This reaction is used to determine the amount of iodate ions in a sample. The sample reacts 
+with excess potassium iodide under acidic conditions, and the iodine formed is titrated with a 
+solution of thiosulfate ions (S2O32−), giving iodide ions and tetrathionate ions (S4O62−).  
+(f) 
+Write an ionic equation for the reaction between thiosulfate ions and iodine.  
+ 
+ 
+
+5 
+ 
+The iodate mineral salesite has the molecular formula M(IO3)Z, where M is a metal ion, and Z 
+is an anion. The ratio of the three ions in the mineral is 1:1:1. The molar mass of the mineral is 
+255.46 g mol−1.  
+1.000 g of the mineral was dissolved in 30 cm3 of 2 mol dm−3 HNO3. The resulting solution was 
+made up to 100.0 cm3 with distilled water, forming a stock solution. 
+10.00 cm3 of this stock solution reacts with excess potassium iodide. The iodine formed was 
+titrated with 0.1000 mol dm−3 sodium thiosulfate solution.  
+(g) 
+Calculate the volume of sodium thiosulfate solution needed to react with the iodine 
+produced. 
+Assume that all iodine was formed in the reaction of iodate ions with iodide ions. 
+However, the metal ion Mn+ in this mineral also reacts with iodide ions to form additional 
+iodine. Therefore, the actual volume of sodium thiosulfate solution required in the titration was 
+found to be 27.40 cm3.  
+(h) 
+Calculate the number of moles of iodine produced by the reaction of one mole of metal 
+ion Mn+ with excess iodide ions.  
+If you could not get a value in part (g), assume that the answer in part (g) was 
+15.67 cm3. 
+(i) 
+The oxidation state of metal ion Mn+ in the mineral can be written as +n. Give the 
+oxidation state of the metal ion after it has reacted with iodide ions. Tick the correct 
+answer in the answer booklet.  
++(n+3) 
++(n+2) 
++(n+1) 
++(n) 
++(n−1) 
++(n−2) 
++(n−3) 
+When the mineral was dissolved in nitric acid, no effervescence was observed. 
+(j) 
+Give the formula of two anions which could not be present in the mineral based on the 
+observation above. 
+(k) 
+Considering all the information given in the problem, choose from the list of ions below 
+which is metal ion Mn+ and anion Zm−. 
+Mn+ 
+Sc3+ 
+Fe2+ 
+Fe3+ 
+Cu+ 
+Cu2+ 
+Mg2+ 
+Ga2+ 
+Zn2+ 
+Zm− 
+F− 
+Cl− 
+Br− 
+H− 
+O2− 
+OH− 
+PO43− 
+SO32− 
+ 
+ 
+ 
+
+6 
+ 
+Q3 This question is about fuel-producing bacteria 
+Scientists have developed a strain of 
+bacteria that can produce molecules with the 
+energy density of rocket fuels. They have 
+given 
+these 
+molecules 
+the 
+nickname 
+‘fuelomycins.’ 
+ 
+ 
+ 
+Fuelomycins contain multiple cyclopropane rings, which are ‘high energy’ due to a property 
+called ring strain. 
+ 
+The skeletal formula of cyclopropane is shown above. 
+(a) 
+Determine the molecular formula of cyclopropane. 
+To determine how much energy is attributed to ring strain, we can compare cyclopropane to a 
+ring with essentially no ring strain, cyclohexane.  
+The enthalpy of combustion for cyclopropane is –2091 kJ mol−1; the enthalpy of combustion 
+for cyclohexane is –3951 kJ mol−1.  
+The enthalpy of formation for water is –285.8 kJ mol−1; the enthalpy of formation for carbon 
+monoxide is –110.5 kJ mol−1; the enthalpy of formation for carbon dioxide is –393.5 kJ mol−1. 
+(b) 
+(i) 
+Write the equation for combustion of cyclopropane. 
+ 
+(ii) 
+Calculate the enthalpy of formation for cyclopropane. 
+ 
+(iii) 
+Calculate the enthalpy of combustion per mol of carbon atom for cyclopropane. 
+ 
+(iv) 
+Calculate the enthalpy of combustion per mol of carbon atom for cyclohexane. 
+ 
+ 
+ 
+
+7 
+ 
+The idea to use cyclopropanes in the structure of a rocket fuel was first developed in 1959 
+with the molecule syntin. 
+ 
+The synthesis of syntin relies on enolate chemistry. This is when the carbon next to a 
+carbonyl group (i.e. in the alpha position) is deprotonated. This enolate intermediate can then 
+react with another molecule such as iodomethane to give a final product. 
+ 
+(c) 
+Draw a resonance form of the enolate intermediate. 
+(d) 
+In the answer booklet, tick the correct statement(s) about the reaction between 
+iodomethane and the enolate intermediate: 
+• 
+The enolate intermediate acts a reducing agent; the iodomethane acts an oxidising 
+agent. 
+• 
+The enolate intermediate acts an oxidising agent; the iodomethane acts a reducing 
+agent. 
+• 
+The enolate intermediate acts an electrophile; the iodomethane acts a nucleophile. 
+• 
+The enolate intermediate acts a nucleophile; the iodomethane acts an electrophile. 
+• 
+The enolate intermediate acts an acid; the iodomethane acts a base. 
+• 
+The enolate intermediate acts a base; the iodomethane acts an acid. 
+Enolates can also react with a carbonyl compound as shown below. 
+ 
+(e) 
+Draw the structure of compound A which is formed as an intermediate in this reaction. 
+ 
+ 
+
+8 
+ 
+Syntin was synthesised on industrial scale according to the scheme below.  
+ 
+(f) 
+(i) 
+Determine the structure of compounds B – E. 
+ 
+(ii) 
+Tick which step(s) involve enolate chemistry in the answer booklet.  
+The production of syntin was halted due to high expense. For this reason, bacteria that 
+produce a rocket fuel are a huge advantage as they can produce the molecules more 
+economically. The bacteria developed to make fuelomycins require enzymes that can 
+catalyse four types of reactions. 
+ 
+(g) 
+Tick the reaction type catalysed by enzyme 2 in the answer booklet. 
+oxidation 
+reduction 
+condensation 
+hydrolysis 
+isomerisation 
+elimination 
+(h) 
+Identify the other products X and Y of enzyme 3. 
+The synthesis of fuelomycin A begins in the following way. For this sequence, each enzyme 
+is required exactly once. 
+ 
+(i) 
+Complete the table in the answer booklet to give the order of the enzymes required for 
+this process. 
+ 
+ 
+
+9 
+ 
+Q4 This question is about the MRI contrast agent gadopiclenol 
+Due to shortages in the NHS, there was no hospital gown 
+to fit UK Team Mascot Paddington after he had taken his 
+clothes off ready for a magnetic resonance imaging (MRI) 
+scan. 
+MRI uses the same technology as NMR. To enhance the 
+image, patients are often given a contrast agent 
+containing gadolinium(III) ions. In 2022 the US 
+government approved the use of a new contrast agent, 
+gadopiclenol (C35H54GdN7O15).  
+ 
+The synthesis of gadopiclenol starts with the synthesis of compounds B and D.  
+ 
+(a) 
+Draw the structures of compounds A – D. 
+The synthesis continues with the construction of hexacarboxylic acid compound H.  
+(b) 
+Circle the stereocentres on the structure of compound H in the answer booklet. 
+(c) 
+Draw the structures of compounds E – G. 
+ 
+
+10 
+ 
+ 
+Compound H is converted into gadopiclenol in two steps. Since gadolinium is toxic, 
+gadopiclenol has the benefit that less gadolinium is required per dose. The average dose of 
+gadopiclenol is 6.00 cm3 of an aqueous solution of concentration 485.05 g dm−3. 
+(d) 
+Calculate the mass of the element gadolinium required per dose, in mg. 
+In a magnetic field, hydrogen nuclei can be “spin up” () or “spin down” (). Each spin acts as 
+a small magnet. We can sum all the spins together to get a value called the net 
+magnetisation, M. More nuclei will initially be spin up as this is lower in energy (point a). 
+A pulse of electromagnetic radiation is applied that corresponds to the difference in energy 
+between the spin up and the spin down state, and this flips just enough spins to reduce M to 
+zero (point b). 
+ 
+(e) What type of electromagnetic radiation would be required to do this? Tick the correct 
+answer in the answer booklet. 
+radiowave 
+microwave 
+IR 
+visible 
+UV 
+X-ray 
+gamma ray 
+Over time (between point b and point e), some higher energy spin down protons flip back to 
+being spin up. We call this relaxation. We can detect this, and this gives us our MRI data. The 
+whole process (point a to point e) is one scan.  
+An MRI machine needs to run multiple scans to make a clear image. However, it can only run 
+the next scan once the hydrogen nuclei have fully relaxed to their starting arrangement. 
+
+11 
+ 
+The value of the net magnetisation, M, at time, t, after the pulse is given by the following 
+equation, where M0 is the value of the net magnetisation before the pulse and τ  is a constant 
+called the relaxation time. 
+𝑀= 𝑀0 (1 −𝑒−𝑡
+𝜏) 
+(f) Calculate the net magnetisation as a percentage of M0 at a time of 3τ  after the pulse of 
+radiation has been applied.  
+Gadolinium contrast agents are used to decrease the value of τ  so the next scan can be taken 
+sooner. Proton spins relax faster when they are close to unpaired electrons. As the 
+gadolinium(III) ion is large, there is space for water molecules to coordinate to the gadolinium 
+in addition to the seven coordinating atoms from the ligand. This allows their protons to relax 
+more quickly. The water molecules which coordinate to the gadolinium are constantly 
+exchanging with other water molecules in the solvent, allowing many protons to be relaxed in a 
+short amount of time.  
+The quality of a contrast agent is therefore determined by: 
+• 
+The number of unpaired electrons on the metal ion (seven in gadolinium(III)) 
+• 
+The average number of coordinated water molecules 
+• 
+The rate at which the coordinated water is exchanged with the solvent 
+We can define a molar fraction, χ, as the ratio of the number of moles of gadopiclenol to the 
+number of moles of water at the site being imaged. 
+𝜒= 𝑛(gadopiclenol)
+𝑛(H2O)
+ 
+(g) Calculate χ if the molar concentration of gadopiclenol at the image site is  
+0.0500 mol dm–3. Assume the density of water in the tissue is 1.00 kg dm–3.  
+Assume that the overall relaxation time, τ, is described by: 
+𝜏= 𝜏𝑐+ 𝜏𝑒 
+The relaxation time, τc, does not depend on the magnetic field of the MRI machine, B, whereas 
+the relaxation time, τe, has the following dependence: 
+ 𝜏𝑒∝1
+𝐵2 
+We can determine τc by measuring the overall relaxation times τ1 and τ2 at two different 
+magnetic field strengths, B1 and B2, respectively.   
+(h) Express the field independent relaxation time, τc, in terms of B1, B2, τ1 and τ2. 
+ 
+ 
+ 
+
+12 
+ 
+At low temperature,  
+𝜏𝑐=
+1
+𝑞𝜒𝑟
+𝑐
+ 
+where q is the number of water molecules coordinated to gadolinium and rc is the rate at which 
+the coordinated water is exchanged with the solvent. 
+The exchange rate, rc, depends on the temperature in Kelvin, T, as follows: 
+𝑟
+c = 𝐴𝑇𝑒−𝛥𝐻
+𝑅𝑇 
+where ΔH is the activation enthalpy and A is a constant.  
+(i) 
+Rearrange the expression for 𝜏𝑐 into the form: 
+𝑦= 𝑎
+𝑇+ 𝑏 
+expressing y as a function of τc and T, and the coefficients a and b in terms of q, χ, A, ΔH 
+and R. 
+(j) Some low temperature values of τc are given in the table below. Using the result of part 
+(i), or by any other means, calculate the value of Aqχ in K−1 s−1. 
+T / K 
+275 
+280 
+τc / s 
+4.775 × 10−4 
+3.326 × 10−4 
+ 
+(k) Applying a similar approach to exchange rates at high temperature, it has been 
+calculated that: 
+A
+qχ = 6.618 ×  1014 K-1 s-1   
+Use this information and your previous results to calculate q (the average number of 
+water molecules coordinated to gadopiclenol). 
+If values from previous calculations are not available, use: 
+χ = 0.00100 and Aqχ = 2.00 × 109 K−1 s−1.  
+Whilst you have been working on this question, 
+the MRI scan of Paddington’s brain was 
+completed. Paddington was thinking about the 
+medals the UK Team would win at the time.  
+ 
+ 
+ 
+ 
+
+13 
+ 
+Q5 This question is about sulfur-containing molecules in the atmosphere 
+In September 2023, NASA published spectroscopy from 
+the James Webb space telescope indicating the presence 
+of methane and water in the atmosphere of exoplanet 
+K2-18b. They also found possible evidence of 
+dimethylsulfide, which is produced on earth by marine 
+microorganisms and is a possible signature of life. 
+Dimethylsulfide is a volatile liquid with a disagreeable 
+odour that occurs naturally in foods such as cabbage.  
+On Earth, organic sulfur-containing molecules are quickly 
+broken down by oxidation the atmosphere. The sulfur 
+species are shown in the scheme below. 
+ 
+ 
+The oxidation state of sulfur changes during the cycle. An 
+example of determining the oxidation state of sulfur in a 
+molecule is shown on the right. 
+For each covalent bond made by sulfur, assign the shared 
+electron pair(s) to the more electronegative atom.  
+Electronegativities: H = 2.20, C = 2.55, S = 2.58, O = 3.44  
+Determine the resulting charge on the sulfur atom by  
+comparing the number of electrons allocated to the sulfur 
+atom to the number in a neutral sulfur atom. The resulting 
+charge is the oxidation state of the sulfur. 
+ 
+ 
+ 
+ 
+ 
+
+14 
+ 
+(a) 
+Determine the oxidation states of sulfur in compounds B, C and E. 
+Compound D can be formed from the reaction of compound C with oxygen. 
+(b) 
+(i) 
+Write an equation for the reaction of compound C with oxygen to form  
+compound D. 
+(ii) 
+Draw the structure of compound D. 
+Compound G is highly soluble in water, dissolving to form a diprotic acid. 
+(c) 
+Give the formula of compound G. 
+Assume at 323 K compound G behaves as an ideal gas. 13.4 cm3 of gas G at 100 kPa is 
+dissolved in 1.000 dm3 of water.  
+(d) 
+Calculate the pH of the resulting solution to the nearest whole number. Assume that the 
+acid fully dissociates.  
+The direct reaction of compound C with oxygen to form compound D is very slow. In the 
+atmosphere compound D is formed by a reaction with a radical L•.  
+Radical L• can react with compound C in two different ways, producing intermediates J• and N•.  
+(e) 
+In the answer booklet, tick which of the following descriptions are correct about what 
+happens to compound C during the formation of intermediates J• and N•. 
+ 
+Forming J• 
+Forming N• 
+Loss of a H+  
+ 
+ 
+Loss of a H• 
+ 
+ 
+Loss of a H− 
+ 
+ 
+Reduction of sulfur 
+ 
+ 
+Oxidation of sulfur 
+ 
+ 
+Atomisation 
+ 
+ 
+Radical substitution 
+ 
+ 
+Radical addition 
+ 
+ 
+ 
+(f) 
+Give the formula of radical L•. 
+ 
+ 
+ 
+
+15 
+ 
+The rate law for the formation of J• is: 
+rate = k1[𝐂]𝑎[𝐋•]𝑏 
+The progress of the reaction was studied in the gas phase at 298 K for two different initial 
+concentrations with an inert gas making up the remaining composition. The pressure was 
+fixed at 100 kPa, and the concentrations as a function of time are given below. 
+ 
+Experiment 1 
+Experiment 2 
+Time / s 
+0 
+10 
+20 
+0 
+10 
+20 
+[C] / µmol dm−3 
+1000.00 
+999.50 
+999.25 
+500.00 
+499.42 
+499.00 
+[L•] / µmol dm−3 
+1.00 
+0.50 
+0.25 
+2.00 
+1.42 
+1.00 
+[J•] / µmol dm−3 
+0.00 
+0.50 
+0.75 
+0.00 
+0.58 
+1.00 
+The concentration of an ideal gas at 298 K at 100 kPa is 40.4 mmol dm−3.  
+(g) 
+Determine the values of a and b. 
+In gas phase reactions, a collision with an additional molecule, X, is sometimes required to 
+provide or remove energy. Any gas present in the mixture can play the role of X (it could be 
+any of the molecules reacting or another unreactive species).  
+The formation of SO2 from compound N• is an example of such a reaction. The overall 
+equation is: 
+N• + O2 + X → SO2 + X + other products 
+When [N•] and [O2] are low, this reaction appears to have the following rate law: 
+𝑟𝑎𝑡𝑒= 𝑘2[𝐍•][O2] 
+where rate constant, k2 = 5.7  10−12 cm3 molecule−1 s−1 at 298 K and 100 kPa. 
+The actual rate law for this reaction involves all three species: 
+𝑟𝑎𝑡𝑒= 𝑘3[𝐍•][O2][X] 
+(h) 
+Calculate the value of k3 at 298 K with units in terms of molecules cm−3 rather than 
+mol dm−3. Hint: the concentration of X is only determined by the total pressure. 
+ 
+ 
+ 
+
+16 
+ 
+Acknowledgements & References  
+ 
+Q1 The image is © Jose Breton/Pics Action/NurPhoto via Getty Images. 
+ 
+Q2 The image is © PB/YB/Alamy Stock Photo. 
+ 
+Q3 The images are © David Scharf/Science Photo Library and © The Regents of the University of 
+California, Lawrence Berkeley National Laboratory / Jenny Nuss. 
+Biosynthesis of polycyclopropanated high energy biofuels Joule, 2022, 6, 1590-1605. 
+https://doi.org/10.1016/j.joule.2022.05.011 
+Combustion and Thermal Decomposition Research on 1,2- Dicyclopropyl-1-Methyl 
+Cyclopropane (DMCP) as High Energy Fuel for Liquid Rocket Propellants Propellants, 
+Explosives, Pyrotechnics 2022, 47, e202200018, 1-9. 
+https://doi.org/10.1002/prep.202200018  
+Synthesis of 1,3-dicyclopropyl-2-buten-1-one Izvestiya Akademii Nauk SSSR, Seriya 
+Khimicheskaya, 1962, 176-178. 
+  
+Q4 The images are © Dr Ben Pilgrim and Dr Pete Harvey. The University of Nottingham and Dr Pete 
+Harvey are thanked for the use of their preclinical MRI scanner. The image of the word GOLD was 
+taken in an MRI scanner using a multi-well plate containing a 2 mM solution of Gd-DTPA in the bright 
+cells. This image has been digitally processed.  
+17O NMR Study of Water Exchange on [Gd(DTPA)(H2O)]2− and [Gd(DOTA)(H2O)]− Related to 
+NMR Imaging Inorganic Chemistry, 1993, 32, 3844-3850. 
+https://pubs.acs.org/doi/10.1021/ic00070a013  
+NMR relaxometric studies of Gd(III) complexes with heptadentate macrocyclic ligands Magnetic 
+Resonance in Chemistry, 1998, 36, S200-S208. 
+https://doi.org/10.1002/(SICI)1097-458X(199806)36:13%3CS200::AID-OMR324%3E3.0.CO;2-H  
+ 
+Q5 The image is © Dr Penny Robothom and was generated by DALL.E 3. 
+Dimethyl Sulfide and Dimethyl Sulfoxide and Their Oxidation in the Atmosphere Chemical 
+Reviews 2006, 106, 940-975. 
+https://pubs.acs.org/doi/abs/10.1021/cr020529%2B  
+The Sulfur Cycle Chemistry World April 2022 44-47. 
+https://www.chemistryworld.com/features/the-secrets-of-the-sulfur-cycle/4015331.article  
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as they 
+credit you and license their new creations under the identical terms. 
+ 
+Authors of 2024 UK Round One Paper (listed alphabetically) 
+Dr Helen Alonzi (St Bartholomew’s School)  
+Dr Ryan Beattie (Bradley Stoke Community School, Olympus Academy Trust) 
+Dr Peter Bolgar (University College London) 
+Richard Danylyuk (University of Cambridge) 
+Oliver Evans (University of Cambridge) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (University College London) 
+Anamaria Leonescu (University College London) 
+Dr Ben Pilgrim (University of Nottingham) 
+Sophie Redman (Royal Society of Chemistry) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Stephanie Sdepanian (Royal Society of Chemistry) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Dr Alex Thom (University of Cambridge) 
+Dr George Trenins (Max Planck Institute for the Structure and Dynamics of Matter) 
+ 
+ 
+ 
+ 
+ 

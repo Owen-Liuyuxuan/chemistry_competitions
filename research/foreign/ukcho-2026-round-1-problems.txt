@@ -1,0 +1,634 @@
+1 
+ 
+ 
+ 
+ 
+58th INTERNATIONAL  
+CHEMISTRY OLYMPIAD  
+2026 
+UK Round One  
+ 
+STUDENT QUESTION BOOKLET  
+ 
+THE QUESTION BOOKLET MUST BE COLLECTED AFTER THE EXAM 
+ 
+* * * * *  
+■ 
+The time allowed is two hours. 
+■ 
+Attempt all 5 questions.  
+■ 
+Write your answers in the student answer booklet.  
+■ 
+Write only the essential steps of your calculations in the answer booklet. 
+■ 
+Always give the appropriate unit and number of significant figures.  
+■ 
+A copy of the periodic table and some useful physical constants and formulae 
+are provided as a separate document.  
+■ 
+Do NOT write anything in the right-hand margin of the answer booklet. 
+■ 
+The marks available for each question are shown below. These may be helpful 
+when dividing your time between questions. 
+ 
+Question 
+1 
+2 
+3 
+4 
+5 
+Total 
+Marks 
+Available 
+8 
+18 
+19 
+26 
+13 
+84 
+ 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward. 
+ 
+ 
+
+2 
+ 
+Q1 This question is about pee in the pool 
+Swimmer Michael Phelps, who has won the most 
+Olympic gold medals, famously said, “Everybody 
+pees in the pool… chlorine kills it, so it’s not bad.”  
+Swimming pools are commonly disinfected with 
+chlorine. Chlorine reacts with water to form several 
+disinfectant species, and the process must be 
+carefully controlled to prevent the release of Cl₂ 
+gas. 
+Chlorine reacts with water as follows: 
+Cl2 + H2O → HOCl + HCl 
+ 
+(a) 
+State the oxidation numbers of chlorine in each of these species: Cl2, HOCl, and HCl. 
+On its own, this reaction would make the pool too acidic, and so other compounds such as 
+Na2CO3 are added. This removes H+ ions and prevents the backwards reaction reforming Cl2. 
+(b) 
+Write the equation for the reaction between sodium carbonate and hypochlorous acid 
+(chloric(I) acid, HOCl). 
+Poor pool management can lead to a build-up of chlorate(V) ions (ClO3−). This is due to the 
+slow disproportionation of chlorate(I) ions (OCl−) into ClO3− and Cl−. 
+(c) 
+(i) 
+Write the ionic equation for the disproportionation of chlorate(I) ions. 
+ 
+(ii) 
+Name the shape of the ClO3− ion. 
+Urea, (NH2)2CO, found in urine, undergoes hydrolysis to form ammonia and carbon dioxide. 
+(d) 
+Write the equation for this reaction. 
+Chloric(I) acid, HOCl, can react with this ammonia to form monochloramine (NH2Cl), 
+dichloramine (NHCl2), and trichloramine (NCl3). 
+(e) 
+Draw a dot-and-cross diagram for the structure of NH2Cl. 
+Trichloramine, NCl3, is volatile and causes the characteristic ‘chlorine smell’ in swimming 
+pools. 
+Henry’s law states that the dissolved concentration of a gas is proportional to its partial 
+pressure above the liquid. The constant of proportionality is called the Henry’s law constant. 
+For trichloramine in pool water, the Henry’s law constant is 435 mol dm−3 atm−1. 
+(f) 
+For a concentration of NCl3 of 5.0 × 10−4 mol dm−3 in the water, calculate the equilibrium 
+partial pressure of NCl3 above the pool (in atm). 
+ 
+ 
+
+3 
+ 
+Q2 This question is about isocyanides 
+Isocyanides are organic molecules with extremely 
+unpleasant odours. Chemists have described them as 
+“horrible”, “extremely distressing”, and even “the 
+Godzilla of smells”. Despite this, isocyanides are 
+important intermediates in many organic reactions. 
+ 
+ 
+(a) 
+Draw the resonance structure for the isocyanide indicated by the 
+arrow shown to the right. Indicate all lone pairs. 
+ 
+Isocyanides can be prepared by nucleophilic 
+substitution. When AgCN is added to allyl 
+bromide, the products are compound A and a 
+cream-coloured precipitate. Repeating the 
+reaction using NaCN instead of AgCN gives 
+product B. 
+ 
+(b) 
+(i) 
+Draw the structure of compound B. 
+ 
+(ii) 
+Identify the cream-coloured precipitate. 
+The threshold concentration at which an isocyanide can be detected by smell is  
+8.0 × 10–8 mol dm–3. 
+(c) 
+Calculate the number of molecules present at this detection limit in a room of volume 
+50 m3. 
+Isocyanides can also be produced by 
+dehydration of compound C. Compound C 
+can be hydrolysed to give amine R-NH2 and 
+compound D. Elemental analysis shows D is 
+26.1% carbon by mass, independent of the 
+identity of R. 
+ 
+(d) 
+(i) 
+Draw the structure of compound C. 
+ 
+(ii) 
+Draw the structure of compound D. 
+Amines can react with trichloromethane and sodium hydroxide to form isocyanides. This is 
+known as Zaytsev’s test. A positive result is indicated by the smell of isocyanide. Only some 
+amines give a positive result; amides do not. 
+An amine with formula C3H5NH2 gives a positive result and forms isocyanide A shown above, 
+without producing any other organic products. 
+(e) 
+Write the equation for this reaction to form isocyanide A. Write all species as molecular 
+formulae. 
+
+4 
+ 
+ 
+(f) 
+In the answer booklet, circle which of the above compounds will give a positive 
+Zaytsev’s test result. 
+Isocyanides can react with a carboxylic acid and an aldehyde or ketone in one step to form a 
+single product. This is called the Passerini reaction. R1-R4 indicate variable substituent 
+groups. 
+ 
+A key intermediate in the synthesis of 
+antiviral drug telaprevir, compound E, is 
+formed using a Passerini reaction (where R 
+represents the rest of the molecule). 
+ 
+(g) 
+Draw the three molecules that react to give compound E in the Passerini reaction. You 
+do not need to consider stereochemistry for this part.  
+By combining multiple different isocyanides, carboxylic acids, and aldehydes/ketones, many 
+products can be made.  
+Chemist Isobel has the following compounds in her cupboard. 
+ 
+(h) 
+Calculate the number of possible Passerini reaction products Isobel could make. 
+ 
+ 
+
+5 
+ 
+(i) 
+On the general structure of the Passerini product in the answer booklet, indicate with a * 
+which carbon atom has the potential to be a stereocentre. 
+Chemist Cynthia has the following compounds in her cupboard. 
+ 
+(j) 
+Calculate the number of possible Passerini reaction products Cynthia could make. 
+Count each enantiomer as a unique product. 
+Chemist Galvin has the following compounds in his cupboard. 
+ 
+(k) 
+Calculate the number of possible reaction products Galvin could make. Assume that 
+each product results from the combination of only three of the molecules above (one 
+isocyanide, one carboxylic acid, and one ketone).   
+ 
+ 
+
+6 
+ 
+Q3 This question is about compounds in henna tattoos 
+Henna tattoos contain a compound called lawsone, which 
+reacts with keratin in the skin to form a coloured product. 
+Lawsone has three ketone groups and is an example of a 
+molecule that undergoes tautomerism. 
+ 
+ 
+Certain ketones exist in equilibrium with an 
+alternative isomer called an enol. The keto and 
+enol forms interconvert rapidly as a hydrogen 
+atom (marked with *) and a double bond 
+change position. These pairs of isomers are 
+called tautomers, and their equilibrium is 
+described by an equilibrium constant. 
+ 
+(a) 
+At equilibrium, a particular ketone exists in 99.997% of keto form, A, and in 0.003% of 
+enol form, B. Calculate the equilibrium constant, K1. 
+𝐾1 = [B]
+[A] 
+(b) 
+The equilibrium constant, K2, between the keto form, C, and the enol form, D, of 
+another ketone is 0.23. Calculate the percentage of C and D present at equilibrium. 
+𝐾2 = [D]
+[C] 
+Enols can also be formed from aldehydes. However, to form an enol, the carbon atom next to 
+the carbon of the C=O group must have a hydrogen atom which can be removed.  
+(c) 
+Circle in the answer booklet which of the following aldehydes and ketones can form 
+tautomers.  
+ 
+(d) 
+(i) 
+Lawsone can form two different enol isomers. Draw the structure of both enol 
+forms. 
+ 
+(ii) 
+One enol isomer is stabilised by an intramolecular hydrogen bond. Add this 
+hydrogen bond to your drawing in part (d)(i) using a dotted line.  
+
+7 
+ 
+Upon addition to the skin, the lawsone in henna reacts with thiolate anions present in the side 
+chain of keratin proteins in the skin. This gives the skin an orange colour. Over time, a 
+chemical reaction takes place and the colour changes to brown. 
+ 
+(e) 
+Classify the reaction that causes the colour change from orange to brown. Tick the 
+correct answer in the answer booklet.  
+electrophilic 
+aromatic 
+substitution 
+nucleophilic 
+aromatic 
+substitution 
+reduction 
+oxidation 
+hydrolysis 
+Tautomerism is observed with a wide range of functional groups. It can be represented by the 
+following general equation: 
+ 
+X, Y, and Z represent atoms that may or may not be the same and they may or may not have 
+further atoms attached. Tautomerisation typically takes place when atom X is highly 
+electronegative (e.g., X = O or N), making the X=Y bond strongly polarised and the X–H and 
+Z–H bonds relatively acidic.  
+(f) 
+Draw the tautomer of the following compounds. 
+ 
+(i) 
+ 
+ 
+(ii) 
+ 
+(g) 
+Draw all possible tautomers of the following compounds. You do not need to consider 
+stereochemistry. 
+ 
+(i) 
+ 
+ 
+(ii) 
+ 
+ 
+
+8 
+ 
+The standard enthalpy change, ΔrH
+⦵, for a tautomerisation of a ketone to an enol in the gas 
+phase can be estimated from average bond enthalpies.   
+Bond 
+Bond enthalpy 
+ΔH
+⦵ / kJ mol−1 
+Bond 
+Bond enthalpy 
+ΔH
+⦵ / kJ mol−1 
+C–C 
+348 
+C–O 
+360 
+C=C 
+612 
+C=O 
+743 
+C–H 
+412 
+O–H 
+463 
+ 
+(h) 
+Calculate ΔrH
+⦵ for a typical ketone to enol tautomerisation. 
+In lawsone the contribution from the hydrogen bond (and other factors) should also be 
+considered. In the gas phase, the ΔrH
+⦵ for the ketone to enol tautomerisation of the preferred 
+tautomer of lawsone is −32.58 kJ mol−1. The standard entropy change, ΔrS
+⦵, for this reaction 
+is −11.48 J K−1 mol−1.  
+(i) 
+Calculate the equilibrium constant, Kgas, for this ketone to enol tautomerisation of 
+lawsone in the gas phase at 298 K. 
+If you do not get an answer for (i), assume the answer is 3.05 × 106.  
+The Gibbs free energy change of solvation, solG
+⦵, differs between the keto and enol forms of 
+lawsone. solG
+⦵keto = −126.0 kJ mol−1; solG
+⦵enol = −109.2 kJ mol−1. 
+Gibbs free energies can be summed in a cycle similar to a Hess’s Law cycle used for 
+enthalpy changes.  
+(j) 
+Calculate the equilibrium constant, Kwater, for the ketone to enol tautomerisation of 
+lawsone in water at 298 K.  
+ 
+ 
+ 
+
+9 
+ 
+Q4 This question is about rice, spice, and mice 
+The national dish of Uzbekistan, host nation for the 2026 
+International Chemistry Olympiad, is called pilaf. Pilaf is a rice 
+dish, typically containing lamb, carrots, and spices. Its 
+characteristic colour comes from the carotene pigment found 
+in carrots, which has several different isomers. 
+ 
+ 
+β-Carotene contains 40 carbon atoms, 11 C=C bonds, and two rings. 
+(a) 
+Write the molecular formula for β-carotene. 
+The colours in carotenes come from their long chains of alternating C=C and C–C bonds. We 
+say C=C bonds in these types of chains (e.g., -C=C–C=C-) are conjugated. α-Carotene has a 
+more yellow colour and β-carotene a more orange colour due to different numbers of 
+conjugated C=C bonds. 
+ 
+(b) 
+Write the number of conjugated C=C bonds in: 
+ 
+(i) 
+α-carotene 
+ 
+(ii) 
+β-carotene 
+Molecular orbitals help us understand why molecules with conjugated C=C bonds absorb 
+visible light. Molecular orbitals give information about the location of electrons in a molecule.  
+The shapes of orbitals are derived from mathematical 
+functions called wavefunctions. In any region of space, the 
+value of a wavefunction can be positive or negative. We 
+represent the regions of an orbital where the wavefunction is 
+negative by shading them black. p orbitals, for example, 
+always have one region where the wavefunction is negative, 
+and one region where it’s positive. 
+ 
+Molecular orbitals for conjugated systems can be 
+generated by considering the interference between p 
+orbitals. In ethene, for example, the two p orbitals 
+involved in the pi bond interfere to make two 
+molecular orbitals. 
+ 
+ 
+
+10 
+ 
+In butadiene, the four p orbitals in the conjugated C=C bonds interfere to form four molecular 
+orbitals.   
+ 
+(c) 
+By considering the amount of constructive and destructive interference between 
+neighbouring p orbitals, order these molecular orbitals from lowest to highest in energy. 
+In hexatriene the six p orbitals 
+involved in the conjugated C=C 
+bonds interfere to form six 
+molecular orbitals. 
+ 
+(d) 
+In the answer booklet, complete the diagram of molecular orbitals for hexatriene by 
+shading in the correct parts of the p orbitals. 
+Conjugated alkenes absorb light whose wavelength corresponds to the energy gap between 
+two of these molecular orbitals. We can approximate the energy gap using this equation: 
+Δ𝐸= 4𝛽sin( 90°
+𝑁+ 1) 
+N = number of p orbitals in conjugated system 
+β (hexatriene) = 6.85 × 10−19 J 
+(e) 
+(i) 
+Calculate the energy gap in hexatriene. 
+ 
+(ii) 
+Calculate the wavelength of light absorbed by hexatriene. Give your answer in 
+nanometres to the nearest whole number. 
+If you do not get an answer for (e)(ii), assume the answer is 200 nm. 
+Visible light has wavelengths between 380 nm (violet) and 720 nm (red). 
+(f) 
+Based on your answer to (e)(ii), tick in the answer booklet whether hexatriene absorbs 
+visible light or not. 
+(g) 
+In the answer booklet, tick what happens to the wavelength of light absorbed as the number 
+of conjugated C=C bonds increases. Assume that the value of β does not change. 
+it decreases 
+it stays the same 
+it increases 
+ 
+
+11 
+ 
+ 
+Tartrazine is a food dye. It is best known for giving Nacho 
+Cheese Doritos® their distinctive yellow-orange colour, but 
+now it has got a much more unusual application. 
+Mouse skin isn’t normally transparent because it contains 
+regions with different refractive indices. Spreading a 
+tartrazine solution onto mice makes their skin temporarily 
+transparent. This allows the study of blood vessels, muscles, 
+and internal organs without invasive surgery.  
+aqueous regions, refractive index = 1.33 
+fatty regions, refractive index = 1.45 
+When tartrazine dissolves into the aqueous regions, it changes their refractive  
+index, n. The change in refractive index is related to the concentration of tartrazine  
+(in mol dm−3) in the aqueous region, 𝑐𝑡, as follows: 
+∆𝑛= 0.143𝑐𝑡 
+When the refractive index of the aqueous regions is equal to the refractive index of the fatty 
+regions, the mouse’s skin becomes transparent. Mr(tartrazine) = 534.4 g mol−1. 
+(h) 
+Assume the total volume of aqueous regions in a mouse’s skin is 8.50 cm3. Calculate 
+the minimum mass of tartrazine required to make this mouse’s skin transparent. 
+The synthesis of tartrazine from nitrobenzene is shown below. 
+ 
+(i) 
+Draw the structures of compounds A-F. 
+Hint: Na2SO3 is a reducing agent. 
+ 
+ 
+ 
+
+12 
+ 
+One way of differentiating between β-
+carotene and tartrazine is by investigating 
+which wavelengths of light they absorb 
+using UV-vis spectroscopy. The 
+wavelengths of UV and visible light that the 
+sample absorbs are used to produce a 
+spectrum. 
+ 
+(j) 
+Suggest the colour of substance X based on its UV-vis spectrum above. 
+blue 
+yellow 
+orange 
+red 
+A sample containing tartrazine, β-carotene, and a pH indicator was added to diethyl ether. 
+Aqueous HCl was added, the mixture shaken, and the layers were left to separate. The 
+aqueous layer gave spectrum 1 and the organic layer gave spectrum 2. A base was then 
+added to the organic layer, which caused a colour change. The organic layer now gave 
+spectrum 3. The diethyl ether was then evaporated from the organic layer and ethanol was 
+added to the residue. Any undissolved solids were filtered off and dissolved in hexane. The 
+ethanol solution gave spectrum 4, and the hexane solution gave spectrum 5. 
+ 
+ 
+ 
+ 
+ 
+(k) 
+In the answer booklet, label these spectra as spectra 1-5. 
+ 
+ 
+
+13 
+ 
+Q5 This question is about minerals 
+The 10th Century chemist, al-Bīrūnī, was born in 
+Uzbekistan. Al-Bīrūnī developed tests for 
+distinguishing similar-looking minerals from 
+each other, and so is known as one of the 
+earliest scientific mineralogists. He studied 
+turquoise, a valuable blue-green gemstone. 
+ 
+Turquoise has an idealised formula of 
+CuAl6(PO4)4(OH)x⋅yH2O. The oxidation state 
+of copper in this mineral is 2+. 
+ 
+(a) 
+Determine the number of hydroxide ions, x, present in this formula. 
+If you do not get an answer for (a), assume the answer is x = 10. 
+A simple way to identify a gemstone is destructive analysis to determine the elemental 
+content. The water content of turquoise is variable and y can range from 2 to 8. This water 
+can be removed by heating in a kiln. Elemental analysis was carried out on a sample of 
+dehydrated pure turquoise.  
+(b) 
+Determine the percentage copper by mass in this dehydrated sample to three 
+significant figures. 
+Libethenite, Cu2PO4OH, is blue-green copper-containing mineral similar in appearance to 
+turquoise. Six mineral samples were analysed. 
+Sample  
+A 
+B 
+C 
+D 
+E 
+F 
+% Cu by mass 
+0% 
+7% 
+11% 
+17% 
+46% 
+53% 
+ 
+(c) 
+Calculate which sample from the table was pure libethenite and which was pure 
+turquoise.  
+Turquoise is intermediate in composition between libethenite and another blue-green mineral, 
+variscite, AlPO4⋅2H2O. These minerals can be easily distinguished by chemical analysis. 
+Al-Bīrūnī only had access to simple chemical analysis. He had to rely on other measurements 
+such as the comparison of mineral densities. Densities can be calculated from the size and 
+composition of the crystal unit cell. The unit cell is the periodically repeating unit making up 
+the crystal. 
+ 
+ 
+ 
+
+14 
+ 
+The unit cell of variscite is shown. It consists of eight formula units.  
+Within the unit cell we can see ‘AlO6’ octahedra, where an Al3+ is surrounded by six oxygens in 
+an octahedral shape. Two of these oxygens are part of water molecules. The others can be 
+considered as O2− ions. There are also ‘PO4’ tetrahedra, where a P(V) centre is surrounded by 
+a tetrahedron of four oxygens (like the phosphate anion). These can be considered as O2− ions.  
+All O2− ions are shared between two polyhedra (octahedra or tetrahedra). 
+ 
+ 
+ 
+A regular tetrahedral molecule is shown drawn inside a cube. The volume of a regular 
+tetrahedron, Vtet, of edge length, 𝑎, is: 
+𝑉
+tet =
+1
+6√2
+𝑎3 
+(d) 
+Determine the volume of the PO4 tetrahedron in Å3. The P–O bond length is 1.54 Å. 
+If you do not get an answer for (d), assume the answer is 1.50 Å3. 
+The volume of the unit cell can be approximated as the sum of the volume of the octahedra, 
+tetrahedra, water molecules, and empty spaces. Each water molecule contributes an extra 
+20 Å3 volume. The AlO6 octahedron has a volume of 9.00 Å3.  
+(e) 
+(i) 
+Calculate the volume of the unit cell of variscite in Å3. Assume the cell is 50% 
+filled by tetrahedra, octahedra, and water. 
+If you do not get an answer for (e)(i), assume the answer is 969 Å3. 
+ 
+(ii) 
+Calculate the density of variscite in g cm−3. 
+Turquoise, consists of six ‘AlO6’ octahedra, one ‘CuO6’ octahedron, and some ‘PO4’ 
+phosphate tetrahedra. The Cu–O bond length is 2.29 Å. The Al–O bond length is 1.89 Å and 
+the P–O bond length is 1.54 Å (both the same as in variscite). The volume of a regular 
+octahedron, Voct, of edge length, 𝑎, is: 
+𝑉
+oct = √2
+3 𝑎3 
+Assume that turquoise contains six molecules of water of crystallisation in the formula unit  
+(y = 6) and the cell is 70% filled by tetrahedra, octahedra, and water/hydroxide. Like water, 
+each hydroxide also contributes an extra 20 Å3 volume. 
+(f) 
+(i) 
+Calculate the volume of the unit cell of turquoise in Å3. 
+If you do not get an answer for (f)(i), assume the answer is 444 Å3. 
+ 
+(ii) 
+Determine the density of turquoise in g cm−3. 
+ 
+ 
+
+15 
+ 
+Acknowledgements & References  
+References will be added to the version of the paper uploaded to the web later. 
+ 
+Q1 The image is © Petr Toman/Shutterstock. 
+ 
+Q2 The image is © Dr Ben Pilgrim and was generated by Microsoft CoPilot. 
+ 
+Q3 The image is © Dr Andy Taylor and was generated by ChatGPT. 
+ 
+Q4 The image of Paddington is © John Kiappes. The image of the mouse is © Laura Carpenter. 
+ 
+Q5 The image is © Artography/Shutterstock. 
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as they 
+credit you and license their new creations under the identical terms. 
+ 
+Authors of 2026 UK Round One Paper (listed alphabetically) 
+ 
+Dr Peter Bolgar (Fitzwilliam College, University of Cambridge) 
+Richard Danylyuk (University of Cambridge) 
+Dr Oliver Evans (University of Cambridge) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (University College London) 
+Dr Ben Pilgrim (University of Nottingham) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Prof. Alex Thom (University of Cambridge) 
+ 
+ 
+ 
+ 

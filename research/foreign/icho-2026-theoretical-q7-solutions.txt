@@ -1,0 +1,362 @@
+Theory
+Q7-1
+English (Official)
+T7. Nitrogen Fixation
+7%
+7.1
+7.2
+7.3
+7.4
+7.5
+7.6
+7.7
+∑
+3
+8
+15
+3
+6
+6
+13
+54
+The Haber–Bosch process is the principal industrial method for ammonia production. A simplified dia-
+gram of an ammonia synthesis plant is shown below.
+Fig. 1. M1 - Mixture 1, M2 - Mixture 2, Z −CO2 scrubber, CLR - cooler
+In the following calculations, assume that all reactions in Fig. 1, except NH3 formation, are quantitative.
+
+Theory
+Q7-2
+English (Official)
+7.1
+Tick the gases contained in M1 and M2; and tick the correct relationship be-
+tween 𝑥and 𝑦.
+SOLUTION:
+CH4
+H2O
+CO
+O2
+H2
+N2
+NH3
+CO2
+M1
+✓
+✓
+✓
+M2
+✓
+✓
+✓
+𝑥> 𝑦
+𝑥= 𝑦
+𝑥< 𝑦
+✓
+For composition of M1: 1 pt
+For two correct ticks: 0.5 pt; If only one correct tick given: 0.25 pt
+-0.25 pt penalty for each incorrect tick, but not below 0 pt.
+For composition of M2: 1 pt; For two correct ticks: 0.5 pt; If only one correct tick
+given: 0.25 pt
+-0.25 pt penalty for each incorrect tick, but not below 0 pt.
+For relationship: 1 pt.
+3.0 pt
+An ammonia production complex with a capacity of 660, 000 tons per year was commissioned at the
+Navoiazot plant in Uzbekistan, which operates with a 97.0% of overall yield.
+
+Theory
+Q7-3
+English (Official)
+7.2
+Calculate the mass of CH4 (tons) required annually to produce 660, 000 tons of
+ammonia, if the Navoiazot operates according to the Fig. 1.
+SOLUTION:
+𝑛(NH3) = 6.6⋅1011
+17
+= 3.88 ⋅1010 mol
+ 
+𝑛(N2, init.) = 3.88⋅1010
+2⋅0.97
+= 2 ⋅1010 mol
+ 
+𝑛(H2, init.) = 3 ⋅2 ⋅1010 = 6 ⋅1010 mol
+ 
+𝑛(O2) = 2 ⋅1010 ⋅1
+4 = 5 ⋅109 mol
+ 
+ 
+1 ⋅1010
+5 ⋅109
+1 ⋅1010
+2 ⋅1010
+2CH4
++
+O2
+→
+2CO
++
+4H2
+ 
+ 
+𝑥
+𝑥
+3𝑥
+CH4
++
+H2O
+→
+CO
++
+3H2
+ 
+ 
+𝑥+ 1 ⋅1010
+𝑥+ 1 ⋅1010
+CO
++
+H2O
+→
+CO2
++
+H2
+ 
+ 
+6 ⋅1010 = 2 ⋅1010 + 3𝑥+ 𝑥+ 1 ⋅1010
+ 
+𝑥= 7.5 ⋅109
+ 
+𝑚(CH4) = (7.5 ⋅109 + 1 ⋅1010) ⋅0.016 ⋅10−3 = 280, 000 tons
+m(CH4)−
+−280,000 tons
+For 𝑛(NH3): 0.5 pt, for n 𝑛(N2, 𝑖𝑛𝑖𝑡.): 0.5 pt, for 𝑛(H2, 𝑖𝑛𝑖𝑡.): 0.5 pt, for 𝑛(O2, 𝑖𝑛𝑖𝑡.):
+0.5 pt, for correct equation to calculate 𝑛(CH4): 3 pt, for 𝑛(CH4) from equation:
+1 pt, for 𝑚(CH4): 2 pt.
+8.0 pt
+
+Theory
+Q7-4
+English (Official)
+Consider a model of a real reaction system, which includes recirculation of reagents. An open system
+operates in a cyclic mode. Each cycle consists of four steps:
+1. A stoichiometric N2 : H2 = 1 : 3 mixture with a total amount of n0 mol is fed into the reactor after
+each cycle.
+2. The reaction proceeds with a constant yield of 𝜂= 0.150.
+3. Ammonia is separated by liquification.
+4. Unreacted gases are returned into the reactor.
+The cycle is repeated until the required overall yield is reached.
+Fig. 2. M2. – Mixture 2, CLR - cooler.
+
+Theory
+Q7-5
+English (Official)
+7.3
+a) Calculate the amount of nitrogen, present in the system after the 58th cycle
+(before the addition of 59th portion of mixture), if 𝑛0 = 4 mol. Provide 4 decimal
+places. Hint: a formula for the sum of the terms of a geometric progression is
+needed.
+b) Calculate the number of cycles needed to increase the overall yield from
+15.0% to 97.0%.
+SOLUTION:
+Each time, along with the unreacted gases, a stoichiometric mixture of N2 and
+H2 is added to the synthesis reactor. Let's define 𝑓𝑛as the number of moles of
+N2, which are present in the reactor after the reaction and before adding the
+next portion. For moles of N2, the following recurrence relation is obtained:
+𝑓𝑛= (𝑛0
+4 + 𝑓𝑛−1)(1 −𝜂),
+𝑓1 = (1 −𝜂)𝑛0
+4 (2 pt each)
+Applying the relation and using 𝑛0 = 4, we obtain:
+𝑓2 = (1 + 𝑓1)(1 −𝜂) = (1 −𝜂) + (1 −𝜂)2
+𝑓3 = (1 + 𝑓2)(1 −𝜂) = (1 −𝜂) + (1 −𝜂)2 + (1 −𝜂)3
+𝑓4 = (1 + 𝑓3)(1 −𝜂) = (1 −𝜂) + (1 −𝜂)2 + (1 −𝜂)3 + (1 −𝜂)4
+...
+𝑓𝑛= (1 −𝜂) + (1 −𝜂)2 + (1 −𝜂)3 + (1 −𝜂)4 + … + (1 −𝜂)𝑛=
+𝑛
+∑
+𝑖=1
+(1 −𝜂)𝑖(2 pt)
+= (1 −𝜂)1 −(1 −𝜂)𝑛
+1 −(1 −𝜂) = (
+1
+𝜂−1) (1 −(1 −𝜂)𝑛) (2 pt)
+a) After using the numerical values, we can easily calculate
+𝑓𝑛= 5.6662 (2 pt)
+If student calculated the answer by calculating every single 𝑓𝑛and got the final an-
+swer correctly, full marks for the answer are given, but 0 for the equations.
+For any other reasonable solution, giving the correct answer, full mark will be
+given.
+ 
+ 
+b) Over n cycles, n moles of nitrogen have entered the system:
+1 −𝜂𝑓𝑖𝑛𝑎𝑙=
+(
+1
+𝜂−1) (1 −(1 −𝜂)𝑛)
+𝑛
+(3 pt)
+When 𝜂= 0.15 and 𝜂𝑓𝑖𝑛𝑎𝑙= 0.97, the exact answer is n = 188.9, so the required
+number of cycles is 189 (2 pt).
+Note: this equation can be easily converted to a linear one by mentioning that
+(1 −(1 −𝜂)𝑛) ≈1, which is practically true after n = 30. For any other reasonable
+solution, giving the correct answer, full marks will be given.
+𝑛= ___189____
+Total: 15 pt
+15.0 pt
+An aqueous solution of 3 is being used to remove CO2 from the mixture.
+
+Theory
+Q7-6
+English (Official)
+7.4
+Write the equation for this reaction.
+SOLUTION:
+CO2 + H2O + (CH3)N(CH2CH2OH)2 −
+−
+−
+→(CH3)NH(CH2CH2OH)2+ + HCO3−
+3 pt
+Any other reasonable reactions will be credited partially.
+3.0 pt
+Complex 5 is obtained through the fixation of the molecular nitrogen according to the scheme below.
+7.5
+Draw the structure of 5 using simplified scheme for the ligand. Note that 1.00
+g of 4 will react stoichiometrically with 94.97 cm3 of N2 at 273.15 K and 1.0 bar.
+SOLUTION:
+ 
+𝑛(N2) = 𝑃𝑉
+𝑅𝑇= 100 × 0.09497
+8.314 × 273.15 = 4.182 × 10−3 mol
+ 
+𝑛(4) =
+1.00 g
+597.824 g mol−1 = 1.673 × 10−3 mol
+ 
+𝑛(N2)
+𝑛(4) = 4.182 × 10−3
+1.673 × 10−3 = 2.5
+ 
+Thus, one molecule of the complex absorbs 2.5
+moles of nitrogen, which means that two
+molecules of the complex absorb 5 molecules
+of nitrogen.
+For calculating the ratio of nitrogen and complex: 3 pt, for correct structure
+(stereochemistry is not marked): 3 pt, for any other structures, fitting the ratio:
+1 pt
+If student found CORRECT structure but did not show calculations, full marks
+will be given.
+6.0 pt
+The effect of different reductants and additives on the yield of NH3 was examined. The different Red
+and Ad combinations, their respective E° and 𝑝𝐾𝑎, together with the resulting NH3 yield are presented
+below.
+
+Theory
+Q7-7
+English (Official)
+
+Theory
+Q7-8
+English (Official)
+7.6
+Rank the following Red/Ad combinations A-D by the decrease in ammonia
+yield.
+SOLUTION:
+B>C>D>A=0
+A = 0: NiCp2 at −0.09 V is below the reductant threshold, so no NH3 is produced.
+B>C: B benefits from a slightly higher 𝑝𝐾𝑎: stronger acids favour hydrogen evo-
+lution. It can be seen from the table as well (3 vs 4). (2 pt)
+C>D: Switching from OTf−to Cl−causes a large suppression because of the
+stronger coordination. This is shown in the table (2 vs 3). (2 pt)
+D>A: D gives small non-zero yield — Cl−suppresses heavily but the strong re-
+ductant and good 𝑝𝐾𝑎sustain some catalytic turnover (2), when A gives zero.
+(2 pt)
+Total: 6 pt
+6.0 pt
+Nitrogen fixation can also be achieved via binary nitrides (compounds containing N3−). Such nitrides 7,
+8, 9 were obtained from pure elements. When they are heated together with SiO2, red crystals of a stable
+compound 10 are formed as the single product. The minimal possible formula, describing the structure
+of compound 10 is Q𝛼R𝛽S2T[Si12N24]. In addition:
+1. Mass fractions of nitrogen are 𝑤(N)7 =9.16%, 𝑤(N)8 =18.90%, 𝑤(N)9 =39.94%
+2. Q and R are metal cations in their highest oxidation state.
+3. S is a monoatomic anion.
+4. T is an anion with tetrahedral configuration.
+5. For the quantitative formation of 10, the mass ratio 7 : 8 : 9 : SiO2 = 5.09 : 2.96 : 3.27 : 1.00.
+
+Theory
+Q7-9
+English (Official)
+7.7
+Identify the empirical formulae of 7 – 10. Specify the composition of anions S
+and T.
+SOLUTION:
+For binary nitride Z3N𝑛(we can suggest nitrogen as trivalent for the start):
+𝑤(N) =
+14.007 × 𝑛(N)
+14.007 × 𝑛(N) + 𝑀(Z) × 3, so 𝑀(Z) = 14.007
+3
+(
+1
+𝑤(N) −1) × 𝑛
+For analysing mass fraction data let's create a table:
+n
+𝑀(Z7)
+𝑀(Z8)
+𝑀(Z9)
+1
+46.30
+20.03
+7.02
+2
+92.61
+40.07 (Ca3N2)
+14.04
+3
+138.909 (LaN)
+60.105
+21.063
+4
+185.21
+80.14
+28.08 (Si3N4)
+5
+231.52
+100.18
+35.11
+6
+277.82
+120.21
+42.13
+7
+324.12
+140.24
+49.15
+8
+370.42
+160.28
+56.19
+After calculations and the use of the common chemical sense we get only 3
+possibilities: 7 = LaN, 8 = Ca3N2, 9 = Si3N4. Now let’s convert mass ratios to
+molar ones:
+𝑛(LaN) ∶𝑛(Ca3N2) ∶𝑛(Si3N4) ∶𝑛(SiO2)
+ 
+5.09
+138.91+14.01 ∶
+2.96
+40.07⋅3+14.01⋅2 ∶
+3.27
+28.08⋅3+14.01⋅4 ∶
+1
+28.08+16.00⋅2 = 10 ∶6 ∶7 ∶5
+ 
+So, the reaction of formation of 10 looks like:
+ 
+10 LaN + 6 Ca3N2 + 7 Si3N4 + 5 SiO2 ⟶…
+ 
+Thus, the formula of 10 should be La10Ca18Si26N50O10.
+T should have a
+tetrahedral configuration, which is really unlikely for both nitrogen and oxy-
+gen, so anion T should have the formula SiX4𝑛−(𝑋might be different). As
+we need to have two identical monoatomic anions, which cannot be obtained
+from one atom of nitrogen, T = SiO3N5−, S = O2−.
+So, the final answer is
+10 = La5Ca9(O)2(NSiO3)[Si12N24].
+for 7, 8, 9: 3 pt each (for 9 = Li3N 1 pt);
+for 10: 4 pt if both S and T are emphasised, 2 pt for empirical formula.
+13.0 pt

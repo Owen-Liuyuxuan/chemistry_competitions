@@ -1,0 +1,784 @@
+1 
+ 
+ 
+ 
+ 
+58th INTERNATIONAL  
+ 
+CHEMISTRY OLYMPIAD  
+ 
+2026 
+ 
+UK Round One 
+ 
+MARK SCHEME 
+ 
+ 
+ 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors.  
+Allow where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+ 
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme and where ECF is not allowed.  
+ 
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+ 
+Organic structures are shown in their skeletal form, but also accept displayed formulae if 
+the representation is unambiguous.  
+ 
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+ 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+Total 
+Marks Available 
+8 
+18 
+19 
+26 
+13 
+84 
+
+2 
+ 
+1. 
+This question is about pee in the pool 
+Mark 
+(a) 
+Cl2 
+0 
+HOCl 
++1 or I 
+HCl 
+−1 or −I 
+ 
+ 
+All three correct two marks. Two correct and one incorrect one mark. One correct only no 
+marks. Accept if the + sign is missing for HOCl and they have just written “1”. 
+(b) 
+Na2CO3  +  2HOCl  →  2NaOCl  +  H2O  +  CO2 
+State symbols are not required. Accept multiples of this equation. 
+Accept Na2CO3  +  2HOCl  →  2NaOCl  +  H2CO3 
+Do not accept any reactions where NaCl is given as a product.  
+ 
+(c) 
+(i) 
+3OCl−  →  ClO3−  +  2Cl− 
+State symbols are not required. Accept multiples of this equation. 
+Do not accept non-ionic versions of this equation,  
+e.g., 3NaOCl  →  NaClO3  +  2NaCl, as students were specifically asked for the 
+ionic equation.  
+ 
+(ii) 
+Trigonal pyramidal or pyramidal 
+ 
+(d) 
+(NH2)2CO  +  H2O →  2NH3  +  CO2 
+State symbols are not required. Accept multiples of this equation. 
+ 
+(e) 
+ 
+Dots and crosses can be the other way around.    
+ 
+(f) 
+𝑐= 𝑘× 𝑝(NCl3) 
+𝑝(NCl3) = 5.0 × 10−4 mol dm−3
+435 mol dm−3 atm−1  
+𝑝(NCl3) =  1.15 × 10−6 atm 
+ 
+ 
+Total out of 8 8 
+ 
+ 
+
+3 
+ 
+2. 
+This question is about isocyanides 
+Mark 
+(a) 
+ 
+Both lone pairs must be drawn in for the mark. Bond angles/geometry around the 
+nitrogen is not important, if the number of bonds is correct.   
+ 
+(b) 
+(i) 
+B 
+ 
+Accept if nitrile group is drawn out or written in abbreviated form.   
+ 
+(ii) 
+AgBr or silver bromide 
+ 
+(c) 
+𝑛= 8 × 10−8 mol dm−3 ×  50 × 103 m3 
+𝑛= 4 × 10−3 mol 
+𝑚𝑜𝑙𝑒𝑐𝑢𝑙𝑒𝑠= 4 × 10−3 mol ×  6.022 × 1023 mol−1 
+= 2.4 × 1021 molecules  
+Students need to remember the conversion factor of 1000 between m3 and dm3. 
+Molecules does not have to be written as the “unit”. 
+ 
+(d) 
+(i) 
+C 
+ 
+ 
+(ii) 
+D 
+ 
+Accept if the student has written formic acid, HCO2H, or HCOOH, as they 
+understand the functional group present. If the student has written CH2O2 or CH2O2 
+then do not award the mark as there is no clear demonstration of their knowledge of 
+the functional group. 
+ 
+(e) 
+C3H5NH2  +  3NaOH  +  CHCl3  →  C3H5NC  +  3NaCl  +  3H2O 
+State symbols are not required. Accept multiples of this equation.  
+ 
+ 
+ 
+ 
+
+4 
+ 
+(f) 
+ 
+Two marks if two correct molecules circled and no incorrect molecules circled. One mark 
+if two correct molecules circled and one incorrect molecule circled. One mark if one 
+correct molecule circled only and nothing else. One mark if one correct molecule circled 
+only and one incorrect molecule circled. No marks if two or more incorrect molecules 
+circled.   
+ 
+ 
+(g) 
+ 
+One mark for each correct structure. Ignore any stereochemistry drawn.    
+ 
+ 
+ 
+(h) 
+𝑛= 2 isocyanides × 3 ketones × 3 acids 
+𝑛= 18 
+One mark for the correct numerical answer. Working is not needed. No mark for 
+reasoning if final number is not correct.    
+ 
+(i) 
+ 
+No marks if any other atom has an asterisk.     
+ 
+(j) 
+The R3 and R4 substituents are different for both aldehydes and one of the two ketones. 
+This means there are seven possibilities for the aldehyde/ketone partner. 
+𝑛= 2 isocyanides × 7 ketones or aldehydes × 3 acids 
+𝑛= 42 
+Two marks for the correct numerical answer. No partial credit. Working is not needed. No 
+marks for reasoning if final number is not correct.    
+ 
+ 
+(k) 
+There are five chemically distinguishable isocyanide groups, two chemically 
+distinguishable ketone groups, and five chemically distinguishable acid groups.  
+𝑛= 5 isocyanides × 2 ketones × 5 acids 
+𝑛= 50 
+Two marks for the correct numerical answer. No partial credit. Working is not needed. No 
+marks for reasoning if final number is not correct.    
+ 
+ 
+ 
+ 
+Total out of 18 18 
+ 
+ 
+
+5 
+ 
+3. 
+This question is about compounds in henna tattoos 
+Mark 
+(a) 
+𝐾1 = [B]
+[A] = 0.003
+99.997 =  3.00 × 10−5  
+ 
+(b) 
+𝐾2 = [D]
+[C] =  0.23 
+[C] + [D] =  100% 
+[C] =  100% −[D] 
+[D]
+100% −[D] =  0.23 
+[D] =  23% −0.23[D]  
+1.23[D] =  23% 
+[D] = 23%
+1.23 = 18.7% 
+[C] =  100% −18.7% =  81.3% 
+Two marks if both numbers are correct. One mark can be given if working is correct (i.e., 
+use of simultaneous equations correctly) but final answer is incorrect due to a trivial error. 
+One mark if student has only quoted one of C or D.  
+ 
+ 
+(c) 
+ 
+Four correct circles and no incorrect circles, two marks.  
+Three correct circles and no incorrect circle, one mark.  
+Three correct circles and one incorrect circle, one mark.  
+Anything else, no marks. 
+ 
+ 
+(d) 
+ 
+One mark for each correctly drawn tautomer. The final mark can be awarded if the 
+hydrogen bond has been drawn in the correct place on the correct tautomer. The dipoles 
+do not need to be drawn on the hydrogen bond for the mark.  
+ 
+ 
+ 
+
+6 
+ 
+(e) 
+No marks if more than one answer is ticked. 
+electrophilic 
+aromatic 
+substitution 
+nucleophilic 
+aromatic 
+substitution 
+reduction 
+oxidation 
+hydrolysis 
+ 
+ 
+ 
+✓ 
+ 
+ 
+(f) 
+(i) 
+ 
+ 
+One mark. Accept if student writes SH instead of drawing out the S–H bond.  
+ 
+(ii) 
+ 
+One mark. Accept if student writes OH instead of drawing out the O–H bond. Do 
+not accept any version where there are no formal charges, or the nitrogen atom has 
+five bonds. 
+ 
+(g) 
+(i) 
+ 
+One mark if both correct only. Accept if student writes OH or NH instead of drawing 
+out the O–H and N–H bond(s). 
+ 
+(ii) 
+ 
+Two marks if all three correct structures drawn. Can award one mark if two correct 
+structures are drawn (with a maximum of one incorrect structure). Accept if student 
+writes OH or NH instead of drawing out the O–H and N–H bond(s). Note 
+stereochemistry is not graded, and so the C=C can be cis, trans, undefined or 
+ambiguous as long as the bond connectivity is correct. 
+ 
+ 
+(h) 
+∆𝑟𝐻
+⦵= ∑bonds broken − ∑bonds formed 
+∆𝑟𝐻
+⦵= ((743 + 348 + 412) −(463 + 360 + 612)) kJ mol−1 
+∆𝑟𝐻
+⦵= +68 kJ mol−1 
+One mark. The positive sign does not have to be written, but if value written as negative 
+then no marks should be awarded.  
+ 
+ 
+ 
+ 
+
+7 
+ 
+(i) 
+∆𝐺
+⦵= ∆𝐻
+⦵−𝑇∆𝑆
+⦵ 
+∆𝐺
+⦵= −32,580 J mol−1 −(298 K × −11.48 J K−1mol−1) 
+∆𝐺
+⦵= −29,160 J mol−1 = −29.16 kJ mol−1 
+∆𝐺
+⦵= −𝑅𝑇𝑙𝑛𝐾
+𝑔𝑎𝑠 
+𝐾
+𝑔𝑎𝑠= 𝑒−∆𝐺
+⦵
+𝑅𝑇 
+𝐾
+𝑔𝑎𝑠= 𝑒
+−(
+−29,160 J mol−1
+8.314 J K−1mol−1 × 298 K) 
+𝐾
+𝑔𝑎𝑠= 1.29 × 105  
+Two marks. One mark for correct calculation of ΔG⦵, and one mark for correct calculation 
+of Kgas. 
+ 
+ 
+(j) 
+∆𝑟𝐺
+⦵
+𝑤𝑎𝑡𝑒𝑟= − ∆𝑠𝑜𝑙𝐺
+⦵
+𝑘𝑒𝑡𝑜+ ∆𝑟𝐺
+⦵
+𝑔𝑎𝑠+ ∆𝑠𝑜𝑙𝐺
+⦵
+𝑒𝑛𝑜𝑙 
+∆𝑟𝐺
+⦵
+𝑤𝑎𝑡𝑒𝑟= −(−126,000 J mol−1) + (−29,160 J mol−1) + (−109,200 J mol−1) 
+∆𝑟𝐺
+⦵
+𝑤𝑎𝑡𝑒𝑟= −12,360 J mol−1 = −12.36 kJ mol−1 
+𝐾𝑤𝑎𝑡𝑒𝑟= 𝑒−∆𝐺
+⦵
+𝑤𝑎𝑡𝑒𝑟
+𝑅𝑇
+ 
+𝐾𝑤𝑎𝑡𝑒𝑟= 𝑒
+−(
+−12,360 J mol−1
+8.314 J K−1mol−1 × 298 K) 
+𝐾𝑤𝑎𝑡𝑒𝑟= 147 
+Two marks. One mark for correct calculation of ΔG⦵, and one mark for correct calculation 
+of Kgas. ECF from (i) can be awarded. If 𝐾
+𝑔𝑎𝑠= 3.05 × 106 is used: 
+∆𝑟𝐺
+⦵
+𝑤𝑎𝑡𝑒𝑟= −20,190 𝐽 𝑚𝑜𝑙−1 = −20.19 𝑘𝐽 𝑚𝑜𝑙−1 
+𝐾𝑤𝑎𝑡𝑒𝑟= 3460 
+ 
+ 
+ 
+Total out of 19 19 
+ 
+ 
+ 
+
+8 
+ 
+4. 
+This question is about rice, spice, and mice 
+Mark 
+(a) 
+C40H56 
+ 
+(b) 
+(i) 
+10 
+(ii) 
+11 
+ 
+ 
+One mark each. No credit if written the wrong way around.  
+(c) 
+Two marks if all in correct place. One mark can be awarded if two are in the correct 
+place. 
+lowest energy 
+ 
+ 
+highest energy 
+B 
+A 
+D 
+C 
+ 
+ 
+(d) 
+ 
+Each row of p orbitals is marked separately. All six rows shaded correctly three marks. 
+Four or five rows shaded correctly two marks. Two or three rows shaded correctly one 
+mark. No marks if one row or no whole rows are shaded correctly. No credit can be given 
+for rows in the wrong place.  
+ 
+ 
+ 
+(e) 
+(i) 
+Δ𝐸= 4(6.85 × 10−19 J) sin( 90°
+6 + 1)   = 6.10 × 10−19 J 
+ 
+(ii) 
+𝜆  =   ℎ𝑐
+Δ𝐸 
+𝜆  =   (6.626 × 10−34 J s)(2.998 × 108 m s−1)
+6.10 × 10−19 J
+=  3.26 × 10−7 m 
+𝜆  =  326 nm 
+No credit if answer not given in nm as this was asked in the question.  
+ 
+(f) 
+ 
+ 
+ 
+Allow ECF from part (e)(ii). If answer to (e)(ii) is 380-720 nm then yes is ECF answer. 
+yes 
+no 
+ 
+✓ 
+ 
+(g) 
+ 
+ 
+ 
+it decreases 
+it stays the same 
+it increases 
+ 
+ 
+✓ 
+ 
+
+9 
+ 
+ 
+(h) 
+Δ𝑛  =  1.45 −1.33  =  0.12 
+𝑐𝑡=
+0.12
+0.143 mol−1 dm3 = 0.839 mol dm−3 
+𝑛𝑡  =  𝑐𝑡𝑉  =  0.839 mol dm−3 × 8.50 × 10−3 dm3 = 7.13 × 10−3 mol 
+𝑚𝑡= 𝑛𝑡× 𝑀𝑟= 7.13 × 10−3 mol × 534.4 g mol−1 = 3.81 g 
+Correct answer scores two marks. One mark can be awarded for correctly calculating the 
+concentration of tartrazine, the second mark for correctly calculating the minimum mass 
+of tartrazine. 
+ 
+ 
+(i) 
+A 
+ 
+One mark. 
+B 
+  
+One mark for correct structure. ECF can be 
+awarded from A if structure of B matches 
+formula.  
+ 
+ 
+C 
+ 
+One mark for correct structure. Diazonium 
+group does not have to be drawn out. ECF 
+can be awarded from B if structure of C 
+matches formula. 
+D 
+ 
+Two marks for correct structure. ECF can 
+be awarded from C if structure of D matches 
+formula. 
+ 
+ 
+ 
+E 
+ 
+Two marks for correct structure. Any of the three reasonable tautomeric forms above 
+scores full credit. Allow if SO3H abbreviation used. ECF can be awarded from D. 
+ 
+ 
+ 
+ 
+ 
+
+10 
+ 
+ 
+ 
+F 
+ 
+One mark for correct structure. Allow if SO3H abbreviation used. No ECF can be awarded 
+as student can work backwards from tartrazine.  
+ 
+(j) 
+ 
+blue 
+yellow 
+orange 
+red 
+✓ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11 
+ 
+(k) 
+3 
+ 
+5 
+ 
+ 
+ 
+ 
+1 
+ 
+4 
+ 
+2 
+ 
+All five correct three marks. Three correct two marks. Two correct one mark. 
+ 
+Total out of 26 26 
+ 
+ 
+ 
+
+12 
+ 
+5. 
+This question is about minerals 
+Mark 
+(a)  
+Balancing charges for: Cu = +2; Al = +3; PO4 = −3; H = −1 
+Charge of Cu, Al, PO4 is (1 × +2) + (6 × +3) + (4 × −3) = +8 
+Charge remaining for OH− is −8. 
+Therefore number of OH−, x = 8 
+One mark for correct answer. Working does not need to be shown.  
+ 
+(b) 
+For dehydrated turquoise, formula = CuAl6(PO4)4(OH)x 
+ 
+Mr 
+definite 
+variable 
+Al 
+26.98 
+6 
+ 
+Cu 
+63.55 
+1 
+ 
+P 
+30.97 
+4 
+ 
+O 
+16.00 
+16 
+x 
+H 
+1.008 
+0 
+x 
+Total 
+ 
+605.31 
+17.008x 
+𝑀𝑟(turquiose) = (605.31 + 17.008𝑥) g mol−1 
+%𝑚𝑎𝑠𝑠(Cu) = 63.55 g mol−1
+𝑀𝑟(turquiose) 
+For x = 8 
+ 
+%𝑚𝑎𝑠𝑠(Cu) =
+63.55 g mol−1
+(605.31 + (17.008 × 8)) g mol−1 
+%𝑚𝑎𝑠𝑠(Cu) = 8.57% 
+For x = 10 
+%𝑚𝑎𝑠𝑠(Cu) =
+63.55 g mol−1
+(605.31 + (17.008 × 10)) g mol−1 
+%𝑚𝑎𝑠𝑠(Cu) = 8.20% 
+One mark for correct answer. Working does not need to be shown. ECF from part (a) can 
+be awarded.  
+ 
+(c) 
+ 
+ 
+ 
+𝑀𝑟(libethenite) = 239.078 g mol−1 
+%𝑚𝑎𝑠𝑠(Cu, libethenite) = 2 × 63.55 g mol−1
+239.078 g mol−1  
+%𝑚𝑎𝑠𝑠(Cu, libethenite) = 53.2% 
+Therefore, sample F (53%) is in the range of libethenite. 
+One mark for libethenite. Working does not need to be shown.  
+libethenite 
+turquoise 
+F 
+B 
+ 
+ 
+ 
+ 
+
+13 
+ 
+ 
+𝑀𝑟(turquiose) = (605.31 + 17.008𝑥+ 18.016𝑦) g mol−1 
+For x = 8, y = 2:  
+%𝑚𝑎𝑠𝑠(Cu, turquiose) =
+63.55 g mol−1
+(605.31 + 17.008 × 8 + 18.016 × 2) g mol−1 
+%𝑚𝑎𝑠𝑠(Cu, turquiose) = 8.17% 
+For x = 8, y = 8:  
+%𝑚𝑎𝑠𝑠(Cu, turquiose) =
+63.55 g mol−1
+(605.31 + 17.008 × 8 + 18.016 × 8) g mol−1 
+%𝑚𝑎𝑠𝑠(Cu, turquiose) = 7.18% 
+Therefore, sample B (7%) is in the range of turquoise. 
+One mark for turquoise. Working does not need to be shown. 
+The highest reasonable ECF for turquiose is x = 1, y = 2.  
+%𝑚𝑎𝑠𝑠(Cu, turquiose) =
+63.55 𝑔 𝑚𝑜𝑙−1
+(605.31 + 17.008 × 1 + 18.016 × 2) 𝑔 𝑚𝑜𝑙−1 
+%𝑚𝑎𝑠𝑠(Cu, turquiose) = 9.65% 
+As this is still closer to sample B than sample C, this means sample B is the only 
+acceptable ECF answer for turquoise in this question. 
+ 
+(d) 
+The P–O bond length, rPO, is half of the opposite vertex-to-vertex distance of the cube. 
+For cube edge length, 𝑙 
+𝑙2 + 𝑙2 + 𝑙2 = (2𝑟𝑃𝑂)2 
+3𝑙2 = 4𝑟𝑃𝑂
+2 
+𝑙= 2𝑟𝑃𝑂
+√3
+ 
+The edge of the tetrahedron, 𝑎, is the O to O distance along the diagonal of the face of 
+the cube 
+𝑙2 + 𝑙2 = 𝑎2 
+𝑎= √2𝑙 
+𝑎= 2√2𝑟𝑃𝑂
+√3
+ 
+𝑎= 2√2 × 1.54 × 10−10 m
+√3
+ 
+𝑎= 2.515 × 10−10 m 
+𝑉
+tet =
+1
+6√2
+(2.515 × 10−10 m)3 
+𝑉
+tet = 1.87 × 10−30 m3 
+𝑉
+tet = 1.87 Å3 
+Correct answer scores both marks. One mark can be awarded for the correct algebraic 
+expression for 𝑎=
+2√2𝑟𝑃𝑂
+√3
+. 
+ 
+ 
+
+14 
+ 
+(e) 
+(i) 
+𝑓𝑖𝑙𝑙𝑒𝑑 𝑣𝑜𝑙𝑢𝑚𝑒=  8𝑉
+𝑃𝑂4 + 8𝑉
+𝐴𝑙𝑂6 + 16𝑉
+𝐻2𝑂 
+= (8 × 1.87 + 8 × 9.00 + 16 × 20) Å3 
+=  406.96 Å3 
+This occupies 50% of unit cell, so need to divide by 0.5 to get total volume.  
+𝑡𝑜𝑡𝑎𝑙 𝑣𝑜𝑙𝑢𝑚𝑒= 406.96 Å3
+0.5
+ 
+=  814 Å3 
+Correct answer scores both marks. One mark can be awarded for correct 
+calculation of the filled volume. Allow ECF from part (d). If value of 𝑉
+𝑡𝑒𝑡= 1.50 Å3 
+has been used, then ECF answer is:  
+𝑓𝑖𝑙𝑙𝑒𝑑 𝑣𝑜𝑙𝑢𝑚𝑒=  404 Å3 
+𝑡𝑜𝑡𝑎𝑙 𝑣𝑜𝑙𝑢𝑚𝑒=  808 Å3 
+ 
+ 
+(ii) 
+There are eight formula units in a unit cell. 
+𝑀𝑟(unit cell) = 8 × (26.98 + 30.97 + 6(16.00) + 4(1.008)) g mol−1 
+= 1263.856 g mol−1 
+𝑚𝑎𝑠𝑠(unit cell) = 1263.856 g mol−1
+6.022 × 1023 mol−1 
+= 2.099 × 10−21 g 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 2.099 × 10−21 g
+814 × 10−24 cm3 
+= 2.58 g cm−3 
+One mark. Do not allow if density is given in different units. Allow ECF from part 
+(e)(i). If value of 𝑡𝑜𝑡𝑎𝑙 𝑣𝑜𝑙𝑢𝑚𝑒= 808 Å3 has been used, then ECF answer is: 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 2.60 𝑔 𝑐𝑚−3 
+If value of 𝑡𝑜𝑡𝑎𝑙 𝑣𝑜𝑙𝑢𝑚𝑒= 969 Å3 has been used, then ECF answer is: 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 2.17 𝑔 𝑐𝑚−3 
+ 
+ 
+ 
+ 
+
+15 
+ 
+(f) 
+(i) 
+𝑉
+CuO6 = (𝑟𝐶𝑢𝑂
+𝑟
+𝐴𝑙𝑂
+)
+3
+𝑉
+AlO6 
+= (2.29 Å
+1.89 Å)
+3
+×  9.00 Å3 
+= 16.01 Å3 
+𝑓𝑖𝑙𝑙𝑒𝑑 𝑣𝑜𝑙𝑢𝑚𝑒=  4𝑉
+𝑃𝑂4 + 𝑉
+𝐶𝑢𝑂6 + 6𝑉
+𝐴𝑙𝑂6 + 14𝑉
+𝐻2𝑂/𝑂𝐻− 
+= (4 × 1.87 + 16.01 + 6 × 9.00 + 14 × 20) Å3 
+=  357.49 Å3 
+This occupies 70% of unit cell, so need to divide by 0.7 to get total volume.  
+𝑡𝑜𝑡𝑎𝑙 𝑣𝑜𝑙𝑢𝑚𝑒= 357.49 Å3
+0.7
+ 
+=  511 Å3 
+Correct answer scores all three marks. First mark can be awarded for correct 
+volume of the CuO6 octahedron. Second mark for correct calculation of the filled 
+volume. Third mark for final answer. Allow ECF from parts (a) and (d). 
+ 
+ 
+ 
+ 
+(ii) 
+𝑀𝑟(unit cell) = (63.55 + 6(26.98) + 4(30.97) + 30(16.00) + 20(1.008)) g mol−1 
+𝑀𝑟(unit cell) = 849.47 g mol−1 
+𝑚𝑎𝑠𝑠(unit cell) =
+849.47 g mol−1
+6.022 × 1023 mol−1 
+= 1.411 × 10−21 g 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 1.411 × 10−21 g
+511 × 10−24 cm3 
+= 2.76 g cm−3 
+One mark. Do not allow if density is given in different units. Allow ECF from part 
+(f)(i). If value of 𝑡𝑜𝑡𝑎𝑙 𝑣𝑜𝑙𝑢𝑚𝑒= 444 Å3 has been used, then ECF answer is: 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 3.18 𝑔 𝑐𝑚−3 
+ 
+ 
+Total out of 13 13 
+ 

@@ -1,0 +1,745 @@
+1 
+ 
+ 
+ 
+ 
+57th INTERNATIONAL  
+ 
+CHEMISTRY OLYMPIAD  
+ 
+2025 
+ 
+UK Round One 
+ 
+MARK SCHEME 
+ 
+ 
+ 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors.  
+Allow where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+ 
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme and where ECF is not allowed.  
+ 
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+ 
+Organic structures are shown in their skeletal form, but also accept displayed formulae if 
+the representation is unambiguous.  
+ 
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+ 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks Available 
+8 
+9 
+20 
+12 
+19 
+15 
+83 
+
+2 
+ 
+1. 
+This question is about clay pigeon shooting 
+Mark 
+(a) 
+(i) 
+C6H7(OH)3O2  +  3HNO3  →  C6H7(ONO2)3O2  +  3H2O 
+State symbols are not required. Accept multiples of this equation. 
+ 
+ 
+(ii) 
+ 
+An overall positive charge must be indicated for the mark.  
+ 
+(b) 
+HNO3  +  H2SO4  →  H2NO3+  +  HSO4− 
+State symbols are not required. Accept multiples of this equation. 
+Accept H+  +  HNO3  →  H2NO3+ 
+ 
+(c) 
+H2NO3+  →  NO2+  +  H2O 
+State symbols are not required. Accept multiples of this equation. 
+ 
+(d) 
+C6H7N3O11  +  9/4O2  →  6CO2  +  7/2H2O  +  3/2N2 
+State symbols are not required. Accept multiples of this equation. 
+ 
+(e) 
+ΔH
+⦵
+c = 6 × ΔH
+⦵
+f (CO2) + 3.5 × ΔH
+⦵
+f (H2O) – ΔH
+⦵
+f (cellulose trinitrate)  
+= (6 × −393.5 kJ mol−1) + (3.5 × −285.8 kJ mol−1) −(−653.1 kJ mol−1) 
+= −2708.2 kJ mol−1 
+Answer must be negative for mark. ECF from part (d) can be awarded if stoichiometric 
+coefficients for CO2, H2O, and cellulose trinitrate are off, but not if wrong chemical 
+products are suggested, e.g. CO.   
+ 
+(f) 
+C6H7N3O11  →  9/2CO  +   7/2H2O  +  3/2N2  +  3/2CO2 
+State symbols are not required. Accept multiples of this equation. 
+ 
+(g) 
+𝑀(𝐶𝑒𝑙𝑙𝑢𝑙𝑜𝑠𝑒 𝑡𝑟𝑖𝑛𝑖𝑡𝑟𝑎𝑡𝑒) = 297.15 g mol−1 
+𝑛(𝐶𝑒𝑙𝑙𝑢𝑙𝑜𝑠𝑒 𝑡𝑟𝑖𝑛𝑖𝑡𝑟𝑎𝑡𝑒) =
+5.00 g
+297.15 g mol−1 =  0.01683 mol 
+𝑛(𝑔𝑎𝑠 𝑝𝑟𝑜𝑑𝑐𝑢𝑒𝑑) = 11 × 0.01683 mol = 0.1851 mol 
+𝑉
+(𝑔𝑎𝑠 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑑) = 𝑛𝑅𝑇
+𝑝
+= 0.1851 mol × 8.314 J K−1 mol−1 × 473 K
+101325 Pa
+ 
+𝑉
+(𝑔𝑎𝑠 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑑) = 7.18 × 10−3 m3 
+No marks if answer not given in m3 as asked in question. If answer in part (f) is incorrect, 
+allow ECF using 𝑛(𝑔𝑎𝑠 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑑) from part (f). Allow if student has used standard pressure 
+of 1 bar rather than 1 atmosphere.  
+ 
+ 
+Total out of 8 8 
+ 
+ 
+
+3 
+ 
+2. 
+This question is about BrAt 
+Mark 
+(a) 
+number of atoms =
+𝑚(𝐴𝑡)
+M(𝐴𝑡)
+× 𝑁
+𝐴 
+=
+30 g
+219 g mol−1 × 6.022 × 1023mol−1 = 8 × 1022 (atoms) 
+One significant figure is fine due to the error in the estimated mass. Atoms does not need 
+to be explicitly written as is not an official unit.  
+ 
+(b) 
+A  
+CaMg2Bi2 
+ 
+(c) 
+B: MgCl2        C: CaCl2 
+Both must be correct for mark. No credit if wrong way around.  
+ 
+(d) 
+x  =  211 
+y  =  85 
+ 
+Both must be correct and the correct way around for mark.  
+(e) 
+Bi  + 4HNO3  →  Bi(NO3)3  +  2H2O  +  NO 
+State symbols are not required. Accept multiples of this equation.  
+ 
+(f) 
+D 
+I2 
+One mark. 
+E 
+BrI 
+One mark. No ECF if D is incorrect.  
+ 
+ 
+(g) 
+𝑧= number of half lives 
+𝑚𝑡= 𝑚0 × (1
+2)
+𝑧
+ 
+𝑧= 𝑙𝑜𝑔1
+2
+(𝑚𝑡
+𝑚0
+) 
+𝑧= 𝑙𝑜𝑔1
+2
+(3.65 × 10−3 g
+3.60 g
+) = 9.95 
+𝑡= 𝑡1 2
+⁄ × 𝑧 
+𝑡= 433 min
+60 min × 9.95 = 72 ℎ𝑜𝑢𝑟𝑠 
+One mark can be awarded if they have correctly calculated this will be approximately 10 
+half-lives or have the equivalent algebraic expression. If answer is correct but not given in 
+hours, then give one mark out of two. Do not penalise if answer has not been rounded to 
+nearest hour.  
+ 
+ 
+ 
+ 
+Total out of 9 9 
+ 
+ 
+
+4 
+ 
+3. 
+This question is about epoxides 
+Mark 
+(a) 
+CnH2nO 
+ 
+(b) 
+One mark each.  
+ 
+60° 
+90° 
+104.5° 
+107° 
+109.5° 
+120° 
+180° 
+C2H5OC2H5 
+ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+ 
+(d) 
+ 
+One mark for each correctly drawn stereoisomer. Two views of each have been shown 
+above. If three structures are drawn maximum mark is one mark if the three structures 
+contain the two correct answers. No marks if four or more structures drawn.  
+ 
+ 
+(e) 
+All four isomers correct three marks. Three isomers correct two marks. Two isomers 
+correct one mark. One isomer or no isomers correct zero marks.  
+C4H8 isomer 
+1 
+2 
+3 
+4 
+ 
+ 
+✓ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+ 
+ 
+ 
+ 
+(f) 
+B 
+ 
+One mark. 
+C 
+ 
+One mark. 
+ 
+ 
+ 
+ 
+ 
+
+5 
+ 
+ 
+D 
+ 
+One mark. 
+ 
+(g) 
+[E−] 
+ 
+Two marks. Accept if sodium salt is drawn. 
+One mark if alcohol drawn in middle (i.e., 
+not deprotonated). 
+F 
+ 
+One mark. ECF allowed from E for trivial 
+errors but must contain an epoxide for 
+mark.  
+ 
+ 
+ 
+(h) 
+G 
+ 
+One mark. 
+H 
+ 
+One mark. Diazo group does not have to 
+be drawn out in full, but if it is, the positive 
+charge must be on the nitrogen that is 
+directly attached to the benzene ring. Allow 
+if only cation is drawn, and chloride is 
+missing.  
+ 
+ 
+ 
+I 
+ 
+One mark. 
+ 
+ 
+ 
+
+6 
+ 
+(i) 
+J 
+ 
+One mark. 
+ 
+K 
+ 
+One mark.  
+ 
+ 
+Total out of 20 20 
+ 
+ 
+ 
+
+7 
+ 
+4. 
+This question is about Raman spectroscopy 
+Mark 
+(a) 
+n
+2 C2H2  +  n
+4 O2  →  Cn  + n
+2 H2O 
+or  2nC2H2  +  nO2  →  4Cn  +  2nH2O 
+State symbols are not required. Accept multiples of this equation.  
+ 
+(b) 
+𝑛𝐶2𝐻2 = 𝑝𝑉
+𝑅𝑇= 101325 Pa × 40.00 × 10−3 m3
+8.314 J K−1 mol−1 × 298 K
+= 1.636 mol 
+There are 2 C atoms in every C2H2. 
+𝑛𝐶 𝑎𝑡𝑜𝑚𝑠,   𝑔𝑎𝑠= 1.636 mol × 2 =  3.272 mol 
+𝑛𝐶 𝑎𝑡𝑜𝑚𝑠,   𝑛𝑎𝑛𝑜𝑡𝑢𝑏𝑒𝑠  = 242 × 10−3g
+12.01 g mol−1 =  0.0201 mol 
+𝑦𝑖𝑒𝑙𝑑= 0.0201 mol
+3.272 mol × 100% =  0.616% 
+Allow if determined from molar volume of gas of 24 dm3 mol−1. 
+𝑛𝐶2𝐻2 = 1.667 𝑚𝑜𝑙   𝑦𝑖𝑒𝑙𝑑= 0.603% 
+ 
+(c) 
+A 
+ 
+Accept if drawn with a circle for delocalised electrons.  
+ 
+(d) 
+B 
+ 
+Brackets must be drawn for mark but they do not have to be square brackets. Students 
+do not need to write n after the brackets.  
+ 
+(e) 
+(i) 
+𝑓
+1 = 2.998 × 108 m s−1
+5028.8 × 10−10 m  = 5.962 × 1014 Hz 
+𝑓
+X = 2.998 × 108 m s−1
+4358.3 × 10−10 m  = 6.879 × 1014 Hz 
+Δ𝑓
+1 = (6.879 −5.962) × 1014 Hz 
+= 9.17 × 1013Hz  
+ 
+(ii) 
+𝑓
+2 = 2.998 × 108 m s−1
+4683.9 × 10−10 m  = 6.401 × 1014 Hz 
+Δ𝑓
+2 = (6.879 −6.401) × 1014 Hz 
+Δ𝑓
+2 = 4.78 × 1013 Hz 
+4.78 × 1013 Hz
+2.998 × 1010 cm s−1 = 1600 cm−1 
+ 
+ 
+
+8 
+ 
+(f) 
+One mark each.  
+ 
+ 
+C≡C stretch 
+conjugated 
+C=C stretch 
+C–H stretch 
+C–C stretch 
+O–H stretch 
+Line 1 
+ 
+ 
+✓ 
+ 
+ 
+Line 2 
+ 
+✓ 
+ 
+ 
+ 
+ 
+ 
+(g) 
+(i) 
+ 
+Wavenumber of scattered light will be given by: 
+𝜈𝑠𝑐𝑎𝑡𝑡𝑒𝑟𝑒𝑑= 𝜈𝑖𝑟𝑟−𝑣
+̃ = 𝜈𝑖𝑟𝑟−𝐴
+𝑑 
+(making sure to double the radii to get the diameter) 
+Plotting wavenumber against 1/d (or doing linear regression or taking any two 
+points) gives the gradient as –223 with units cm–1/nm–1. 
+A = 223 cm–1/nm–1 (acceptable range is 201 – 245).  
+1 mark for A value; 1 mark for unit if A value correct (accept nm cm–1, 
+“dimensionless”, or “no unit”). Award 1 mark total for 112 cm–1/nm–1 AND if unit is 
+correct (accept nm cm–1, “dimensionless”, or “no unit”) (acceptable range is 101 – 
+123). There are no specific marks for drawing a graph. 
+ 
+ 
+ 
+(ii) 
+intercept = 9398.5 cm–1 
+𝜆=
+1
+9395.1cm−1 = 1.064 × 10−4cm  
+= 1064 nm 
+ 
+ 
+(iii) 
+ 
+𝜈
+̃ = 𝐴
+𝑑= 223 cm−1nm
+1.20 nm
+= 186 cm−1 
+𝜈
+̃𝑖𝑟𝑟=
+1
+4358.3 × 10−10m × 102cm m−1 = 22945 cm−1 
+𝜈
+̃scatt = 22945 −186 = 22759 cm−1 
+𝜆=
+1
+22759cm−1 × 108 
+= 4394 Å 
+Allow ECF from part (g)(i). 
+ 
+ 
+Total out of 12 12 
+ 
+ 
+
+9 
+ 
+5. 
+This question is about agarwood 
+Mark 
+(a) 
+ 
+ 
+All three must be correct for mark. Any errors, omissions, or extra circles drawn then no 
+marks.  
+(b) 
+A 
+ 
+One mark for correct structure. The 
+carboxylate anion/dianion or sodium salts 
+are not accepted as these do not match the 
+formula. 
+B 
+ 
+One mark for correct structure. ECF from A 
+cannot be awarded as students also can 
+work backwards from the anion shown. 
+ 
+ 
+C 
+ 
+One mark for correct structure. ECF from B 
+cannot be awarded as students are given 
+the intermediate before this. 
+[D] 
+ 
+One mark for correct structure. The 
+carboxylate anion or lithium carboxylate 
+salt should be accepted. ECF from C 
+cannot be awarded as students also can 
+work backwards from the product shown. 
+ 
+ 
+ 
+ 
+ 
+
+10 
+ 
+(c) 
+E 
+ 
+Two marks for correct structure. One mark can be awarded if two carbonyls have been 
+formed and the alkene has gone but there are other mistakes in the structure (for 
+example the carbonyls are in the wrong place). Structures which do not match the 
+molecular formula score zero marks.  
+ 
+ 
+[F−] 
+ 
+One mark. ECF from E can be awarded. In case of ECF, structure drawn here must have 
+been deprotonated at a position that could form a delocalised enolate.  
+ 
+G 
+ 
+Two marks for correct structure. ECF from F− cannot be awarded as students can work 
+back from the product. One mark if double bond is in the five-membered ring but in the 
+wrong place. Structures which do not match the molecular formula score zero marks. 
+ 
+ 
+(d) 
+H 
+ 
+One mark. The carboxylate anion or 
+sodium salt are not accepted as these do 
+not match the formula. 
+I 
+ 
+Two marks for correct structure. ECF from 
+H can be awarded. No partial credit for 
+structure. 
+ 
+ 
+ 
+
+11 
+ 
+J 
+ 
+Two marks for correct structure. ECF from I 
+can be awarded. Students may be tempted 
+to hydrolyse the ester instead of the acetal 
+here. However, this would be a reverse of 
+the previous transformation and so would 
+be illogical. 
+K 
+  
+One mark for correct structure. ECF from I 
+can be awarded. Structures which do not 
+match the molecular formula score zero 
+marks. Although the Wittig reaction is an 
+unusual transformation, the good students 
+will have noticed this transformation in the 
+earlier part of this question.  
+ 
+ 
+ 
+[L+] 
+ 
+Two marks for correct structure. ECF from 
+J can be awarded. No marks if a cation has 
+not been drawn. No marks if protonation is 
+on oxygen. One mark should be given for 
+either of the two cations below; the one on 
+the left could eliminate to the product but 
+cannot be formed from protonation of the 
+starting material, and the one on the right 
+can be formed from protonation of the 
+starting material but cannot eliminate to the 
+product.  
+ 
+M 
+ 
+One mark for correct structure. Structures 
+which do not match the molecular formula 
+score zero marks. The good students will 
+have noticed that the isomerisation of the 
+double bond from K to M is very similar to 
+the one which happened earlier in the 
+question. This is driven by the fact that 
+more substituted double bonds are lower in 
+energy/more stable.   
+ 
+ 
+ 
+ 
+Total out of 19 19 
+ 
+ 
+ 
+
+12 
+ 
+6. 
+This question is about the iodination of ketones 
+Mark 
+(a)  
+ 
+A 
+B 
+C 
+I2 
+HI 
+✓ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+(i) 
+𝑟𝑎𝑡𝑒=  𝑘1[𝐀] 
+ 
+(ii) 
+𝑔𝑟𝑎𝑑𝑖𝑒𝑛𝑡= 600 × 10−6 mol dm−3s−1
+14 mol dm−3
+ 
+𝑔𝑟𝑎𝑑𝑖𝑒𝑛𝑡=  4.29 × 10−5 s−1 
+𝑘1 = 4.29 × 10−5 s−1 (acceptable range 4.08 × 10−5 −4.50 × 10−5 ). 
+One mark for correct numerical value. One mark for correct units.  
+ 
+ 
+(c) 
+𝐾𝑒𝑞= 𝑘1
+𝑘2
+ 
+[𝐁]
+[𝐀] = 𝑘1
+𝑘2
+ 
+[𝐁] = 𝑘1[𝐀]
+𝑘2
+ 
+ 
+(d) 
+Starting with the expression given: 
+𝑟𝑎𝑡𝑒= 𝑘3[𝐁][I2] 
+Using the expression for [B] from part (c): 
+𝑟𝑎𝑡𝑒= 𝑘3
+𝑘1[𝐀]
+𝑘2
+[I2] 
+𝑅𝑎𝑡𝑒= 𝑘1𝑘3[𝐀][I2]
+𝑘2
+ 
+or 
+𝑅𝑎𝑡𝑒= 𝐾𝑒𝑞𝑘3[𝐀][𝐼2] 
+Correct answer scores both marks. No partial credit.  
+ 
+ 
+(e) 
+[𝐁] =
+𝑘1[𝐀]
+𝑘2 + 𝑘3[I2] 
+𝑟𝑎𝑡𝑒= 𝑘3[𝐁][I2] 
+𝑅𝑎𝑡𝑒= 𝑘1𝑘3[𝐀][I2]
+𝑘2 + 𝑘3[I2] 
+Correct answer scores both marks. No partial credit.  
+ 
+ 
+ 
+ 
+ 
+
+13 
+ 
+(f) 
+One mark each. No ECF can be awarded.  
+Statement 
+C 
+E 
+Product whose reaction pathway has a larger rate 
+constant for the first step 
+✓ 
+ 
+Is the major product at high [I2] 
+✓ 
+ 
+Product whose reaction pathway has a larger Keq 
+ 
+✓ 
+Is the major product a low [I2] 
+ 
+✓ 
+ 
+ 
+ 
+ 
+(g) 
+Setting the rates as equal: 
+𝑟𝑎𝑡𝑒𝑇𝑜𝑝 𝑃𝑎𝑡ℎ𝑤𝑎𝑦= 𝑟𝑎𝑡𝑒𝐵𝑜𝑡𝑡𝑜𝑚 𝑃𝑎𝑡ℎ𝑤𝑎𝑦 
+𝑘1𝑘3[𝐀][I2]
+𝑘2 + 𝑘3[I2] = 𝑘4𝑘6[𝐀][I2]
+𝑘5 + 𝑘6[I2] 
+𝑘1𝑘3(𝑘5 + 𝑘6[I2]) = 𝑘4𝑘6(𝑘2 + 𝑘3[I2]) 
+𝑘1𝑘3𝑘5 + 𝑘1𝑘3𝑘6[I2] = 𝑘2𝑘4𝑘6 + 𝑘3𝑘4𝑘6[I2] 
+𝑘1𝑘3𝑘6[I2] −𝑘3𝑘4𝑘6[I2] = 𝑘2𝑘4𝑘6 −𝑘1𝑘3𝑘5 
+[I2] = 𝑘2𝑘4𝑘6 −𝑘1𝑘3𝑘5
+𝑘3𝑘6(𝑘1 −𝑘4)  
+= [8.3 × 2.9 × 10−6 × 5.2 × 105 −(4.29 × 10−5 × 5.2 × 105 × 2.1 × 10−2)] mol−1dm3s−3
+[5.2 × 105 × 5.2 × 105 × (4.29 × 10−5 −2.9 × 10−6)] mol−2dm6s−3
+ 
+[I2] = 1.11 × 10−6 mol dm−3 
+Correct answer scores both marks. One mark if correct algebraic expression for [I2] but 
+numerical evaluation done incorrectly. Allow ECF from part (b)(ii). 
+ 
+ 
+ 
+Total out of 15 15 
+ 

@@ -1,0 +1,641 @@
+1 
+ 
+ 
+ 
+ 
+57th INTERNATIONAL  
+CHEMISTRY OLYMPIAD  
+2025 
+UK Round One  
+ 
+STUDENT QUESTION BOOKLET  
+ 
+* * * * *  
+■ 
+The time allowed is two hours. 
+■ 
+Attempt all six questions.  
+■ 
+Write your answers in the student answer booklet.  
+■ 
+Write only the essential steps of your calculations in the answer booklet. 
+■ 
+Always give the appropriate unit and number of significant figures.  
+■ 
+A copy of the periodic table and some useful physical constants and formulae 
+are provided as a separate document.  
+■ 
+Do NOT write anything in the right-hand margin of the answer booklet. 
+■ 
+The marks available for each question are shown below. These may be helpful 
+when dividing your time between questions. 
+ 
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+8 
+9 
+20 
+12 
+19 
+15 
+83 
+ 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward. 
+ 
+ 
+
+2 
+ 
+Q1 This question is about clay pigeon shooting 
+Team GB enjoyed success in the clay pigeon 
+shooting at the 2024 Olympics, with Nathan Hales 
+winning gold with an Olympic record score and 
+Amber Rutter winning silver only three months after 
+becoming a mum for the first time.  
+ 
+Fast burning powders, such as nitrocellulose are used in clay pigeon shooting cartridges. 
+Their burn rate is designed for lighter loads such as the clay pigeon load of 28 g.  
+Nitrocellulose is a highly flammable compound which is primarily composed of cellulose 
+trinitrate. This can be prepared by adding cellulose, (empirical formula C6H7(OH)3O2), to a 
+mixture of concentrated nitric acid and concentrated sulfuric acid. This forms cellulose 
+trinitrate (empirical formula C6H7(ONO2)3O2) and one other product. 
+The nitronium ion, NO2+, generated in the acid mixture, nitrates the alcohol groups on 
+cellulose to form the nitrate ester group, CONO2. 
+(a) 
+(i) 
+Write an equation for the reaction between cellulose and nitric acid to form 
+cellulose trinitrate. 
+ 
+(ii) 
+Draw the dot-and-cross diagram for the nitronium ion. 
+The nitric acid acts as a Lewis base and accepts a proton from the sulfuric acid to form an 
+intermediate, H2NO3+. This intermediate decomposes to form the nitronium ion. 
+(b) 
+Write the equation for the formation of the intermediate from nitric acid and sulfuric acid.  
+(c) 
+Write the equation for the decomposition of the intermediate to form the nitronium ion. 
+Complete combustion of cellulose trinitrate produces carbon dioxide, water, and a gaseous 
+element.  
+(d) 
+Write the equation for the complete combustion of cellulose trinitrate, C6H7N3O11. 
+(e) 
+Calculate the standard enthalpy of combustion of cellulose trinitrate. 
+ΔH
+⦵
+f (CO) = –110.5 kJ mol–1; ΔH
+⦵
+f (CO2) = –393.5 kJ mol–1;  
+ΔH
+⦵
+f (H2O) = –285.8 kJ mol–1; ΔH
+⦵
+f (cellulose trinitrate) = –653.1 kJ mol–1. 
+When a shot is fired, complete combustion does not occur as there is not enough time to 
+react with oxygen from air. Instead, the cellulose trinitrate decomposes to gaseous products 
+which help to propel the shot. Heat is released and the products of this decomposition can 
+reach temperatures over 200 °C. 
+(f) 
+Write the equation for the decomposition process. Assume that all products are 
+gaseous and no oxygen is formed in the reaction. 
+(g) 
+Calculate the total volume of gaseous products produced from the decomposition of 
+5.00 g of cellulose trinitrate at 200 °C in m3. 
+ 
+ 
+
+3 
+ 
+Q2 This question is about BrAt 
+ 
+While Charlie XCX’s Brat Summer of 2024 may be over, this 
+summer will be Paddington’s BrAt Bear Summer. Much like 
+Brat Summer, the compound BrAt doesn’t last forever. This is 
+due to the radioactive decay of astatine. Astatine is the rarest 
+naturally occurring element in the Earth’s crust, with a total 
+estimated mass of 30 g at any point in time. 
+(a) 
+Estimate how many At atoms occur naturally on the Earth at any point in time. Assume 
+all astatine is the most stable naturally occurring isotope, 219At. 
+Astatine can be made synthetically from bismuth through a nuclear reaction. Bismuth is 
+obtained as a by-product of lead purification. During the purification, magnesium and calcium 
+are added to a mixture of lead and bismuth. Bismuth forms an alloy A. Alloy A contains 
+7.91% Ca and 9.60% Mg by mass. There is no lead in alloy A. 
+(b) 
+Determine the empirical formula of alloy A.  
+Alloy A is separated from the lead and undergoes reaction with chlorine gas to form bismuth 
+and two ionic compounds B and C in a 2:1 ratio.  
+(c) 
+Write the formulae of compounds B and C. 
+Astatine can be made by bombarding bismuth atoms with alpha particles. Alpha particles are 
+high energy helium-4 nuclei which are emitted by a radioactive source. When an alpha 
+particle collides with a bismuth atom the nuclei fuse to form one isotope of astatine, At
+y
+x
+, and 
+two neutrons. 
+Bi
+83
+209
+  +  α  →  At  
+y
+x
++  2 n
+o
+1  
+(d) 
+Write the mass and atomic numbers for the isotope of astatine, At
+y
+x
+, that is formed. 
+Most bismuth atoms do not react and must be removed from the reaction mixture. Upon 
+addition of concentrated nitric acid, the remaining bismuth reacts to form bismuth(III) nitrate, 
+water, and a colourless gas with a molar mass of 30.01 g mol−1. Pure astatine, At2, is isolated 
+by extraction from the aqueous reaction mixture with an organic solvent. 
+(e) 
+Write an equation for the reaction of bismuth with concentrated nitric acid. 
+BrAt can be made from astatine in two steps. First, Br2 reacts with D to make compound E 
+only. Compound E reacts with At2 to give BrAt and D. The mass spectrum of compound E 
+shows two major peaks of almost equal intensity at m/z values of 205.82 and 207.82. 
+(f) 
+Write the formulae of D and E. 
+As astatine undergoes radioactive decay, samples of BrAt do not last for long.  
+3.60 g of BrAt will be synthesised at the beginning of this summer. The half-life for the decay 
+of this isotope of At is 433 minutes. Assume that Paddington’s BrAt Bear Summer is over 
+when only 3.65 mg of the BrAt remains.  
+(g) 
+How long will Paddington’s BrAt Bear Summer be? Give your answer to the nearest 
+hour.  
+ 
+ 
+
+4 
+ 
+Q3 This question is about epoxides 
+Epoxy is an extremely durable and chemically resistant 
+family of plastics. Epoxy has a variety of applications, 
+including high-strength adhesives, carbon fibre, and 
+decorative furniture. 
+Epoxy plastic is synthesised from epoxide molecules. An 
+epoxide contains a three-membered ring with two carbon 
+atoms and one oxygen atom. Epoxides are highly 
+reactive due to ring strain in the three-membered ring.   
+ 
+ 
+Examples of epoxides. 
+(a) 
+State the general formula of an epoxide that contains n carbon atoms. 
+(b) 
+In the answer booklet, tick the approximate C–C–O bond angle for the following 
+molecules. 
+ 
+ 
+60° 
+90° 
+104.5° 
+107° 
+109.5° 
+120° 
+180° 
+C2H5OC2H5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A common method of forming epoxides is the reaction of alkenes with organic peroxyacids. 
+The mechanism for this reaction is shown with the transition state given in square brackets. 
+ 
+(c) 
+Draw the structure of compound A. 
+These peroxyacids can add an 
+oxygen atom to either the top or 
+bottom of the double bond depending 
+on whether they approach from above 
+or below.  
+This can result in the formation of 
+stereoisomers. 
+ 
+
+5 
+ 
+(d) 
+Draw the structures of both stereoisomers formed when propene reacts with a 
+peroxyacid. 
+(e) 
+In the answer booklet, tick the number of epoxide isomers that would be formed on the 
+reaction of each of the C4H8 isomers. 
+ 
+C4H8 isomer 
+1 
+2 
+3 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When epoxides react with 
+nucleophiles their three-membered 
+ring opens, as shown in the general 
+scheme to the right. 
+ 
+ 
+Some specific examples of 
+the reaction of the simplest 
+epoxide are shown on the 
+left. 
+(f) 
+Draw the structures of compounds B, C, and D. 
+A particularly useful epoxide is called epichlorohydrin (C3H5OCl). Sodium phenoxide reacts 
+with epichlorohydrin to form intermediate anion E−, which then cyclises, forming product F. 
+ 
+(g) 
+Draw the structures of intermediate anion E− and compound F. Stereochemistry is not 
+required. 
+ 
+ 
+ 
+
+6 
+ 
+To make epoxy plastic, an epoxy resin 
+(which contains the epoxide) is mixed with a 
+hardener (which contains the nucleophile).  
+ 
+ 
+A common ingredient in epoxy resin is bisphenol A diglycidyl ether, commonly known as 
+BADGE. It is possible to synthesise BADGE from benzene.  
+ 
+(h) 
+Draw the structures of compounds G, H, and I. Stereochemistry is not required. 
+BADGE reacts with a hardener to form epoxy. The repeating units of some epoxides are 
+shown. The structure of BADGE has been simplified with a rectangular block. 
+ 
+(i) 
+Draw the structures of hardeners J and K. 
+
+7 
+ 
+Q4 This question is about carbon nanotubes and Raman spectroscopy 
+Carbon nanotubes have promising applications in 
+nanotechnology due to their high tensile strength and variable 
+electrical conductivity. Nanotubes can have different 
+diameters, and these can be determined through Raman 
+spectroscopy.  
+The technique of Raman spectroscopy was developed by 
+Indian physicist C.V. Raman. He was the first Asian to win 
+any science Nobel Prize.  
+ 
+ 
+Carbon nanotubes can be formed as a side product during the combustion of ethyne (C2H2). 
+(a) 
+Write an equation for this side reaction, which occurs during the combustion of ethyne, to 
+form nanotubes with chemical formula Cn. 
+40.00 dm3 of ethyne gas at 298 K was combusted at atmospheric pressure and gave 242 mg 
+of carbon nanotubes. 
+(b) 
+Calculate the percentage by mass of carbon that ends up in the nanotubes in this reaction. 
+Ethyne can react with itself when different catalysts are added. In one reaction, three molecules 
+of ethyne trimerise to make compound A. 
+(c) 
+Draw the structure of compound A.  
+Alternatively, ethyne can polymerise to give polymer B.  
+(d) 
+Draw the repeat unit of polymer B. 
+Carbon nanotubes can be studied using Raman spectroscopy. This 
+probes vibrations of molecules. Molecular vibrations can be studied 
+using infrared (IR) spectroscopy. However, Raman spectroscopy can 
+find vibrations that are not observable by IR spectroscopy.  
+Raman spectroscopy works by shining light of a precise frequency at 
+the sample. The scattered light is observed. The frequency of the 
+scattered light is measured. The deviation in frequency between the 
+incident and scattered light provides information about the bonds 
+involved in the vibration. 
+ 
+
+8 
+ 
+ 
+C. V. Raman reported the first such 
+spectrum in 1928, measuring a sample 
+of compound A. The spectrum is shown 
+on the left. Two significant lines were 
+observed at wavelengths of 5028.8 Å 
+(line 1) and 4683.9 Å (line 2). The 
+incident light had a wavelength of 
+4358.3 Å (line X). 
+Although you might be familiar with characterising 
+light by its frequency or its wavelength, in 
+spectroscopy measurements are commonly of the 
+wavenumber, 𝜈𝜈
+෤. The unit of wavenumber is cm−1. 
+𝜈𝜈
+෤= 1
+𝜆𝜆 
+where 𝜆𝜆 is the wavelength given in cm. 
+(e) 
+Calculate the difference between:  
+ 
+(i) 
+the frequency of line 1 and the incident line X (in Hz). 
+ 
+(ii) 
+the wavenumber of line 2 and the incident line X (in cm−1). 
+When a vibration is visible in both Raman and IR spectra, the Raman deviation and IR 
+absorption peaks are visible at the same wavenumber. In an IR spectrum of A, peaks can be 
+seen at just above 3000 cm–1 and around 1600 cm–1. 
+(f) 
+In the answer booklet, tick which vibration is responsible for each Raman line.  
+ 
+ 
+C≡C stretch 
+conjugated 
+C=C stretch 
+C–H stretch 
+C–C stretch 
+O–H stretch 
+Line 1 
+ 
+ 
+ 
+ 
+ 
+Line 2 
+ 
+ 
+ 
+ 
+ 
+Vibrations in molecules often involve more than just one bond. Vibrations of multiple bonds 
+may give rise to different modes of vibration.  
+The diameter, 𝑑𝑑, of a carbon nanotube can be studied by looking at the wavenumber of a 
+particular mode measured using Raman spectroscopy. The wavenumber of this mode, 𝜈𝜈
+෤, in 
+cm−1, is related to the diameter, 𝑑𝑑, in nm, by the equation 𝜈𝜈
+෤= 𝐴𝐴/𝑑𝑑, where 𝐴𝐴 is a constant. 
+A sample of nanotubes of known radii was irradiated with laser light of a precise frequency 
+and the wavenumber of the scattered light was measured. Unfortunately, nobody remembered 
+to note down the frequency of the laser used. 
+ 
+radius / nm 
+1.16 
+1.31 
+1.42 
+1.56 
+wavenumber / cm–1 
+9302.2 
+9313.3 
+9319.9 
+9327.1 
+(g) 
+(i) 
+Determine the value of constant A with appropriate units. 
+ 
+(ii) 
+Calculate the wavelength of the laser used in nm. 
+ 
+(iii) If in his day, C. V. Raman had used his spectrometer with incident light line X to 
+investigate a nanotube with a 2.4 nm diameter, at what wavelength would he have 
+observed the scattered light in Å? 
+
+9 
+ 
+Q5 This question is about agarwood 
+Agarwood, also known as “Wood of the Gods”, has 
+a rich and complex scent. It is commonly used to 
+make perfumes which are particularly popular in 
+the UAE (the host of the 2025 IChO), where they 
+are known as ‘oud’. Agarwood comes from 
+Aquilaria trees. However, these trees only produce 
+agarwood once they’re infected with a mould called 
+P. parasitica. Unfortunately, this means many trees 
+are deliberately infected and then chopped down.  
+ 
+ 
+One fragrant compound found in agarwood is called 
+agarospirol. Natural agarospirol is a single isomer, but 
+the structure is shown here without any stereochemistry. 
+Agarospirol is an example of a spiro compound, where 
+two rings are joined by only one atom. 
+Instead of infecting and chopping down endangered 
+trees, chemists can synthesise agarospirol in a lab.  
+(a) 
+In the answer booklet, circle the stereocentres in agarospirol. 
+The first part of the synthesis of agarospirol is given below. On treatment with base, 
+compound B is deprotonated to form an anion, which cyclises as shown to form compound C. 
+ 
+In the remaining parts of this question you do not have to show any stereochemistry in the 
+structures drawn.  
+(b) 
+Draw the structures of compounds A, B, and C, and intermediate D.  
+
+10 
+ 
+The next part of the synthesis is shown. Compound E is formed by ozonolysis. Upon 
+treatment with base, compound E forms intermediate anion F−, which cyclises and then 
+dehydrates to form compound G. 
+ 
+(c) 
+Draw the structures of compound E, anion F−, and G. 
+The final part of the synthesis is shown. Compounds K and M are isomers. Compound K 
+isomerises into compound M via intermediate cation L+ under the action of an acid catalyst. 
+ 
+(d) 
+Draw the structures of compounds H, I, J, K, intermediate cation L+, and compound M. 
+ 
+ 
+ 
+
+11 
+ 
+Q6 This question is about the iodination of ketones 
+Many ketones exist in equilibrium with one or more enol 
+forms.  
+ 
+Upon the addition of iodine to a ketone, iodine can react with 
+any of the enols present.  
+ 
+Iodine was added to a solution of ketone A. The reaction can be broken down into three steps 
+with their rate equations given below. 
+ 
+Step 
+Reaction 
+Rate equation 
+1 
+A  →  B 
+rate  =  k1[A] 
+2 
+B  →  A 
+rate  =  k2[B] 
+3 
+B  +  I2  →  C  +  HI 
+rate  =  𝑘𝑘3[B][I2] 
+ 
+where:  𝑘𝑘2 = 8.3 s−1   and   𝑘𝑘3 = 5.2 × 105 mol−1dm3s−1. 
+Any species involved in or before the rate determining step could affect the overall rate and 
+therefore appear in the rate equation. 
+At high concentrations of I2, the rate determining step is Step 1; once enol B is formed it 
+reacts immediately with I2 to form C.  
+(a) 
+Which of the following species will be included in the rate equation for the formation of C 
+at high concentrations of I2? Tick all correct answer(s) in the answer booklet. 
+A 
+B 
+C 
+I2 
+HI 
+
+12 
+ 
+The initial rate of 
+formation of C was 
+measured at different 
+concentrations of A and 
+plotted on a graph. 
+ 
+(b) 
+Using the graph, or otherwise:  
+ 
+(i) 
+Write the rate equation for the initial rate of formation of C at high concentrations 
+of I2, in terms of the concentrations of reactants A and I2, and an appropriate 
+combination of k1, k2, and k3. 
+ 
+(ii) Determine the value of rate constant k1 with appropriate units. 
+At low concentrations of I2, the rate determining step is Step 3.  
+Under these conditions the ketone and enol forms exist in an equilibrium. The equilibrium 
+between A and B can be described using the equilibrium constant, Keq. 
+𝐾𝐾𝑒𝑒𝑒𝑒= 𝑘𝑘1
+𝑘𝑘2
+ 
+(c) 
+Write an expression for [B] at equilibrium in terms of [A], 𝑘𝑘1, and 𝑘𝑘2. 
+(d) 
+Using your answer from part (c) or otherwise, write an expression for the rate of 
+formation of C in terms of the concentrations of reactants A and I2, and an appropriate 
+combination of k1, k2, and k3. 
+At intermediate concentrations of I2, Step 2 and Step 3 occur at similar rates. Therefore we 
+cannot assume that the ketone and enol forms are in an equilibrium.  
+Under these conditions the concentration of B can be written as: 
+[B]  =  
+k1[A]
+k2  +  k3[I2] 
+(e) 
+Write the rate of formation of C at intermediate concentrations of I2 in terms of the 
+concentrations of reactants A and I2, and an appropriate combination of 𝑘𝑘1, 𝑘𝑘2, and 𝑘𝑘3. 
+ 
+ 
+
+13 
+ 
+Compound A can also form enol D which can react separately with I2 to form compound E.  
+A scheme for the formation of C and E is shown below.  
+ 
+Where: 𝑘𝑘4 = 2.9 × 10−6 s−1,   𝑘𝑘5 = 2.1 × 10−2 s−1,   and 𝑘𝑘6 = 5.2 × 105 mol−1 dm3 s−1. 
+(f) 
+In the answer booklet, for each row tick whether each statement is correct for 
+compound C or compound E. 
+ 
+Statement 
+C 
+E 
+Product whose reaction pathway has a larger 
+rate constant for the first step 
+ 
+ 
+Is the major product at high [I2] 
+ 
+ 
+Product whose reaction pathway has a larger 
+Keq 
+ 
+ 
+Is the major product a low [I2] 
+ 
+ 
+(g) 
+Calculate the concentration of I2 required to form the products C and E at the same 
+rate. Hint: You will need use an expression for the rate at intermediate concentrations 
+of I2. 
+ 
+ 
+
+14 
+ 
+Acknowledgements & References  
+References will be added to the version of the paper uploaded to the web later. 
+ 
+Q1 The image is © Dr Penny Robothom and was generated by ChatGPT. 
+ 
+Q2 The image is © Dr Ben Pilgrim. 
+ 
+Q3 The image of the table is © Sky Kang and was generated by ChatGPT. 
+The image of the resin and hardener is © Anton Starikov/Shutterstock. Adapted by Sky Kang. 
+ 
+Q4 The image of Raman with a nanotube is © Dr Penny Robothom and was generated by ChatGPT. 
+The image of Raman is a public domain image from the Nobel Foundation.  
+The image of the spectrum was adapted from Raman’s paper by Richard Danylyuk. 
+ 
+Q5 The image is © RahulDsilva/Getty Images. 
+ 
+Q6 The image is © Dr Ben Pilgrim. 
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as they 
+credit you and license their new creations under the identical terms. 
+ 
+Authors of 2025 UK Round One Paper (listed alphabetically) 
+Dr Helen Alonzi (St Bartholomew’s School)  
+Dr Peter Bolgar (University College London) 
+Richard Danylyuk (University of Cambridge) 
+Oliver Evans (University of Cambridge) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (University College London) 
+Anamaria Leonescu (University College London) 
+Dr Ben Pilgrim (University of Nottingham) 
+Sophie Redman (Royal Society of Chemistry) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Dr Alex Thom (University of Cambridge) 
+ 
+ 
+ 
+ 

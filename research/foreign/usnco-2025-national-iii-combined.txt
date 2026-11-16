@@ -1,0 +1,2511 @@
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+STUDENT USNCO ID: 
+ 
+2025 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Chris Fowler, Chair, High Point University, NC 
+ 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Esther Hines, Billerica High School, MA (retired) 
+Amiee Modic, Duchesne Academy of the Sacred Heart, TX 
+Brent Shenton, Valencia High School, CA (retired) 
+Edward Tisko, University of Nebraska at Omaha, NE 
+ 
+DIRECTIONS TO THE EXAMINER 
+The laboratory practical part of the National Olympiad Examination is designed to test skills related to the laboratory. Because the 
+format of this part of the test is quite different from the first two parts, there is a separate, detailed set of instructions for the examiner. 
+This gives explicit directions for setting up and administering the laboratory practical. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+There are two laboratory tasks to be completed during the 90 minutes allotted to this part of the test. Students may carry out the two 
+tasks in any order they wish and move directly from one to the other within the allotted time. Each procedure must be approved for 
+safety by the examiner before the student begins that procedure.  
+A periodic table and other useful information are provided on page two for student reference. 
+Only non-programmable calculators that do not have any on-board memory space (accessed through a mini-USB or other 
+linkage) are to be used on the ACS Local Section Exam and on the National Exam, if used.  The use of an 
+unacceptable calculator, cell phone, or any other device that can access the internet, make copies or photographs, or has access 
+to stored information during the exam is grounds for disqualification. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period.  Please indicate on the 
+exam sheet the item replaced or refilled. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+WHEN DIRECTED, TURN TO PAGE 2 AND READ THE INTRODUCTION AND SAFETY CONSIDERATIONS 
+CAREFULLY BEFORE YOU PROCEED. There are two laboratory-related tasks for you to complete during the next 90 minutes. 
+There is no need to stop between tasks or to do them in the given order. Simply proceed at your own pace from one to the other, using 
+your time productively. You are required to have a procedure for each problem approved for safety by an examiner before you carry out 
+any experimentation on that problem. You are permitted to use a non-programmable calculator. At the end of the 90 minutes, all answer 
+sheets should be turned in. Be sure that you have filled in all the required information at the top of each answer sheet. Carefully follow 
+all directions from your examiner for safety procedures and the proper disposal of chemicals at your examination site. 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022  1023 mol–1 
+h = 6.626  10–34 J s 
+c = 2.998  108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+Page 3 
+ 
+Student Instructions 
+ 
+Introduction 
+These problems test your ability to design and carry out laboratory experiments and to draw conclusions from your experimental work. 
+You will be graded on your experimental design, on your skills in data collection, and on the accuracy and precision of your results. 
+Clarity of thinking and communication are also components of successful solutions to these problems, so make your written responses 
+as clear and concise as possible. 
+ 
+Safety Considerations 
+You are required to wear approved eye protection at all times during this laboratory practical. You also must follow all 
+directions given by your examiner for dealing with spills and with disposal of wastes. 
+ 
+ 
+Lab Problem 1 
+ 
+Question: Using the provided materials, determine the buffer capacity, concentrations of the conjugate acid and base, and the Ka 
+of the conjugate acid for the unknown buffer solution. 
+ 
+ 
+Lab Problem 2 
+ 
+Question: You have been given four unknown solutions, each containing one salt.  These salts may contain ions of sodium, 
+calcium, magnesium, ammonium, acetate, carbonate, chloride, and nitrate.  Using the provided materials, determine the chemical 
+formula for the salt contained in each unknown solution. Each unknown solution only contains one salt, and of the possible ions 
+listed, each cation and anion are used only once in the four unknown solutions. 
+  
+ 
+ 
+ 
+
+ 
+Page 4 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 1 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+ 
+1.  Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025 
+Page 5 
+ 
+STUDENT USNCO ID: 
+
+ 
+Page 6 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+3.  Show all calculations for: 
+a) buffer capacity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) concentrations of the conjugate acid and base 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c) Ka of the conjugate acid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025 
+Page 7 
+4.  The buffer capacity is ____________________________________________ 
+     The concentration of the conjugate acid is ________________ 
+     The concentration of the conjugate base is ________________  
+     The Ka of the conjugate acid is ________________ 
+ 
+ 
+Proctor, please indicate the item replaced or refilled provided (if any): 
+STUDENT USNCO ID: 
+
+ 
+Page 8 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 2 
+Examinor's Name:__________________________________________________________________________ 
+ACS Local Section Name:____________________________________________________________________ 
+ 
+1. Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025 
+Page 9 
+ 
+ 
+ 
+Continue: Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Identify the salt in each unknown solution, giving a brief justification for your choices. 
+Unknown # 
+Contains 
+Justification 
+ 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+Proctor, please indicate the item replaced or refilled provided (if any): 
+
+ 
+Page 10 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+This page intentionally left blank 
+ 
+
+ 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Page 1 
+ 
+2025 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+EXAMINER’S INSTRUCTIONS 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Chris Fowler, Chair, High Point University, NC 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Esther Hines, Billerica High School, MA (retired) 
+Amiee Modic, Duchesne Academy of the Sacred Heart, TX 
+Brent Shenton, Valencia High School, CA (retired) 
+Edward Tisko, University of Nebraska at Omaha, NE 
+ 
+Thank you for administering the 2025 USNCO laboratory practical on behalf of your Local Section. It is essential that you follow the 
+instructions provided in order to ensure consistency of results nationwide. There may be considerable temptation to assist the students 
+after they begin the lab exercise. It is extremely important that you do not lend any assistance or hints whatsoever to the students once 
+they begin work. As in international competition, the students are not allowed to speak to anyone until the activity is complete. 
+The equipment needed for each student for both lab exercises should be available at their lab station or table when the students enter the 
+room. While the students may use any of the provided materials for the two problems, the equipment should be initially separated for 
+Lab Problem #1 and for Lab Problem #2. There are also materials that are to be used for both problems.  
+Students are permitted to request one replacement or refill of a chemical during the laboratory period. Please indicate on the 
+exam sheet the item replaced or refilled. 
+It is your responsibility to ensure that all students wear approved eye protection at all times, tie back long hair into a ponytail, 
+and wear close-toed shoes during this laboratory practical. A lab coat or apron for each student is desirable but not mandatory. 
+Disposable gloves should be made available.  You will also need to give students explicit directions for handling spills and for 
+disposing of waste materials, following approved safety practices for your examination site. Please check and follow procedures 
+appropriate for your site. 
+After the students have settled, read the following instructions to the students.  
+Hello, my name is ________. Welcome to the lab practical portion of the U.S. National Chemistry Olympiad Examination. In 
+this part of the exam, we will be assessing your lab skills and your ability to reason through a laboratory problem and 
+communicate its results. Do not touch any of the equipment in front of you until you are instructed to do so.  
+You will be asked to complete two laboratory problems. All the materials and equipment you may want to use to solve each 
+problem has been set out for you and is grouped by the number of the problem. You may use equipment or chemicals from one 
+problem to work on the other problem, but the suggested ideal equipment and chemicals to be used for each problem has been 
+grouped for you. Additionally, there is equipment that you will use for both lab problems. You will have one hour and thirty 
+minutes to complete the two problems. You may choose to start with either problem. You are required to have a procedure for 
+each problem approved for safety by an examiner. (Remember that approval does not mean that your procedure will be 
+successful – it is a safety approval.) When you are ready for an examiner to come to your station for each safety approval, 
+please raise your hand. 
+
+ 
+Page 2 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+ (Continued on the next page) 
+Safety is an important consideration during the lab practical. You must wear safety goggles at all times. Please wash off any 
+chemicals spilled on your skin or clothing with large amounts of tap water.  Some solutions may produce “common household 
+odors”, these are considered mild and not a general safety concern.  If you have any known chemical allergies, please alert 
+your exam proctor before starting. 
+The appropriate procedures for disposing of solutions at the end of this lab practical are:  
+Leave all unused solutions in their container or return to the examiner.  Silver solids and solutions should be collected by your 
+examiner for repurposing or appropriate disposal. Ammonium nitrate solutions can be diluted to under 0.4 M and washed with 
+excess water down the drain. All other solutions can be washed down the drain with excess water and any solids disposed of 
+in the trash. 
+We are about to begin the lab practical. Please do not turn the page until directed to do so. Read the directions on the front 
+page. Please write your USNCO Id# on the cover and pages 4-7 of the booklet. Are there any questions before we begin? 
+Distribute Part III booklets and again remind students not to turn the page until the instruction is given. Part III contains student 
+instructions and answer sheets for both laboratory problems. There is a periodic table on page two of the booklet. Allow students enough 
+time to read the brief cover directions. 
+Do not turn to page three until directed to do so. When you start to work, be sure to fill out all of the information at the top of 
+the answer sheets. Are they any additional questions? 
+If there are no further questions, the students should be ready to start Part III. 
+You may begin. 
+After one hour and thirty minutes, give the following directions. 
+This is the end of the lab practical. Please stop and bring me your answer sheets. Thank you for your cooperation during this 
+portion of the exam. 
+Collect all the lab materials. Make sure that the student has filled in their USNCO ID number on each page and other required information 
+on the answer sheets. At this point, you might wish to take a few minutes to discuss the lab practical with the students. They can learn 
+about possible observations and interpretations, and you can acquire feedback as to what they actually did and how they reacted to the 
+problems.  
+Please remember to return the answer sheets from Part III, the Gradescope answer sheets from Part I, and the Part II booklets 
+in the UPS Next Day return envelope you were provided to this address: 
+American Chemical Society 
+U.S. National Chemistry Olympiad  
+1155 16th Street, NW – Room 834 
+Washington, DC 20036 
+The label on the UPS Express Pak envelope should have this address and your return address already. The cost of the shipping is billed 
+to ACS USNCO. You can keep a copy of the tracking number to allow you to track your shipment. 
+Wednesday, April 16, 2025 is the absolute deadline for receipt of the exam material. Materials received after this deadline CANNOT 
+be graded. Be sure to have your envelope sent no later than Monday, April 14, 2025 for it to arrive on time. 
+THERE WIL BE NO EXCEPTIONS TO THIS DEADLINE DUE TO THE TIGHT SCHEDULE FOR GRADING THIS 
+EXAMINATION. 
+NOTE THAT THE EXAMINER WILL NEED TO INITIAL EACH STUDENT’S EXPERIMENTAL PLAN. PLEASE DO 
+NOT COMMENT ON THE PLAN OTHER THAN LOOKING FOR ANY POTENTIAL UNSAFE PRACTICES. 
+
+ 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Page 3 
+ 
+ 
+ 
+Each student should have available the following: 
+Materials needed: 
+Each student should have available the following equipment and materials: 
+ 
+• 
+Per student: one Universal Test Paper or 4-panel test strips  
+• 
+Per student: one Clear, 15-well spot plate.  
+• 
+Per student: one 500 mL Wash Bottle filled with deionized or distilled water; unlimited refills. 
+• 
+Per student: one 10 mL graduated cylinder 
+• 
+Per student: two 50 mL beakers 
+• 
+Per student: one 100-250 mL beaker for waste 
+• 
+Per Student: 10-20, with extras available, disposable plastic pipets, graduated  
+• 
+Per student: 100 mL polypropylene reagent bottle for the 100 mL of unknown buffer 
+• 
+Per student: 50-100 mL polypropylene reagent bottle for the 30 mL of 1.0M HCl. 
+• 
+Per student: 50-100 mL polypropylene reagent bottle for the 30 mL of 1.0M NaOH. 
+ 
+Option 1: 
+• 
+Per student: seven test tubes with disposable plastic pipets for qualitative analysis solutions.   
+• 
+Per student: test tube rack 
+• 
+Attach appropriate labels. 
+ 
+Option 2: 
+• 
+Per student: six or seven polypropylene dropper bottles for qualitative analysis solutions.; glass droppers are ok. 
+• 
+Per student: optional, one amber dropping bottle for silver nitrate 
+• 
+Attach appropriate labels. 
+ 
+ 
+Chemicals needed:  
+• 
+sodium tetraborate decahydrate (381.37 g/mol) 
+• 
+magnesium chloride hexahydrate (anhydrous or another hydrate is acceptable) 
+• 
+anhydrous calcium acetate (hydrate is acceptable) 
+• 
+ammonium nitrate 
+• 
+anhydrous sodium carbonate (hydrate is acceptable) 
+• 
+trisodium phosphate dodecahydrate (other hydrated forms are acceptable if it is trisodium) 
+• 
+solid sodium hydroxide 
+• 
+11.6 M HCl (also known as 36% by weight HCl) 
+• 
+silver nitrate 
+ 
+ 
+(Continued on the next page) 
+
+ 
+Page 4 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+ 
+Suggested Set-up Photos 
+ 
+         
+ 
+Equipment for problem 1 
+ 
+ 
+Equipment for problem 2 
+ 
+          
+Equipment for both problems  
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Page 5 
+Chemistry Olympiad Lab Coordinator Instructions 
+ 
+Thank you for coordinating the lab portion of the 2025 National Chemistry Olympiad. There are two separate 
+parts to this portion of the exam. Listed below are the chemicals and suggested equipment needed for each.  
+• 
+Feel free to substitute items that are not exact matches for what you have available if it does not affect your 
+students’ chances to successfully perform the labs. This would include such things as containers and bottles.  
+• 
+Do not substitute any chemicals or quantitative equipment. It is important that all students competing across 
+the U.S. have an equal chance at successfully completing the problems.  
+• 
+It is recommended that you use reagent grade chemicals throughout.  
+• 
+If you are having trouble obtaining any of the items needed, we recommend that you reach out to the chemistry 
+department of an area college or university; they are generally very willing to help with equipment and chemicals.  
+• 
+You should also reach out to your local ACS section president or board as many sections carry a budget line for 
+their educational programs.  
+• 
+All materials recommended for problem one should be identified and grouped together separately from all the 
+materials recommended for part two. However, students are free to use all materials and chemicals recommended 
+for problem one in problem two and vice versa if they choose to do so.  
+• 
+Be aware that students may request one refill, for each solution, during Part III so be prepared for this. We suspect 
+that the most requested will be the buffer, but any of the solutions used may be requested.  
+• 
+Feel free to use test tubes (disposable is fine) with stoppers and pipets instead of using the dropper bottles if that 
+works better for your section. A couple of test tube racks per student may be needed in this case, depending on the 
+typed you have available. 
+• 
+There are procedures for solution preparation. If you use a different hydrate form that is shown, please double-
+check your calculations. 
+• 
+If you have any questions or concerns, please feel free to reach out to Margaret Thatcher (USNCO Program 
+Manager, M_Thatcher@acs.org) or Chris Fowler (USNCO Lab Task Force Chair, cfowler@highpoint.edu).  
+ 
+ 
+Materials needed for the preparation of reagents for both problems: 
+• 
+1.000 L volumetric flask 
+• 
+100.0 mL volumetric flask 
+• 
+10.00 mL graduated pipet with pipet pump 
+• 
+100 mL graduated cylinder 
+• 
+sodium tetraborate decahydrate (381.37 g/mol) 
+• 
+magnesium chloride hexahydrate (anhydrous or another hydrate is acceptable) 
+• 
+anhydrous calcium acetate (hydrate is acceptable) 
+• 
+ammonium nitrate 
+• 
+anhydrous sodium carbonate (hydrate is acceptable) 
+• 
+trisodium phosphate dodecahydrate (other hydrated forms are acceptable if it is trisodium) 
+• 
+solid sodium hydroxide 
+• 
+silver nitrate 
+• 
+11.6 M HCl 
+• 
+Electronic balance with precision of .01 g 
+• 
+pH meter and necessary buffer solutions for calibration as needed 
+• 
+fume hood 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 6 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Per Student: 
+ 
+• 
+Per student: one Universal Test Paper or 4-panel test strips SEE HERE or HERE 
+o Per student: one vial pH test strips (use this option only if you cannot obtain the 4-panel test strips) 
+• 
+Per student: one Clear, 15 well spot plate. It is not recommended to substitute white or porcelain spot plates. 
+• 
+Per student: one 500 mL Wash Bottle filled with deionized or distilled water 
+• 
+Per student: one 10 mL graduated cylinder 
+• 
+Per student: two 50 mL beakers 
+• 
+Per student: one 100-250 mL beaker for waste 
+• 
+Per Student: 10-20+ disposable plastic pipettes, graduated SEE HERE or HERE or HERE 
+• 
+Per student: 100 mL polypropylene reagent bottle for the 100 mL of unknown buffer 
+• 
+Per student: 50-100 mL polypropylene reagent bottle for the 30 mL of 1.0M HCl. 
+• 
+Per student: 50-100 mL polypropylene reagent bottle for the 30 mL of 1.0M NaOH. 
+ 
+ 
+Section coordinators will have some flexibility on how to provide the solutions specific to prompt 2: 
+ 
+Option 1: 
+• 
+Per student: seven test tubes with disposable plastic pipets for qualitative analysis solutions.   
+• 
+Per student: test tube rack 
+• 
+Attach appropriate labels. 
+ 
+Option 2: 
+• 
+Per student: six or seven polypropylene dropper bottles; glass droppers are ok. 
+• 
+Per student: optional, one amber dropping bottle for silver nitrate.  
+• 
+Attach appropriate labels. 
+ 
+ 
+Problem One (adjust amounts proportionately based on the number of students competing) 
+ 
+1. Preparation of .00625 M Borax Buffer 
+• 
+Materials needed: 1.000 L volumetric flask, 100.0 mL volumetric flask, electronic balance with a 
+precision of .01 g, two 10.00 mL graduated pipets with pipet pumps, fume hood, calibrated pH meter, 100 
+mL reagent bottles (one per student) identical or similar to: 100 mL polypropylene reagent bottles, 1.0 M 
+NaOH, 1.0 M HCl (see steps 2 & 3 below), sodium tetraborate decahydrate 
+• 
+Fill both a 1.000 L volumetric flask and a 100.0 mL volumetric flask about half-full of deionized or 
+distilled water. 
+• 
+Using a fume hood, pipet 10.00 mL of concentrated HCl (36%, 11.6 M, 1.179 g/mL) into the smaller 
+100.0 mL volumetric flask. Add deionized or distilled water into the 100.0 mL volumetric flask up to the 
+graduation mark and mix well. 
+• 
+Pipet 4.10 mL of the solution just created in the 100.0 mL volumetric flask into the 1.000 mL  1.000 L 
+volumetric flask that is approximately half full of deionized or distilled water. 
+• 
+Add 2.38 g Sodium Tetraborate decahydrate (Na2B4O7 • 10H2O, 381.37 g/mol) to the mixture in the 1.000 
+L volumetric flask. Stir until the solid is completely dissolved; this can take some time. Borax, 100%, is 
+available at most grocery or box stores.  
+• 
+Add deionized or distilled water to the 1.000 L graduation mark and mix well. 
+• 
+Test the pH of solution and adjust with HCl or NaOH to obtain a pH of 9.00 (pH range of 8.95-9.05 will 
+work). It is recommended to use a pH meter to calibrate the buffer solution. 
+
+ 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Page 7 
+• 
+Provide a bottle with 100 mL of buffer for each student workstation. It should be labeled 100 mL 
+Unknown Buffer. Note: this process will need to be repeated as needed to create enough solution for all 
+the students that will be testing. 
+2. Dropper bottle similar or identical to: Polypropylene Dropper Bottle filled with 30.0 mL of 1.0 M NaOH ( 40.00 g 
+of NaOH dissolved in a 1.000 L volumetric flask half-filled with deionized or distilled water and then topped off 
+with enough deionized or distilled water to make 1.000 L of solution). It should be labeled 1.0 M NaOH. 
+3. Dropper bottle similar or identical to: Polypropylene Dropper Bottle filled with 30.0 mL of 1.00 M HCl (In a 
+fume hood use a 100 mL graduated cylinder to add 86 mL of 11.6 M HCl dissolved in a 1.000 L volumetric flask 
+half-filled with deionized or distilled water and then topped off with enough deionized or distilled water to make 
+1.000 L of solution). It should be labeled 1.0 M HCl. 
+4. One 10 mL graduated cylinder, two 50 mL beakers, one 400 mL waster beaker 
+ 
+Problem Two (adjust amounts proportionately based on the number competing) 
+1. Prepare the following seven solutions. Note all amounts are based on the preparation of 1.000 L of solution. 
+Adjust amounts appropriately if you need more or less based on the number of students testing in your local 
+section. The 1.0M solutions of HCl and NaOH may be used in problem two. 
+• 
+Dissolve 20.33 g of MgCl2 . 6H2O (203.3 g/mol) in a 1.000 L volumetric flask that is half-filled with 
+deionized or distilled water. Add deionized or distilled water into the 1.000 L volumetric flask up to the 
+graduation mark and mix well. Dispense into Polypropylene Dropper Bottle or test tube. Label Unknown 
+Solution One 
+• 
+Repeat above process except use 15.82 g of anhydrous calcium acetate (158.17 g/mol). Dispense into 
+Polypropylene Dropper Bottle or test tube. Label Unknown Solution Two 
+• 
+Repeat the above process except use 53.00 grams of sodium carbonate (106.01 g/mol). Dispense into 
+Polypropylene Dropper Bottle or test tube. Label Unknown Solution Four 
+• 
+Repeat the above process except use 4.00 grams of sodium hydroxide (40.01 g/mol). Dispense into 
+Polypropylene Dropper Bottle or test tube. Label 0.10 M NaOH 
+• 
+Repeat the above process except use 38.01 grams of sodium phosphate dodecahydrate (380.14 g/mol). 
+Dispense into Polypropylene Dropper Bottle or test tube. Label 0.10 M sodium phosphate 
+• 
+Repeat the above process except use 1.70 grams of silver nitrate (169.89 g/mol). Label 0.010 M Silver 
+nitrate.  Dispense into Polypropylene Dropper Bottle or test tube. This may be stored in amber dropping 
+bottles due to the light sensitivity of silver nitrate. Alternatively, the silver nitrate solution can be stored in 
+the dark and transferred to a clear bottle or test tube immediately before administering Part III.  
+• 
+**Repeat the above process except use approximately 1,900 grams of ammonium nitrate (80.03 g/mol) to 
+prepare a saturated solution; this should be a saturated solution. Dispense into Polypropylene Dropper 
+Bottle or test tube. Label Unknown Solution Three. Alternatively, as this solution is saturated, you can 
+start adding solid ammonium nitrate to 100 mL of water until no more solute dissolves.  Allow the 
+solution to warm back to room temperature and add more ammonium nitrate if necessary. 
+ 
+2. Clear 15 Well Spot Plate 
+3. Universal pH test paper 
+ 
+Setup on Test Day 
+1. Group the following materials together for problem one 
+• 
+Bottle of 100 mL of unknown buffer 
+• 
+pH test strips 
+• 
+10 mL graduated cylinder 
+• 
+Two 50 mL beakers 
+ 
+2. Group the following materials together for problem two 
+• 
+Unknown solution bottles 1-4 (10 mL each) 
+• 
+Bottle of 0.10 M NaOH (10 mL) 
+
+ 
+Page 8 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+• 
+Bottle of 0.10 M Na3PO4 (10 mL) 
+• 
+Amber bottle of 0.010 M AgNO3 (10 mL) 
+• 
+Universal pH test paper 
+• 
+One Clearclear, 15 well spot plate 
+ 
+3. Group the following materials together that might be used for both problems 
+• 
+500 mL wash bottle filled with deionized or distilled water 
+• 
+Paper towels 
+• 
+1.0 M NaOH (30 mL) 
+• 
+1.0 M HCl (30 mL) 
+• 
+400 mL beaker for waste 
+• 
+pipets 
+ 
+ 
+         
+ 
+Equipment 
+ 
+ 
+ 
+ 
+4-panel pH strips 
+ 
+
+ 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Page 9 
+       
+ 
+Clear spot plate 
+ 
+ 
+ 
+Pipet  
+ 
+ 
+Suggested setup for larger volume solution bottles with dedicated pipet. This includes the 100 mL of unknown 
+buffer and 30 mL of 1.0M NaOH and 1.0M HCl. 
+
+ 
+Page 10 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+ 
+ 
+Solutions using the test tube option. 
+ 
+ 
+ 
+Setup for smaller volume solutions in test tubes; labels can be taped securely.  This includes the 0.10M NaOH, 
+0.010M AgNO3, 0.10M Na2PO4, and Unknowns 1-4.  You can also use bottles similar to the larger volume 
+setup or various dropper bottles shown below. 
+ 
+
+ 
+Property of ACS USNCO – 2025 USNCO National Exam Part III Examiner’s Instructions 
+Page 11 
+ 
+ 
+Small volume solution dropper bottle examples. If silver nitrate solution is stored more than a couple of days, it 
+is recommended to use an amber bottle or store in a dark cabinet.  
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+STUDENT USNCO ID: 
+ 
+2025 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Chris Fowler, Chair, High Point University, NC 
+ 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Esther Hines, Billerica High School, MA (retired) 
+Amiee Modic, Duchesne Academy of the Sacred Heart , TX 
+Brent Shenton, Valencia High School, CA (retired) 
+Edward Tisko, University of Nebraska at Omaha, NE 
+ 
+ 
+DIRECTIONS TO THE EXAMINER 
+The laboratory practical part of the National Olympiad Examination is designed to test skills related to the laboratory. Because the 
+format of this part of the test is quite different from the first two parts, there is a separate, detailed set of instructions for the examiner. 
+This gives explicit directions for setting up and administering the laboratory practical. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+There are two laboratory tasks to be completed during the 90 minutes allotted to this part of the test. Students may carry out the two 
+tasks in any order they wish and move directly from one to the other within the allotted time. Each procedure must be approved for 
+safety by the examiner before the student begins that procedure.  
+A periodic table and other useful information are provided on page two for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, watch, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period.  Please indicate on the 
+exam sheet the item replaced or refilled. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+WHEN DIRECTED, TURN TO PAGE 2 AND READ THE INTRODUCTION AND SAFETY CONSIDERATIONS 
+CAREFULLY BEFORE YOU PROCEED. There are two laboratory-related tasks for you to complete during the next 90 minutes. 
+There is no need to stop between tasks or to do them in the given order. Simply proceed at your own pace from one to the other, using 
+your time productively. You are required to have a procedure for each problem approved for safety by an examiner before you carry out 
+any experimentation on that problem. You are permitted to use a non-programmable calculator. At the end of the 90 minutes, all answer 
+sheets should be turned in. Be sure that you have filled in all the required information at the top of each answer sheet. Carefully follow 
+all directions from your examiner for safety procedures and the proper disposal of chemicals at your examination site. 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022  1023 mol–1 
+h = 6.626  10–34 J s 
+c = 2.998  108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−∆
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 14, 2025  
+Page 3 
+ 
+Student Instructions 
+ 
+Introduction 
+These problems test your ability to design and carry out laboratory experiments and to draw conclusions from your experimental work. 
+You will be graded on your experimental design, on your skills in data collection, and on the accuracy and precision of your results. 
+Clarity of thinking and communication are also components of successful solutions to these problems, so make your written responses 
+as clear and concise as possible. 
+ 
+Safety Considerations 
+You are required to wear approved eye protection at all times during this laboratory practical. You also must follow all 
+directions given by your examiner for dealing with spills and with disposal of wastes. 
+ 
+ 
+Lab Problem 1 
+ 
+Question: Using the provided materials, determine the buffer capacity, concentrations of the conjugate acid and base, and the Ka 
+of the conjugate acid for the unknown buffer solution. 
+ 
+ 
+Lab Problem 2 
+ 
+Question: You have been given four unknown solutions, each containing one salt.  These salts may contain ions of sodium, 
+calcium, magnesium, ammonium, acetate, carbonate, chloride, and nitrate.  Using the provided materials, determine the chemical 
+formula for the salt contained in each unknown solution. Each unknown solution only contains one salt, and of the possible ions 
+listed, each cation and anion are used only once in the four unknown solutions. 
+  
+ 
+ 
+ 
+
+ 
+Page 4 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 1 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+1.  Give a brief description of your experimental plan. (5 pts) 
+Procedure should include: 
+1. Method for determining volume of a drop. This may be omitted if the student already has the volume memorized. Note: 
+The student may elect to use the graduations on the side of the pipet. However, this is less desirable (and accurate) than 
+what is described in the first two sentences above. 
+2. Volume of buffer used.  Probably best to use a smaller volume (10mL) and titrate with 1.0M HCl or NaOH, then repeat 
+with the other. If done dropwise, larger buffer volumes would take too long.  
+• 
+Students may also do a survey trial to find an approximate volume of acid/base that destroys the buffer. 
+3. Adding a drop of designated reagent (NaOH or HCl) with stirring. The pH should be determined after each drop’s 
+addition. 
+4. The addition of drops should be continued until the pH stabilizes at a higher or lower value depending on the reagent 
+(NaOH or HCl) added. 
+5. A data table should be constructed that shows the pH after the addition of each drop. 
+6. If a student chooses to continue with the same buffer solution rather than a fresh sample: After concluding a titration, an 
+equivalent volume of the complementary solution (NaOH if HCl was used in the titration or HCl if NaOH was used in the 
+titration) to return to the starting point of the titration.  
+7. Repeat steps 2-5 above but for the complementary titrant (NaOH if HCl was used in the first titration or HCl if NaOH 
+was used in the first titration). 
+8. Repeat steps 2-7 for multiple trials. 
+ 
+2.  Record your data/observations. (5 pts) 
+Data should include: 
+1. Volume (mL) of buffer used in each titration. 
+2. Data table with number of drops of titrant (NaOH or HCl) added with corresponding pH. Note: Students may elect to 
+use the volume markings on their graduated pipets instead. This should not receive as much credit as it is less precise. 
+3. Sample Data - the values found below will be used in subsequent sample calculations and represents a titration where 
+10.0 mL of buffer is titrated. The values that each student obtains will undoubtedly vary slightly. 
+Number of Drops NaOH 
+pH 
+Number of Drops HCl 
+pH 
+0 
+9 
+0 
+9 
+1 
+9 
+1 
+9 
+2 
+9 
+2 
+9 
+3 
+9 
+3 
+8.5 
+4 
+9 
+4 
+8 
+5 
+9 
+5 
+6.5 
+6 
+9 
+6 
+4 
+7 
+9.5 
+7 
+3 
+8 
+10 
+8 
+3 
+9 
+11 
+9 
+3 
+10 
+11.5 
+ 
+ 
+11 
+12 
+ 
+ 
+12 
+12 
+ 
+ 
+13 
+12 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 14, 2025 
+Page 5 
+Plots will vary based on methods, but have some resemblance to the following: 
+Multiple plots for multiple trials. 
+Students may have marked equivalence and ½ equivalence points. 
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+-15
+-10
+-5
+0
+5
+10
+15
+pH
+Number of Drops of Titrant
+pH vs. Number of Drops of Titrant
+
+ 
+Page 6 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+3.  Show all calculations for:(sample calculations may differ for sections as there may be variance in prepared buffers)  
+a) buffer capacity 5pts 
+a. Students should identify that buffer capacity is calculated by mol/L buffer divided by the change in pH (∆pH) in 
+the buffering region (part of graph shown in #1 above before a dramatic change in pH). 
+b. Students should identify 4-10 drops of acid/base are added in the buffering region between pH values of ~10.0 
+and ~8.0.  
+c. Students should identify that approximately 4-10 drops of acid/base added corresponds to 0.0005 moles of 
+acid/base or buffer being neutralized. This results in a concentration of 0.005 mol/L. 
+10 drops(0.05 mL/drop)(1 liter/1,000 mL)(1.00 mol/L)=0.0005 mol of acid/base or buffer 
+0.0005 𝑚𝑚𝑚𝑚𝑚𝑚
+.0100 𝐿𝐿=0.05 mol/L 
+d. Students should recognize that the ∆pH = 1.0 from pKa in the buffering region on the graph. 
+8-10=1.0 
+e.  Students should calculate a buffering capacity equal to ~0.005 (no units) when “c” above is divided by “d” above. 
+0.05 𝑚𝑚𝑚𝑚𝑚𝑚/𝐿𝐿
+1.0
+=0.050 
+ 
+b) concentrations of the conjugate acid and base 5pts 
+a. Students should identify the equivalence point for the NaOH titration (occurs at ~8.5 drops of base added to 
+buffer). 
+b. Students should identify that 8.5 drops of base added corresponds to 0.0004 moles of NaOH being added or HA 
+being neutralized. 
+8.5 drops(0.05 mL/drop)(1 liter/1,000 mL)(1.00 mol/L)=0.0004 mol of NaOH (or HA)                                                          
+c.  Students should calculate [HA]=0.0040. 
+0.0004 𝑚𝑚𝑚𝑚𝑚𝑚
+.0100 𝐿𝐿=0.040 mol/L 
+ 
+d. Students should identify the equivalence point for the HCl titration (occurs at ~5 drops of acid added to 
+buffer). 
+e. Students should identify that 5 drops of acid added corresponds to 0.00025 moles of HCl being added or 
+A- being neutralized. 
+5 drops(0.05 mL/drop)(1 liter/1,000 mL)(1.00 mol/L)=0.00025 mol HCl (or A-) 
+f. Students should calculate [A-]=0.025. 
+0.00025 𝑚𝑚𝑚𝑚𝑚𝑚
+.0100 𝐿𝐿
+=0.025 mol/L 
+c) Ka of the conjugate acid 5pts 
+a. Students may elect to use the Henderson/Hasselbach equation (see “b” below) or use an approach not utilizing 
+this tool (see “c” below).  
+b. Use the initial pH (pH=9) from the data table, initial [HA] calculated in 3c above, the initial [A-] calculated in 4c 
+above and the Henderson-Hasselbach equation to calculate the Ka. The value should be ~6 x 10-10. 
+9 = -log Ka + log
+[0.025]
+[0.04]  
+Ka = 6 x 10-10 
+c. Determine the initial [H+] which should be 1 x 10-9. Using this and the answers from 3c and 4c along with the acid 
+ionization constant expression to calculate the Ka. The value should be ~6 x 10-10. 
+10-9 = [H+] = 1 x 10-9 
+Ka = ([H+][A-])/[HA] = ([1 x 10-9][0.025])/[0.04] 
+Ka = 6 x 10-10 
+Note: The rules for significant figures have been largely ignored to focus on the process used by each student. 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 14, 2025 
+Page 7 
+ 
+ 
+ 
+ 
+4.  The buffer capacity is ____________________________________________ 
+Range of pH 8-10.  
+     The concentration of the conjugate acid is ________________ 
+Around 4.0*10-3 M 
+     The concentration of the conjugate base is ________________  
+Around 2.5*10-3 M 
+ 
+     The Ka of the conjugate acid is ________________ 
+Around 6.0*10-10  
+ 
+ 
+ 
+Proctor, please indicate the item replaced or refilled provided (if any): 
+
+ 
+Page 8 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 2 
+Examinor's Name:__________________________________________________________________________ 
+ACS Local Section Name:____________________________________________________________________ 
+ 
+1. Give a brief description of your experimental plan.  (4pts) 
+Students should include: 
+• 
+Using provided solutions to qualitatively test unknowns for chemical change. 
+• 
+Use of spot plates 
+• 
+Testing with pH strips (ok if they didn’t put it in procedure but did it in trials) 
+• 
+Use process of elimination for determining anions and cations. 
+• 
+Record observations on table? 
+ 
+• 
+Have examiner’s intial. (1 pt separate) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Record your data/observations. (10pt) 
+Students should include: 
+• 
+A data table 
+• 
+Record observations for bubbling, precipitation, smell 
+• 
+Recording pH may be useful 
+• 
+Maybe include statements of justification 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 14, 2025 
+Page 9 
+ 
+ 
+ 
+-1 in tables if you do not mention concentrations: i.e different NaOH concentrations 
+Continue: Record your data/observations. 
+ 
+ 
+pH 
+0.01 M 
+AgNO3 
+1.0 M HCl 
+0.1 M 
+NaOH 
+1.0 M NaOH 
+0.1 M 
+Na3PO4 
+Unknown 
+Solution 1 
+(0.1 M MgCl2) 
+6-7 
+ppt 
+No Reaction 
+ppt 
+ppt 
+ppt 
+Unknown 
+Solution 2 
+(0.1 M Ca(OAc)2 
+6 
+No Reaction. 
+A slightly 
+more 
+concentrated 
+solution will 
+give faint ppt 
+No Reaction. 
+Faint smell of 
+vinegar/acetic 
+acid 
+no ppt, 
+maybe 
+very little 
+ppt with 1M 
+ 
+ppt 
+Unknown 
+Solution 3 
+(Sat. NH4NO3) 
+4-5 
+No Reaction 
+No Reaction 
+No 
+Reaction. 
+Maybe 
+faint smell 
+of 
+ammonia 
+May not 
+clearly make 
+out bubbles 
+but looked 
+like 
+something 
+more than 
+other tests. 
+Smell of 
+ammonia 
+No 
+Reaction 
+Unknown 
+Solution 4 
+(0.5 M Na2CO3) 
+11 
+ppt 
+bubbles 
+ 
+No Reaction 
+No 
+Reaction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 
+
+ 
+Page 10 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 14, 2025  
+ 
+3. Identify the salt in each unknown solution, giving a brief justification for your choices. (10 pts) 
+Unknown # 
+Contains 
+Justification 
+ 
+1 
+ 
+MgCl2 
+0.01 M AgNO3 – big precipitate - could be Cl-, CO32.  
+1.0 M HCl – NR – rules out CO32- 
+0.1 M  Na3PO4 – big precipitate – Could be Mg2+, Ca2+ 
+1.0 M NaOH –  big precipitate – Could be Mg2+, Ca2+.  
+0.1M NaOH - precipitates Mg2+ but not the 0.1M Ca2+ 
+(Introductory Solubility Rules indicate Ca(OH)2 is soluble, however the solubility 
+is low) 
+pH 6-7; vague, but fits literature range. Would think MgCl2 would be lower pH 
+than Ca(OAc)2 but they were very similar. 
+Possible ion combinations: Mg2+  Ca2+  NH4+  Na+  Cl-  OAc-  NO3-  CO32- 
+ 
+2 
+ 
+Ca(OAc)2 
+0.01 M AgNO3 – no or very small amount of ppt; this is important for I.D. 
+between nitrate and acetate.  While acetates as a “general rule” are considered 
+soluble, silver acetate has a Ksp of 2*10-3 
+1.0 M HCl –No Reaction – rules out CO32- smell indicates acetate 
+1.0 M NaOH –  precipitate– Could be Mg2+, Ca2+  
+0.1 M NaOH –  no or faint precipitate–Ca2+  
+0.1 M  Na3PO4 – precipitate – Could be Mg2+, Ca2+  
+pH 6;pKa of H2O for  Mg2+ is about 12 and for Ca2+ is about 11.  Probably not 
+different enough to tell the difference with pH paper.  Other reaction data should 
+be able to determine ion presence.  
+Possible ion combinations: Mg2+  Ca2+  NH4+  Na+  Cl-  OAc-  NO3-  CO32- 
+ 
+3 
+ 
+NH4NO3 
+0.01 M AgNO3 – No Reaction – rules out Cl-, CO32. 
+1.0 M HCl –  
+No Reaction – rules out CO32- 
+1.0 M NaOH – no clear bubbling, but visual evidence suggesting a reaction. 
+Smell of ammonia. Suggests NH4+. No ppt rules out Mg2+, Ca2+ 
+0.1 M NaOH – N.R. visible maybe faint NH3 smell 
+0.1 M  Na3PO4 – ppt – rules out Mg2+, Ca2+  
+pH 4 – indicates an acidic cation.  
+Possible ion combinations: Mg2+  Ca2+  NH4+  Na+  Cl-  OAc-  NO3-  CO32- 
+ 
+4 
+ 
+Na2CO3 
+0.01 M AgNO3 – precipitate - Cl-, CO32. 
+1.0 M HCl –  
+bubbles  indicates CO32. 
+1.0 M NaOH – No Reaction 
+0.1 M NaOH - No Reaction 
+0.1 M  Na3PO4 – No Reaction  
+pH 11 – indicates a basic anion.  
+Possible ion combinations: Mg2+  Ca2+  NH4+  Na+        Cl-  OAc-  NO3-  
+CO32- 
+ 
+ 
+ 
+Proctor, please indicate the item replaced or refilled provided (if any): 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 14, 2025 
+Page 11 
+This page intentionally left blank 
+ 

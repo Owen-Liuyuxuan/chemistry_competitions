@@ -1,0 +1,1463 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+ 
+2022 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Kelli Slunt, Chair, University of Mary Washington, Fredericksburg, VA 
+Payton Bailey, University of Mary Washington, Fredericksburg, VA 
+Jesse Bernstein, Miami Country Day School, Miami FL (retired) 
+Chloe Boyd, University of Mary Washington, Fredericksburg, VA 
+Stacia Brooks, University of Mary Washington, Fredericksburg, VA 
+Alexsandra DaSilva, SUNY, Binghamton, NY 
+ 
+Myra Halpin, NC School of Science & Mathematics, Durham, NC (retired) 
+Nicolas Hamel, Clackamas Community College, Oregon City, OR 
+Tiffany Pham, University of Mary Washington, Fredericksburg, VA 
+Innocent Pumure, University of Central Missouri, Warrensburg, MO 
+Lawrence Wilkinson, ExxonMobil, Baton Rouge, LA 
+DIRECTIONS TO THE EXAMINER 
+The laboratory practical part of the National Olympiad Examination is designed to test skills related to the laboratory. Because the 
+format of this part of the test is quite different from the first two parts, there is a separate, detailed set of instructions for the examiner. 
+This gives explicit directions for setting up and administering the laboratory practical. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and 
+you are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+There are two laboratory tasks to be completed during the 90 minutes allotted to this part of the test. Students may carry out the two 
+tasks in any order they wish and move directly from one to the other within the allotted time. Each procedure must be approved for 
+safety by the examiner before the student begins that procedure.  
+A periodic table and other useful information are provided on page two for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, watch, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for 
+disqualification. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period.  Please indicate on the 
+exam sheet the item replaced or refilled. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+WHEN DIRECTED, TURN TO PAGE 3 AND READ THE INTRODUCTION AND SAFETY CONSIDERATIONS 
+CAREFULLY BEFORE YOU PROCEED. There are two laboratory-related tasks for you to complete during the next 90 minutes. 
+There is no need to stop between tasks or to do them in the given order. Simply proceed at your own pace from one to the other, using 
+your time productively. You are required to have a procedure for each problem approved for safety by an examiner before you carry 
+out any experimentation on that problem. You are permitted to use a non-programmable calculator. At the end of the 90 minutes, all 
+answer sheets should be turned in. Be sure that you have filled in all the required information at the top of each answer sheet. 
+Carefully follow all directions from your examiner for safety procedures and the proper disposal of chemicals at your examination 
+site. 
+Do not forget to turn in your U.S. citizenship/Green Card Holder statement before leaving the testing site today.  
+   
+STUDENT USNCO ID: 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+ 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022 × 1023 mol–1 
+h = 6.626 × 10–34 J s 
+c = 2.998 × 108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−∆
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+Page 3 
+ 
+Student Instructions 
+ 
+Introduction 
+These problems test your ability to design and carry out laboratory experiments and to draw conclusions from your experimental 
+work. You will be graded on your experimental design, on your skills in data collection, and on the accuracy and precision of your 
+results. Clarity of thinking and communication are also components of successful solutions to these problems, so make your written 
+responses as clear and concise as possible. 
+ 
+Safety Considerations 
+You are required to wear approved eye protection at all times during this laboratory practical. You also must follow all 
+directions given by your examiner for dealing with spills and with disposal of wastes. 
+ 
+ 
+Lab Problem 1 
+ 
+Question: Antacids are a class of medications that neutralize acid in the stomach. Determine the moles of HCl, simulating stomach 
+acid that can be neutralized by a tablet of commercial antacid.   
+ 
+ 
+Lab Problem 2 
+ 
+Question: Design and carry out an experiment to determine the specific identity of the substance in each of six numbered vials.  Each 
+vial contains one of these substances. 
+ 
+baking soda (sodium bicarbonate) 
+borax (sodium tetraborate) 
+cornstarch (polysaccharide of glucose) 
+Epsom salts (magnesium sulfate) 
+powdered sugar (sucrose and corn starch) 
+washing soda (sodium carbonate) 
+ 
+Using the materials provided (including distilled water, 10% HCl, 10% NaOH, 2% iodine solution, bromothymol blue, and 
+phenolphthalein), devise and carry out an experiment to correctly determine the contents of each vial. 
+ 
+ 
+
+ 
+Page 4  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 1 
+ 
+Student's Name: ____________________________________________________________________________ 
+Student's School:____________________________________________________________________________ 
+Proctor's Name:_____________________________________________________________________________ 
+ACS Local Section Name:_____________________________________________________________________ 
+ 
+1.  Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For safety reasons before beginning your experiment, you must get  
+Examiner’s Initials:________ 
+approval from the examiner. 
+ 
+STUDENT USNCO ID: 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+Page 5 
+ 
+ 
+3.  Show all calculations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. A typical Tums tablet weighs 1.3 g.  The amount of stomach acid that can be neutralized by the tablet is:    
+________________. 
+ 
+ 
+Examiner please indicate the item replaced or refilled provided: 
+ 
+ 
+
+ 
+Page 6  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+ 
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 2 
+ 
+Student's Name: ____________________________________________________________________________ 
+Student's School:____________________________________________________________________________ 
+Proctor's Name:_____________________________________________________________________________ 
+ACS Local Section Name:_____________________________________________________________________ 
+ 
+1.  Give a brief description of your experimental plan.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Record your data and other observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For safety reasons, before beginning your experiment, you must get 
+Examiner’s Initials:_________ 
+approval from the examiner 
+ 
+ 
+STUDENT USNCO ID: 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+Page 7 
+ 
+2.  Record your data and other observations (continued). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Identify the substance in each unknown vial, giving a brief justification for that choice. 
+ 
+Unknown # 
+Contains 
+Justification 
+1 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examiner please indicate the item replaced or refilled provided: 
+
+a
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+Page 1 
+2022 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+EXAMINER’S INSTRUCTIONS 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE
+Kelli Slunt, Chair, University of Mary Washington, Fredericksburg, VA
+Payton Bailey, University of Mary Washington, Fredericksburg, VA 
+Jesse Bernstein, Miami Country Day School, Miami FL (retired) 
+Chloe Boyd, University of Mary Washington, Fredericksburg, VA 
+Stacia Brooks, University of Mary Washington, Fredericksburg, VA 
+Alexsandra DaSilva, SUNY, Binghamton, NY 
+Myra Halpin, NC School of Science & Mathematics, Durham, NC (retired)
+Nicolas Hamel, Clackamas Community College, Oregon City, OR
+Tiffany Pham, University of Mary Washington, Fredericksburg, VA
+Innocent Pumure, University of Central Missouri, Warrensburg, MO
+Lawrence Wilkinson, ExxonMobil, Baton Rouge, LA
+Thank you for administering the 2020 USNCO laboratory practical on behalf of your Local Section. It is essential that you follow the
+instructions provided in order to ensure consistency of results nationwide. There may be considerable temptation to assist the students
+after they begin the lab exercise. It is extremely important that you do not lend any assistance or hints whatsoever to the students once
+they begin work. As in international competition, the students are not allowed to speak to anyone until the activity is complete.
+The equipment needed for each student for both lab exercises should be available at his/her lab station or table when the students enter 
+the room. The equipment should be initially placed and the materials separated for Lab Problem #1 and for Lab Problem #2. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period. Please indicate on the 
+exam sheet the item replaced or refilled. 
+It is your responsibility to ensure that all students wear approved eye protection at all times, tie back long hair into a ponytail,
+and wear close-toed shoes during this laboratory practical. A lab coat or apron for each student is desirable but not
+mandatory. You will also need to give students explicit directions for handling spills and for disposing of waste materials,
+following approved safety practices for your examination site. Please check and follow procedures appropriate for your site.
+After the students have settled, read the following instructions to the students. 
+Hello, my name is ________. Welcome to the lab practical portion of the U.S. National Chemistry Olympiad Examination. In 
+this part of the exam, we will be assessing your lab skills and your ability to reason through a laboratory problem and 
+communicate its results. Do not touch any of the equipment in front of you until you are instructed to do so.  
+You will be asked to complete two laboratory problems. All the materials and equipment you may want to use to solve each 
+problem has been set out for you and is grouped by the number of the problem. You may use equipment from one problem to 
+work on the other problem, but the suggested ideal equipment and chemicals to be used for each problem has been grouped 
+for you. You will have one hour and thirty minutes to complete the two problems. You may choose to start with either 
+problem. You are required to have a procedure for each problem approved for safety by an examiner. (Remember that 
+approval does not mean that your procedure will be successful – it is a safety approval.) When you are ready for an examiner 
+to come to your station for each safety approval, please raise your hand.  
+Safety is an important consideration during the lab practical. You must wear safety goggles at all times. Please wash off any 
+chemicals spilled on your skin or clothing with large amounts of tap water.  
+The appropriate procedures for disposing of solutions at the end of this lab practical are:  
+____________________________________________________________________________________________________ 
+____________________________________________________________________________________________________ 
+
+a
+Page 2 
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+We are about to begin the lab practical. Please do not turn the page until directed to do so, but read the directions on the 
+front page. Are they any questions before we begin? 
+Distribute Part III booklets and again remind students not to turn the page until the instruction is given. Part III contains student 
+instructions and answer sheets for both laboratory problems. There is a periodic table on page two of the booklet. Allow students 
+enough time to read the brief cover directions. 
+Do not turn to page three until directed to do so. When you start to work, be sure to fill out all of the information at the top of 
+the answer sheets. Are they any additional questions? 
+If there are no further questions, the students should be ready to start Part III. 
+You may begin. 
+After one hour and thirty minutes, give the following directions. 
+This is the end of the lab practical. Please stop and bring me your answer sheets. Thank you for your cooperation during this 
+portion of the exam. 
+Collect all the lab materials. Make sure that the student has filled in his or her name and other required information on the answer
+sheets. At this point, you might wish to take a few minutes to discuss the lab practical with the students. They can learn about possible
+observations and interpretations and you can acquire feedback as to what they actually did and how they reacted to the problems. After
+this discussion, please take a few minutes to complete the Post-Exam Questionnaire that was sent by e-mail through Formsite; this
+information will be extremely useful to the USNCO subcommittee as they prepare for next year’s exam.
+Please remember to return the answer sheets from Part III, the Scantron sheets from Part I, and the ‘Blue Books” from Part
+II in the UPS Next Day return envelope you were provided to this address:
+American Chemical Society 
+U.S. National Chemistry Olympiad 
+1155 16th Street, NW – Room 834 
+Washington, DC 20036 
+The label on the UPS Express Pak envelope should have this address and your return address already. The cost of the shipping is
+billed to ACS USNCO. You can keep a copy of the tracking number to allow you to track your shipment.
+May 9, 2022 is the absolute deadline for receipt of the exam material. Materials received after this deadline CANNOT be graded. 
+Be sure to have your envelope sent no later than May 7, 2022 for it to arrive on time. 
+THERE WIL BE NO EXCEPTIONS TO THIS DEADLINE DUE TO THE TIGHT SCHEDULE FOR GRADING THIS
+EXAMINATION.
+NOTE THAT THE EXAMINER WILL NEED TO INITIAL EACH STUDENT’S EXPERIMENTAL PLAN. PLEASE DO 
+NOT COMMENT ON THE PLAN OTHER THAN LOOKING FOR ANY POTENTIAL UNSAFE PRACTICES. 
+
+a
+ 
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+Page 3 
+Laboratory Problem #1
+ Materials needed for problem #1:  
+• 
+One (1) graduated cylinder, 25 mL – can substitute with 10 and/or 100 mL 
+• 
+Two (2) Beral pipets, with 0.25 mL graduations  
+o 
+Suggested Beral pipets are:  
+ 
+Fisher brand catalog# 13-711-9AM  
+ 
+Samco Scientific – Thermo Fisher catalog number 212 
+• 
+One (1) glass stirring rod – for both problems #1 and 2 
+• 
+One (1) spatula – for both problems #1 and 2 
+• 
+One (1) hot plate – stirring is not needed and should not be used 
+• 
+Three (3) beakers, 100 or 150 mL 
+• 
+pH indicator strips range 1.0-12.0, 12 per student  
+o 
+Suggested indicator strips  
+ 
+Fluka Analytical Mat # 10184429  
+ 
+Fisher brand catalog #13-640-508 
+• 
+Two (2) pieces of wax paper or glassine weigh paper – used to crush tablets 
+• 
+Distilled or deionized water, at least 500 mL, in a wash bottle labeled appropriately – for both problems #1 and 2 
+• 
+Access to paper towels and a sink with running water – for both problems #1 and 2 
+ 
+Chemicals needed for problem #1:  
+• 
+Phenolphthalein indicator, 0.5% (wt in 1:1 ethanol/water), 0.5 mL in a labelled Beral pipet or a vial with a dropper – for both 
+problems #1 and 2 
+• 
+Three (3), TUMS peppermint antacid tablets – PLEASE remove from original packaging and place in a labelled plastic bag. 
+These will be provided to you by ACS.  DO NOT provide packaging information to the students. 
+• 
+Standardized HCl, 0.5 M reported to three significant figures, 100 mL per student 
+• 
+Standardized NaOH, 0.40-0.45 M reported to three significant figures, 50 mL per student 
+Standardization instructions for NaOH, to be standardized by the coordinator:  
+1. Dissolve 20 grams of solid NaOH in enough distilled or deoionized water to create one liter solution.  
+2. Weigh out approximately 0.8 grams of potassium hydrogen phthalate (KHP, molecular weight 204.23 g/mol) to at least 3 
+decimal places and dissolve in 50-75 mL of water in an Erlenmeyer flask.   Record the amount of KHP used.  
+3. Add 2-3 drops of phenolphthalein indicator to the KHP solution.  
+4. Titrate the solution with prepared NaOH solution until a faint pink endpoint.  Record volume of NaOH solution used in the 
+titration.   
+5. Repeat.    
+6. Convert grams of KHP to mol NaOH noting a 1:1 mole ratio of KHP to NaOH.  
+7. Divide moles of NaOH by the volume of NaOH used to determine molarity.  
+8. Report the average molarity on the labels for the students.   
+Standardization instructions for HCl, to be standardized by the coordinator:  
+1. Dilute 83.3 mL of 6M HCl with enough distilled or deoionized water to create 1 L of 0.5 M HCl.   
+2. Pipet or use a buret to transfer 20.0 mL of HCl to an Erlenmeyer flask.  Record the volume of HCl used. 
+3. Add 2-3 drops of phenolphalein. 
+4. Titrate the solution with the previously standardized NaOH solution, recording the volume of NaOH used in the titration.  
+Repeat trials.   
+5. Convert the volume of standardized NaOH added to solution to moles of HCl (1:1 stoichiometry) using the molarity of 
+NaOH.  
+6. Divide the number of moles of HCl by the volume of HCl used in the titration to determine molarity.  
+7. Report the average molarity to three significant figures on the label for the students.  
+Phenolphthalein indicator, 0.5% (wt in 1:1 ethanol/water), 0.5 mL in a labelled Beral pipet  
+Either purchase prepared indicator or prepare by dissolving 1.0 g of phenolphthalein in 100 mL of a mixture of ethanol and water (50 
+mL ethanol and 50 mL water). 
+
+a
+ 
+Page 4 
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+Dispense approximately 0.5 mL in a Beral pipet or a vial with a dropper and place a label on the pipet/vial.  For the pipet, store with 
+the bulb end of the pipet down. 
+ 
+Laboratory Problem #2 
+Materials needed for problem #2:  
+• 
+Four (4) Beral pipets – these do not need to be graduated but can have graduations 
+• 
+One (1) glass stirring rod – for both problems #1 and 2 
+• 
+Twelve (12) test tubes  
+• 
+One (1) test tube rack or two (2) test tube racks depending on number of slots in the racks 
+• 
+One (1) spatula -– for both problems #1 and 2 
+• 
+One (1) plastic or ceramic well plate, 6 or 12 wells per plate 
+• 
+One (1) distilled or deionized water, at least 500 mL, in a wash bottle labeled appropriately – for both problems #1 and 2 
+• 
+Access to paper towels and a sink with running water – for both problems #1 and 2 
+ 
+Chemicals needed for problem #2:  
+• 
+Phenolphthalein indicator, 0.5% (wt in 1:1 ethanol/water), 1.0 mL in a labelled Beral pipet or a vial with a dropper (same one 
+for problem #1) 
+• 
+Bromothymol blue indicator, 0.04% (wt in water), 0.5 mL in a labelled Beral pipet or a vial with a dropper 
+• 
+Iodine–Potassium Iodide Solution, 5 mL per student 
+• 
+HCl, 10%, 10 mL of solution (does not need to be standardized) 
+• 
+NaOH, 10%, 10 mL of solution (does not need to be standardized) 
+• 
+Unknowns – please label each of these samples with unknown number and not the identity of the substance 
+o 
+unknown #1: cornstarch, 2 g per student 
+o 
+unknown #2: baking soda (sodium bicarbonate), 2 g per student 
+o 
+unknown #3: epsom salts (magnesium sulfate), 2 g per student – can use anhydrous MgSO4 or an available hydrated 
+forms 
+o 
+unknown#4: powdered sugar, 2 g per student 
+o 
+unknown #5: washing soda (sodium carbonate), 2 g per student 
+o 
+unknown #6: borax (sodium tetraborate), 2 g per student – can use commercially available borax from a grocery 
+store or pure sodium tetraborate 
+Bromothymol blue indicator, 0.04%, 0.5 mL in a labelled Beral pipet  
+• 
+Either purchase prepared indicator or prepare by dissolving 0.04 g of bromothymol blue in 50 mL of distilled or deoinized 
+water and then dilute to 100 mL with water. 
+• 
+Dispense approximately 0.5 mL in a Beral pipet or a vial with a dropper and place a label on the pipet or vial.  For the pipet, 
+store with the bulb end of the pipet down. 
+ 
+Iodine–Potassium Iodide Solution  
+Dissolve 15 g of potassium iodide in 125 mL of distilled or deoionize water; add 3 g of iodine; stir to  
+dissolve, then dilute to 1 L. Store in a dark bottle.  
+ 
+Waste disposal:  
+The solutions should not be disposed of down the drain. Place any waste in a designated waste container. 
+ 
+Suggested Laboratory Setup Photos 
+Note – phenolphalein and bromothymol blue could be provided in a labelled dispensing bottle rather than the pipet as shown. 
+PLEASE remove TUMS tablets from original packaging and place in a labelled plastic bag.  DO NOT provide TUMS 
+packaging information to the students.   
+
+a
+ 
+ 
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+Page 5 
+DO NOT provide names of the unknowns on the bottles of white solids. 
+See photos for suggested set-up on the next page. 
+
+a
+ 
+Page 6 
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+ 
+
+a
+ 
+ 
+Property of ACS USNCO – 2022 USNCO National Exam Part III Examiner’s Instructions 
+Page 7 
+ 
+ 
+ 
+
+2022 UNITED STATES NATIONAL CHEMISTRY OLYMPIAD 
+National Exam Part III RUBRIC 
+ 
+Prepared by the American Chemical Society Chemistry Olympiad Laboratory Practical Task Force 
+ 
+Lab Problem 1 
+Question: Antacids are a class of medications that neutralize acid in the stomach. Determine 
+the moles of HCl, simulating stomach acid, that can be neutralized by a tablet of commercial 
+antacid.   
+ 
+Answer Sheet Questions 
+1. Give a brief description of your experimental plan (5 points)  
+One suggested approach – back titration 
+• Indication that a back titration with excess HCl will be used to solve the problem  
+• Students may plan to test titration (observation of endpoint) with the HCl, NaOH, 
+and indicator  
+• Experimental details on the titration 
+o Mix tablet, HCl, and indicator and heat the solution to near boiling to 
+release excess CO2. Remove from heat, allow to cool and test with pH 
+indicator paper to ensure excess acid is present. Titrate with NaOH until 
+the color turns from colorless (or white due to presence of the tablet) to 
+pink.  
+• Students may attempt to titrate by dissolving the tablet in water and titrating 
+with HCl, but this is an inaccurate method.  
+o Care should be taken to prevent overheating as the fillers present in the 
+tablet may burn when heating on the hot plate or the water can 
+evaporate. 
+• Determine the volume of a drop of liquid from a Beral pipette  
+• Replicate Measurements  
+Another approach – determine amount of carbon dioxide lost after neutralization 
+• Indication that measurement of loss of carbon dioxide will be determined by 
+decrease in mass 
+• Experimental details 
+o Mass of all items before mixing – making sure to include the glassware 
+for the reaction 
+o Mass of items after mixing 
+o Allow time for the reaction to occur – stirring, heating, and waiting until 
+no visible gas remains in the solution and the reaction between the 
+antacid and HCl concluded.  Remove from heat, allow to cool, and 
+determine mass after reaction. 
+
+o Ensure an excess of HCl was added to the tablet – using pH strips to check 
+the pH. 
+o Care should be taken to prevent overheating as the fillers present in the 
+tablet may burn when heating on the hot plate or the water can 
+evaporate. 
+• Replicate Measurements  
+ 
+2. Record your data/observations (6 points)  
+Back titration 
+• Recorded mass of antacid tablet used 
+• Recorded volume of a drop of liquid from a Beral pipette  
+• Clear data table indicating starting volume of HCl and volume of NaOH used to 
+neutralize the solution 
+• Observations- color changes observed in titrations  
+• Clear indication of how number of drops are converted to volume or how the 
+volume of solutions used was determined 
+Quantification of carbon dioxide lost after neutralization 
+• Clear data table including starting and ending masses of antacid, solutions, and 
+glassware and volumes of HCl used  
+• Observations- could include the expulsion of gas, the final masses were recorded 
+after all visible gas was removed, pH of the solution after excess HCl was added 
+• Clear indication of how number of drops are converted to volume or how the 
+volume of solutions used was determined 
+ 
+3. Show all calculations (7 points)  
+Back titration 
+• Calculate the number of moles needed to dissolve the total amount of calcium 
+carbonate in the tablet  
+• Calculate the total moles of HCl that was used to completely dissolve the antacid 
+tablet and still have excess in solution.  
+• Calculate the moles of NaOH added to reach the endpoint = moles of excess HCl  
+• Calculate the moles of HCl that reacted with the calcium carbonate in the antacid 
+tablet  
+• Average value – from duplicate trials  
+ 
+Quantification of carbon dioxide lost after neutralization 
+• Mass of carbon dioxide lost  
+• Mass of calcium carbonate in the antacid tablet 
+• Calculate the moles of HCl that reacted with the calcium carbonate in the antacid 
+tablet  
+• Average value – from duplicate trials  
+
+4. A typical Tums tablet weighs 1.3 g.  The amount of stomach acid that can be neutralized 
+by the tablet is:    _____________. (7 points)  
+ 
+• Experimental range: 0.00986 mol – 0.0106 mol HCl per 1.3 g tablet  
+ 
+• Accuracy of value 
+ 
+0.00980 – 0.0106 moles  
+ 
+ 
+ 
+full credit 
+0.00882- 0.00979 or 0.0105 – 0.0116 moles  
+ 
+5 points 
+0.00784-0.00881 or 0.0117-0.0127 moles 
+ 
+3 point 
+any other answers 
+ (in moles) 
+ 
+ 
+ 
+0 points 
+ 
+ 
+Answers in units other than moles of HCl were converted to moles and then graded 
+using the scale above. 
+ 
+Lab Problem 2 
+Question: Design and carry out an experiment to determine the specific identity of the 
+substance in each of six numbered vials.  Each vial contains one of these substances. 
+• baking soda (sodium bicarbonate) 
+• borax (sodium tetraborate) 
+• cornstarch (polysaccharide of glucose) 
+• Epsom salts (magnesium sulfate) 
+• powdered sugar (sucrose and corn starch) 
+• washing soda (sodium carbonate) 
+ 
+Using the materials provided (including distilled water, 10% HCl, 10% NaOH, 2% iodine solution, 
+bromothymol blue, and phenolphthalein), devise and carry out an experiment to correctly 
+determine the contents of each vial. 
+ Answer Sheet Questions  
+1. Give a brief description of your experimental plan (5 points) 
+• use equal amounts of substances (i.e. end of a spatula, small amount in the 
+bottom of test tube or well) 
+• add a set volume of reagent (i.e. 0.25 mL) or add the reagents dropwise 
+• stir samples and observe color changes, formation of gas, formation of 
+precipitate 
+ 
+2. Record your data/observations (8 points)  
+• Clear data table or flow chart indicating substances combined and the results of 
+the tests performed 
+
+• observations (color changes, production of gas, solubility, formation of 
+precipitate) – see table at end with sample results 
+ 
+3. Identify the substance in each unknown vial, giving a brief justification for that choice. (12 
+points) 
+ 
+Unknown 
+# 
+Contains 
+Justification 
+1 
+ 
+Cornstarch 
+Insoluble in water, interacts with starch and turn 
+blue-black 
+2 
+ 
+Baking Soda (sodium 
+bicarbonate) 
+Produces a gas in the presence of an acid (HCl or 
+vinegar),  
+3 
+ 
+Epsom salts 
+(magnesium sulfate) 
+Forms a white precipitate in the presence of 
+hydroxide 
+4 
+ 
+Powdered sugar 
+Soluble in water, interacts with starch and turns 
+blue-black (smaller color change than cornstarch – 
+indicating less starch present in the sample) 
+5 
+ 
+Washington soda 
+(sodium carbonate) 
+Produces a gas in the presence of an acid, basic in 
+the presence of phenolphalein (darker pink than 
+sodium bicarbonate) 
+6 
+ 
+Borax (sodium 
+tetraborate) 
+Soluble in water and aqueous acids but no gas 
+produced in the presence of acid, basic in the 
+presence of phenolphalein 
+ 
+ 
+ 
+Data from White Powder Trials – Data compiled from three students at the University of Mary 
+Washington 
+ 
+Cornstarch 
+(unknown1) 
+Baking 
+soda 
+(unknown 
+2) 
+Epsom 
+salts 
+(unknown 
+3) 
+Powdered 
+sugar 
+(unknown 
+4) 
+Sodium 
+carbonate 
+(unknown 
+5) 
+Borax 
+(unknown 
+6) 
+Water solubility 
+Insoluble 
+Soluble 
+Soluble 
+Soluble 
+Soluble 
+Sparingly 
+soluble 
+10% HCl 
+solubility 
+Insoluble 
+Soluble 
+and gas 
+produced 
+Soluble 
+Soluble 
+(Note: 
+one 
+student 
+listed as 
+insoluble) 
+Soluble 
+and gas 
+produced 
+Soluble 
+and no 
+gas 
+produced 
+
+10% NaOH 
+reaction 
+No change 
+No 
+change 
+White ppt 
+formed 
+No 
+change 
+No 
+change 
+No 
+change 
+Vinegar 
+solubility 
+Insoluble 
+Soluble 
+and gas 
+produced 
+Soluble 
+Soluble 
+(Note: 
+one 
+student 
+listed as 
+insoluble) 
+Soluble 
+and gas 
+produced 
+Soluble 
+and no 
+gas 
+produced 
+Iodine 
+Dark 
+blue/black 
+No 
+change 
+No 
+change 
+Faint 
+blue/ 
+black 
+No 
+change 
+No 
+change 
+Phenolphthalein No change 
+Pale pink 
+No 
+change 
+No 
+change 
+Dark pink 
+pink 
+Bromothymol 
+blue 
+Yellow-blue 
+green 
+blue 
+Yellow 
+blue 
+blue 
+blue 
+ 
+ 
+ 
+ 
+ 

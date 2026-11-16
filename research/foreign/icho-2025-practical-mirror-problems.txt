@@ -1,0 +1,1623 @@
+S E C T I
+O N _
+B O U N D A R Y _
+0 _
+1 6
+Safety rules in the practical exam
+Students must obey the following safety rules. Any student who breaks these
+rules will have to leave the practical exam and may receive a score of zero for
+the practical part. 
+Whilst in the practical exam hall, students must:
+• wear full length trousers or other clothing covering their whole legs;
+• wear closed and flat shoes;
+• wear a lab coat with long sleeves;
+• wear safety goggles that fit well;
+• wear gloves when handling solutions and substances;
+• tie back any long hair and/or beards.
+Note: Contact lenses are prohibited during the practical exam. Students needing
+vision correction must wear glasses covered by safety goggles. 
+Students must not eat or drink at their bench. Chewing gum is not allowed.
+Students must work only in their designated area. Common work areas must be
+kept tidy.
+Electrical Hazard! Be aware you are working with aqueous solutions close to
+electrical equipment. 
+No unauthorised experiments or modification of the experiments is allowed.
+Inform your lab assistant about any accident, spills, or broken glassware
+immediately.
+All waste must be properly discarded to prevent contamination or injury. Dispose of
+the solutions in the containers with the correct labels. If any container is full inform
+your lab assistant.
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 1 of 39
+
+GHS Statements
+Hazard Code
+Hazard Statement
+H225
+Highly flammable liquid and vapour
+H226
+Flammable liquid and vapour
+H260
+In contact with water releases flammable gases which may ignite
+spontaneously
+H272
+May intensify fire; oxidiser
+H290
+May be corrosive to metals
+H301
+Toxic if swallowed
+H302
+Harmful if swallowed
+H304
+May be fatal if swallowed and enters airways
+H311
+Toxic in contact with skin
+H312
+Harmful in contact with skin
+H314
+Causes severe skin burns and eye damage
+H315
+Causes skin irritation
+H317
+May cause an allergic skin reaction
+H318
+Causes serious eye damage
+H319
+Causes serious eye irritation
+H331
+Toxic if inhaled
+H332
+Harmful if inhaled
+H335
+May cause respiratory irritation
+H336
+May cause drowsiness or dizziness
+H341
+Suspected of causing genetic defects
+H351
+Suspected of causing cancer
+H361d
+Suspected of damaging the unborn child
+H361f
+Suspected of damaging fertility
+H361fd
+Suspected of damaging fertility. Suspected of damaging the
+unborn child
+H371
+May cause damage to organs
+H373
+May cause damage to organs through prolonged or repeated
+exposure
+H400
+Very toxic to aquatic life
+H410
+Very toxic to aquatic life with long lasting effects
+H411
+Toxic to aquatic life with long lasting effects
+H412
+Harmful to aquatic life with long lasting effects
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 2 of 39
+
+Chemicals:
+1-Nitroso-2-naphthol
+H225, H302, H315, H317, H319, H341
+Acetate buffer pH 5
+H226, H314
+Alizarin Red S indicator
+Non-hazardous
+Anisaldehyde stain
+H225, H290, H314, H319, H361fd, H412
+Carbonate buffer pH 10
+H319
+Copper(II) acetate
+H302, H314, H410
+Ehrlich's Reagent
+H225, H290, H314, H317, H319
+Eluent
+H225, H319, H336
+Eluent EtOAc/hexane 
+H225, H304, H315, H319, H336, H361f,
+H373, H411
+Ethanol
+H225, H319
+Ethylenediaminetetraacetic acid disodium
+salt
+H332, H373
+EtOAc
+H225, H319, H336
+Iron(III) chloride in ethanol
+H225, H302, H315, H318, H319
+Murexide indicator
+Non-hazardous
+α-Naphthol
+H225, H302, H311, H315, H317, H318,
+H319, H335, H371, H410
+Ninhydrin stain
+H302, H315, H319
+Nitric acid
+H272, H290, H314, H331
+Potassium permanganate stain
+H272, H302, H314, H315, H319, H335,
+H361d, H373, H410
+Salen ligand
+H315, H319, H335
+Salen ligand in ethanol
+H225, H315, H319, H335
+Sodium carbonate
+H319
+Sodium hydroxide
+H290, H314
+Sodium hypochlorite
+H290, H314, H410
+Sodium nitrite
+H272, H301, H319, H400
+Sodium nitroprusside
+H301
+Sulfanilic acid
+H290, H314, H315, H317, H319, H335
+Sulfuric acid
+H290, H314
+Unknown amino acid sample
+Non-hazardous
+Unknown mixtures of amino acids
+Non-hazardous
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 3 of 39
+
+Unknown samples A-D
+H302, H317, H319, H332, H335, H411
+Unknown samples E-H
+H225, H260, H290, H301, H302, H311,
+H312, H315, H317, H319, H331, H336,
+H351, H373, H410, H412
+Urea
+Non-hazardous
+General instructions
+This examination has 3 problems and is 5 hours long. There is 20 minutes reading
+time before the examination starts. During the reading time you are not allowed
+to touch the equipment nor open the answer booklet. 
+The question paper is viewable on your screen. The printed answer booklet has 11
+stapled pages and 4 separate sheets for TLC plates pages and is on your desk. 
+The answer booklet contains boxes with numbers corresponding to the
+questions. Write your answer in the designated box for that question. If you must
+write outside of the designated box, make a note in the box and write your answer
+somewhere else on the same page. 
+Do not write your answers on the reverse side of the answer booklet. Markers will
+only see the printed sides of the answer booklet. Do not separate the pages of the
+stapled answer booklet.
+Write relevant calculations where needed. Full marks will only be given for correct
+answers showing working.
+For multiple choice questions, if you want to change your answer
+, completely
+scribble out the box you have ticked and draw a new box next to it.
+Start working when the "START" command is given. The supervisors will announce
+a "30 MINUTE WARNING" 30 minutes before the end of the exam. At the end of the
+exam, a "STOP" command will be given and you must stop working immediately. If
+you do not stop working, you may be given a score of zero for the examination.
+You must not leave your workspace unless with a lab assistant. If you need
+assistance during the exam, raise the appropriate card. 
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 4 of 39
+
+If you need a toilet break
+When you want to submit your 96 well
+plate
+When you need to visualise a TLC plate
+When you want the assistant to take a
+picture of your TLC plate
+If you need a refill or replacement item,
+or have any other questions
+The switches to turn on the "Hot plate" and "Vacuum" are behind your computer
+screen. If you are unsure how to turn on the equipment, ask your lab assistant. 
+Gloves, distilled water
+, and paper tissues are available for free refill as needed. If
+you need a replacement or refill of any other item both you and the assistant need
+to sign the table on the answer sheet. One extra TLC plate (either for Q2 or for Q3
+non-UV) and one other replacement of any item are given without penalty. Each
+further replacement will result in the deduction of 1 point from your 40 practical
+exam points.
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 5 of 39
+
+Keep all items within the marked out area of your bench.
+The following abbreviations are used for state: solid = s; liquid = l; aqueous solution
+= aq; solution containing organic solvent = sol.
+Write only with the pen provided in the answer booklet. Do not use the permanent
+marker or the pencil for your answers. The permanent marker is only for labelling
+lab equipment. The pencil is only for labelling TLC plates. Use only the calculator
+provided. 
+The Official English version of this examination is available on your computer
+.
+At the end of the exam, put your answer booklet back into the envelope. Do not
+seal the envelope. 
+Do not take anything out of the lab when you leave. 
+(Good Luck)
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 6 of 39
+
+Periodic table and data sheet
+Formulae
+Beer-Lambert law
+spin-only magnetic moment
+Periodic table
+A = log( I0
+I )  =  εcd
+μ = √n(n + 2)  BM
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 7 of 39
+
+Number
+Question 
+Weighting
+1
+A complex problem
+10%
+2
+Exploring the AminOasis
+15%
+3
+Rf you ready to spot the answers?
+15%
+Total
+40%
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 8 of 39
+
+Common equipment and chemicals
+Equipment
+Item
+Quantity
+Label
+Shared on the table of common use:
+Nitrile gloves (S, M, L)
+as needed
+Paper tissues refill
+as needed
+Ice box with ice and cold ethanol
+as needed
+UV-lamp
+Wash bottles with distilled water
+as needed
+Trays to deliver the TLC plates
+TLC photography station
+Shared in the hall central area:
+Distilled water refill tanks
+as needed
+For each student:
+Hot plate covered with foil and 2 clamps
+1
+Crystallisation dish (water bath)
+1
+Q1/Q3 Water Bath
+Permanent marker
+1
+Ruler
+1
+Tweezers
+1
+Pencil
+1
+Pen
+1
+Rubber
+1
+Sharpener
+1
+Pack of paper tissues
+1
+Container for disposal of sharps
+1
+Sharp waste
+Container for disposal of general waste
+1
+General waste
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 9 of 39
+
+Chemicals
+Name
+State Concentration Quantity
+Placed in
+Label
+For each student:
+Distilled water
+l
+-
+500 cm3 Wash bottle, 500 cm3
+H2O dist.
+Ethanol
+l
+-
+50 cm3
+Bottle, 100 cm3
+Ethanol
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 10 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+1 _
+1 7
+1. A complex problem
+Equipment
+Item
+Quantity
+Label
+Part A
+In a labelled bag:
+Magnetic stirring bar
+1
+Q1
+Plastic Pasteur pipette
+1
+Steel spatula
+1
+Tweezers
+1
+Weighing paper
+2
+On/under the desk:
+Sintered funnel
+1
+Buchner flask with rubber sleeve
+1
+Vacuum pump with hose
+1
+Glass vial with cap for product
+1
+Fe-salen + student
+code
+Thermometer
+1
+125 mL plastic bottle 
+1
+Q1 waste 
+In the box:
+Q1 
+10 mL measuring cylinder
+1
+50 mL glass beaker 
+2
+96 Well plate
+1
+Student Code
+Glass rod
+1
+Micropipette
+1
+Student Code
+Micropipette tips
+1 box
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 11 of 39
+
+Chemicals
+Name
+State Concentration Quantity
+Placed in
+Label
+Part A
+Iron(III) chloride in
+ethanol
+sol
+0.1264 M
+5 mL
+10 mL bottle
+FeCl3
+Salen ligand 
+s
+-
+200 mg
+10 mL bottle
+Salen 
+For Part B
+Iron(III) chloride in
+ethanol
+sol
+0.00045 M
+4 mL
+10 mL bottle
+Fe-Stock
+Salen ligand in
+ethanol
+sol
+0.00045 M
+4 mL
+10 mL bottle
+Salen-Stock
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 12 of 39
+
+10% of the total
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+Total
+1
+20
+0
+18
+3
+2
+3
+47
+Schiff base ligands are a class of organic compounds characterised by the presence
+of an imine group (-C=N-). They can easily be prepared by condensation reactions
+between aldehydes/ketones and amines. These ligands form many complexes,
+including salen complexes, which are efficient oxidation catalysts for organic
+molecules.
+This task has two parts. In Part A, using a pre-synthesised sample of the salen
+ligand (N,N'-Bis(salicylidene)-1,2-phenylenediamine) you will make an iron salen
+complex, which you will then characterise in Part B using UV-Vis absorption.
+The synthesis of this salen ligand from o-phenylenediamine and salicylaldehyde is
+shown below.
+Q1.1 Identify by-product X formed in the ligand synthesis.
+PART A: Synthesis of the iron salen complex
+The switches for the vacuum and the hot plate are behind the computer
+. 
+1. Transfer all the salen ligand sample "Salen" (200 mg, 0.632 mmol) into a 50 mL
+beaker
+.
+2. Add 15 mL of ethanol and a magnetic stirrer bar
+.
+3. Fill approximately half of the water bath on the hot plate with distilled water
+.
+4. Clamp the beaker in the water bath. Insert the thermometer into the water bath
+using the thermometer clamp. 
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 13 of 39
+
+5. Gently heat the beaker containing the suspension, while stirring, until the water
+bath reaches around 60 °C (position VI on the dial). Warning: Electrical hazard!!
+6. Using a Pasteur pipette, add slowly all the ethanolic FeCl3 solution "FeCl3". An
+immediate colour change from orange to dark brown occurs.
+7. Continue stirring for 20 min while keeping the temperature at around 60 °C,
+during which time a fine dark precipitate forms. You can work on other tasks
+during this time.
+8. Turn off the heating and continue stirring for an additional 10 min. Then remove
+the beaker from the hot plate and let it cool to room temperature.
+Using the tweezers provided, remove the magnetic stirrer bar from the beaker
+.
+9. Filter the reaction mixture using the vacuum filtration setup.
+10. Raise the "Questions" card. A lab assistant will bring you some ice-cold ethanol.
+Wash the precipitate once with 2 mL of ice-cold ethanol.
+11. Let air pass through the product for about 3 min to dry it.
+12. Carefully transfer your product to the vial labelled "Fe-salen + student code".
+You may use weighing paper
+. Do not scrape too hard as this may lead to some of
+the frit coming off.
+Q1.2 Keep the vial. At the end of the exam, a lab assistant will collect your vial and
+both you and the lab assistant should sign on your answer sheet. 
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 14 of 39
+
+PART B: Characterisation of the iron salen complex
+The iron salen complex can decompose over time, so the following things are
+important:
+Complete all of your pipetting in one go.
+You don't need to mix as this will be done by the spectrometer with an in
+built linear shaker function.
+First add "Salen-Stock" to all the wells you intend to use; then add ethanol,
+finally add "Fe-Stock". You should finish adding the first reagent to the plate
+before adding the second. Added volumes are mentioned in the table below. 
+Submit your plate as soon as you have finished pipetting. The time you submit
+your plate will be noted.
+Note you will only be able to submit a plate once and your plate will not
+be returned.
+Measuring the absorbance values may take some time, during which you
+should do other tasks.
+You have been provided with stock solutions of the salen ligand and iron(III)
+chloride, both of which have a concentration of 4.50 × 10−4 M. 
+Using a micropipette, you will prepare solutions with nine different ratios of metal
+to ligand, according to the table below. These solutions should be made in the 96
+well plate. Ensure the plate is the same way around as in the figure.
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 15 of 39
+
+The columns are labelled with numbers 1-12. Columns 1-9 will contain each of these
+solutions. The last three columns (Columns 10-12) should be left empty.  The
+solution number must be in the correct column of the plate with the same
+number to gain credit.
+The plate has eight rows labelled A-H. One set of the solutions can fit in each row. It
+is recommended that you make three sets. When the list of absorbance values is
+returned, you will be asked to tick which row(s) you would like to choose for your
+accepted absorbance values. You will also be able to exclude individual wells in a
+row from being taken into account if you think there has been an error in that well. 
+Solution/Column
+No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Salen-Stock / μL
+90
+80
+70
+60
+50
+40
+30
+20
+10
+Ethanol / μL
+100
+100
+100
+100
+100
+100
+100
+100
+100
+Fe-Stock / μL
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Total Volume /
+μL
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Transfer the solutions to the appropriate wells using the micropipette.
+Q1.3 As soon as you have filled all the wells that you want to, raise the "ANALYSIS"
+card. A lab assistant will collect your plate. Both you and the assistant should sign
+on the answer sheet. The lab assistant will write the time collected on the answer
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 16 of 39
+
+sheet. The lab assistant will run your plate in the spectrometer
+, and return a printed
+list of absorbance values for all wells. They will write the time the plate was run on
+the spectrometer on the answer sheet. 
+We will measure samples in the order they are submitted and will do so as quickly
+as possible. The grading scheme accounts for the time between submission of the
+plate and running of the plate. 
+Q1.4 On the picture of the plate, tick the letter(s) of the row(s) you have selected to
+determine your accepted absorbance values. If you choose multiple rows, we will
+take an average of these for your accepted values. If you have made a mistake in a
+well, draw a cross over that individual well, and it will not be graded. 
+Q1.5 Determine the metal-to-salen ratio, Fe:salen, of the iron salen complex. By
+refering to the printed list of absorbance values, you may wish to draw a graph of
+absorbance, A, versus mole fraction of Fe, x(Fe), on the plot provided. The graph will
+not be graded.
+The spin-only magnetic moment of a complex, 
+, in Bohr magnetons (BM), can be
+calculated from the following formula, where n is the number of unpaired
+electrons. 
+The iron salen complex was measured to have 
+ = 5.89 BM.
+Q1.6 Determine  the number of unpaired electrons, n, in this complex and the
+oxidation state, z, of the Fe centre.
+The obtained Fe-salen complex contains chloride and no coordinated solvent.
+Adding a few drops of an aqueous AgNO3 solution to a solution of Fe-salen complex
+does not produce a precipitate. 
+Q1.7 Draw the structure of the complex based on your data and this information.
+Do not use any abbreviation for the structure of the ligand.
+μB
+μB   =  √n(n + 2)  BM
+μB
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 17 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+2 _
+1 8
+2. Exploring the AminOasis
+Equipment
+Item
+Quantity
+Label
+Part A
+In labelled bags:
+pH indicator paper
+5 strips
+Q2
+pH scale
+1
+Filter paper
+1
+TLC plate
+1
+Q2 TLC
+On the desk:
+Test tube rack
+1
+Glass test tube, 30 mL
+25
+Glass beaker for water bath, 250 mL
+1
+Q2 Water bath
+Test tube holder
+1
+TLC capillary (in a centrifuge tube)
+5
+Q2 Capillaries
+TLC chamber with a filter paper
+1
+Q2 TLC chamber
+Glass Petri dish
+1
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 18 of 39
+
+Item
+Quantity
+Label
+Part B
+On/under the desk:
+Laboratory stand with a double burette clamp
+1
+Burette, 25.00 mL
+2
+Funnel 
+2
+Q2
+Graduated pipette, 10.00 mL
+1
+Graduated pipette, 5.00 mL
+1
+Three-valve pipette bulb
+1
+Erlenmeyer flask, 100 mL
+3
+Measuring cylinder
+, 10.0 mL
+1
+Glass beaker
+, 50 mL
+3
+Item
+Quantity
+Label
+Parts A and B
+In a labelled bag:
+Plastic Pasteur pipette
+5 + 2 extra
+Q2
+On the desk:
+Plastic bottle for liquid waste, 1 L
+1
+Q2 Waste
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 19 of 39
+
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Part A
+5 unknown
+mixtures of
+amino acids
+aq
+0.05–0.5% (each
+amino acid)
+10 mL
+Centrifuge
+tubes, 15 mL
+Mix 1, Mix 2,
+Mix 3, Mix
+4, Mix 5
+Eluent
+ l
+75 vol.% propan-
+2-ol, 25 vol.%
+H2O
+10 mL
+ Bottle, 25 mL
+1. iPrOH:H2O
+Ninhydrin stain
+sol
+0.5%
+10 mL
+Dropping
+bottle, 30 mL
+2. Ninhydrin
+Ehrlich’s
+reagent
+sol
+0.2 g 4-
+dimethylamino-
+benzaldehyde in
+5 mL ethanol and
+5 mL 20% H2SO4
+10 mL
+Dropping
+bottle, 30 mL
+3. Ehrlich’s
+reagent
+Sulfuric acid
+aq
+50%
+10 mL
+Dropping
+bottle, 30 mL
+4. H2SO4
+Sodium
+nitroprusside
+aq
+10%
+10 mL
+Dropping
+bottle, 30 mL
+5.
+Na2[Fe(CN)5NO]
+Sodium
+hydroxide
+aq
+5 M
+10 mL
+Dropping
+bottle, 30 mL
+6. NaOH
+α-Naphthol
+sol
+1%
+10 mL
+Dropping
+bottle, 30 mL
+7. α-Naphthol
+Urea
+aq
+5%
+10 mL
+Dropping
+bottle, 30 mL
+8. Urea
+Sodium
+hypochlorite
+aq
+5% active
+chlorine
+10 mL
+Dropping
+bottle, 30 mL
+9. NaClO
+Sulfanilic acid
+aq
+1% in 0.1 M HCl
+10 mL
+Dropping
+bottle, 30 mL
+10. Sulfanilic
+acid
+Sodium nitrite
+aq
+5%
+10 mL
+Dropping
+bottle, 30 mL
+11. NaNO2
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 20 of 39
+
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Sodium
+carbonate
+aq
+10%
+10 mL
+Dropping
+bottle, 30 mL
+12. Na2CO3
+1-Nitroso-2-
+naphthol
+sol
+0.1%
+10 mL
+Dropping
+bottle, 30 mL
+13. 1-Nitroso-
+2-naphthol
+Nitric acid
+aq
+2 M
+10 mL
+Dropping
+bottle, 30 mL
+14. HNO3
+Part B
+Alizarin Red S
+indicator
+aq
+0.2%
+10 mL
+ Dropping
+bottle, 30 mL
+15. Alizarin Red
+S
+Murexide
+indicator 
+s
+1% in NaCl
+0.21 g
+Amber
+dropping
+bottle, 30 mL
+16. Murexide
+Copper(II)
+acetate
+aq
+To be determined
+150 mL Bottle, 250 mL 17. Cu(CH3COO)2
+Ethylene-
+diamine-
+tetraacetic acid
+disodium salt
+aq
+0.0200 M
+100 mL
+Bottle, 100 mL 18. Na2H2EDTA
+Acetate buffer
+(pH 5.5)
+aq
+0.25 M (CH3COONa
++ CH3COOH)
+30 mL
+Bottle, 50 mL
+19. Acetate
+buffer
+Carbonate
+buffer (pH 10)
+aq
+0.1 M (Na2CO3 +
+NaHCO3)
+100 mL
+Bottle, 100 mL
+20. Carbonate
+buffer
+ Unknown
+amino acid
+sample
+aq
+1%
+25.00 mL
+Volumetric
+flask, 100 mL 
+21. Sample X
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 21 of 39
+
+15% of the total
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+2.10
+Total
+14
+11.5
+6.5
+0
+10
+3
+0
+15
+1
+4
+65
+Part A: Qualitative analysis of mixtures
+Five aqueous solutions Mix 1–Mix 5 each contain two of the following ten amino
+acids: 
+Arginine (Arg), Cysteine (Cys), Glutamic acid (Glu), Histidine (His), Lysine (Lys),
+Phenylalanine (Phe), Proline (Pro), Serine (Ser), Tryptophan (Trp), Tyrosine (Tyr).
+Each amino acid is present only once. The structures of these amino acids are given
+on the answer sheet. Your task is to identify the amino acids present in each
+solution Mix 1–Mix 5, using TLC, pH measurement and qualitative tests.
+TLC and ninhydrin test:
+- Mark the starting line on the TLC plate ("Q2 TLC") at least 1 cm from the bottom. 
+- Mark positions 1-5 on the starting line and spot solutions Mix 1–Mix 5 1-2 times
+on their respective positions.
+- Develop the TLC plate using the "1. iPrOH:H2O" solution as the eluent, keeping
+the filter paper in the chamber
+. Bear in mind that this step is time-consuming, so
+you should proceed with the problem.
+- Once finished, mark the solvent front and let the TLC plate dry in the air
+.
+- Make sure to wear gloves for further operations when handling the ninhydrin
+stain solution.
+- Fill the Petri dish with the "2. Ninhydrin" stain solution using a dropper until the
+bottom of the dish is just covered.
+- Dip the TLC plate in the ninhydrin stain solution using the tweezers, let the excess
+stain drip off the plate onto the paper wipes.
+- Heat the TLC plate on the hot plate covered with aluminium foil (set the dial at VI).
+The test distinguishes between amino acids with a primary α-amino group (brown
+to purple colour) and a secondary α-amino group (yellow colour). Overheating may
+turn the spots brown.
+- Circle all spots with a pencil.
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 22 of 39
+
+Q2.1 Label the TLC plate with your student code using the pencil and put it on the
+separate answer sheet for question 2.1. Raise the "CAM" card. You and the lab
+assistant must sign the answer sheet. The lab assistant will take a picture of it and
+return it to you. Put the TLC plate in the box in the zip bag labelled with your code.
+Q2.2 Complete the table with your results as follows:
+(a) Report the approximate pH value of each solution using the pH indicator paper
+strips;
+(b) Report if the qualitative tests described below were positive (use the plus sign
+“+”) or negative (use the minus sign “–“). Only “+” and “–“ signs will be graded.
+For some tests, you will need a water bath:
+- Fill the beaker "Q2 Water bath" with 50 mL of water and put it on the hot plate.
+- Set the dial of the hot plate to X. 
+- When the water starts boiling, decrease the heating so it boils gently (set the dial
+between VI and X).
+Ehrlich test ("Ehrlich" on the answer sheet): 
+- Add 10 drops of "4. H2SO4" to ca. 0.5 mL of the unknown solution. 
+- Add 10 drops of "3. Ehrlich’s reagent" and mix thoroughly. 
+- Heat the solution using the water bath.
+- The appearance of a violet colour indicates the presence of indole (bicyclic
+heterocycle) derivatives in the solution.
+Nitroprusside test ("Nitroprusside" on the answer sheet):
+- Add 5 drops of "6. NaOH" to ca. 1 mL of the unknown solution. 
+- Add 5 drops of "5. Na2[Fe(CN)5NO]" and mix thoroughly. 
+- The appearance of red colour indicates the formation of the Na4[Fe(CN)5(NOS)]
+complex. Note that this colour disappears over time.
+Sakaguchi test ("Sakaguchi" on the answer sheet):
+- Add 5 drops of "6. NaOH" to ca. 1 mL of the unknown solution. 
+- Add 5 drops of "7. α-Naphthol" and mix thoroughly. 
+- Add 3 drops of "8. Urea" and then 5 drops of "9. NaClO" solution while mixing. 
+- Only a stable red colour indicates the presence of guanidine derivatives in the
+solution. The structure of guanidine is given below:
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 23 of 39
+
+Pauly’s test ("Pauly" on the answer sheet): 
+-  Mix 3 drops of "11. NaNO2" with 5 drops of "10. Sulfanilic acid" (4-
+aminobenzenesulfonic acid). 
+- Quickly after mixing the first two reagents, add 3 drops of the unknown solution
+and mix thoroughly. 
+- Add 5 drops of "12. Na2CO3". 
+- The appearance of a red or red-orange colour indicates coupling of an amino acid
+with a diazonium salt.
+Gerngross test ("Gerngross" on the answer sheet):
+- Add 3 drops of "13. 1-Nitroso-2-naphthol" to ca. 1 mL of the unknown solution. 
+- Add 5 drops of "4. H2SO4" and 5 drops of "14. HNO3". 
+- Heat the solution using the water bath. 
+- The appearance of a red colour indicates the presence of a phenol group. Note
+that this colour disappears over time.
+Q2.3 (a) Write  the three-letter codes of the amino acids (the row "AA" on the
+answer sheet) you identified in each solution;
+(b) For each pair of amino acids identified in each solution,  tick the box for the
+amino acid with a higher Rf value (the row "Higher Rf" on the answer sheet).
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 24 of 39
+
+Part B: Titrimetric analysis
+Step 1. Standardisation of copper(II) acetate solution
+1. Fill a burette with 0.0200 M "18. Na2H2EDTA" solution.
+2. To an Erlenmeyer flask, add: 
+        - 3 mL of "19. Acetate buffer" using a plastic Pasteur pipette;
+        - 3 drops of the "15. Alizarin Red S" indicator solution using a dropper;
+        - 5.00 mL of "17. Cu(CH3COO)2" solution using a graduated pipette.
+Note that the 5.00 mL pipette is graduated as shown below:
+3. Titrate until the solution changes colour from pink to a steady bright green.
+4. Repeat steps 1-3 if necessary.
+Q2.4 Record the observed volumes (V0, mL – initial burette reading; Vf, mL – final
+burette reading; T, mL – titre).
+Q2.5 Record your accepted final titre of Na2H2EDTA (VNa₂H₂EDTA, mL).
+Q2.6 Calculate the concentration of the copper(II) acetate solution (cCu(CH₃COO)₂, M).
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 25 of 39
+
+Step 2. Titration of a sample of an unknown natural amino acid
+5. Fill the volumetric flask containing "21. Sample X" (250 mg of an unknown amino
+acid) to the mark with distilled water
+.
+6. Fill a new burette with the standardised "17. Cu(CH3COO)2" solution.
+7. Add 15 mL of "20. Carbonate buffer" to the amber bottle with the "16.
+Murexide" indicator
+.  Mix until the indicator is fully dissolved.  Proceed with the
+titration immediately after preparation of the indicator solution.
+8. To an Erlenmeyer flask, add:
+       - 10 mL of "20. Carbonate buffer" using the measuring cylinder;
+       - 2 mL of prepared murexide solution using the dropper;
+       - 10.00 mL of Sample X solution using a graduated pipette.
+Note that the 10.00 mL pipette is graduated as shown below:
+9. Titrate from pink until the complete disappearance of the intermediate violet
+colour
+. Observe the colour change against a white background and out of direct
+sunlight.
+10. Repeat steps 8-9 if necessary. 
+Q2.7 Record the observed volumes (V0, mL – initial burette reading; Vf, mL – final
+burette reading; T, mL – titre).
+Q2.8 Write your accepted final titre of Cu(CH3COO)2 (VCu(CH₃COO)₂, mL).
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 26 of 39
+
+Q2.9 Copper(II) acetate reacts with the titrated amino acid in 1:2 ratio.  Draw a
+reasonable structure of the product of this reaction (use “R” to indicate the amino
+acid side chain).
+Q2.10 Calculate the molecular weight (Mr) of the amino acid in Sample X based on
+the titration results. 
+Note: The Mr values of natural amino acids and their structures are presented on the next
+page for your reference.
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 27 of 39
+
+Glycine (Gly)
+C2H5NO2
+Mr = 75.07
+L-Alanine (Ala)
+C3H7NO2
+Mr = 89.09
+L-Serine (Ser)
+C3H7NO3
+Mr = 105.1
+L-Proline (Pro)
+C5H9NO2
+Mr = 115.1
+L-Valine (Val)
+C5H11NO2
+Mr = 117.1
+L-Threonine (Thr)
+C4H9NO3
+Mr = 119.1
+L-Cysteine (Cys)
+C3H7NO2S
+Mr = 121.2
+L-Leucine (Leu)
+C6H13NO2
+Mr = 131.2
+L-Isoleucine (Ile)
+C6H13NO2
+Mr = 131.2
+L-Asparagine (Asn)
+C4H8N2O3
+Mr = 132.1
+L-Aspartic acid (Asp)
+C4H7NO4
+Mr = 133.1
+L-Glutamine (Gln)
+C5H10N2O3
+Mr = 146.1
+L-Lysine (Lys)
+C6H14N2O2
+Mr = 146.2
+L-Glutamic acid
+(Glu)
+C5H9NO4
+Mr = 147.1
+L-Methionine (Met)
+C5H11NO2S
+Mr = 149.2
+L-Histidine (His)
+C6H9N3O2
+Mr = 155.2
+L-Phenylalanine
+(Phe)
+C9H11NO2
+Mr = 165.2
+L-Arginine (Arg)
+C6H14N4O2
+Mr = 174.2
+L-Tyrosine (Tyr)
+C9H11NO3
+Mr = 181.2
+L-Tryptophan (Trp)
+C11H12N2O2
+Mr = 204.2
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 28 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+3 _
+1 9
+3. Rf you ready to spot the answers?
+Equipment
+Item
+Quantity
+Label(s)
+PS stain chamber
+1
+PS
+AS stain chamber
+1
+AS
+TLC chamber
+, 250 mL with filter
+paper
+2
+Q3 TLC
+Petri dish
+2
+1:3 and 1:6
+Bottle, 250 mL
+1
+Q3 waste
+Eppendorf tubes (2 mL)
+8 + 2 extra
+E, F, G, H, EF, 
+EG, FH, GH
+Vial stand (for Eppendorfs)
+1
+–
+Floating rack
+1
+In the box labelled Q3
+In labelled bags:
+Non-UV TLC plate
+2
+Q3 TLC A + Student Code
+UV TLC plate
+1
+Q3 TLC UV A + Student
+Code
+Non-UV TLC plate
+5 + 4 extra
+TLC B + Student Code
+Plastic spatula
+4 + 1 extra
+In the box labelled Q3
+Plastic Pasteur pipette
+10 + 10 extra
+In the box labelled Q3
+Capillaries in a centrifuge tube
+15 + 15 extra
+Q3 capillaries
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 29 of 39
+
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed
+in
+Label
+KMnO4 stain
+aq
+-
+40 mL
+50 mL
+bottle
+PS
+Anisaldehyde
+stain
+sol
+-
+40 mL
+50 mL
+bottle
+AS
+Eluent
+EtOAc:hexane
+l
+1:6
+20 mL
+50 mL
+bottle
+1:6
+Eluent
+EtOAc:hexane
+l
+1:3
+40 mL
+50 mL
+bottle
+1:3
+Ethyl acetate
+l
+-
+20 mL
+50 mL
+bottle
+EtOAc
+1 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+A, B, C,
+D
+2 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+3 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+4 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+5
+-
+Pure
+200 mg
+2 mL vial
+E, F, G,
+H
+6
+-
+Pure
+200 mg
+2 mL vial
+7
+-
+Pure
+200 mg
+2 mL vial
+8
+-
+Pure
+200 mg
+2 mL vial
+9
+-
+Pure
+200 mg
+2 mL vial
+10
+-
+Pure
+200 mg
+2 mL vial
+11
+-
+Pure
+200 mg
+2 mL vial
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 30 of 39
+
+15% of the total
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5.8
+2
+3.13
+3.14
+3.15
+3.16
+3.17
+3.18
+3.19
+3.20
+3.21
+3.22
+Total
+1.2
+4
+1
+2
+1
+0
+4
+15
+4
+12
+62
+Thin Layer Chromatography (TLC) is a powerful analytical technique in organic
+chemistry. This task explores some of its many purposes.
+In Part A, you will use three types of visualisation to identify unknown solutions A-D.
+In Part B, you will identify unknown chemicals E-H by their pairwise reactions and
+subsequent TLC analysis of the reaction mixtures.
+Part A: TLC visualisation
+You are provided with alkaline KMnO4 stain (PS), acidic p-anisaldehyde stain (AS),
+and four unknown samples A-D. The structure of p-anisaldehyde is given below.
+Each sample contains a different one of the compounds 1-4. You must identify
+which sample contains each compound by running TLC plates and using the stains
+and UV light visualisation. 
+1. Turn on the heating on the hot plate (turn the dial to between VI and X) and slow
+stirring. The stirring is required as it cools the hot plate electronics.
+2. For this part, you need two TLC plates from zip bag "Q3 TLC A" and one from zip
+bag "Q3 TLC UV A". Prepare the plates as shown in the figure below: mark the
+starting line and four spots labelled (A-D) at equal distance apart.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 31 of 39
+
+Example of TLC plate for PS
+3. Label the two TLC plates at the top with "AS" and "PS". Label the UV plate in the
+separate bag as "UV". Do not stain or heat this plate, it will be used for UV
+visualisation.
+4. Prepare the TLC chamber marked as "1:6" using the eluent EtOAc:Hexane = 1:6.
+The eluent level should be ~0.5 cm. Discard any excess eluent into the bottle labelled
+“Q3 waste”.
+5. Load the three TLC plates with unknowns A-D using the glass capillary. Do not
+overload the plates; the spot diameter should be below 4 mm.
+6. Use the tweezers to place the TLC plates in the chamber and run the TLC plates.
+More than one TLC plate can be run in the same chamber at once. We recommend
+to run at least 5 cm of the TLC plate. The chamber should always be closed. 
+7. Once the plates have run, remove them from the chamber and mark the solvent
+front with a line.
+8. Dry the plates in the air until all visible solvent has evaporated.
+PS TLC Plate
+9. Have a paper tissues ready. Put the stain in chamber labelled as PS. Take the PS
+TLC plate with tweezers. Dip the PS TLC plate in the PS stain. Ensure the stain
+reaches up to the solvent front line.
+10. Take the plate out and let the excess stain drip off the plate onto the paper
+tissues. Wipe the back of the plate with a paper tissues.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 32 of 39
+
+Q3.1 Report any spots that appear before heating. Tick the appropriate box/boxes
+if there is a spot for that sample; tick the box "N" if no spot appears.
+Q3.2 Draw a sketch of the PS TLC plate before heating.
+11. Heat the TLC plate on the hot plate (use tweezers to place and remove the TLC
+plate) until the spots have developed (~5-60 s).
+Q3.3 Report only additional spot(s) that appear after heating by ticking the
+appropriate box/boxes; tick the box "N" if no additional spot appears.
+12. Circle all the spots on the TLC plate with a pencil.
+Q3.4 Draw a sketch of the PS TLC plate after heating.
+AS TLC Plate
+13. Stain the AS TLC plate in the AS stain using the same procedure as for the PS
+stain. Close the stain chamber
+. 
+Q3.5 Report any spots that appear before heating. Tick the appropriate box/boxes
+if there is a spot for that sample; tick the box "N" if no spot appears.
+Q3.6 Draw a sketch of the AS TLC plate before heating.
+14. Heat the plate.
+Q3.7 Report only additional spot(s) that appear after heating by ticking the
+appropriate box/boxes; tick the box "N" if no additional spot appears.
+15. Circle all the spots on the plate with a pencil.
+Q3.8 Draw a sketch of the AS TLC plate after heating.
+UV TLC Plate
+The UV TLC plate is used to compare detection with stains and UV. Do NOT heat
+this plate.
+16. Raise the "UV" card. The lab assistant will take you to the UV lamp to visualise
+this plate.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 33 of 39
+
+17. Circle any spots visible under UV light. 
+Q3.9 Mark the lane with the compound with the lowest absorption of UV light. 
+Q3.10 Draw a sketch of the UV TLC plate.
+Q3.11 Put all three TLC plates on the separate answer sheet. Raise the "CAM" card.
+From this point on, both you and the lab assistant must sign the answer sheet. The
+lab assistant will take the TLCs for a picture with your answer sheet and return it to
+you. Place the three TLC plates in their respective bags (labelled as "Q3 TLC A" and
+"Q3 TLC UV A"). Both the picture and the submitted plates will be used for grading. 
+Q3.12 According to the TLC:
+(a) Tick the most polar compound(s) of A-D.            
+(b) Tick the least polar compound(s) of A-D.     
+Q3.13 Based solely on your experimental observations during this test, tick the
+box(es) corresponding to the statements you found to be correct. Do not rely on
+prior theoretical knowledge or assumptions.
+(a) PS does not visualise alkenes.
+(b) PS visualises alkenes without heating.
+(c) PS visualises alkenes only with heating.
+(d) AS visualises alkenes without heating.
+(e) AS does not visualise carbonyl compounds with α-CH bonds.
+(f) AS visualises carbonyl compounds with α-CH bonds without heating.
+(g) AS visualises carbonyl compounds with α-CH bonds only with heating.
+(h) UV does not visualise compounds that absorb UV light of the lamp used.
+(i) UV visualises compounds that absorb UV light of the lamp used.
+Q3.14 Assign compounds 1-4 to the samples A-D.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 34 of 39
+
+Part B: Identification of unknown compounds by their reactions
+Reagent concentration affects the rate of most chemical reactions. This often
+makes solventless reactions (reactions performed with little or no solvent) more
+robust than reactions performed in solvents. In this task you will perform a set of
+almost solventless reactions on a small scale to identify unknown compounds. This
+solventless technique allows these reactions to occur in 10 min, compared to 1-10 h
+in solvent.
+You have four unknown samples:  E, F, G, and H. Each sample is different and
+contains one of the seven compounds listed below (5-11). 
+Reaction progress will be monitored using TLC visualised with PS.
+Do NOT smell any compounds as they may be toxic if substantially inhaled!
+Do not rely on smell or physical state of any compound for identification. The
+substituents have not been given to prevent this. “Alk” is an alkyl substituent. The
+substituents R1-R6 are inert in reactions you will perform. We recommend relying
+on the experimental tests performed to identify the samples.
+Solubility/miscibility test
+Perform solubility/miscibility tests in EtOAc for unknowns E-H as follows:
+1. Take a labelled Eppendorf tube with the letters E-H. 
+2. Add one drop (if a liquid) or one small spatula (if a solid, see the picture below) of
+the appropriate unknown sample.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 35 of 39
+
+One small spatula looks like this
+3. Add ~1 mL of EtOAc.
+Q3.15 Tick your observations for each compound ("Y" for dissolved/miscible, or "N"
+for not dissolved/not miscible). 
+4. Keep the vials as the samples will be used as a reference for the subsequent TLC
+analysis.
+TLC analysis of pure unknowns
+5. Prepare a TLC plate; use the plates from the ziplock bag labelled as “Q3 TLC B”.
+Mark the starting line and spots labelled E-H. Label the plate UNK.
+6. Prepare a new chamber with eluent EtOAc:Hexane = 1:3. Run the TLC of E-
+H. Mark the solvent front.
+7. Stain the TLC plate with PS. Heat the plate. Circle all the developed spots.
+Q3.16 Put this plate on the separate answer sheet. Raise the "CAM" card. The lab
+assistant will come and take the plates for a photo. At the end of the task, put the
+TLC plate back in the bag labelled “Q3 TLC B”. Both the picture and the submitted
+plate will be used for grading at the end of the exam.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 36 of 39
+
+Q3.17 Tick your observations after PS visualisation ("Y" – visualised, "N" – not
+visualised) in the table.
+If a compound is not visualised with PS, you do not need to make a reference spot
+of this compound on TLCs in the remainder of this experiment. 
+Pairwise reactions
+Perform pairwise reactions between unknown samples E-H as follows.
+All reaction products should be visible by TLC analysis if run correctly. 
+No reaction occurs between pairs E+H and F+G, so you do not need to perform
+them.
+8. Preheat the water bath to a gentle boil: place the dial at X, when the bath
+reaches boiling, decrease the heating so it boils gently (dial between VI and X).
+9. Use the four Eppendorf tubes labelled for the four pairwise reactions you need
+to perform, for example, the reaction between E and F is performed in the
+Eppendorf labelled “EF”.
+10. Add the first reagent (two drops of liquid or two small spatula portions of
+solid).
+11. Add only one drop of EtOH as a solvent.
+12. Add the second reagent (two drops of liquid or two small spatula portions of
+solid).
+13. Do not close the reaction vessel. 
+Q3.18 You can note your observations (if any) in the table. This table is for your
+convenience, it will not be graded!
+14. Heat the reaction mixture for 10 min, by putting the vial in the floating rack and
+putting the rack in the preheated water bath (see the picture below).
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 37 of 39
+
+Floating rack
+Reaction set-up
+15. After 10 min remove the reaction mixture and let it cool to room temperature. 
+16. Add EtOAc (~1.5-1.8 mL), close the reaction vessel, and mix it cautiously.
+17. Perform TLC analysis of the reaction mixture, staining with PS and heating the
+plate afterwards. First, label the TLC plate with the combination, for example EF.
+Mark three spots: E – for compound E, R – for reaction mixture, F – for compound F.
+Use the EtOAc:Hexane = 1:3 eluent for all TLCs except the reaction between F and
+H for which you need to use EtOAc:Hexane = 1:6 eluent. Mark the solvent front line.
+Ensure you circle all spots on the TLC plate.
+Q3.19 Tick the reaction outcome ("Y" = reaction proceeds; "N" = no reaction)
+according to the TLC for each reaction pair on the answer sheet.
+Q3.20 Identify the unknown chemicals according to your experimental
+observations. Write the appropriate letter E-H below the chemicals 5-11 or tick "N"
+if a chemical is absent from all vials E-H.
+Q3.21  For each reaction pair
+, draw the product structures of the reactions
+according to the reactants E-H used; tick the box "N" in case of no product.
+Hints:
+One reaction pair gives two organic products; another reaction pair gives a cyclic
+product.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 38 of 39
+
+The carbonyl compounds are listed below in order of decreasing reactivity with a
+certain nucleophile.
+Q3.22 Put each TLC plate in the appropriate place on the separate answer
+sheet. Raise the "CAM" card. The lab assistant will take the plates for a picture.
+Place all the TLC plates from this part in the bag labelled “Q3 TLC B”. Both the
+picture and the submitted plate will be used for grading at the end of the exam.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 39 of 39

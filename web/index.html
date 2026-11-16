@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="2020—2026 化学竞赛资料索引：整卷原件、逐题题答、主题分类与来源记录。">
+  <meta name="theme-color" content="#163d36">
+  <title>Chemistry Atlas · 化学竞赛资料库</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳至资料索引</a>
+  <header class="masthead">
+    <a class="brand" href="#papers" aria-label="Chemistry Atlas 首页"><span class="monogram" aria-hidden="true">Ch<span>01</span></span><span>CHEMISTRY ATLAS<small>化学竞赛资料库</small></span></a>
+    <div class="edition"><span class="live-dot" aria-hidden="true"></span>资料索引 · 第一版<small>2020—2026 / 更新于 2026.11.16</small></div>
+  </header>
+  <main id="main">
+    <section class="intro" aria-labelledby="page-title">
+      <div><p class="eyebrow">AN ARCHIVE FOR THE CURIOUS</p><h1 id="page-title">从一张试卷，<br>找到一个化学问题。</h1><p class="lede">汇集中国与国际学生化学竞赛资料。按整卷浏览，按主题找题，沿原始出处核对题目与参考答案。</p><div class="intro-notes"><span>整卷原件</span><span>逐题题答</span><span>来源可追溯</span></div></div>
+      <aside class="archive-note"><span class="note-number">01 / ARCHIVE</span><h2>先建立清晰的资料地图。</h2><p>本版整理题目、参考答案与资料索引。主题标签辅助检索；题面与化学结构请以原卷为准。</p><p class="note-foot">涵盖高中竞赛、本科实验竞赛及代表性国际赛事。缺卷、未举办与项目型赛事分别记录。</p></aside>
+    </section>
+    <section id="stats" class="stats" aria-label="归档统计"></section>
+    <section class="workspace" aria-label="资料检索">
+      <div class="workspace-heading"><div><p class="eyebrow">EXPLORE THE COLLECTION</p><h2>资料索引</h2></div><p id="result-summary" role="status" aria-live="polite">正在读取目录…</p></div>
+      <nav class="view-tabs" aria-label="索引视图"><a href="#papers" data-view="papers" class="active" aria-current="page">整卷档案<span id="papers-count"></span></a><a href="#questions" data-view="questions">逐题索引<span id="questions-count"></span></a><a href="#coverage" data-view="coverage">覆盖与调研<span id="coverage-count"></span></a></nav>
+      <form id="filters" class="filters" role="search">
+        <label class="search-field"><span>搜索资料</span><div class="search-input"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="试卷、题目、关键词…" autocomplete="off"></div></label>
+        <label><span>竞赛</span><select id="competition"><option value="">全部竞赛</option></select></label>
+        <label><span>年份</span><select id="year"><option value="">2020—2026</option></select></label>
+        <label id="tag-filter"><span>化学主题</span><select id="tag"><option value="">全部主题</option></select></label>
+        <label id="answer-filter"><span>参考答案</span><select id="answer"><option value="">全部状态</option><option value="paired">已关联答案</option><option value="missing">未关联答案</option></select></label>
+      </form>
+      <div class="list-toolbar"><span id="active-description">按年份浏览竞赛整卷</span><div><label class="sort-label" for="sort">排序</label><select id="sort" aria-label="资料排序"><option value="newest">年份：由近及远</option><option value="oldest">年份：由远及近</option><option value="competition">竞赛名称</option></select><button id="reset" class="text-button" type="button">重置筛选</button></div></div>
+      <div id="results" class="results" aria-live="polite" aria-busy="true"><div class="empty"><h3>正在打开资料目录</h3><p>请稍候。</p></div></div>
+      <div id="pagination" class="pagination" aria-label="结果分页"></div>
+    </section>
+    <section class="provenance"><span class="eyebrow">READ THE SOURCE</span><div><h2>原卷、切片、出处，保留一条完整线索。</h2><p>逐题页面保留原页页码和整卷入口；资料记录区分主办方原件、第三方镜像与期刊整理。专题、配对和切分审核状态随条目展示，便于持续修订。</p></div></section>
+  </main>
+  <footer><div><strong>CHEMISTRY ATLAS</strong><span>化学竞赛资料库 · 2020—2026</span></div><p>试题及参考答案版权归原主办方或作者所有。各资料附原始来源与获取状态。</p><a href="data/catalog.json" download>下载结构化索引 ↗</a></footer>
+  <dialog id="reader" aria-labelledby="reader-title"><div class="reader-shell"><header class="reader-header"><div><p id="reader-meta" class="eyebrow"></p><h2 id="reader-title"></h2></div><button id="close-reader" class="icon-button" type="button" aria-label="关闭题目阅读器">×</button></header><div id="reader-tags" class="tags"></div><nav class="reader-tabs" aria-label="题答切换"><button type="button" data-reader-tab="problem" class="active" aria-pressed="true">原题阅读</button><button type="button" data-reader-tab="solution" aria-pressed="false">参考答案</button></nav><div id="reader-body" class="reader-body"></div><footer class="reader-footer"><span id="reader-status"></span><div><button id="previous-question" type="button">← 上一题</button><button id="next-question" type="button">下一题 →</button></div></footer></div></dialog>
+  <noscript><p class="noscript">检索与逐题阅读需要 JavaScript。可直接下载 <a href="data/catalog.json">结构化索引</a> 查看全部资料来源。</p></noscript>
+</body>
+</html>

@@ -1,0 +1,612 @@
+1 
+ 
+ 
+ 
+ 
+54th INTERNATIONAL  
+ 
+CHEMISTRY OLYMPIAD  
+ 
+2022 
+ 
+UK Round One 
+ 
+MARK SCHEME 
+ 
+ 
+ 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors.  
+Allow where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+ 
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme and where ECF is not allowed.  
+ 
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+ 
+Organic structures are shown in their skeletal form, but also accept displayed formulae as 
+long as the representation is unambiguous.  
+ 
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+ 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+9 
+9 
+24 
+13 
+19 
+12 
+86 
+
+2 
+ 
+1. 
+This question is about E10 petrol 
+Mark 
+(a) 
+ 
+Only accept skeletal formula.  
+ 
+(b) 
+6CO2 + 6H2O    C6H12O6 + 6O2  
+Must be fully correct for mark. 
+ 
+(c) 
+C6H12O6    2C2H5OH + 2CO2 
+Must be fully correct for mark. Accept if ethanol written as C2H6O. 
+ 
+(d) 
+C8H18  +  12.5O2    8CO2  +  9H2O 
+Total bond enthalpy of reactants = 
+[(7 × 347) + (18 × 413) + (12.5 × 498)] kJ mol−1 
+= 16,088 kJ mol−1 
+Total bond enthalpy of products = 
+[(16 × 805) + (18 × 464)] kJ mol−1 
+= 21,232 kJ mol−1 
+Enthalpy of combustion = [16088 − 21232] kJ mol−1 = −5144 kJ mol−1 
+Must be negative for mark. Must be scaled for one mole of C8H18 (i.e., not based on a 
+balanced equation with 2C8H18 and 25O2).  
+ 
+(e) 
+Ethanol: −1276 kJ mol−1 / 46.07 g mol−1 = −27.70 kJ g−1 
+−27.70 kJ g−1 × 0.789 g cm−3 = −21.86 kJ cm−3  
+Octane: −5144 kJ mol−1 / 114.22 g mol−1 = −45.04 kJ g−1   
+−45.04 kJ g−1 × 0.703 g cm−3 = −31.66 kJ cm−3 
+Energy released from 1 litre (1000 cm3) of E5 fuel = 
+(950 cm3 × 31.66 kJ cm−3) + (50 cm3 × 21.86 kJ cm−3) = 31170 kJ 
+Energy released from 1 litre (1000 cm3) of E10 fuel =  
+(900 cm3 × 31.66 kJ cm−3) + (100 cm3 × 21.86 kJ cm−3) = 30680 kJ  
+Both correct energy released values scores all three marks. If calculation done via route 
+above, then the first mark is awarded for the value of −21.86 kJ cm−3 for ethanol (or 
+21.86 kJ cm−3). The second mark is awarded for the value of −31.66 kJ cm−3 for octane 
+(or 31.66 kJ cm−3). The third mark is for both correct energy released values. A total of 
+one out of three can be given if the ethanol and octane values have been calculated 
+incorrectly but combined in the correct proportions for E5 and E10. 
+Alternatively, students may use a different route.  
+In 1 litre of E5 fuel 
+Amount of ethanol = 50 cm3 × 0.789 g cm−3 / 46.07 g mol−1 = 0.8563 mol 
+Amount of octane = 950 cm3 × 0.703 g cm−3 / 114.22 g mol−1 = 5.847 mol 
+Energy released = (0.8563 mol × 1276 kJ mol−1) + (5.847 mol × 5144 kJ mol−1) 
+= 31170 kJ 
+In 1 litre of E10 fuel 
+ 
+ 
+ 
+ 
+
+3 
+ 
+Amount of ethanol = 100 cm3 × 0.789 g cm−3 / 46.07 g mol−1 = 1.713 mol 
+Amount of octane = 900 cm3 × 0.703 g cm−3 / 114.22 g mol−1 = 5.539 mol 
+Energy released = (1.713 mol × 1276 kJ mol−1) + (5.539 mol × 5144 kJ mol−1) 
+= 30680 kJ 
+Both correct energy released values scores all three marks. If calculation done via this 
+route, then the first mark is awarded if the moles of ethanol and octane in 1 litre of E5 fuel 
+are both correct. The second mark is awarded if the moles of ethanol and octane in 1 litre 
+of E10 fuel are both correct. The third mark is for both correct energy released values.  
+Allow ECF for incorrect value of enthalpy of combustion of octane from part (d), or where 
+the value of −6666 kJ mol−1 has been used.  
+(f) 
+30680 kJ / 31170 kJ × 100 = 98.4% 
+Allow ECF for incorrect energy values calculated in part (e). 
+ 
+(g) 
+90/95 × 100 = 94.7%  
+ 
+ 
+Total out of 9 9 
+ 
+ 
+
+4 
+ 
+2. 
+This question is about the chemistry of nitrous oxide 
+Mark 
+(a) 
+ 
+ 
+(b) 
+A is HNO3 
+ 
+(c) 
+ 
+One mark each. The ammonium ion must look approximately tetrahedral in shape and not 
+square planar. The nitrate ion must look approximately trigonal planar. Delocalised 
+structures are allowed for the nitrate ion.  
+ 
+ 
+(d) 
+D is NO 
+E is NO2 
+F is N2O3 
+X is N2O4 
+One mark each. 
+
+
+
+ 
+(e) 
+ 
+Either of the two above structures are acceptable. No structure with five bonds to 
+nitrogen is acceptable.  
+ 
+ 
+Total out of 9 9 
+ 
+ 
+ 
+
+5 
+ 
+3. 
+This question is about cubane 
+Mark 
+(a) 
+C8H8 
+ 
+(b) 
+3 marks for all five correct. 2 marks for three or four correct. 1 mark for one or two 
+correct. 
+Molecule 
+Number of peaks in 13C NMR 
+Cubane 
+1 
+Cubane-carboxylic acid 
+5 
+Cubane-1,2-dicarboxylic acid 
+4 
+Cubane-1,3-dicarboxylic acid 
+5 
+Cubane-1,4-dicarboxylic acid 
+3 
+
+
+ 
+(c) 
+ 
+ 
+ 
+ 
+(d) 
+ 
+ 
+Either representation is acceptable. 
+Stereochemistry is not required.  
+ 
+ 
+(e) 
+ 
+ 
+(f) 
+ 
+ 
+
+6 
+ 
+(g) 
+ 
+Both must be circled correctly for one mark.  
+ 
+ 
+(h) 
+ 
+Two marks for completely correct. For any marks, both carbonyls must be present. Up to 
+one other error, one mark. 
+
+ 
+ 
+ 
+Two marks for completely correct. ECF allow from E for any chemically reasonable 
+substituent error carried forward. 
+
+ 
+(i) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7 
+ 
+(j) 
+ 
+Structure must be fully correct. No partial credit. 
+ 
+ 
+ 
+Structure must be fully correct. No partial credit. 
+
+ 
+S is CO2 
+ 
+ 
+Structure must be fully correct. No partial credit. 
+ 
+ 
+ 
+Total out of 24 24 
+ 
+ 
+
+8 
+ 
+4. 
+This question is about coronavirus testing 
+Mark 
+(a) 
+Make a very acidic 
+solution 
+Make a neutral 
+solution 
+Make a very alkaline 
+solution 
+Make a buffered ✔ 
+solution 
+ 
+(b) 
+Very Acidic ✔ 
+Neutral 
+pH 7.4 
+Very Alkaline 
+ 
+Note in this case the buffer concentration is much lower than the acid concentration, so 
+the acid overwhelms the buffer.  
+(c) 
+7.1 × 106 virus particles / cm3 × (1000 cm3 / dm3) = 7.1 × 109 virus particles / dm3.  
+[virus particles] = number of virus particles / NA = 
+7.1 × 109 virus particles / dm3 / 6.02 × 1023 mol−1 
+= 1.18 × 10−14 mol dm−3 
+[SP] = 20 × [virus particles] = 20 × 1.18 × 10−14 mol dm−3  
+= 2.36 × 10−13 mol dm−3 
+ 
+(d) 
+[NP]0 = 1.6 × 1012 cm−3 × (1000 cm3 / dm3 ) / NA = 2.66 × 10−9 mol dm−3  
+Species 
+Original Concentration 
+After Equilibrium Concentration 
+SP 
+2.36 × 10−13 mol dm−3 
+2.36 × 10−13 mol dm−3 – 𝑥𝑥 
+NP 
+2.66 × 10−9 mol dm−3 
+2.66 × 10−9 mol dm−3 – 𝑥𝑥 
+SPNP 
+0 
+𝑥𝑥 
+ 
+𝑥𝑥 ≤ [SP]0 so any change in [NP] is small, so [NP] ≈ [NP]0 ≈ 2.66 × 10−9 mol dm−3 
+𝐾𝐾=
+[𝑆𝑆𝑆𝑆NP]
+[NP][𝑆𝑆𝑆𝑆] = 1.2 × 1010 mol−1 dm3 
+ ≈
+𝑥𝑥
+[𝑁𝑁𝑁𝑁]0([𝑆𝑆𝑆𝑆]0 −𝑥𝑥) 
+𝑥𝑥= 𝐾𝐾[NP]0([𝑆𝑆𝑆𝑆]0 −𝑥𝑥) 
+𝑥𝑥(1 + 𝐾𝐾[NP]0) = 𝐾𝐾[NP]0[𝑆𝑆𝑆𝑆]0 
+𝑥𝑥  = 
+𝐾𝐾[𝑁𝑁𝑁𝑁]0
+(1+𝐾𝐾[𝑁𝑁𝑁𝑁]0) [𝑆𝑆𝑆𝑆]0 = 0.97 [SP]0 = 2.29 × 10−13 mol dm−3 
+Correct final answer scores both marks. One mark for correct [NP]0 and one mark for 
+correct solution of equations. Allow ECF from part (c). Answer = 0.97 × (answer from (c)). 
+Answer = 9.7 × 10−12 mol dm−3 if [SP] = 1.0 × 10−11 mol dm−3. 
+
+ 
+(e) 
+(i) 
+Area of strip A = 3 mm2.   
+Number of AB = 3 mm2 × 1.2 × 109 mm−2 = 3.6 × 109. 
+ 
+(ii) 
+Volume of strip V = 0.3 mm3 = 3 × 10−7 dm3 
+Amount of SPNP = 2.29 × 10−13 mol dm−3 × 3 × 10−7 dm3 = 6.86 × 10−20 mol  
+Number of SPNP = 6.86 × 10−20 mol × 6.02 × 1023 mol−1 = 4.13 × 104. 
+
+ 
+
+9 
+ 
+ 
+[SP] = [SP]0 – [SPNP] = 7.2 × 10−15 mol dm−3  
+[NB 7 × 10−15 mol dm−3 if full accuracy not maintained] 
+Amount of SP = 7.2 × 10−15 mol dm−3 × 3 × 10−7 dm3 = 2.1 × 10−21 mol 
+Number of SP = 2.1 × 10−21 mol × 6.02 × 1023 mol−1 = 1.3 × 103. 
+One mark for number of SPNP and one mark for number of SP. Error carried forward 
+can be given. Number of SP = 1.81 × 1017 × [SP], and number of SPNP =  
+1.81 × 1017 × [SPNP]. 
+If using [SPNP] = 9.7 × 10–12 mol dm–3, number of SPNP = 1.8 × 106,  
+number of SP = 0. 
+If using [SPNP]= 1.0 × 10–11 mol dm–3, number of SPNP =1.8 × 106,  
+number of SP = 0. 
+(f) 
+If y SPNP bind to AB to make y ABSPNP then we have: 
+[SPNP]= [SPNP]0 – y / V     and     σ𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴= 𝑦𝑦/𝐴𝐴  
+Rearranging the equilibrium constant  
+σ𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴
+σ𝐴𝐴𝐴𝐴
+= [𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆] 𝐾𝐾 
+A σ𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴
+𝐴𝐴 σ𝐴𝐴𝐴𝐴
+= [𝑆𝑆𝑆𝑆NP] 𝐾𝐾 
+𝑦𝑦
+𝐴𝐴 σ𝐴𝐴𝐴𝐴
+= ([𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆]0 −𝑦𝑦/𝑉𝑉)𝐾𝐾 
+𝑦𝑦 (1 + 𝐾𝐾𝐾𝐾 σ𝐴𝐴𝐴𝐴/𝑉𝑉) = [𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆]0𝐾𝐾𝐾𝐾 σ𝐴𝐴𝐴𝐴 
+We note that 1 ≪𝐾𝐾𝐾𝐾 σ𝐴𝐴𝐴𝐴/𝑉𝑉 , so 
+y  ≈ [SPNP]0 V  
+For the complete sample passing, we can use V = 0.10 cm3  
+y = 2.29 × 10−13 mol dm–3 × 1 × 10−4 dm3 × 6.02 × 1023 mol−1 
+= 1.38 × 107 ABSPNP 
+Correct answer scores all three marks. First mark for 1 ≪𝐾𝐾𝐾𝐾 𝜎𝜎
+𝐴𝐴𝐴𝐴/𝑉𝑉, second mark for  
+y  ≈ [SPNP]0 V, and third mark for final answer. Note the number of AB >> number of 
+SPNP, which means that 𝜎𝜎
+𝐴𝐴𝐴𝐴 stays large and approximately constant throughout flow and 
+so all SPNP bind. Error carried forward can be given. Answer = 333 × (number of SPNP in 
+(e)). Error carried forward not given if number of SPNP in (e) = 0.  
+
+
+ 
+(g) 
+This test gave 1.38 × 107 ABSPNP in 3 mm2 so density 4.59 × 106 mm–2. This test had  
+7.1 × 105 virus particles in test sample. 
+As number of ABSPNP proportional to number of virus particles: 
+Minimum observable number = (3 × 106 / 4.59 × 106) × (7.1 × 105) 
+= 4.64 × 105 virus particles 
+Correct answer scores both marks. First mark for the density of 4.59 × 106 mm–2 and 
+second mark for final answer. Allow error carried forward. Answer = 6.39 × 1012 / (answer 
+to (f))  
+
+ 
+ 
+Total out of 13 13 
+ 
+ 
+
+10 
+ 
+5. 
+This question is about making the smallest Chinese knot 
+Mark 
+(a) 
+(i) 
+ 
+ 
+(ii) 
+ 
+Accept if not drawn linear. 
+ 
+(b) 
+ 
+ 
+(c) 
+(i) 
+ 
+ 
+(ii) 
+ 
+ 
+ 
+(d) 
+ 
+ 
+ 
+ 
+
+11 
+ 
+ 
+  
+Also accept if Br exchanged for I. 
+ 
+(e) 
+ 
+ 
+(f) 
+ 
+Three metals one mark. All nine atoms coordinated correctly two marks.  
+
+ 
+(g) 
+tetrahedral 
+trigonal planar 
+square planar 
+octahedral✔ 
+square pyramidal 
+hexagonal planar 
+ 
+ 
+(h) 
+M2+ = Fe2+   and   X– = BF4– 
+The iron(II) can be identified from the characteristic ion test result. 
+From the loss of mass when heating, the molecular mass can be obtained. 
+6 × 18.106 = 32.0%, therefore the total mass of complex = 337.8 g mol–1 
+Mass of two anions = 337.8 – (6 × 18.106 + 55.85) g mol–1 = 173.314 g mol–1 
+Mass of one anion = 86.657 g mol–1        (Mass of BF4– = 86.81 g mol–1) 
+One mark for Fe2+. Two marks for BF4–. One of these two can be given for a mass of a 
+single anion as 86.657 g mol–1. 
+
+
+ 
+(i) 
+(i) 
+Chinese knots ✔ 
+Must be this answer only for mark. 
+ 
+(ii) 
+Individual rings ✔ and Linear organic molecules ✔ 
+Must be these two answers and no others for mark. 
+ 
+(iii) 
+Two interlinked rings ✔ and Linear organic molecules ✔ 
+Must be these two answers and no others for mark. 
+ 
+(iv) 
+Chinese knots ✔ 
+Must be this answer only for mark. 
+ 
+ 
+Total out of 19 19 
+ 
+ 
+
+12 
+ 
+6. 
+This question is about storing vaccines 
+Mark 
+(a) 
+Process 1: Si(OCH2CH3)4 + 4 H2O → Si(OH)4 + 4 CH3CH2OH 
+Process 2: Si(OH)4 → SiO2 + 2 H2O 
+One mark for each correct equation. 
+ 
+ 
+(b) 
+Process 3 = Process 5 – (6 × Process 6) + (6 × Process 4) 
+= [−100.3 + (6 × −56.7) – (6 × −61.5)] kJ mol−1 
+= −71.5 kJ mol−1 
+Answer must be negative for mark.  
+ 
+(c) 
+Using the relation between Gibbs free energy and the equilibrium constant, 
+Δ𝐺𝐺⦵= Δ𝐻𝐻⦵−𝑇𝑇 Δ𝑆𝑆⦵= −𝑅𝑅𝑅𝑅ln 𝐾𝐾eq 
+and 
+ln 𝐾𝐾eq = ln
+1
+[Si(OH)4] = −ln[Si(OH)4]   
+we can rearrange for 
+ln[Si(OH)4] = Δ𝐻𝐻⦵−𝑇𝑇 Δ𝑆𝑆⦵
+𝑅𝑅𝑅𝑅
+= Δ𝐻𝐻⦵
+𝑅𝑅𝑅𝑅−  Δ𝑆𝑆⦵
+𝑅𝑅
+ 
+Comparing to the relation 
+ln[Si(OH)4] = −1680
+𝑇𝑇
+−0.605 
+we identify 
+ΔH
+⦵ = −1680 K × 8.314 J K−1 mol−1  
+= 14.0 kJ mol−1 
+ΔS
+⦵ = 0.605 × 8.314 J K−1 mol−1  
+= 5.03 J K−1 mol−1 
+Both correct answers score all three marks. First mark for the dependence of  
+𝑙𝑙𝑙𝑙([𝑆𝑆𝑆𝑆(𝑂𝑂𝑂𝑂)4]) on enthalpy and entropy. Second mark for ΔH
+⦵ and third mark for ΔS
+⦵. 
+ 
+ 
+ 
+(d) 
+𝐴𝐴= 𝑐𝑐−1 = 0.56744  
+ 
+(e) 
+For 𝑡𝑡= 1 μs, 𝑓𝑓
+1 = −0.143809 nm−1 and for 𝑡𝑡=  2 μs, 𝑓𝑓
+2 = −0.140792 nm−1. 
+𝑎𝑎= 𝑓𝑓
+2 −𝑓𝑓
+1
+2 −1 = 3.017 × 10−3 nm−1μs−1  
+𝑏𝑏= 𝑎𝑎× 1 −𝑓𝑓
+1 =  0.146826 nm−1  
+One mark for correctly calculating each of a and b.  
+
+ 
+ 
+ 
+ 
+
+13 
+ 
+(f) 
+Let 𝑟𝑟
+1
+−1 = 𝑥𝑥1 and 𝑟𝑟2
+−1 = 𝑥𝑥2. Rearranging the equation for 𝑏𝑏 gives  
+𝑥𝑥2 = 𝑏𝑏−𝑥𝑥1
+𝐴𝐴
+ 
+Substituting this into the equation for 𝑎𝑎 gives 
+൬1 + 1
+𝐴𝐴൰𝑥𝑥1
+2 −2 𝑏𝑏
+𝐴𝐴𝑥𝑥1 + ቆ𝑏𝑏2
+𝐴𝐴−2 𝑎𝑎
+Γ ቇ= 0. 
+The first root gives 𝑥𝑥1 = 0.00526 nm−1 and hence 𝑥𝑥2 =
+𝑏𝑏−𝑥𝑥1
+𝐴𝐴
+= 0.249 nm−1, which 
+corresponds to 𝑟𝑟
+1 = 190 nm and 𝑟𝑟2 = 4.01 nm.  
+The second root gives 𝑥𝑥1 = 0.182 nm−1 and hence 𝑥𝑥2 =
+𝑏𝑏−𝑥𝑥1
+𝐴𝐴
+= −0.0621 nm−1, which 
+corresponds to an unphysical 𝑟𝑟2 < 0 and is therefore discarded. 
+Hence the final answer is 𝑟𝑟
+1 = 190 nm and 𝑟𝑟2 = 4.01 nm. 
+ 
+Alternative solution: can equivalently rearrange for 
+𝑥𝑥1 = 𝑏𝑏−𝐴𝐴𝑥𝑥2 
+which leads to the quadratic 
+(𝐴𝐴2 + 𝐴𝐴)𝑥𝑥2
+2 −2𝐴𝐴𝐴𝐴𝑥𝑥2 + ൬𝑏𝑏2 −2𝑎𝑎
+Γ ൰= 0. 
+This gives rise to the same values of 𝑥𝑥1 and 𝑥𝑥2 as above. 
+Correct r1 and r2 scores all three marks. One mark for deriving the quadratic equation for 
+𝑥𝑥1 (or equivalently 𝑥𝑥2), one mark for each correctly calculated radius (full marks for 𝑟𝑟
+1 in 
+the range 180-200 nm and for 𝑟𝑟2 in the range 3.95-4.05 nm.  
+Error carried forward can be given. One mark to be awarded for each radius consistent 
+with the equation for 𝑥𝑥1,2 given above, evaluated with the values of A, a, and b the 
+student has used. The suggested values of A = 0.5, a = 0.0025 and b = 0.125 give  
+r1 = 249 nm and r2 = 4.13 nm. 
+ 
+ 
+ 
+ 
+Total out of 12 12 
+ 
+ 

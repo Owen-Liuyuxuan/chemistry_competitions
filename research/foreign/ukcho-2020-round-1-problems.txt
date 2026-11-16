@@ -1,0 +1,1052 @@
+1 
+52nd INTERNATIONAL  
+CHEMISTRY OLYMPIAD 
+2020 
+UK Round One  
+STUDENT QUESTION BOOKLET 
+* * * * *
+■
+The time allowed is two hours.
+■
+Attempt all six questions.
+■
+Write your answers in the student answer booklet.
+■
+Write only the essential steps of your calculations in the answer booklet.
+■
+Always give the appropriate unit and number of significant figures.
+■
+The final page of this question booklet includes a copy of the periodic table and
+some useful physical constants and quantities.
+■
+Do NOT write anything in the right-hand margin of the answer booklet.
+■
+The marks available for each question are shown below. These may be helpful
+when dividing your time between questions.
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+10 
+10 
+17 
+12 
+17 
+20 
+86 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward. 
+This resource was downloaded from https://rsc.li/2WmGF2V
+
+2 
+ 
+1. This question is about calcium carbide 
+Calcium carbide (CaC2) is a colourless 
+solid used in the production of ethyne.  
+Calcium carbide is produced when 
+calcium oxide reacts with carbon, 
+forming calcium carbide and carbon 
+monoxide. 
+The UK IChO team mascot is pictured 
+with a calcium carbide lamp. 
+ 
+(a) 
+(i) 
+Write an equation for the formation of calcium carbide from calcium oxide. 
+ 
+(ii) 
+Draw a dot and cross diagram of the carbide ion, C22−. 
+The German chemist Friedrich Wöhler discovered that calcium carbide reacted with water 
+releasing ethyne gas (C2H2) and calcium hydroxide. The ethyne was burnt in miner’s lamps 
+and the head lights of early motor vehicles for the purpose of illumination. 
+(b) 
+Write an equation for the formation of ethyne from calcium carbide. 
+An impure sample of calcium carbide of mass 0.752 g was added to 50.0 cm3 of water. 
+After all the calcium carbide had reacted, 20.00 cm3 of the reaction mixture was removed and 
+titrated against 0.250 mol dm−3 hydrochloric acid. 34.60 cm3 of hydrochloric acid was required 
+to neutralise the sample. It can be assumed that none of the impurities reacted. 
+(c) 
+Calculate the percentage purity of the calcium carbide.  
+The diagram shows the unit cell of calcium 
+carbide. Calcium is positioned at the corners 
+and centre of the unit cell. 
+Some of the atoms are completely contained 
+within the boundaries of a single unit cell. 
+Only a fraction of atoms centred on corners, 
+edges, or faces are contained within a single 
+unit cell.  
+ 
+ 
+(d) 
+By considering the number of fractions of atoms within one unit cell, count the net 
+numbers of calcium and carbon atoms within one unit cell. 
+The density of calcium carbide is 2.20 g cm−3 and the values of x and y are both 3.88 Å.  
+(e) 
+Calculate the value of z in Å. 
+
+3 
+ 
+2. This question is about hydrogen as a fuel 
+Carbon dioxide emissions from fossil 
+fuels are a major factor in climate 
+change. Hydrogen is a potential 
+alternative to fossil fuels, providing 
+‘clean energy’ with only water as a by-
+product. The UK government is 
+investigating converting the natural gas 
+grid to carry hydrogen instead. 
+ 
+ 
+For this question, assume all processes take place at 298 K. 
+Enthalpy change of formation of CH4(g), ΔH
+⦵f = −74.8 kJ mol−1 
+Enthalpy change of formation of CO2(g), ΔH
+⦵f = −393.5 kJ mol−1 
+Enthalpy change of formation of H2O(l), ΔH
+⦵f = −285.8 kJ mol−1  
+Entropy change of formation of H2O(l), ΔS
+⦵f = −163.0 J K−1 mol−1 
+One low cost method for producing hydrogen is reforming methane. Though this produces 
+CO2, this can be easily captured. The reforming process can be represented by the overall 
+reaction: 
+CH4(g)  +  2H2O(l)  →  CO2(g)  +  4H2(g) 
+(a) 
+Calculate the enthalpy change for this reaction. 
+Electrolysis of water is another method of producing hydrogen. On a large scale, it currently 
+costs more than reforming methane. 
+In polymer electrolyte membrane electrolysis, protons are transferred through a membrane 
+between the two electrodes. The two half reactions are: 
+ 1.   2H2O(l)  →  O2(g)  +  4H+(aq)  +  4e− 
+ 2.   2H+(aq)  +  2e−  →  H2(g) 
+(b) 
+Which of these half reactions occurs at the cathode? 
+ 
+ 
+ 
+
+4 
+ 
+ 
+The overall cell reaction is as follows: 
+                                           2H2O(l)  →  2H2(g)  +  O2(g) 
+(c) 
+Calculate the enthalpy change for the overall cell reaction.  
+Given that  ΔG
+⦵ = – nFE
+⦵  and  ΔG
+⦵ = ΔH
+⦵ −TΔS
+⦵ 
+where n = moles of electrons transferred in the overall equation, F = Faraday constant  
+(d) 
+Calculate the cell potential, E
+⦵, for the overall cell reaction in V. 
+(if you do not get an answer to this question, use −1.13 V in further calculations)  
+(e) 
+What is the standard electrode potential for half reaction 1? 
+To replace natural gas within appliances such as boilers or furnaces, there needs to be a 
+similar amount of heat released per second from burning fuel. 
+(f) 
+What is the standard enthalpy change of combustion of CH4? 
+(If you do not get an answer to this question, use −943.2 kJ mol−1 in further calculations) 
+(g) 
+What is the standard enthalpy change of combustion of H2? 
+(If you do not get an answer to this question, use −352.8 kJ mol−1 in further calculations) 
+When fuel gases are supplied under the same pressure, the heat released per second in a 
+burner may be expressed using: 
+heat released per second ∝ standard enthalpy change of combustion
+√relative molecular mass
+ 
+(h) 
+What is the ratio of heat released per second in a burner fuelled by hydrogen compared 
+to in the same burner fuelled by methane? 
+Assume hydrogen and methane are supplied under the same pressure. 
+ 
+ 
+ 
+
+5 
+ 
+3. This question is about sun cream 
+On 1st January, the Pacific island of Palau 
+imposed a ban on certain sun creams to 
+protect its coral reefs. The ban restricts the 
+use of ten products which are toxic to marine 
+life and are linked to the bleaching of coral. 
+Scientists are particularly concerned with two 
+UV light-absorbing chemicals: oxybenzone 
+and octinoxate. 
+ 
+ 
+(a) 
+Which functional groups are present in oxybenzone? Tick the correct answer(s) in the 
+answer booklet. 
+ester 
+aldehyde 
+ketone 
+carboxylic acid 
+ether 
+phenol 
+Oxybenzone is good at absorbing UV radiation due to the delocalisation of its electrons. This 
+delocalisation of electrons is aided by an intramolecular hydrogen bond in oxybenzone.  
+(b) 
+On the oxybenzone structure in the answer booklet, circle the two atoms involved in the 
+intramolecular hydrogen bond.   
+The synthesis of oxybenzone is shown below. 
+ 
+(c) 
+Draw the structures of compounds A, B, C and D.  
+Octinoxate exists as multiple stereoisomers; 
+only one is shown. Enantiomers are 
+stereoisomers that are non-superimposable 
+mirror images of each other. 
+ 
+(d) 
+(i) 
+Draw a second stereoisomer of octinoxate that is the enantiomer of the one 
+shown. 
+ 
+(ii) 
+Draw a third stereoisomer of octinoxate that is not the enantiomer of the one 
+shown.  
+
+6 
+ 
+In the synthesis of octinoxate, a base-catalysed condensation reaction between two 
+molecules containing C=O groups is used. The product of this reaction is a molecule that 
+contains a C=C and a C=O bond next to each other. This proximity helps to make octinoxate 
+a good absorber of UV light.   
+ 
+The synthesis of octinoxate begins with the conversion of two molecules of E to F.  
+ 
+(e) 
+Draw the structures of compounds E and F. Stereochemistry is not required. 
+Compound F is then converted into octinoxate in three steps. By-products are not shown. 
+ 
+(f) 
+Draw the structures of compounds G and H. Stereochemistry is not required. 
+ 
+ 
+ 
+
+7 
+ 
+Upon exposure to UV light, octinoxate forms two types of dimers which are toxic to marine 
+life: truxinates and truxillates. If a single stereoisomer is irradiated with UV light, many 
+different truxinate and truxillate stereoisomers can be formed due to the position of the groups 
+(abbreviated as R or Ar) on the newly formed cyclobutane ring.  
+ 
+(g) 
+What do all the truxinate and truxillate products produced in this reaction have in 
+common? Tick the correct answer(s) in the answer booklet. 
+The same molecular formula 
+The same melting points 
+Rotate plane-polarised light in the same direction 
+A research group separated the products formed to further understand their toxicological 
+properties. The truxinate dimers can be categorised by the number of substituents on the 
+same face of the cyclobutane ring (either two, three or four). This is shown with wedged and 
+hashed bonds. 
+Substituents on same face 
+Truxinates 
+Four 
+ 
+Three 
+ 
+ 
+ 
+(h) 
+(i) 
+In the answer booklet circle to indicate whether each structure has an enantiomer. 
+ 
+(ii) 
+In the answer booklet, draw the structures to complete the ‘Two’ line(s) in the 
+table. Indicate whether each structure has an enantiomer. For a pair of 
+enantiomers, only draw one of the pair. Not all boxes need to be used.  
+ 
+ 
+
+8 
+ 
+4. This question is about silicon oxides 
+Minerals formed from silicon oxides 
+form 90% of the earth’s crust. The 
+most common pure silicon oxide is 
+silicon dioxide. This can be used to 
+make silica gel, packets of which are 
+used to keep items free of moisture. 
+ 
+To make silica gel, solid silicon dioxide must be reacted in 1:2 ratio with sodium carbonate at 
+1500 °C. This reaction forms salt X and colourless gas Y. The anion of salt X contains only 
+silicon and oxygen and has a tetrahedral structure. 
+(a) 
+(i) 
+What is the formula of gas Y? 
+ 
+(ii) 
+Draw the structure of the anion in X, clearly indicating its overall charge. 
+ 
+(iii) 
+Write the equation for the reaction to form X. 
+Reaction of either X or CaSiO3 with dilute acids forms a gelatinous precipitate of SiO2.xH2O. 
+This precipitate is then washed, dried, granulated and put in sachets  
+(b) 
+Write the equation of the reaction of CaSiO3 with dilute hydrochloric acid to form 
+SiO2.11H2O 
+Silicates are anions containing only silicon and oxygen which contain only Si–O single bonds. 
+Their structure can be described by joining silica tetrahedra. The pyrosilicate [Si2O7]6− ion 
+found in Åkermanite (Ca2Mg[Si2O7]) has the structure shown below. 
+ 
+Part of the structure of 
+quartz is shown to the 
+right. Note that not all 
+bonds are shown on all 
+atoms.  
+ 
+(c) 
+In quartz, how many other tetrahedra is each silica tetrahedron attached to? 
+
+9 
+ 
+(d) 
+Draw the structure of the silicate anion in the following compounds. 3D shape is not 
+required.  
+ 
+(i) 
+The [Si3O9]6− ion found in Benitoite, BaTi[Si3O9], an extremely rare blue mineral. 
+ 
+(ii) 
+The mineral beryl, Be3Al2[Si6O18]. (Clearly indicate the overall charge) 
+Talc (Mg3Si4H2O12) is a mineral which contains hydroxide ions in addition to silicates. The 
+hydroxide ions do not interact with the silicate, but instead coordinate to the magnesium 
+cations. The silicate lattice is essentially a 2D sheet that is used as a solid lubricant.  
+(e) 
+What is the formula and charge of the silicate anion in talc? 
+Another hydrated silicate mineral, chrysotile (Mg3Si2H4O9), forms needle-like fibres and is a 
+form of asbestos. Talc is often found contaminated with chrysotile. A mineral sample was 
+analysed and found to contain 20.32% Mg and 28.18% Si by mass. 
+(f) 
+Assuming the sample contained only talc and chrysotile, determine the molar 
+percentage of each it contained. 
+
+10 
+ 
+5. This question is about colourful compounds 
+Colourful molecules are found in leaves (β-
+carotene and chlorophyll), blood 
+(haemoglobin), skin (melanin), and 
+multivitamin supplements. They are all 
+organic compounds with alternating single 
+and double bonds, and we will now explore 
+how this pattern leads to colour. 
+ 
+(a) 
+A simple molecule with alternating single and double bonds is buta-1,3-diene. Draw its 
+skeletal structure. 
+Buta-1,3-diene is colourless because it does not absorb visible light. It does absorb in the UV 
+at a wavelength, λ, of 210 nm. This absorption is caused by the electrons in the double 
+bonds moving between different energy levels. The difference between levels is given by: 
+Δ𝐸𝐸= ℎ𝑐𝑐
+𝜆𝜆 
+where h is the Planck constant and c is the speed of light in vacuum. ΔE is also related to the 
+length of the molecule, L, via: 
+Δ𝐸𝐸=
+(2𝑛𝑛+ 1)ℎ2
+8𝑚𝑚𝑒𝑒𝐿𝐿2
+ 
+where me is the mass of the electron and n is the number of double bonds.  
+(b) 
+(i) 
+Calculate the energy difference, ΔE, for the UV absorption in buta-1,3-diene in J. 
+ 
+(ii) 
+Using this energy difference, calculate the length, L, in Å. 
+Porphine (1) absorbs visible light, forming 
+bright red crystals. Its coordination 
+complexes with metals (2) are also 
+coloured and found in chlorophyll and 
+haemoglobin. It has been determined that 
+the magnesium complex (M = Mg) absorbs 
+at 571.4 nm, and the zinc complex (M = Zn) 
+absorbs at 568.7 nm.  
+ 
+ 
+As with buta-1,3-diene, the wavelength is related to the size of the molecule, now via: 
+𝜆𝜆= 𝜀𝜀𝑑𝑑2 
+where d is the distance between nitrogen atoms on opposite sides of the ring and 𝜀𝜀 is a 
+proportionality constant which is assumed to be the same for 1 and 2. The N–Mg bond length 
+is 2.052 Å. 
+(c) 
+(i) 
+Calculate the proportionality constant 𝜀𝜀 in Å−1 to four significant figures.  
+ 
+(ii) 
+Calculate the length of the N–Zn bond in Å to four significant figures. 
+ 
+(iii) 
+Calculate the absorption wavelength of porphine 1 (for which d = 4.112 Å) in nm 
+to four significant figures. 
+
+11 
+ 
+Porphycene is an isomer of porphine 
+that has attracted attention as a 
+molecular switch. The hydrogen atoms 
+in porphycene can “hop” across the ring, 
+interconverting between two stable 
+trans-states (T and T*) that are the 
+on/off positions of the switch. There is 
+also an unstable cis-state C. The trans-
+states can interconvert via the cis-state 
+with rate constant k1, or directly with rate 
+constant k2.  
+ 
+At high temperatures k1 >> k2 and so the direct conversion of T → T* can be ignored. The 
+following rate equation and kinetic data were obtained for the isomerisation.  
+𝑘𝑘1 = 𝐴𝐴 exp ൬−𝐸𝐸𝑎𝑎
+𝑅𝑅𝑅𝑅൰ 
+T / K 
+k1 / s–1 
+493 
+3.31 × 1012 
+393 
+1.32 × 1012 
+ 
+(d) Under such conditions, calculate the activation energy, Ea, for T → T* using the 
+Arrhenius law and the above data. 
+The transformation is much faster at 100 K than expected from the Arrhenius law because 
+the direct conversion of T → T* now dominates the reaction. This is due to quantum 
+tunnelling. The rate constant k2 has a non-Arrhenius temperature dependence 
+𝑘𝑘2 = ൬2𝐸𝐸𝑎𝑎
+𝜇𝜇൰
+1
+2
+ 𝛼𝛼𝛼𝛼𝛼𝛼
+𝐸𝐸𝑎𝑎
+exp ൭−𝛼𝛼൬2 −𝛼𝛼𝛼𝛼𝛼𝛼
+𝐸𝐸𝑎𝑎
+൰൱ 
+where μ is a scaled molar mass with units of m2 kg mol–1 and α is a dimensionless constant. 
+This expression can be simplified by combining some of the terms together to form new 
+terms β and γ . 
+𝑘𝑘2 = 𝑇𝑇൬𝛽𝛽
+𝛾𝛾൰
+1
+2
+exp(−2𝛼𝛼+ 𝛽𝛽𝛽𝛽) 
+(e) Express β and γ in terms of α, μ, Ea, and R. 
+The equation can be further rearranged to give  
+ln ൬𝑘𝑘2
+𝑇𝑇൰= 𝛽𝛽𝑇𝑇+ 𝑖𝑖 
+(f) 
+Use the following data to calculate β in K−1. 
+(If you do not get an answer to this 
+question, use β = 9.456 × 10−4 K−1 in further 
+calculations) 
+T / K 
+k2 / s–1 
+83 
+8.74 × 1010 
+61 
+6.23 × 1010 
+ 
+The value of the constant α can be shown to be 2.235. 
+(g) Calculate the activation energy Ea. 
+ 
+ 
+
+12 
+ 
+6. This question is about anammox and ladderanes  
+Anammox is an abbreviation for 
+anaerobic ammonium oxidation. Despite 
+being a crucial part of the nitrogen cycle, 
+the bacteria responsible for this process 
+were only identified as recently as 1999. 
+In the membranes of these bacteria an 
+unusual class of lipids were found. These 
+lipids contained several fused 
+cyclobutane rings. Such molecules are 
+called ladderanes due to their 
+resemblance to the rungs of a ladder. 
+ 
+The mechanism of ammonium oxidation is believed to involve several different nitrogen-
+containing species:  
+• 
+nitrogen gas 
+• 
+the ammonium ion 
+• 
+the nitrite ion (NO2−) 
+• 
+hydrazine (NH2NH2) 
+• 
+hydroxylamine (NH2OH). 
+(a) 
+(i) 
+Give the oxidation state of the nitrogen atom in nitrogen gas and in the 
+ammonium ion. 
+ 
+(ii) 
+Give the oxidation state of the nitrogen atom in the nitrite ion (NO2−), hydrazine 
+(NH2NH2), and hydroxylamine (NH2OH). 
+The reaction takes place over three steps, all of which can be assumed to take place under 
+acidic conditions.  
+(b) 
+Using your oxidation states from part (a), write equations for the following steps in the 
+cycle. 
+ 
+(i) 
+Step 1: The half-equation for conversion of nitrite to hydroxylamine.  
+ 
+(ii) 
+Step 2: The reaction of the ammonium ion and hydroxylamine to give hydrazine. 
+ 
+(iii) 
+Step 3: The half equation for the conversion of hydrazine to nitrogen gas. 
+(c) 
+Hence, write an overall reaction equation for the anammox process.  
+ 
+ 
+ 
+
+13 
+ 
+To further understand the lipids found in these bacteria, a research group synthesised 
+[5]-ladderanoic acid – a key component of such lipids. The synthesis is shown below. Not all 
+by-products are shown.  
+ 
+(d) 
+Draw the structures of compounds A – K and by-product X. No stereochemistry is 
+required in any structure.  
+ 
+ 
+ 
+
+14 
+ 
+Acknowledgements & References 
+ 
+Q1 The image is © Dr Ben Pilgrim 
+ 
+Q2 The image is © Shutterstock 
+ 
+Q3 The image is © Royal Society of Chemistry 
+https://www.bbc.co.uk/news/science-environment-46046064 
+https://www.bbc.co.uk/news/world-asia-50963080 
+Photolysis and cellular toxicities of the organic ultraviolet filter chemical octyl 
+ethoxycinnamate and its photoproducts Environ. Sci.: Processes Impacts, 2017, 19, 851-
+860. DOI: 10.1039/C7EM00059F 
+ 
+Q4 The image is © Shutterstock 
+ 
+Q5 The image is © Shutterstock 
+Theoretical Study of the Q and B Bands of Free-Base, Magnesium, and Zinc 
+Porphyrins, and Their Derivatives J. Phys. Chem. A 1999, 103, 1894-1904. DOI: 
+10.1021/jp984807d 
+Evidence for Dominant Role of Tunnelling in Condensed Phases and at High 
+Temperatures: Double Hydrogen Transfer in Porphycenes J. Phys. Chem. Lett., 2016, 7, 
+283-288. DOI: 10.1021/acs.jpclett.5b02482 
+Microcanonical and thermal instanton rate theory for chemical reactions at all 
+temperatures Faraday Discuss., 2016, 195, 49-67. DOI: 10.1039/C6FD00119J 
+ 
+Q6 The image is part of an image of some 15th Century German ladders sourced from 
+Medieval House Book of Wolfegg Castle, Fol. 53v-53v1/via Wikipedia (Public Domain) 
+Chemical Synthesis and Self-Assembly of a Ladderane Phospholipid J. Am. Chem. 
+Soc., 2016, 138, 15845-15848. DOI: 10.1021/jacs.6b10706 
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike  
+CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as 
+they credit you and license their new creations under the identical terms. 
+ 
+Authors of 2020 UK Round One Paper (listed alphabetically) 
+Dr Helen Alonzi (St Bartholomew’s School)  
+Peter Bolgar (St Catharine’s College, University of Cambridge) 
+Chloe Francis (Royal Society of Chemistry) 
+Mark Jordan (Royal Society of Chemistry) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (Corpus Christi College, University of Oxford) 
+Rob King (Royal Society of Chemistry)  
+Dr Ben Pilgrim (University of Nottingham) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Richard Simon (Element Energy) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Dr Alex Thom (Girton College, University of Cambridge) 
+George Trenins (St Catharine’s College, University of Cambridge) 
+ 
+ 
+ 
+ 
+ 
+
+15 
+ 
+Physical Constants & Formulae 
+ 
+ 
+ 
+Avogadro’s constant 
+NA 
+6.02 × 1023 mol−1 
+molar gas constant 
+R 
+8.314 J K−1 mol−1 
+Faraday constant 
+F 
+96485 C mol−1 
+Planck constant 
+h 
+6.626 × 10−34 m2 kg s−1 
+speed of light in vacuum 
+c 
+2.998 × 108 m s−1 
+mass of electron 
+me 
+9.109 × 10−31 kg 
+ 
+ 
+ 
+1 nm = 1 × 10−9 m 
+1 Å = 1 × 10−10 m 
+0 °C = 273 K 
+ 
+ 
+ 
+ΔG
+⦵ = ΔH
+⦵ −TΔS
+⦵ 
+ΔG
+⦵ = – nFE
+⦵   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+16 
+ 
+1 
+H 
+1.008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+He 
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.06 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.102 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.904 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+ 
+44 
+Ru 
+101.07 
+45 
+Rh 
+102.91 
+46 
+Pd 
+106.42 
+47 
+Ag 
+107.87 
+48 
+Cd 
+112.41 
+49 
+In 
+114.82 
+50 
+Sn 
+118.71 
+51 
+Sb 
+121.76 
+52 
+Te 
+127.60 
+53 
+I 
+126.90 
+54 
+Xe 
+131.29 
+55 
+Cs 
+132.91 
+56 
+Ba 
+137.33 
+57 
+La 
+138.91 
+72 
+Hf 
+178.49 
+73 
+Ta 
+180.95 
+74 
+W 
+183.84 
+75 
+Re 
+186.21 
+76 
+Os 
+190.23 
+77 
+Ir 
+192.22 
+78 
+Pt 
+195.08 
+79 
+Au 
+196.97 
+80 
+Hg 
+200.59 
+81 
+Tl 
+204.38 
+82 
+Pb 
+207.2 
+83 
+Bi 
+208.98 
+84 
+Po 
+ 
+85 
+At 
+ 
+86 
+Rn 
+ 
+87 
+Fr 
+ 
+88 
+Ra 
+ 
+89 
+Ac 
+ 
+104 
+Rf 
+ 
+105 
+Db 
+ 
+106 
+Sg 
+ 
+107 
+Bh 
+ 
+108 
+Hs 
+ 
+109 
+Mt 
+ 
+110 
+Ds 
+ 
+111 
+Rg 
+ 
+112 
+Cn 
+ 
+113 
+Nh 
+ 
+114 
+Fl 
+ 
+115 
+Mc 
+ 
+116 
+Lv 
+ 
+117 
+Ts 
+ 
+118 
+Og 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lanthanides 
+58 
+Ce 
+140.12 
+59 
+Pr 
+140.91 
+60 
+Nd 
+144.24 
+61 
+Pm 
+ 
+62 
+Sm 
+150.4 
+63 
+Eu 
+151.96 
+64 
+Gd 
+157.25 
+65 
+Tb 
+158.93 
+66 
+Dy 
+162.50 
+67 
+Ho 
+164.93 
+68 
+Er 
+167.26 
+69 
+Tm 
+168.93 
+70 
+Yb 
+173.05 
+71 
+Lu 
+174.97 
+Actinides 
+90 
+Th 
+232.04 
+91 
+Pa 
+231.04 
+92 
+U 
+238.03 
+93 
+Np 
+ 
+94 
+Pu 
+ 
+95 
+Am 
+ 
+96 
+Cm 
+ 
+97 
+Bk 
+ 
+98 
+Cf 
+ 
+99 
+Es 
+ 
+100 
+Fm 
+ 
+101 
+Md 
+ 
+102 
+No 
+ 
+103 
+Lr 
+ 

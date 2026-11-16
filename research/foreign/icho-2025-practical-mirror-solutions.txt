@@ -1,0 +1,824 @@
+S E C T I
+O N _
+B O U N D A R Y _
+0 _
+2 5
+1. A complex problem
+10% of the total
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+Total
+1
+20
+0
+18
+3
+2
+3
+47
+1.1
+The compound X is H2O. 1 pt
+1.2
+The sample will be dried in oven and the mass of the dry sample will be
+determined. The purity of the sample will be determined by UV-Vis spectroscopy
+by comparison to standard samples of the complex and the free ligand. A purity
+percentage will be determined for the sample, with a maximum of  10 pt  for
+purity.
+Purity, p (10 pt)
+PQ1
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 1 of 18
+
+p = 0%  0 pt
+0% ≤ p ≤ 60%  0.0333p pt
+60% = p 2 pt
+60% ≤ p ≤ 80% pure  (0.4p - 22) pt
+80% ≤ p ≤ 100% pure  10 pt
+100% ≤ p ≤ 102% 10 pt Will be treated as 100% pure to allow for
+measurement error
+.
+102% < p A full UV-Vis absorption spectrum will be run. The science
+committee will determine whether this spectrum is the same as that of the
+iron salen complex, or contains contaminents. If no contaminents are
+detected will be treated as 100% pure and given 10 pt. If contaminents are
+detected 0 pt.
+Any samples of an obviously different colour will also be checked by a full
+spectrum.
+The mass of the dry sample will be converted to a percentage yield, and this will
+be multiplied by the purity percentage to determine the "pure" percentage yield,
+which will be graded with a maximum of 10 pt.
+"Pure" Yield, y (10 pt)
+0% = y 0 pt
+0% ≤ y ≤ 45% 0.222y pt
+45% ≤ y ≤ 100% 10 pt
+1.3 (0 pt)
+PQ1
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 2 of 18
+
+1.4
+There are 2 pt available for each of the nine accepted absorption results. Values
+of accepted absorption results will be calcaluted from the row(s) selected by the
+students. Any wells crossed out by the students will be removed from this
+calculation. If the student has not ticked any rows, then an average will be taken
+from all wells containing solution. 
+An average value for background absorbance will be subtracted from the
+student's absorbance values and these corrected student values compared with
+the background corrected master values. The master values for each column also
+account for the time between when the student submitted the plate and the plate
+was analysed. 
+The scoring for each absorbance value will be determined as follows:
+Values within +/- 5% of master value 2 pt
+Values more than +/- 15% of master value 0 pt
+Between +5% and +15%, and between -5% and -15%, there will be a linear
+decrease from 2 pt to 0 pt
+However
+, any student value that falls within two "machine standard deviations" of
+the master value will be given 2 pt to account for random error on the machine.
+The machine standard deviation is calculated from the background readings.
+These two criteria are used as depending on the column, the relative size of these
+two factors is different. 
+Absorbance values decrease slightly over time, due to a presumed slow
+decomposition of the complex. To account for this, master values will be analysed
+covering up to and over the maximum time period that the student samples had
+to wait for analysis. This decrease differs for each point, but is linear over the time
+period. This analysis will be used to determine the time-dependent master values. 
+(18 pt)
+PQ1
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 3 of 18
+
+1.5
+1:1 Fe:Ligand   3 pt
+Answers will be marked if they are consistent with student data. Alternative
+answers will be accepted if they are consistent with student data. If no plate has
+been submitted then 0 pts for this part. 
+1.6
+n = 5 (1 pt)             z = +3 (1 pt)
+(2 pt)
+1.7
+Correct: 3 pt
+Deductions. Chloride not coordinated (-1.5 pt); No chloride (- 2pt); Solvent
+coordinated (-2 pt); Iron oxidation state not consistent with their answer to 1.6
+(-1.5 pt); Trivial error in drawing salen ligand (-0.5 pt per error). Correct four
+atoms of salen ligand not coordinated (-1 pt). OH groups of salen are not
+deprotonated (-1 pt).
+Alternative structures that are not 1:1 but consistent with earlier student data will
+be credited according to the scheme above. 
+PQ1
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 4 of 18
+
+S E C T I
+O N _
+B O U N D A R Y _
+1 _
+2 6
+2. Exploring the AminOasis
+15% of the total
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+2.10
+Total
+14
+11.5
+6.5
+0
+10
+3
+0
+15
+1
+4
+65
+2.1
+Examples of TLC plates from one of the variants given in the Mock Exam (starting
+and finish line were cut out not to disclose  Rf values before the practical
+examination):
+2 pt: 0.5 pt for starting line, 1 pt for finish line, 0.5 pt for labels 1–5, 0.5 pt
+deduction if the finish line is not parallel to the starting line.
+2 pt: 0.2 pt per clearly circled spot of each amino acid, 0.2 pt deduction per
+additional spot in a Mix.
+10 pt: 1 pt per amino acid for Rf within 2SD of the master value, 1 pt deduction per
+tilting of a lane, 1 pt deduction per overlap between spots from 2 adjacent lanes.
+Grading is based on the photos of the TLC plates taken during the exam.
+2.2, 2.3
+One of the variants for Mix 1-Mix 5. The combination of amino acids in each Mix is
+the same in all variants.
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 5 of 18
+
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+pH
+8–10
+(or 8, 8.5,
+9, 9.5, 10)
+6–7
+(or 6, 6.5,
+7)
+6–7
+(or 6, 6.5,
+7)
+6–7
+(or 6, 6.5, 7)
+6–7
+(or 6, 6.5, 7)
+Ehrlich
+-
++
+-
+-
+-
+Nitroprusside
+-
+-
++
+-
+-
+Sakaguchi
+-
+-
+-
+-
++
+Pauly
++
+-
++
+-
+-
+Gerngross
++
+-
+-
+-
+-
+AA
+Tyr
+Lys
+Trp
+Ser
+Cys
+His
+Phe
+Pro
+Glu
+Arg
+Higher Rf
+☒
+☐
+☒
+☐
+☒
+☐
+☒
+☐
+☒
+☐
+Possible way of solving:
+1) Analysis of pH reveals that one of the basic amino acids (Lys or Arg) must be in
+Mix 1:
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+pH
+Conclusion
+Lys or Arg
+There is no other basic or highly acidic solution. Therefore, Glu and Lys/Arg must be
+together in Mix 2/Mix 3/Mix 4/Mix 5.
+2) Individual tests – if successfully performed, 5 amino acids (Tyr
+, Trp, Cys, His, Arg)
+can be identified:
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 6 of 18
+
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+Ehrlich
+Nitroprusside
+Sakaguchi
+Pauly
+Gerngross
+Conclusion
+Tyr
+Trp
+Cys + His
+Arg
+3) Yellow spot on the TLC – clear identification of Pro:
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+TLC (Rf)
+0.XXX
+0.XXX
+0.XXX
+0.XXX
+0.XXX
+0.XXX
+0.XXX
+0.XXX (yellow) –
+Pro
+0.XXX
+0.XXX
+Conclusion
+Tyr
+Trp
+Cys + His
+Pro
+Arg
+4) Combining the identification of Arg in Mix 5, the conclusion that Glu and Lys/Arg
+must be together and that Lys or Arg must be in Mix 1, one identifies Glu in Mix
+5 and Lys in Mix 1:
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 7 of 18
+
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+Conclusion
+Tyr + Lys
+Trp
+Cys + His
+Pro
+Glu + Arg
+5) Assignment of Rf values to already identified amino acids based on polarity:
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+TLC (Rf)
+0.XXX –
+Tyr
+0.XXX –
+Lys
+0.XXX –
+Trp?
+0.XXX -
+Trp?
+0.XXX – Cys
+0.XXX – His
+0.XXX
+0.XXX (yellow) –
+Pro
+0.XXX –
+Glu
+0.XXX –
+Arg
+Conclusion
+Tyr + Lys
+Trp
+Cys + His
+Pro
+Glu + Arg
+6) Only 2 amino acids are left: Ser and Phe. The polarity order is as follows: Ser < Trp
+≈ Phe. Therefore, Rf(Ser) <  Rf(Trp) ≈ Rf(Phe). This allows us to finalise the
+identification:
+Mix 1
+Mix 2
+Mix 3
+Mix 4
+Mix 5
+TLC (Rf)
+0.XXX –
+Tyr
+0.XXX –
+Lys
+0.XXX –
+Trp
+0.XXX –
+Ser
+0.XXX –
+Cys
+0.XXX –
+His
+0.XXX – Phe
+0.XXX (yellow) –
+Pro
+0.XXX –
+Glu
+0.XXX –
+Arg
+Conclusion
+Tyr + Lys
+Trp + Ser
+Cys + His
+Pro + Phe
+Glu + Arg
+Overall, the chemical tests allow us to identify 5/10 amino acids. Observing the
+yellow spot on the TLC reveals 1 additional amino acid. Using the pH data reveals 2
+more amino acids. Further analysis of the TLC allows us to identify the last 2 amino
+acids.
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 8 of 18
+
+pH measurement: 0.3 pt per correct value.
+Ehrlich test: 2 pt if “+” is only for Mix 2, 1 pt if one additional “+”.
+Nitroprusside test: 2 pt if “+” is only for Mix 3, 1 pt if one additional “+”.
+Sakaguchi test: 2 pt if “+” is only for Mix 5, 1 pt if one additional “+”.
+Pauly test: 2 pt if “+” is only for Mix 1 and Mix 3, 1 pt if one additional “+” or one
+missing “+”.
+Gerngross test: 2 pt if “+” is only for Mix 1, 1 pt if one additional “+”.
+Amino acid codes: 0.5 pt per amino acid if in agreement with test results and TLC.
+Choice of amino acid with a higher Rf: 0.3 pt per given pair
+.
+2.4
+0 pt (not graded)
+2.5 
+Master value (MV): VNa₂H₂EDTA = XX.XX mL
+10 pt for (MV – 0.05) ≤ V ≤ (MV + 0.05), 0 pt if V ≤ (MV – 0.25) or V ≥ (MV + 0.25),
+linear in-between.
+Penalty 2 pt if the reported value is missing. In this case, the average value of all
+reported titration values from 2.4 is used for further grading.
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 9 of 18
+
+2.6
+Cu(CH3COO)2 reacts with Na2H2EDTA in a 1:1 ratio (1 pt). Therefore:
+  (1 pt)
+ (1 pt)
+2.7
+0 pt (not graded)
+2.8
+Master value (MV): VCu(CH₃COO)₂ = XX.XX mL
+15 pt for (MV – 0.05) ≤ V ≤ (MV + 0.15), 0 pt if V ≤ (MV – 0.25) or V ≥ (MV + 0.95),
+linear in-between.
+Penalty 2 pt if the reported value is missing. In this case, the average value of all
+reported titration values from 2.7 is used for further grading.
+n(Cu2+) = 1 ⋅c(Na2H2EDTA) ⋅V (Na2H2EDTA) = 0. 0200 ⋅V1
+c(Cu2+) =
+n(Cu2+)
+V (Cu2+) = 0.0200⋅V1
+5.00
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 10 of 18
+
+2.9
+Both cis- and trans-complexes are accepted. It can also be 5- or 6-coordinated with
+H2O as an additional ligand. (1 pt)
+2.10
+Cu(CH3COO)2 reacts with the amino acid X in a 1:2 ratio (1 pt). Therefore:
+(1 pt)
+(1 pt)
+  (1 pt)
+naliq.(X) = 2 ⋅c(Cu2+) ⋅V (Cu2+) = 2 ⋅c(Cu2+) ⋅V2 
+n(X) = naliq.(X) ⋅
+V (X)
+Valiq.(X) = 2 ⋅100.0
+10.00 ⋅c(Cu2+) ⋅V2
+Mr(X) = m(X)
+n(X) =
+m(X)
+2⋅100.0
+10.00 ⋅c(Cu2+)⋅V2
+PQ2
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 11 of 18
+
+S E C T I
+O N _
+B O U N D A R Y _
+2 _
+2 7
+3. Rf you ready to spot the answers?
+15% of the total
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5.8
+2
+3.13
+3.14
+3.15
+3.16
+3.17
+3.18
+3.19
+3.20
+3.21
+3.22
+3.23
+Total
+1.2
+4
+1
+2
+1
+0
+6
+15
+6
+1
+18
+73
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5.8
+2
+3.13
+3.14
+3.15
+3.16
+3.17
+3.18
+3.19
+3.20
+3.21
+3.22
+Total
+1.2
+4
+1
+2
+1
+0
+4
+15
+4
+12
+62
+Part A
+The total mark for each question is indicated and represents the maximum score.
+Each question has a minimum score of 0 points, so it is not possible to receive a
+negative mark.
+3.1 Ticking PS TLC before heating 1 pt
++0.5: A is chosen
++0.25: B is chosen
++0.5: C is chosen
+-1.0: D is chosen
+-1.0: N is chosen
+3.2 Sketch PS TLC before heating 1 pt
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 12 of 18
+
+0 pt: TLC is absent or uninformative
+-1 pt: the sketch conflicts with the real TLC
++1 pt: the sketch does not conflict with the real TLC after heating (compare with TLC
+in 3.11)
+Since there is no photo of the TLC before heating, it is necessary to imagine what it
+might have looked like. This means that the number of spots on the sketch should
+be equal to the number of spots on the real TLC, or be less, but not more.
+The most common situation is that there is no spot of B on the sketch, but there is
+one on the real TLC.
+3.3 Ticking PS TLC after heating 1 pt
+0 pt: TLC is absent or uninformative
+-1.0: A is chosen
++1.0: B is chosen
+-1.0: C is chosen
+-1.0: D is chosen
+-1.0: N is chosen because no additional spots (compare 3.2 and 3.4)
+3.4 Sketch PS TLC after heating 1pt
+0 pt: TLC is absent or uninformative
+-1.0: the sketch conflicts with the real TLC
++1.0: sketch conforms to real TLC after heating (compare with 3.11)
+3.5 Ticking AS TLC before heating 1 pt
+0 pt: TLC is absent or uninformative
+-1.0: A is chosen
+-1.0: B is chosen
+-1.0: C is chosen
+-1.0: D is chosen
++1.0: N is chosen
+3.6 Sketch AS TLC before heating 1 pt
+0 pt: TLC is absent or uninformative
+-1 pt: the sketch conflicts with the real TLC
++1 pt: “N” is chosen and no spots on the sketch (compare with 3.5)
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 13 of 18
+
+3.7 Ticking AS TLC after heating 1 pt
+0 pt: TLC is absent or uninformative
++0.4: A is chosen
++0.2: B is chosen
++0.2: C is chosen
++0.4: D is chosen
+-1.0: N is chosen
+3.8 Sketch AS TLC after heating 1 pt
+0 pt: TLC is absent or uninformative
+-1 pt: the sketch conflicts with the real TLC
++1 pt: sketch conforms to real TLC after heating (compare with 3.11)
+3.9 Ticking UV TLC after heating 1 pt
+0 pt: TLC is absent or uninformative
+-1: A is chosen
++1: B is chosen
+-1: C is chosen
+-1: D is chosen
+-1: N is chosen
+3.10 Sketch UV TLC 1 pt
+0 pt: TLC is absent or uninformative
+-1 pt: the sketch conflicts with the real TLC
++1 pt: sketch corresponds to spots circled on real UV TLC (compare with 3.11)
+In case the spots on the UV TLC are not circled, but a sketch is given, the number
+and location of spots on the sketch must match the real PS and AS TLC photos
+(3.11).
+3.11
+Real PC or AS TLC after heating 2 pt (the same grading applies to all the following
+TLC plates visualised by the stain)
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 14 of 18
+
++0.4 TLC preparation: plate is labelled as PS and compounds are abbreviated
+correctly and start line is present and it is straight
++0.4 TLC loading: the spots at the start line are distributed evenly and at equal
+distance and all spots have acceptable size (width is below 9 mm) and spots do not
+overlap or touch the edge of the TLC plate
++0.4 TLC delopment solvent front line is present and it is horizontal and the distance
+between the start and finish lines is greater than half the length of the TLC plate
++0.4 TLC staining: all spots are circled and stain reaches solvent front line
++0.4 acceptable Rf values: for B, C Rf = 0.09 - 0.17; for A, D Rf = 0.33 - 0.53
+-0.5: before the solvent front line, there is an additional major spot on any of the
+lines (e.g. 1 major spot on the D line, 2 major spots on the A line) or inappropriate
+impurities (fingerprints, solvent drops etc.)
+-0.5: plate is overheated (can be determined by the appearance of beige lines and
+spots in different locations, flaking of silica gel, uneven colouring of the TLC plate)
+and/or a spot is affected due to diffusion during stain (incorrect spot shape)
+Real UV TLC 1.8 pt
++0.4 TLC preparation: plate is labelled as UV and compounds are abbreviated
+correctly and start line is present and it is straight
++0.4 TLC loading: the spots at the start line are distributed evenly and at equal
+distance and all spots have acceptable size (width is below 9 mm) and spots do not
+overlap or touch the edge of the TLC plate
++0.4 TLC delopment: solvent front line is present and it is horizontal and the
+distance between the start and finish lines is greater than half the length of the TLC
+plate
++0.2 TLC visualisation: all spots are circled
++0.4 acceptable Rf values: for B, C Rf ~ 0.1; for A, D Rf ~ 0.4
+-0.5: before the solvent front line, there is an additional major spot on any of the
+lines (e.g. 1 major spot on the D line, 2 major spots on the A line) or inappropriate
+impurities (fingerprints, solvent drops etc.)
+3.12 (a) Most polar compound(s) 1 pt
+0 pt: not assessed if TLCs are absent or uninformative
++1.0: C is chosen
++0.5: B is chosen
+-1.0: A or D are chosen.
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 15 of 18
+
+3.12 (b) least polar compound(s) 1 pt
+0 pt: not assessed if TLCs are absent or uninformative
++1.0: A is chosen
++0.5: D is chosen
+-1.0: B or C are chosen.
+3.13 (a-i) Statements about PS, AS and UV 1.2 pt
+-0.4: a is selected
++0.4: b is selected
+-0.4: c is selected
+-0.4: d is selected
+-0.4: e is selected
+-0.4: f is selected
++0.4: g is selected
+-0.4: h is selected
++0.4: i is selected
+3.14 Compounds assignments 4 pt
++1.0: 1 = B
++1.0: 2 = D
++1.0: 3 = A
++1.0: 4 = C
++1.0: if 2 = A, 4 = D (0.5 pt each)
+Part B
+3.15 Solubility/miscibility test 1 pt
++0.25: E = Y
++0.25: F = Y
++0.25: G = N
++0.25: H = Y
+3.16 Real TLC of unknowns 4*2 pt
+Graded in the same way as 3.11 (see above)
+acceptable Rf values: for E, H Rf ~ 0.5; for F Rf ~ 0.25
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 16 of 18
+
+3.17 TLC analysis of pure unknowns 1 pt
++0.25: E = Y
++0.25: F = Y
++0.25: G = N
++0.25: H = Y
+3.18 0 pt
+3.19-3.21 and 3.23 are graded jointly
+3.19 4*1 pt
+1 pt for each pairwise reaction:
+0 pt: not assessed if TLCs are absent or uninformative
++1.0 observations correctly characterise the real TLC (compare with 3.23)
+TLC analysis is not performed for the between E+H and F+G, so it will not be graded.
+3.20 4*3 + 3*1 pt
+5
+6
+7
+8
+9
+10
+11
+F
+H
+-
+E
+-
+G
+-
+3
+pt
+3
+pt
+1
+pt
+3
+pt
+1
+pt
+3
+pt
+1
+pt
+If a compound from F-G is assigned incorrectly, it will be graded according to the
+number of conflicting observation(s) with the chosen structure (3 pt are given at
+the beginning, first conflicting observation is -0.5 pt, second conflicting observation
+is -1 pt, third conflicting observation is -1.5 pt).
+3.21 4*1 pt
+1 pt for each chemically correct product that can be obtained from the
+corresponding pair of chemicals. The grading scheme (see the additional grading
+scheme for 3.19-3.21 uploaded). 
+There is no reaction between E+H and F+G as stated in the exam paper (the
+products for these reactions are not graded).
+3.22 4*3 pt
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 17 of 18
+
+Each TLC of the reaction mixture has two main parts:
+Quality of the TLC (graded with the same criteria as 3.11): 2 pt
+Desired reaction outcome 1 pt: the TLC shows that the possible reaction proceeds
+(see the table below)
+E+F
+E+G
+E+H
+F+G
+F+H
+G+H
+2 starting
+materials
+and no
+products
+on R line
+including
+start
+1 starting
+material
+and 1
+product on
+R line
+no reaction
+as stated in
+the exam
+paper (not
+graded)
+no reaction
+as stated in
+the exam
+paper (not
+graded)
+2 starting
+materials
+and 1
+product on
+R line
+2 starting
+materials
+and 2
+products
+on R line*
+* Only one reaction product may be formed in the reaction if the reaction vessel is
+heated longer than 10 minutes. This reaction outcome graded as a correct one.
+PQ3
+57th IChO 2025, UAE
+Practical Marking Scheme, English (Official)
+Page 18 of 18

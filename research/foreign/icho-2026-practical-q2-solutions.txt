@@ -1,0 +1,315 @@
+Experiment
+Q2-1
+English (Official)
+P2. Atlas of Enzymes
+Equipment
+Item
+Quantity
+Label
+Eppendorf tubes rack
+2
+Micropipette, 10-100 μL
+1
+Micropipette tips
+40
+Tips box
+1
+96-well plate
+2
+
+Experiment
+Q2-2
+English (Official)
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Part A
+Mixture E1
+aq
+-
+4 mL
+Eppendorf
+tube, 5 mL
+E1
+Mixture E2a
+aq
+-
+4 mL
+Eppendorf
+tube, 5 mL
+E2a
+Mixture E2b
+aq
+-
+4 mL
+Eppendorf
+tube, 5 mL
+E2b
+Mixture E3
+aq
+-
+4 mL
+Eppendorf
+tube, 5 mL
+E3
+Mixture E4
+aq
+-
+4 mL
+Eppendorf
+tube, 5 mL
+E4
+Mixture E5
+aq
+-
+4 mL
+Eppendorf
+tube, 5 mL
+E5
+Substrates
+solutions S1−S10
+aq
+-
+0.5 mL
+Eppendorf
+tube, 0.5 mL
+S1−S10
+Part B
+Substrates
+solutions M1−M3
+aq
+-
+0.5 mL
+Eppendorf
+tube, 0.5 mL
+M1−M3
+Part C
+Substrates
+solutions W1−W7
+aq
+-
+0.5 mL
+Eppendorf
+tube, 0.5 mL
+W1−W7
+
+Experiment
+Q2-3
+English (Official)
+11 % of total
+Question
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Total
+Points
+50
+2
+4
+1
+5
+9
+35
+2
+108
+Atlas is a smooth single-faced fabric woven from natural silk. Atlas is not just a simple
+fabric—it is a woven chronicle of the unique Uzbek culture and identity.
+Enzyme mixtures are used for qualitative and quantitative analysis of organic substances in biological
+fluids (plasma, urine, etc.). E1−E5 can contain one or several enzymes. These also contain all the neces-
+sary reagents (buffer and other components). E1−E5 are designed for the selective determination of i)
+glucose, ii) urea, iii) uric acid, iv) cholesteryl ester, and v) triglyceride.
+All reaction mixtures in this problem are prepared in a 96-well plate using a micropipette.
+The instructions below apply when performing the reaction between any substrate solution with any
+enzyme mixture E1−E5:
+1. For all reaction tests except those with E2, add 20 μL of the substrate solution to 100 μL of the
+enzyme solution and incubate for approximately 5 min at room temperature.
+2. For mixture E2 (composed of separate solutions E2a and E2b), add 20 μL of substrate solution to
+100 μL of E2a solution. Incubate for approximately 5 min at room temperature. Add 100 μL of the
+E2b solution to this mixture and continue to incubate for approximately another 5 min at room
+temperature.
+3. If the tested solution contains the specific substrate, the mixture shows a colour distinct from the
+other solutions without the specific substrate.
+
+Experiment
+Q2-4
+English (Official)
+Part A
+You are given the following substances in the 10 solutions S1−S10. Each solution S1−S10 contains only
+two substances out of the five substances i−v. S1−S10 contain different combinations of substances i−v.
+The composition of S1−S5 is:
+• S1: i + ii
+• S2: i + iv
+• S3: ii + iii
+• S4: iii + v
+• S5: iv + v
+Perform the tests of each solution S1−S10 with each enzyme mixture E1−E5. The tubes in your rack might
+not necessarily be arranged in numerical order. Some substrates could appear as cloudy solutions or
+suspensions.
+SOLUTION:
+Q2.1−Q2.3
+
+Experiment
+Q2-5
+English (Official)
+Q2.1
+Tick the box with the corresponding colour change for each of the enzyme mix-
+tures E1−E5 with substrates S1−S10, relative to the initial colour of E1, E2a, E3,
+E4, and E5. The colour codes are given below:
+N - no colour change
+Y - change to yellow
+G - change to green
+B - change to black
+PR - change to pink/red
+SOLUTION:
+For each correct choice per enzyme per substrate colour change: 1 pt.
+0 pt if there is more than one choice per enzyme per substrate.
+Overall score cannot be negative.
+Total: 50 pt.
+50 pt
+Q2.2
+Tick the box for the enzyme−substrate pair(s) that gave a positive result.
+SOLUTION:
+If Q2.1 is completely correct, in Q2.2: 0.4 pt are awarded for each correct iden-
+tification of substrates i-v.
+If Q2.1 positive reactions are different than the correct answer, but the choice
+of the substrate in Q2.2 follows the order of reactivity: 0.4 pt are awarded for
+each correct identification of substrates i-v.
+No points are awarded if the there is more than one possible answer for the
+substrate based on Q2.1.
+Overall score cannot be negative.
+2 pt
+Q2.3
+Tick the boxes for the correct substrates present in S6−S10.
+SOLUTION:
+If Q2.2 is completely correct, in Q2.3: 0.4 pt are awarded for each correct as-
+signment of substrates i-v given that there are only two substrates per S6 - S10.
+In the case when substrates i-v do not match the official solution in Q2.2, points
+are awarded in Q2.3 based on whether substrates assigned in Q2.2 would
+match the reported observations from the reactions between E1-E5 and S6-S10.
+No points are awarded if the there are more than two answers for the substrates
+based on Q2.2.
+Overall score cannot be negative.
+4 pt
+The reaction scheme of enzymes, substrates i−v, and additional components of mixtures E1−E5 are given
+below:
+
+Experiment
+Q2-6
+English (Official)
+
+Experiment
+Q2-7
+English (Official)
+All of the reactions above are balanced. Abbreviations:
+• Glucose oxidase – GOD
+• Urease – URE
+• Uricase – UOX
+• Cholesterol esterase – CHE
+• Lipases – LIP
+• Cholesterol oxidase – CHO
+• Peroxidase – POD
+• Glycerol-3-phosphate oxidase – GPO
+• Glycerol kinase – GLK
+• Non-enzymatic reaction – NEZ
+Q2.4
+Intensely coloured products are formed only in two reactions from the list
+above.
+Tick the boxes for the reactions that give coloured products.
+SOLUTION:
+Only two answers are possible according to the task.
+For correct answer: 0.5 pt each.
+For any 3 or more answers: 0 pt.
+Overall score cannot be negative.
+According to the task's text, based on the provided reaction scheme for the
+enzymatic reactions, coloured products originate only from molecules that have
+conjugated 𝜋-electrons. The only products that satisfy that condition are found
+in the reactions POD and NEZ.
+1 pt
+
+Experiment
+Q2-8
+English (Official)
+Q2.5
+Tick the components that are present in reaction mixtures E1−E5.
+SOLUTION:
+If Q2.2 is completely correct, then, for E1:
+For first correct answer: 0.2 pt, For second correct answer: 0.3 pt, For third
+correct answer: 0.5 pt are summed up.
+0 pt for all wrong or more than three correct answers.
+For E3:
+For first correct answers: 0.2 pt, For second correct answer: 0.3 pt, For third
+and fourth correct answer: 0.5 pt are summed up.
+If Q2.2 is completely correct, then, for E2, E4 and E5:
+For first correct answer: 0.5 pt, For second correct answer: 0.5 pt are summed
+up.
+0 pt for all wrong or more than two correct answers.
+If E1-E5 are assigned different substrates in Q2.2 than the correct answer, sub-
+strates are different than the correct answer, the choice of components in Q2.5
+is graded according to scheme above for those assigned E1-E5.
+5 pt
+Part B
+Enzymes E2, E4, and E5 give positive tests with substrates F, G, and H, respectively. Solutions M1, M2,
+and M3 contain all of the substrates F, G, and H in different concentrations. For solutions M1−M3, after
+approximately 5 min of enzymatic reaction, the colour intensity of the reaction mixture is linearly depen-
+dent on the initial concentration of the substrate. Assume that approximately 5 min is enough to achieve
+complete substrate conversion.
+Perform the tests of each solution M1−M3 with each enzyme mixture E2, E4, and E5. Some substrates
+could appear as cloudy solutions or suspensions.
+
+Experiment
+Q2-9
+English (Official)
+Q2.6
+Arrange M1−M3 in increasing order of concentrations for each of F, G, and H
+substrates based on the performed reactions.
+SOLUTION:
+For each correct relationship between M1-M3 per substrate F, G, and H: 3 pt.
+For any wrong answer 0 pt per incorrect answer.
+One mistake in any substrate: 0 pt.
+9 pt
+
+Experiment
+Q2-10
+English (Official)
+Part C
+Some or all of the substances W1−W7 can react with components of mixtures E1−E5 and interfere with
+the accurate determination of their native substrates. Substances W1−W7 are given below:
+Perform the tests of each substance W1−W7 with each enzyme mixture E1−E5. Some substrates could
+appear as cloudy solutions or suspensions.
+Q2.7
+Tick the box with the corresponding colour change for each of the enzyme mix-
+tures E1−E5 with substances W1−W7. Use the same colour codes as in Q2.1.
+Compare the colour of the reaction mixtures to the initial colour of E1, E2a, E3,
+E4, and E5.
+ 
+SOLUTION:
+For substrates W1–W7:
+For each correct choice per enzyme per substrate colour change: 1 pt.
+0 pt if there is more than one choice per enzyme per substrate.
+Overall score cannot be negative.
+Total: 35 pt.
+35 pt
+
+Experiment
+Q2-11
+English (Official)
+Q2.8
+Write down the balanced reaction equation(s) that describe(s) the positive
+test(s) in Q2.7.
+SOLUTION:
+For reaction with W2: 0.5 pt.
+For reaction with W5: 0.75 pt.
+For reaction with W7: 0.75 pt.
+For incorrect stoichiometry: –0.25 points penalty.
+Correct balanced equations (either full or ionic) are graded fully.
+Overall score for each equation cannot be negative.
+2 pt

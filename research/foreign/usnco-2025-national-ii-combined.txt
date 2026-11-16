@@ -1,0 +1,1942 @@
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+ 
+ 
+2025 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART II 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+Monica Marie Arroyo, Pontifical Catholic University of Puerto 
+Rico, Ponce, PR 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Jesse Bernstein, Miami Country Day School, Miami, FL 
+(retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+James Dohm, University of Pennsylvania, Philadelphia, PA 
+Kimberly Gardner, United States Air Force Academy, CO 
+Paul Groves, South Pasadena HS, South Pasadena, CA (retired) 
+Nicolas Hamel, Clackamas Community College, Oregon City, 
+OR (retired) 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Sarah Leite, Hopkins School, New Haven, CT 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los 
+Angeles, CA 
+Anne O'Connor, Cleveland State University, Cleveland, OH 
+DIRECTIONS TO THE EXAMINER 
+Part II of this test requires that student answers be written in this test booklet in the spaces provided underneath the questions. The Part 
+II test booklet and scratch paper should be made available to the student only during the examination period. All testing materials 
+including scratch paper should be collected from students after the examination. Only test booklets should be shipped to the USNCO 
+office immediately after the national exam and no later than April 14, 2025.  
+When the student has completed Part II, or after one hour and forty-five minutes have elapsed, the student must turn in Part II of the 
+testing materials and all scratch paper. Be sure that the student has used the same identification number used for Part I again for Part 
+II. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page two for student reference. 
+ 
+Only non-programmable calculators that do not have any on-board memory space (accessed through a mini-USB or other 
+linkage) are to be used on the ACS Local Section Exam and on the National Exam, if used.  The use of an 
+unacceptable calculator, cell phone, or any other device that can access the internet, make copies or photographs, or has access 
+to stored information during the exam is grounds for disqualification. 
+ 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO.  
+Part II requires complete responses to questions involving problem-solving and explanations. One hour and forty-five minutes are 
+allowed to complete this part. Be sure to use the same identification number you used for Part I and write it on top of each page in 
+the indicated fields. Use separate sheets for scratch paper and do not attach your scratch paper to this examination. When you complete 
+Part II (or at the end of one hour and forty-five minutes) you must turn in all testing materials and scratch paper.  
+ 
+ 
+ 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+ 
+ 
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+meter 
+m 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+nano– prefix 
+n 
+Planck’s constant 
+h 
+pico– prefix 
+p 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022  1023 mol–1 
+h = 6.626  10–34 J s 
+c = 2.998  108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+ 
+ Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+STUDENT USNCO ID: 
+
+ 
+Page 3  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 1  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+1.  [12%] 
+Copper(II) sulfate pentahydrate, CuSO4 • 5H2O, is a blue crystalline solid.  Upon gentle heating, it loses water to 
+form anhydrous CuSO4, which is a white solid. 
+a. 
+When 5.000 g CuSO4 • 5H2O is heated to remove all of its water, what mass of anhydrous CuSO4 will be produced?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. 
+Explain the change in color on dehydration of CuSO4 • 5H2O. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+A solution of 0.0506 g Cu(CH3COO)2 • H2O is made up with water to a volume of 5.00 mL water.  This solution in 
+a 1-cm cuvette produces the visible spectrum shown.  What wavelength would be the best choice to determine the 
+concentration of Cu(II)? 
+ 
+ 
+ 
+
+ 
+Page 4 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 1  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+d. 
+A student determines the value of n in an unknown crystalline hydrate of copper(II) nitrate, Cu(NO3)2 • n H2O, by 
+preparing 5.00 mL of an aqueous solution of a known mass of the compound and measuring its absorbance at the 
+wavelength determined in part c.  However, the student inserts the cuvette into the spectrophotometer without first 
+wiping fingerprints from it.  How will this affect the value of n determined in the experiment? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+An alternative method for determining the degree of hydration of the copper nitrate is to allow a known mass of 
+compound to react with excess KI solution, which produces a yellow-brown suspension.  Write a balanced net ionic 
+equation for this reaction. 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+The experiment in part e is carried out with 0.1000 g of the hydrated copper(II) nitrate.  To the resulting mixture is 
+added a 0.0250 M solution of sodium thiosulfate, Na2S2O3, until the color of the mixture has just dissipated, leaving 
+a milky white suspension.  This requires 17.20 mL of added sodium thiosulfate solution.  What is the value of n for 
+the Cu(NO3)2 • n H2O? 
+ 
+ 
+ 
+
+ 
+Page 5  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 2  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+2.  [13%] 
+Calcium oxalate, CaC2O4, has a Ksp of 2.7 × 10-9.  Oxalic acid, H2C2O4, has two ionizable hydrogens with pKa1 = 
+1.27 and pKa2 = 4.28. 
+ 
+a. 
+Draw a Lewis structure for oxalate ion, C2O42-, including all bonds, lone pairs, and formal charges. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. 
+Calculate the molar solubility of calcium oxalate in pure water. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Calculate the molar solubility of calcium oxalate in a 0.100 M CaCl2 solution. 
+ 
+ 
+ 
+
+ 
+Page 6 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 2  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+d. 
+A 0.100 mol sample of solid CaC2O4 is suspended in 1.00 L of water and HCl(g) is bubbled through the solution 
+until all of the solid just dissolves.  What is the pH of the final homogeneous solution?  You may assume the final 
+volume of solution is 1.00 L. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+How many moles of HCl(g) are added in part d? 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+Will the molar solubility of CaC2O4 in 0.1 M NaHC2O4 be significantly greater than, significantly less than, or 
+within 10% of the molar solubility of calcium oxalate in pure water?  Justify your answer. 
+ 
+ 
+ 
+
+ 
+Page 7  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 3  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+3. [12%] 
+N,N-Dimethylethanolamine ((CH3)2NCH2CH2OH, DMEA, M = 89.14) is a Brønsted base whose conjugate acid, 
+DMEAH+, has a pKa = 9.22 (Ka = 6.0  10-10).  Acetic acid (CH3COOH, M = 60.05) has a pKa = 4.75 (Ka = 1.8  
+10-5). 
+ 
+a. 
+Calculate ∆G°rxn at 298 K for the acid-base reaction of DMEA with CH3COOH. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A solution consisting of 7.84 g CH3COOH and 107.17 g 
+water is placed in a well-insulated (Dewar) flask.  To this 
+solution is added DMEA in small portions.  After each 
+portion of DMEA is added, the solution is stirred and the 
+temperature measured with a digital thermometer.  The data 
+obtained are plotted at right.  The solid line represents the 
+best linear fit to the data with < 12 g added DMEA, the 
+dashed line the average of the data with ≥ 12 g added 
+DMMEA; both equations are given on the plot. 
+ 
+b. 
+Calculate ∆H°rxn for the reaction of DMEA with 
+CH3COOH.  You may assume that all solutions have the 
+same specific heat capacity as pure water. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 8 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 3  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+c. 
+Calculate ∆S°rxn for the reaction of DMEA with CH3COOH. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d. 
+The ∆S° calculated in part c. is negative.  What features of the reaction of DMEA with CH3COOH cause it to have a 
+negative entropy of reaction? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 9  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 4  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+4. [12%] 
+A galvanic cell is set up as follows and the cell potential measured as a function of temperature to give the graph 
+shown. 
+      
+ 
+ 
+                
+ 
+a. 
+Which electrode is the anode and which is the cathode? 
+ 
+ 
+ 
+ 
+b. 
+The standard reduction potential for Zn2+(aq) at 298 K is –0.762 V.  What is the standard reduction potential for 
+Pb2+(aq) at 298 K? 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+What are ∆G° (at 298 K), ∆H°, and ∆S° for the reaction shown below? 
+Zn(s) + Pb2+(aq) → Zn2+(aq) + Pb(s) 
+ 
+ 
+salt bridge
+V
+Pb
+Zn
+1.00 M Pb2+
+1.00 M Zn2+
+
+ 
+Page 10 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 4  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+d. 
+Explain the sign of ∆S° for the reaction given in part c. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+The temperature-dependence of the cell is remeasured with the same cell, except that the concentration of Pb2+(aq) 
+in the left-hand compartment is changed to 0.100 M.  Plot the results on the graph shown below (with the results 
+shown from the standard cell given again for reference), and briefly justify your plot. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 11  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 5  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+5. [12%] 
+Write net equations for each of the reactions below.  Use appropriate ionic and molecular formulas and omit 
+formulas for all ions or molecules that do not take part in a reaction.  Write structural formulas for all organic 
+substances, and clearly show stereochemistry where relevant.  You need not balance the equations or show the 
+phases of the species. 
+ 
+a. 
+Carbon dioxide is bubbled through a saturated solution of barium hydroxide. 
+ 
+ 
+ 
+ 
+ 
+ 
+b. 
+Potassium permanganate is mixed with iron(II) sulfate in dilute sulfuric acid. 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Solid silver chloride is added to concentrated aqueous ammonia. 
+ 
+ 
+ 
+ 
+ 
+ 
+d. 
+Phosphorus trichloride reacts with potassium chlorate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 12 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 5  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+e. 
+Para-xylene (1,4-dimethylbenzene) is heated with a mixture of concentrated nitric and sulfuric acids. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+Fluorine-18 emits a positron. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 13  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 6  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+6. [13%] 
+Oxygen has two stable allotropes, O2 (dioxygen) and O3 (ozone). 
+ 
+a. 
+Explain why O2 has a higher normal boiling point than either N2 or F2. 
+ 
+ 
+ 
+ 
+ 
+ 
+b. 
+Explain why both atomic oxygen (O) and O2 have two unpaired electrons in their ground states. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Molecular oxygen has an excited state with no unpaired electrons, which emits light with a wavelength of 1270 nm 
+to return to the ground state.  What is the energy (in kJ mol-1) by which the excited state is higher than the ground 
+state? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 14 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 6  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+d. 
+Explain why O2 does not absorb light in the infrared region of the electromagnetic spectrum but O3 does. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Dioxygen can be oxidized to form dioxygenyl cation (O2
++) or reduced to form superoxide ion (O2
+–) or peroxide ion 
+(O2
+2–), while ozone can be reduced to form ozonide ion (O3
+–).  Among these six species, the O–O bond distances are 
+112 pm, 121 pm, 127 pm, 128 pm, 135 pm, and 154 pm.  Fill in the table below by assigning the correct distances to 
+the six species, and briefly justify your assignments.  (You may consider 127 and 128 pm as essentially the same in 
+this problem.) 
+Species 
+O–O distance, pm 
+Species 
+O–O distance, pm 
+O2 
+ 
+ 
+ 
+O2
++ 
+ 
+O3 
+ 
+O2
+– 
+ 
+O3
+– 
+ 
+O2
+2– 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 15  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 7  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+7. [14%] 
+Cesium lead iodide, CsPbI3, is of interest in solar photovoltaic cells.  It adopts a structure called a perovskite whose 
+cubic unit cell is shown below.  
+ 
+ 
+a. 
+Which element corresponds to the small gray spheres, which to the medium sized white spheres, and which to the 
+large black spheres? 
+ 
+ 
+b. 
+Describe the coordination number and the identity of the nearest neighbor atoms for each of the types of atoms in 
+CsPbI3. 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+The length of the unit cell edge in CsPbI3 is 628 pm.  What is the density of CsPbI3, in g cm-3? 
+ 
+ 
+
+ 
+Page 16 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 7  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+A mixed-metal oxide that is of interest in high-temperature superconductivity research, YBa2Cu3O7, adopts a structure 
+related to the perovskite structure.  One unit cell of this structure is shown below. 
+ 
+d. 
+Identify which elements correspond to the four types of spheres in 
+the diagram. 
+                        
+ 
+e. 
+Give the oxidation numbers of each element in YBa2Cu3O7. 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+The atoms represented by the black spheres have two different 
+coordination geometries in the structure shown.  What are the 
+geometries?  How is this observation related to the oxidation 
+numbers you determined in part e? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=  
+=
+=  
+=
+
+ 
+Page 17  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+Question 8  (page 1 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+8. [12%] 
+Many organic compounds react with elemental halogens such as Br2 or I2. 
+ 
+a. 
+Under appropriate conditions, 3-methylpentane will react with Br2 to form a single monobromide with the formula 
+C6H13Br.  Give appropriate reaction conditions and the structural formula of the product. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. 
+Cyclohexene forms different products when reacted with Br2 in water than when reacted in carbon tetrachloride.  
+Give structural formulas for the products formed in the two solvents, including stereochemistry if relevant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Benzene reacts with bromine in the presence of a Lewis acid catalyst.  Give an example of a suitable catalyst and the 
+structural formula of the major organic product of the reaction. 
+ 
+ 
+ 
+
+ 
+Page 18 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+Question 8  (page 2 of 2) 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+d. 
+Cyclopentanone reacts with excess bromine in the presence of base to give a tetrabromide.  Give a structural formula 
+for the product and explain why the reaction does not give good yields of a monobromide product even when only 
+one equivalent of Br2 is used. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Acetophenone, C6H5COCH3, reacts with excess iodine in the presence of aqueous sodium hydroxide to give a 
+yellow precipitate and a water-soluble organic species.  Give structural formulas for these two products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 19  
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025
+ 
+ 
+ 
+THIS PAGE IS LEFT INTENTIONALLY BLANK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 20 
+Property of ACS USNCO – Not for use as a USNCO National Exam after April 14, 2025 
+ 
+ 
+THIS PAGE IS LEFT INTENTIONALLY BLANK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+1 
+1. 
+a. M of CuSO4 • 5 H2O = 249.70, M of CuSO4 = 159.62 
+ 
+(5.00 g CuSO4 • 5 H2O)/249.70 g mol-1 = 2.002 ´ 10-2 mol CuSO4 • 5 H2O 
+ 
+2.002 ´ 10-2 mol ´ 159.62 g mol-1 = 3.196 g anhydrous CuSO4 
+b. Copper(II) is d9 and is expected to show (weak) absorption of light regardless of its 
+environment.  Dehydration of copper(II) sulfate results in a change of ligands from 
+water ligands to sulfate ligands.  The blue color is due to absorption of red light at the 
+extreme low-energy end of the visible spectrum.  The change to the (weaker-field) 
+sulfate ligands reduces the energy of the absorption into the near-infrared, so that visible 
+light is not absorbed at all.  This makes the solid appear white. 
+c. The maximum absorption of light occurs at 763 nm, so that is the most sensitive 
+wavelength to measure. 
+d. The fingerprint will scatter light, increasing the apparent absorbance and thus the 
+apparent amount of copper.  This will mean that less mass will be ascribed to water, 
+giving a smaller value of n. 
+e. 2 Cu2+(aq) + 5 I–(aq) ® 2 CuI(s) + I3
+–(aq) 
+f. The thiosulfate reacts with triiodide to form tetrathionate and iodide in the following 
+balanced equation: 
+2 S2O3
+2-(aq) + I3
+–(aq) ® S4O6
+2-(aq) + 3 I–(aq) 
+ 
+Since each 2 mol of Cu2+ produced one mol I3
+–, each mol of S2O3
+2- corresponds to one 
+mol of Cu2+: 
+(0.01720 L S2O3
+2-) ´ (0.0250 mol L-1) = 4.30 ´ 10-4 mol S2O3
+2- = 4.30 ´ 10-4 mol Cu2+ 
+{4.30 ´ 10-4 mol Cu(NO3)2}´(187.57 g mol-1) = 0.0807 g Cu(NO3)2 
+0.1000 g hydrated Cu(NO3)2 – 0.0807 g anhyd. Cu(NO3)2 = 0.0193 g H2O 
+(0.0193 g H2O)/(18.02 g mol-1) = 1.07 ´ 10-3 mol H2O 
+n = (1.07 ´ 10-3 mol H2O)/(4.30 ´ 10-4 mol Cu) = 2.50 
+ 
+ 
+ 
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+2 
+2. 
+a.
+ 
+ 
+ 
+b. If the molar solubility is S, then [Ca2+] = [C2O4
+2-] = S 
+Ksp = [Ca2+][C2O4
+2-] = S2 = 2.7 ´ 10-9 
+S = 5.2 ´ 10-5 mol L-1 
+c.  
+Ksp = [Ca2+][C2O4
+2-] = [0.100][C2O4
+2-] = 2.7 ´ 10-9 
+ 
+ 
+[C2O4
+2-] = 2.7 ´ 10-8 mol L-1 
+ 
+Since all the oxalate comes from the dissolving calcium oxalate, this is the solubility. 
+d. Since all the calcium oxalate has dissolved, [Ca2+] = 0.100 M.  Since it has just 
+dissolved, the Ksp expression is valid, and [C2O4
+2-] = 2.7 ´ 10-8 mol L-1 as in part b. 
+ 
+The total amount of oxalate, [C2O4
+2-] + [HC2O4
+–] + [H2C2O4], must add up to 0.100 M.  
+Since so little of it is C2O4
+2-, we will assume that almost all of it is doubly protonated, so 
+[H2C2O4] ≈ 0.100 M.  We can relate the concentration of C2O4
+2- to that of H2C2O4 by 
+combining the two Ka equilibria: 
+ 
+ 
+H2C2O4 ⇌ HC2O4
+– + H+ 
+Keq = Ka1 = 0.054 
+ 
+ 
+HC2O4
+–  ⇌ C2O4
+2- + H+ 
+Keq = Ka2 = 5.2 ´ 10-5 
+ 
+ 
+H2C2O4  ⇌ C2O4
+2- + 2 H+ 
+Keq = Ka1Ka2 = 2.8 ´ 10-6 
+[C"O#
+"$][H']"
+[H"C"O#]  = 
+[2.7 × 10-8][H']"
+[0.100]
+ = 2.8 ´ 10-6 
+[H+] = 3.2 M 
+pH = –log10[H+] = –0.51 
+ 
+At this pH, about 1 part in 60 of the oxalate is in the form of HC2O4
+–, so our assumption 
+about the concentration of H2C2O4 is indeed valid. 
+e. To achieve this concentration of H+, one would need to add 3.2 mol HCl, plus 0.2 mol 
+more to protonate the 0.1 mol of C2O4
+2-, for a total of 3.4 mol. 
+f. Addition of HC2O4
+– cannot increase the solubility of calcium oxalate, since it cannot 
+decrease the oxalate concentration by protonating it (since that would just replace the 
+oxalate with another mole of oxalate!).  It might be able to decrease the solubility by the 
+common ion effect.  To see if this is significant, we can calculate the concentration of 
+C2O4
+2- in the 0.100 M HC2O4
+– solution.  The major way this is formed is by 
+deprotonation of HC2O4
+– by itself: 
+ 
+ 
+C
+C
+O
+O
+O
+O
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+3 
+ 
+ 
+ 
+HC2O4
+– + H+ ⇌ H2C2O4 
+Keq = 1/Ka1 = 18.6 
+ 
+ 
+HC2O4
+– = ⇌ C2O4
+2- + H+ 
+Keq = Ka2 = 5.2 ´ 10-5 
+ 
+ 
+ 
+2 HC2O4
+–  ⇌ C2O4
+2- + H2C2O4 
+Keq = Ka2/Ka1 = 9.8 ´ 10-4 
+[C"O#
+2-][H"C"O#]
+[HC"O#
+$]"
+ = 
+[x ]"
+[0.100 – 2x]" = 9.8 ´ 10-4 
+[x] 
+[0.100 – 2x] = 0.031 
+x = 2.9 ´ 10-3 = [C2O4
+2-] 
+ 
+Since this is 56 times larger than the oxalate concentration when CaC2O4 is dissolved in 
+pure water (see part b), the common ion effect will significantly decrease the solubility 
+of calcium oxalate in the NaHC2O4 solution compared to pure water. 
+ 
+ 
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+4 
+3. 
+a. Reaction is DMEA(aq) + CH3COOH(aq) ® DMEAH+(aq) + CH3COO–(aq) 
+ 
+ 
+ 
+Keq = (Ka of CH3COOH)/(Ka of DMEAH+) = (1.8 ´ 10-5)/(6.0 ´ 10-10) 
+ 
+ 
+ 
+Keq = 3.0 ´ 104 
+ 
+ 
+ 
+∆G° = –RTln(Keq) = –(8.314 J mol-1 K-1)(298 K)ln(3.0 ´ 104) 
+ 
+ 
+ 
+∆G° = –25500 J mol-1 = –25.5 kJ mol-1 
+b. At the intersection point, 1.141x + 19.03 = 31.84, so x = 11.23 g DMEA 
+ 
+ 
+ 
+At this point, qrxn = –qH2O = –mCp∆T  
+ 
+ 
+ 
+= –(7.84 g + 107.17 g + 11.23 g)(4.184 J mol-1 K-1)(31.84 °C – 19.03 °C) 
+ 
+ 
+ 
+qrxn = –6766 J 
+ 
+ 
+ 
+∆H°rxn = qrxn/(mol reacted) 
+ 
+ 
+At this point the number of moles of both reagents are equal; mol CH3COOH reacted = 
+(7.84 g)/(60.05 g mol-1) = 0.131 mol. 
+ 
+ 
+ 
+∆H°rxn = –6766 J/(0.131 mol) = –51600 J mol-1 = –51.6 kJ mol-1 
+c.  
+∆G° = ∆H° – T∆S° 
+ 
+ 
+–25500 J mol-1 = –51600 J mol-1 – (298 K)∆S° 
+ 
+ 
+∆S° = –87.6 J mol-1 K-1 
+d. The reaction produces two charged particles from two neutral ones.  Charged species in 
+aqueous solution are strongly solvated by the water, which significantly constrains the 
+orientations of the solvent molecules around the ions.  This decreases the number of 
+ways the solvent molecules can be arranged and so decreases the entropy. 
+ 
+ 
+ 
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+5 
+4. 
+a. The Zn electrode is the anode and the Pb electrode is the cathode. 
+b. At 298 K the (standard) cell potential is (0.7887 V) – (0.000515 V K-1)(298 K) = 0.635 
+V.   
+E°(Pb2+/Pb) – E°(Zn2+/Zn) = E°cell 
+E°(Pb2+/Pb) – (–0.762 V) = 0.635 V 
+E°(Pb2+/Pb) = –0.127 V 
+c. ∆G° = –nFE° = –2(96500 J V-1 mol-1)(0.635 V) = –123 kJ mol-1 
+∆G° = ∆H° – T∆S° = –nFE° 
+E° = –∆H°/nF + (∆S°/nF)(T) 
+ 
+From the equation of the line,  
+∆H° = –nF(intercept) = –2(96500 J V-1 mol-1)(0.7887 V) = –152 kJ mol-1 
+∆S° = nF(slope) = 2(96500 J V-1 mol-1)(–0.000515 V K-1) = –99.4 J mol-1 K-1 
+d. The Pb2+ ion is much larger and hence less tightly solvated than the Zn2+ ion, so it has a 
+much more positive S° value (10.5 J mol-1 K-1 compared to –112.1 J mol-1 K-1 for 
+Zn2+(aq)).  Thus replacing Pb2+ in solution with Zn2+ results in a net ordering of the 
+solvent molecules and a net decrease in entropy. 
+e. Under nonstandard conditions, the Nernst equation indicates that  
+E = E° – (RT/nF)ln([Zn2+]/[Pb2+]) 
+E = E° – {(8.314 J mol-1 K-1)/(2 • 96500 J mol-1 V-1)}•ln(10)•T 
+E = E° – (9.92 ´ 10-5 V K-1)T 
+ 
+So the graph will be a line with the original y-intercept but with a slope that is smaller 
+(more negative) by 9.92 ´ 10-5 V K-1.  See blue line on the graph below. 
+ 
+ 
+ 
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+6 
+5. 
+ 
+(Note that while phases are shown here for the sake of completeness, they are not 
+required on the exam.) 
+ 
+a. Ba2+(aq) + OH–(aq) + CO2(g) ® BaCO3(s) + H2O(l) 
+b. MnO4
+–(aq) + Fe2+(aq) + H+(aq) ® Mn2+(aq) + Fe3+(aq) + H2O(l) 
+c. AgCl(s) + NH3(aq) ® Ag(NH3)2
++(aq) + Cl–(aq) 
+d. PCl3(l) + KClO3(s) ® POCl3(l) + KCl(s) 
+e. 
+ 
+f. 
+18F  ® 18O + b+ 
+ 
+ 
+CH3
+CH3
++ H+ + NO3–
+CH3
+CH3
+NO2
++ H2O
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+7 
+6. 
+a. In these nonpolar diatomic molecules, the only intermolecular forces are London 
+dispersion forces.  These interactions increase in strength with increasing numbers of 
+electrons and with increasing polarizability of the electrons.  O2 has two more electrons 
+than N2, so it is expected that its boiling point will increase.  The fact that F2 has a lower 
+boiling point must indicate that its electrons are less polarizable than those in O2.  This is 
+characteristic of fluorine-containing molecules and is due to F's extremely high 
+electronegativity resulting in a very low polarizability of its electrons. 
+b. The ground-state electron configuration of atomic O is 1s22s22p4.  Four electrons occupy 
+the three 2p orbitals, so by Hund's rule, the lowest-energy configuration has two half-
+filled orbitals with electron spins aligned. 
+ 
+In O2, the occupied molecular orbitals are (s2s)2(s*2s)2(s2p)2(p2px)2(p2py)2(p*2px)1(p*2py)1.  
+Again, with two electrons occupying the two degenerate π* orbitals, the lowest-energy 
+configuration has the two electrons with the same spin in different orbitals. 
+c. E = hc/l 
+ 
+E = (6.626 ´ 10-34 J s)(2.998 ´ 108 m s-1)/(1.270 ´ 10-6 m) = 1.564 ´ 10-19 J 
+ 
+This is the energy of one photon, the energy of a mole of photons is (1.564 ´ 10-22 kJ) ´ 
+(6.022 ´ 1023 mol-1) = 94.19 kJ mol-1 
+d. To absorb light in the IR, a molecule must have a molecular vibration that causes a 
+change in the molecule's dipole moment.  O2 has only one possible vibration (stretching 
+the O–O bond), but that does not cause the dipole moment to change from zero.  O3 has 
+three possible vibrations (symmetric stretch, asymmetric stretch, and bend).  Because of 
+the unsymmetrical distribution of charge in the molecule (see Lewis structures below), 
+all of these motions cause a change in the dipole moment, so O3 absorbs at three 
+fundamental frequencies in the IR region (701, 1042, and 1103 cm-1). 
+ 
+e. According to the MO configuration in part b, the bond order in O2 is 2.0.  Electrons are 
+added to or removed from π* orbitals, so O2
++ has a bond order of 2.5 while O2
+– has a 
+bond order of 1.5 and O2
+2- a bond order of 1.0.  The Lewis structure of O3 (see part d) 
+indicates that there are two O–O s bonds and one O–O π bond, so the overall bond order 
+is 1.5 (same as that of superoxide).  The extra electron in ozonide is added to a π* 
+orbital, reducing the overall π bond order from 1.0 to 0.5.  With the two s bonds, this 
+means that there are a total of 2.5 bonds distributed over the two O-O bonds, giving an 
+O–O bond order of 1.25.  Aligning the stated bond lengths with these bond orders gives 
+the assignments in the table. 
+Species 
+O–O distance, pm 
+Species 
+O–O distance, pm 
+O2 
+121 
+ 
+ 
+O2
++ 
+112 
+O3 
+127 
+O2
+– 
+128 
+O3
+– 
+135 
+O2
+2- 
+154 
+ 
+ 
+O
+O
+O
+O
+O
+O
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+8 
+7. 
+a. There are 3 white spheres per unit cell, so that must be I.  The coordination number of 
+the gray spheres is 12 while that of the black spheres is 6, which is most appropriate for 
+Cs and Pb, respectively. 
+ 
+Cs 
+I 
+Pb 
+ 
+b. Pb:  coordination = 6 I atoms 
+ 
+Cs:  coordination = 12 I atoms 
+ 
+I:  coordination = 2 Pb atoms [the Cs–I distances are longer] 
+c. Unit cell volume = (628 ´ 10-10 cm)3 = 2.48 ´ 10-22 cm3 
+ 
+One CsPbI3 formula unit per unit cell, mass = (720.8 g mol-1)/(6.022 ´ 1023 mol-1) = 
+1.197 ´ 10-21 g 
+ 
+Density = (1.197 ´ 10-21 g)/(2.48 ´ 10-22 cm3) = 4.83 g cm-3 
+d. The elements can be assigned by the stoichiometry of the types of spheres in the unit 
+cell. 
+ 
+e. Y = +3, Ba = +2, O = –2.  This means that Cu = +2.33 on average. 
+f. The Cu atoms in the middle of the unit cell are square pyramidal, while the Cu atoms on 
+the top and bottom faces are square planar.  The ratio of square pyramidal : square 
+planar sites is 2:1.  This corresponds to the two different oxidation states (two Cu(II), 
+one Cu(III)) in the formula.  Chemically, Cu(II) is often square pyramidal, while Cu(III) 
+forms shorter bonds and is almost always square planar.  So the different oxidation 
+states are localized in the different copper sites in the crystal. 
+ 
+ 
+=
+=
+=
+=  Ba
+=  Cu
+=  O
+=  Y
+
+2025 USNCO Part 2 SOLUTIONS 
+ 
+9 
+8. 
+a. 3-bromo-3-methylpentane will be formed selectively under free radical conditions.  
+These could be provided either by photolysis or by using a free radical initiator such as 
+benzoyl peroxide. 
+ 
+b. In water, the bromohydrin is formed, while the dibromide is formed in CCl4.  In both 
+cases, the compounds have a trans stereochemistry (both as racemic mixtures, only one 
+enantiomer of each compound is shown below). 
+ 
+c. The product is bromobenzene.  Typical Lewis acids used are AlBr3 or FeBr3. 
+ 
+d.  
+ 
+ 
+The reaction proceeds by rate-limiting deprotonation of the ketone at the alpha position 
+to form an enolate, which subsequently reacts with Br2 to form the bromoketone.  
+Because the monobromoketone is more acidic than cyclopentanone itself, the initial 
+product is more reactive than the starting material, leading to extensive polybromination.  
+The tetrabromide can be formed selectively because it no longer has any acidic alpha 
+hydrogens adjacent to the ketone. 
+e. This is the iodoform reaction.  After iodination of the methyl group (similar to the 
+bromination in part d), hydroxide can add to the electrophilic carbonyl and eject CI3
+–, a 
+(relatively) stable carbanion.  Protonation of this carbanion gives CHI3, which 
+precipitates as a yellow solid.  The other product is benzoic acid, which is immediately 
+deprotonated by the excess hydroxide, giving the soluble carboxylate salt sodium 
+benzoate: 
+ 
+ 
+Br
+Br
+OH
+Br
+Br
+Br
+Br
+Br
+Br
+Br
+O
+C
+H
+I
+I
+I
+O
+O

@@ -1,0 +1,960 @@
+[
+  {
+    "competition": "CChO",
+    "year": 2020,
+    "stage": "初赛（省级赛）",
+    "title": "2020 中国化学奥林匹克 · 初赛（省级赛）",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a3811.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2021,
+    "stage": "初赛（省级赛）",
+    "title": "2021 中国化学奥林匹克 · 初赛（省级赛）",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a4486.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2022,
+    "stage": "初赛（省级赛）第一场",
+    "title": "2022 中国化学奥林匹克 · 初赛（省级赛）第一场",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a4867.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2022,
+    "stage": "初赛（省级赛）第二场",
+    "title": "2022 中国化学奥林匹克 · 初赛（省级赛）第二场",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a4905.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2023,
+    "stage": "初赛（省级赛）",
+    "title": "2023 中国化学奥林匹克 · 初赛（省级赛）",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a5452.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2024,
+    "stage": "初赛（省级赛）",
+    "title": "2024 中国化学奥林匹克 · 初赛（省级赛）",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a6093.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2025,
+    "stage": "初赛（省级赛）",
+    "title": "2025 中国化学奥林匹克 · 初赛（省级赛）",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a6890.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2026,
+    "stage": "初赛（省级赛）",
+    "title": "2026 中国化学奥林匹克 · 初赛（省级赛）",
+    "status": "downloaded",
+    "source_url": "https://www.chemsoc.org.cn/notice/a7491.html",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2020,
+    "stage": "决赛理论第1场",
+    "title": "2020 中国化学奥林匹克 · 决赛理论第1场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "9道/项已索引，0道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2020,
+    "stage": "决赛理论第2场",
+    "title": "2020 中国化学奥林匹克 · 决赛理论第2场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "8道/项已索引，0道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2021,
+    "stage": "决赛理论第1场",
+    "title": "2021 中国化学奥林匹克 · 决赛理论第1场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "9道/项已索引，9道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2021,
+    "stage": "决赛理论第2场",
+    "title": "2021 中国化学奥林匹克 · 决赛理论第2场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "8道/项已索引，8道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2022,
+    "stage": "决赛理论第1场",
+    "title": "2022 中国化学奥林匹克 · 决赛理论第1场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "9道/项已索引，9道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2022,
+    "stage": "决赛理论第2场",
+    "title": "2022 中国化学奥林匹克 · 决赛理论第2场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "10道/项已索引，10道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2023,
+    "stage": "决赛理论第1场",
+    "title": "2023 中国化学奥林匹克 · 决赛理论第1场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "13道/项已索引，0道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2023,
+    "stage": "决赛理论第2场",
+    "title": "2023 中国化学奥林匹克 · 决赛理论第2场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "9道/项已索引，0道已关联参考答案。题面为第三方重排版；原分值等须与官方版本核对。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2024,
+    "stage": "决赛理论第一场",
+    "title": "2024 中国化学奥林匹克 · 决赛理论第一场",
+    "status": "downloaded",
+    "source_url": "https://cdn.gaokzx.com/172994461523711.pdf",
+    "notes": "10道/项已索引，10道已关联参考答案。题卷为扫描原卷；答案来自第三方命题评析，未经官方核验。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2024,
+    "stage": "决赛理论第二场",
+    "title": "2024 中国化学奥林匹克 · 决赛理论第二场",
+    "status": "downloaded",
+    "source_url": "https://chem.pre-u.org/collection-for-questions.html",
+    "notes": "10道/项已索引，10道已关联参考答案。暂仅取得第三方题答合编解析，原题页含解析；独立纯题卷待补。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2025,
+    "stage": "决赛理论",
+    "title": "2025 中国化学奥林匹克 · 决赛理论",
+    "status": "downloaded",
+    "source_url": "https://cdn.gaokzx.com/zixunzhan/第39届化学竞赛(决赛)第1场试题答案1761372347896.pdf",
+    "notes": "10道/项已索引，10道已关联参考答案。题目与参考答案按小问交错排列，题面标签展示题答合编原件。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2026,
+    "stage": "决赛理论",
+    "title": "2026 中国化学奥林匹克 · 决赛理论",
+    "status": "downloaded",
+    "source_url": "https://www.gk100.com/read_2528600252.htm",
+    "notes": "10道/项已索引，10道已关联参考答案。第三方图片转载；理论试题与评分答案分段切分。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2025,
+    "stage": "决赛实验",
+    "title": "2025 中国化学奥林匹克 · 决赛实验",
+    "status": "downloaded",
+    "source_url": "https://cdn.zizzs.com/zixunzhan/2025年第39届全国中学生化学竞赛决赛实验试题1761451851938.pdf",
+    "notes": "1道/项已索引，0道已关联参考答案。2025转载扫描仅含印刷页2–3，首张缺失，完整性待补。"
+  },
+  {
+    "competition": "CChO",
+    "year": 2026,
+    "stage": "决赛实验",
+    "title": "2026 中国化学奥林匹克 · 决赛实验",
+    "status": "downloaded",
+    "source_url": "https://www.gk100.com/read_2528600252.htm",
+    "notes": "3道/项已索引，0道已关联参考答案。按合成设计、实验操作、核磁谱分析三个顶层任务分切；共享背景与耗材保留。标准答案尚未获取。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2026,
+    "stage": "round-1",
+    "title": "2026 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "5道/项已索引，5道已关联参考答案。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2025,
+    "stage": "round-1",
+    "title": "2025 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "6道/项已索引，6道已关联参考答案。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2024,
+    "stage": "round-1",
+    "title": "2024 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "5道/项已索引，5道已关联参考答案。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2023,
+    "stage": "round-1",
+    "title": "2023 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "5道/项已索引，5道已关联参考答案。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2022,
+    "stage": "round-1",
+    "title": "2022 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "6道/项已索引，6道已关联参考答案。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2021,
+    "stage": "round-1",
+    "title": "2021 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "6道/项已索引，6道已关联参考答案。"
+  },
+  {
+    "competition": "UKChO",
+    "year": 2020,
+    "stage": "round-1",
+    "title": "2020 UKChO · round-1",
+    "status": "downloaded",
+    "source_url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+    "notes": "6道/项已索引，6道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2022,
+    "stage": "theoretical",
+    "title": "2022 IChO · theoretical",
+    "status": "downloaded",
+    "source_url": "https://icho2026.uz/problems",
+    "notes": "9道/项已索引，9道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2020,
+    "stage": "theoretical",
+    "title": "2020 IChO · theoretical",
+    "status": "downloaded",
+    "source_url": "https://icho2026.uz/problems",
+    "notes": "9道/项已索引，9道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2021,
+    "stage": "theoretical-host",
+    "title": "2021 IChO · theoretical-host",
+    "status": "downloaded",
+    "source_url": "https://www.icho2021.org/problems/icho2021/",
+    "notes": "9道/项已索引，9道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2026,
+    "stage": "theoretical",
+    "title": "2026 IChO · theoretical",
+    "status": "downloaded",
+    "source_url": "https://icho2026.uz/problems",
+    "notes": "9道/项已索引，9道已关联参考答案。官方按单题发布；各题可打开其独立原件，下方下载提供整卷汇编。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2026,
+    "stage": "practical",
+    "title": "2026 IChO · practical",
+    "status": "downloaded",
+    "source_url": "https://icho2026.uz/problems",
+    "notes": "3道/项已索引，3道已关联参考答案。官方按单题发布；各题可打开其独立原件，下方下载提供整卷汇编。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2025,
+    "stage": "theoretical",
+    "title": "2025 IChO · theoretical",
+    "status": "downloaded",
+    "source_url": "https://www.pianetachimica.it/olimpiadi/test_olimpiadi.htm",
+    "notes": "9道/项已索引，9道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2025,
+    "stage": "practical",
+    "title": "2025 IChO · practical",
+    "status": "downloaded",
+    "source_url": "https://www.pianetachimica.it/olimpiadi/test_olimpiadi.htm",
+    "notes": "3道/项已索引，3道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2024,
+    "stage": "theoretical",
+    "title": "2024 IChO · theoretical",
+    "status": "downloaded",
+    "source_url": "https://www.pianetachimica.it/olimpiadi/test_olimpiadi.htm",
+    "notes": "9道/项已索引，9道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2024,
+    "stage": "practical",
+    "title": "2024 IChO · practical",
+    "status": "downloaded",
+    "source_url": "https://www.pianetachimica.it/olimpiadi/test_olimpiadi.htm",
+    "notes": "2道/项已索引，2道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2023,
+    "stage": "theoretical",
+    "title": "2023 IChO · theoretical",
+    "status": "downloaded",
+    "source_url": "https://www.pianetachimica.it/olimpiadi/test_olimpiadi.htm",
+    "notes": "10道/项已索引，10道已关联参考答案。"
+  },
+  {
+    "competition": "IChO",
+    "year": 2023,
+    "stage": "practical",
+    "title": "2023 IChO · practical",
+    "status": "downloaded",
+    "source_url": "https://www.pianetachimica.it/olimpiadi/test_olimpiadi.htm",
+    "notes": "3道/项已索引，3道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2026,
+    "stage": "national-i",
+    "title": "2026 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，60道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2026,
+    "stage": "national-ii",
+    "title": "2026 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2026,
+    "stage": "national-iii",
+    "title": "2026 USNCO · national-iii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "2道/项已索引，2道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2025,
+    "stage": "national-i",
+    "title": "2025 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，60道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2025,
+    "stage": "national-ii",
+    "title": "2025 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2025,
+    "stage": "national-iii",
+    "title": "2025 USNCO · national-iii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "2道/项已索引，2道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2024,
+    "stage": "national-i",
+    "title": "2024 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，60道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2024,
+    "stage": "national-ii",
+    "title": "2024 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2024,
+    "stage": "national-iii",
+    "title": "2024 USNCO · national-iii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "2道/项已索引，1道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2023,
+    "stage": "national-i",
+    "title": "2023 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，60道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2023,
+    "stage": "national-ii",
+    "title": "2023 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2023,
+    "stage": "national-iii",
+    "title": "2023 USNCO · national-iii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "2道/项已索引，2道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2022,
+    "stage": "national-i",
+    "title": "2022 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，0道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2022,
+    "stage": "national-ii",
+    "title": "2022 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2022,
+    "stage": "national-iii",
+    "title": "2022 USNCO · national-iii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "2道/项已索引，2道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2021,
+    "stage": "national-i",
+    "title": "2021 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，60道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2021,
+    "stage": "national-ii",
+    "title": "2021 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2020,
+    "stage": "national-i",
+    "title": "2020 USNCO · national-i",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "60道/项已索引，60道已关联参考答案。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2020,
+    "stage": "national-ii",
+    "title": "2020 USNCO · national-ii",
+    "status": "downloaded",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "notes": "8道/项已索引，8道已关联参考答案。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2020,
+    "stage": "开放设计任务",
+    "title": "2020 全国大学生化工设计竞赛：碳五烷烃制备非燃料化工产品",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/index.php/a/xzzx/1566.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2021,
+    "stage": "开放设计任务",
+    "title": "2021 全国大学生化工设计竞赛：异丙醇生产与技术改造",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/index.php/a/xzzx/1567.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2022,
+    "stage": "开放设计任务",
+    "title": "2022 全国大学生化工设计竞赛：1,4-丁二醇生产与技术改造",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/a/sstz/1440.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2023,
+    "stage": "开放设计任务",
+    "title": "2023 全国大学生化工设计竞赛：己二腈清洁生产",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/index.php/a/sstz/1469.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2024,
+    "stage": "开放设计任务",
+    "title": "2024 全国大学生化工设计竞赛：1,3-丙二醇清洁生产",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/index.php/a/xzzx/1569.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2025,
+    "stage": "开放设计任务",
+    "title": "2025 全国大学生化工设计竞赛：二甲基亚砜清洁生产",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/index.php/a/xzzx/1574.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。 官网下载页第一个标注2025的链接实际为2024卷，已读取封面与任务核验，收录同页第二个正确2025文件。"
+  },
+  {
+    "competition": "CHEMDES",
+    "year": 2026,
+    "stage": "开放设计任务",
+    "title": "2026 全国大学生化工设计竞赛：苯乙烯清洁生产",
+    "status": "project_based",
+    "source_url": "https://iche.zju.edu.cn/a/sstz/1645.html",
+    "notes": "1道/项已索引，0道已关联参考答案。面向本科化工专业的相关赛事；开放式工程设计任务书，每年一个项目，无唯一标准答案，不能标成闭卷理论试卷。"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2020,
+    "stage": "national-iii",
+    "title": "USNCO 2020 national-iii problems",
+    "status": "not_held",
+    "notes": "Official archive explicitly lists Part III as omitted; no practical exam held.",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "resource_id": "usnco-2020-national-iii-problems"
+  },
+  {
+    "competition": "USNCO",
+    "year": 2021,
+    "stage": "national-iii",
+    "title": "USNCO 2021 national-iii problems",
+    "status": "not_held",
+    "notes": "Official archive explicitly lists Part III as omitted; no practical exam held.",
+    "source_url": "https://www.acs.org/education/olympiad/prepare-for-exams.html",
+    "resource_id": "usnco-2021-national-iii-problems"
+  },
+  {
+    "competition": "IChO",
+    "year": 2020,
+    "stage": "practical",
+    "title": "IChO 2020 practical exam not held",
+    "status": "not_held",
+    "notes": "Remote-access IChO edition; final competition consisted of theoretical examination only. Practical preparatory problems are distinct from an actual practical examination.",
+    "source_url": "https://icho2026.uz/problems",
+    "resource_id": "icho-2020-practical-not-held"
+  },
+  {
+    "competition": "IChO",
+    "year": 2021,
+    "stage": "practical",
+    "title": "IChO 2021 practical exam not held",
+    "status": "not_held",
+    "notes": "Remote-access IChO edition; final competition consisted of theoretical examination only. Practical preparatory problems are distinct from an actual practical examination.",
+    "source_url": "https://icho2026.uz/problems",
+    "resource_id": "icho-2021-practical-not-held"
+  },
+  {
+    "competition": "IChO",
+    "year": 2022,
+    "stage": "practical",
+    "title": "IChO 2022 practical exam not held",
+    "status": "not_held",
+    "notes": "Remote-access IChO edition; final competition consisted of theoretical examination only. Practical preparatory problems are distinct from an actual practical examination.",
+    "source_url": "https://icho2026.uz/problems",
+    "resource_id": "icho-2022-practical-not-held"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "theory",
+    "title": "第12届全国大学生化学实验邀请赛情况和实验笔试题解析",
+    "status": "source_only",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109116",
+    "resource_id": "CNUL-2021-theory-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "theory",
+    "title": "2021 全国大学生化学实验赛 theory 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109116",
+    "resource_id": "CNUL-2021-theory-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "inorganic-analytical",
+    "title": "第12届全国大学生化学实验邀请赛无机及分析化学实验试题解析",
+    "status": "source_only",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109117",
+    "resource_id": "CNUL-2021-inorganic-analytical-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "inorganic-analytical",
+    "title": "2021 全国大学生化学实验赛 inorganic-analytical 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109117",
+    "resource_id": "CNUL-2021-inorganic-analytical-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "physical",
+    "title": "第12届全国大学生化学实验邀请赛物理化学实验试题解析",
+    "status": "source_only",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109118",
+    "resource_id": "CNUL-2021-physical-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "physical",
+    "title": "2021 全国大学生化学实验赛 physical 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109118",
+    "resource_id": "CNUL-2021-physical-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "organic",
+    "title": "第12届全国大学生化学实验邀请赛有机化学实验试题解析",
+    "status": "source_only",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109119",
+    "resource_id": "CNUL-2021-organic-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2021,
+    "stage": "organic",
+    "title": "2021 全国大学生化学实验赛 organic 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202109119",
+    "resource_id": "CNUL-2021-organic-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2024,
+    "stage": "theory",
+    "title": "第13届全国大学生化学实验竞赛总决赛情况和实验理论试题解析",
+    "status": "partial",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.12461/PKU.DXHX202412126",
+    "resource_id": "CNUL-2024-theory-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2024,
+    "stage": "theory",
+    "title": "2024 全国大学生化学实验赛 theory 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.12461/PKU.DXHX202412126",
+    "resource_id": "CNUL-2024-theory-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2024,
+    "stage": "inorganic-analytical",
+    "title": "第13届全国大学生化学实验竞赛总决赛无机及分析化学实验试题解析",
+    "status": "partial",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.12461/PKU.DXHX202412138",
+    "resource_id": "CNUL-2024-inorganic-analytical-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2024,
+    "stage": "inorganic-analytical",
+    "title": "2024 全国大学生化学实验赛 inorganic-analytical 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.12461/PKU.DXHX202412138",
+    "resource_id": "CNUL-2024-inorganic-analytical-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2024,
+    "stage": "organic",
+    "title": "第13届全国大学生化学实验竞赛总决赛有机化学实验试题解析",
+    "status": "partial",
+    "notes": "作者/命题教师发表的赛题评析；比赛年与出版年分开，非独立完整原卷。原站自动采集返回human-captcha；出版商公开正文可获取的部分已存档。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.12461/PKU.DXHX202412125",
+    "resource_id": "CNUL-2024-organic-report"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2024,
+    "stage": "organic",
+    "title": "2024 全国大学生化学实验赛 organic 试题及评分材料（补充材料入口）",
+    "status": "access_limited",
+    "notes": "论文/目录显示支持材料入口，但本次直接抓取遇到human-captcha，未获取附件，不能将论文正文当作完整题目答案。",
+    "source_url": "https://www.dxhx.pku.edu.cn/CN/10.12461/PKU.DXHX202412125",
+    "resource_id": "CNUL-2024-organic-exam"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2020,
+    "stage": "coverage",
+    "title": "2020 全国大学生化学实验赛年度覆盖说明",
+    "status": "not_applicable",
+    "notes": "第12届原定2020年7月，因疫情延期至2021年；不存在独立2020决赛卷。",
+    "source_url": "https://news.bnu.edu.cn/zx/zhxw/2f1fd28c730840c09c65aaff0d8bc0cb.htm",
+    "resource_id": "CNUL-2020-coverage"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2022,
+    "stage": "coverage",
+    "title": "2022 全国大学生化学实验赛年度覆盖说明",
+    "status": "not_applicable",
+    "notes": "此系列非年赛；未发现独立2022全国决赛卷。",
+    "source_url": "https://news.bnu.edu.cn/zx/zhxw/2f1fd28c730840c09c65aaff0d8bc0cb.htm",
+    "resource_id": "CNUL-2022-coverage"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2023,
+    "stage": "coverage",
+    "title": "2023 全国大学生化学实验赛年度覆盖说明",
+    "status": "not_applicable",
+    "notes": "此系列非年赛；第13届在2024年举行，未发现独立2023全国决赛卷。",
+    "source_url": "https://news.bnu.edu.cn/zx/zhxw/2f1fd28c730840c09c65aaff0d8bc0cb.htm",
+    "resource_id": "CNUL-2023-coverage"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2025,
+    "stage": "coverage",
+    "title": "2025 全国大学生化学实验赛年度覆盖说明",
+    "status": "not_applicable",
+    "notes": "此系列每两年一届；第13届为2024年、第14届为2026年。",
+    "source_url": "https://news.bnu.edu.cn/zx/zhxw/2f1fd28c730840c09c65aaff0d8bc0cb.htm",
+    "resource_id": "CNUL-2025-coverage"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2026,
+    "stage": "final",
+    "title": "第14届全国大学生化学实验竞赛总决赛已举办",
+    "status": "source_only",
+    "notes": "2026年8月10–13日北师大举行。已核验赛事；本次检索未找到可公开获取的完整题目与评分标准，不标为未举办。",
+    "source_url": "https://news.bnu.edu.cn/zx/zhxw/2f1fd28c730840c09c65aaff0d8bc0cb.htm",
+    "resource_id": "CNUL-2026-final"
+  },
+  {
+    "competition": "CNUL",
+    "year": 2026,
+    "stage": "rules",
+    "title": "全国大学生化学实验竞赛章程（2026年3月）",
+    "status": "access_limited",
+    "notes": "官网PDF已发现，下载端TLS证书链验证失败，未保存；未关闭证书验证。",
+    "source_url": "https://www.chem.pku.edu.cn/rice/docs/2026-03/1f8c56bdeac64313834665150faaba6b.pdf",
+    "resource_id": "CNUL-2026-rules"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2025,
+    "stage": "rules",
+    "title": "全国大学生化学实验创新设计大赛章程",
+    "status": "downloaded",
+    "notes": "本科自选实验项目赛：新创、改进、科普、数智化；以论文、视频、答辩和演示评审，无全国统一闭卷整卷和唯一标准答案。",
+    "source_url": "https://cid.nju.edu.cn/UpLoad/ueditor/jsp/upload/file/20250311/1741681477573063661.pdf",
+    "resource_id": "CNIC-2025-rules"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2020,
+    "stage": "project",
+    "title": "2020 全国大学生化学实验创新设计大赛资料入口",
+    "status": "not_applicable",
+    "notes": "第二届原定2020，因疫情延期至2021。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://ce.sysu.edu.cn/hxsyjs2021/notice/1387629.htm",
+    "resource_id": "CNIC-2020-coverage"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2021,
+    "stage": "project",
+    "title": "2021 全国大学生化学实验创新设计大赛资料入口",
+    "status": "source_only",
+    "notes": "第二届总决赛青岛科技大学，2021年8月。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://hx.qust.edu.cn/info/1018/7430.htm",
+    "resource_id": "CNIC-2021-coverage"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2022,
+    "stage": "project",
+    "title": "2022 全国大学生化学实验创新设计大赛资料入口",
+    "status": "source_only",
+    "notes": "第三届总决赛厦门大学，2022年8月。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://hxsyzx.xmu.edu.cn/xwdt/syjs/2.htm",
+    "resource_id": "CNIC-2022-coverage"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2023,
+    "stage": "project",
+    "title": "2023 全国大学生化学实验创新设计大赛资料入口",
+    "status": "source_only",
+    "notes": "第四届2023年。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://hgxy.cqu.edu.cn/__local/8/7E/38/8710617A278D3880DF9DD72C608_70C1D527_BA1F4.pdf",
+    "resource_id": "CNIC-2023-coverage"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2024,
+    "stage": "project",
+    "title": "2024 全国大学生化学实验创新设计大赛资料入口",
+    "status": "source_only",
+    "notes": "第五届数智化实验赛道全国总决赛2024年12月先行完成；其他赛道2025年举行。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://cid.nju.edu.cn/UpLoad/ueditor/jsp/upload/file/20250520/1747720425562021305.pdf",
+    "resource_id": "CNIC-2024-coverage"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2025,
+    "stage": "project",
+    "title": "2025 全国大学生化学实验创新设计大赛资料入口",
+    "status": "source_only",
+    "notes": "第五届总决赛兰州大学，2025年8月21–23日。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://chem.jlu.edu.cn/info/1007/17103.htm",
+    "resource_id": "CNIC-2025-coverage"
+  },
+  {
+    "competition": "CNIC",
+    "year": 2026,
+    "stage": "project",
+    "title": "2026 全国大学生化学实验创新设计大赛资料入口",
+    "status": "source_only",
+    "notes": "2026年启动第六届报名，官方校方通知记载华中赛区2027年4月；不虚构2026统一整卷。 开放项目赛，统一题目/标准答案不适用。",
+    "source_url": "https://jwc.jxnu.edu.cn/Portal/ArticlesView.aspx?id=13787",
+    "resource_id": "CNIC-2026-coverage"
+  },
+  {
+    "competition": "IChTo",
+    "year": 2025,
+    "stage": "scope",
+    "title": "IChTo 参赛对象核验：高中生开放问题辩论赛",
+    "status": "source_only",
+    "notes": "承办方明确面向高中生，不能作为本科化学竞赛。作为国外学生赛事补充线索，开放研究问题通常无唯一官方标准答案。",
+    "source_url": "https://ichto2025.unibuc.ro/what-is-ichto/",
+    "resource_id": "ICHTO-scope"
+  },
+  {
+    "competition": "CChO",
+    "year": 2020,
+    "stage": "决赛实验",
+    "status": "not_held",
+    "notes": "中国化学会确认本届取消实验，改为两场综合理论考试。",
+    "source_url": "https://www.chemsoc.org.cn/a3859.html"
+  },
+  {
+    "competition": "CChO",
+    "year": 2024,
+    "stage": "决赛实验",
+    "status": "missing",
+    "notes": "官方赛事报道确认举办实验考试；本次未取得可靠完整题卷与答案。",
+    "source_url": "https://www.chemsoc.org.cn/news/internal/a6170.html"
+  },
+  {
+    "competition": "CChO",
+    "year": 2025,
+    "stage": "决赛实验原件完整性",
+    "status": "partial",
+    "notes": "已归档转载PDF印刷第2–3页，首张缺失；标准答案未取得。",
+    "source_url": "https://cdn.zizzs.com/zixunzhan/2025年第39届全国中学生化学竞赛决赛实验试题1761451851938.pdf"
+  }
+]

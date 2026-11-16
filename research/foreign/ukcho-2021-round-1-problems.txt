@@ -1,0 +1,1060 @@
+1 
+53rd INTERNATIONAL  
+CHEMISTRY OLYMPIAD 
+2021 
+UK Round One  
+STUDENT QUESTION BOOKLET 
+* * * * *
+■
+The time allowed is two hours.
+■
+Attempt all six questions.
+■
+Write your answers in the student answer booklet.
+■
+Write only the essential steps of your calculations in the answer booklet.
+■
+Always give the appropriate unit and number of significant figures.
+■
+The final pages of this question booklet include a copy of the periodic table and
+some useful physical constants and quantities.
+■
+Do NOT write anything in the right-hand margin of the answer booklet.
+■
+The marks available for each question are shown below. These may be helpful
+when dividing your time between questions.
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+9 
+9 
+16 
+13 
+21 
+17 
+85 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward.
+This resource was downloaded from https://rsc.li/2WmGF2V
+
+2 
+ 
+1. This question is about life on Venus 
+In 2020, a controversial research paper 
+announced the detection of phosphine 
+(PH3) in the atmosphere of Venus. On 
+Earth, phosphine typically comes from 
+either biological processes or industrial 
+processes and other than this is not 
+produced ‘naturally’. Its possible presence 
+on Venus indicates a potential biological 
+origin, although the conditions on Venus are 
+very different to Earth, with temperatures up 
+to 698 K, pressures up to 95 atm and clouds 
+of sulfuric acid.   
+ 
+(a) 
+Draw the shape of phosphine.    
+Phosphine does not accumulate in Earth’s atmosphere as it reacts with oxygen to produce 
+phosphoric acid (H3PO4). The atmosphere of Venus does not contain oxygen. 
+(b) 
+(i) 
+State the oxidation states of phosphorus in phosphine and phosphoric acid.    
+ 
+(ii) 
+Write an equation for the reaction of phosphine with oxygen to make phosphoric 
+acid. 
+There are several methods to produce phosphine that do not require living organisms. These 
+processes do not occur naturally on the Earth’s surface because the starting materials are not 
+found or the conditions are not suitable. 
+Write equations for the following reactions which all produce phosphine.  
+(c) 
+(i) 
+The reduction of phosphorus trichloride with lithium hydride. 
+ 
+(ii) 
+The hydrolysis of calcium phosphide.    
+ 
+(iii) The high temperature disproportionation of phosphorous acid (H3PO3). 
+Another simple molecule often detected in space is methanal. Methanal is highly reactive, so 
+any produced on Venus would be quickly consumed. Phosphine reacts with methanal under 
+acidic conditions.  
+In the presence of sulfuric acid, phosphine and methanal react to give a salt of molar mass 
+406.272 g mol−1. The cation of this salt has an overall charge of +1. The 13C NMR of this salt 
+has only one signal. The 1H NMR of this salt shows two signals, one of which exchanges with 
+D2O. 
+(d) 
+(i) 
+Write the formula of the anion. 
+ 
+(ii) 
+Draw the structure of the cation. 
+ 
+ 
+ 
+
+3 
+ 
+2. This question is about capturing carbon 
+Carbon capture is a key technology for 
+reducing greenhouse gas emissions. 
+One of the most promising carbon 
+capture technologies, calcium looping, 
+involves cycling between calcium 
+carbonate and calcium oxide to capture 
+CO2. The calcium carbonate used in 
+this process most commonly comes 
+from limestone. 
+The captured carbon dioxide can then 
+either be stored underground or used, 
+for example in producing synthetic 
+fuels.  
+ 
+In calcium looping, CO2 is captured from flue (exhaust) gases. A diagram of this cycle is 
+shown below. 
+ 
+(a) 
+Write an equation for the main reaction in the carbonator. 
+(b) 
+Write an equation for the main reaction in the calciner. 
+One of the impurities in flue gases is sulfur dioxide from the combustion of sulfur-containing 
+fuels. This can react in the carbonator to form an unreactive impurity, which can accumulate 
+over successive cycles and reduce the efficiency of the process. 
+(c) 
+Write an equation for the formation of sulfur dioxide from the combustion of hydrogen 
+sulfide (H2S). 
+(d) 
+Write an equation for the reaction of sulfur dioxide with calcium carbonate and oxygen 
+to give two products. 
+ 
+ 
+ 
+
+4 
+ 
+Direct air capture is a process which takes carbon dioxide directly from the air therefore 
+avoiding any sulfur dioxide contamination. However, this process can be expensive to run due 
+to the energy required to overcome thermodynamic barriers. 
+A scheme for a direct air capture process based on calcium looping is shown below.  
+ 
+(e) 
+Write an equation for the reaction in the pellet reactor. 
+(f) 
+Calculate the standard enthalpy change for the reaction which occurs in the air 
+contactor. 
+Standard enthalpy change of formations, ΔfH
+⦵, at 298 K in kJ mol−1: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CaO 
+−635.1 
+CaCO3 
+−1206.9 
+Ca(OH)2 
+−986.1 
+KOH 
+−424.8 
+K2CO3 
+−1151.2 
+CO2 
+−393.5 
+H2O 
+−285.8 
+(g) 
+Tick the correct statement that describes the standard enthalpy change at 298 K for the 
+sum of the reactions in the four reactors.    
+(h) 
+Tick the two correct statements about the entropy changes in this process. 
+ 
+ 
+ 
+
+5 
+ 
+3. This question is about levulinic acid 
+In 2008 Arsenal F.C. midfielder Mathieu Flamini founded GF 
+Biochemicals, which was the first company to mass produce 
+levulinic acid. Levulinic acid is a versatile chemical that can be 
+used to make pharmaceuticals, plastics and fuels. Levulinic 
+acid can be made from renewable resources such as the sugar 
+fructose. 
+ 
+ 
+(a) 
+Tick the names of the functional groups present in levulinic acid in the answer booklet.  
+(b) 
+Give the molecular formula for levulinic acid. 
+Fructose exists in equilibrium between its linear form and its cyclic form. This equilibrium 
+mixture can be converted to levulinic acid as follows.  
+ 
+(c) 
+Circle in the answer booklet the two atoms in the linear form of fructose which become 
+bonded in the cyclic form. 
+Elimination of a molecule of water from the cyclic form of 
+fructose forms compound A and several other 
+trisubstituted alkenes. The alkene is formed due to loss of 
+a hydrogen and a hydroxyl group (OH group) from 
+adjacent carbon atoms as shown on the right. 
+  
+If the alkene that is formed has an OH substituent, then it 
+can isomerise as shown on the right. 
+ 
+(d) 
+(i) 
+Draw the structure of alkene A, which can isomerise to form B. 
+ 
+(ii) 
+Draw the structure of the other trisubstituted alkenes that could also be formed. 
+Compound B can be converted into compound E via the elimination of two more molecules of 
+water. This can occur via intermediate compounds C or D. 
+ 
+ 
+
+6 
+ 
+(e) 
+Draw the structure of compounds C and D. 
+Compound E can by hydrolysed to levulinic acid and by-product compound F. 
+(f) 
+Draw the structure of compound F.  
+The hydrogenation of levulinic acid gives a green and sustainable route to several different 
+chemicals used in perfumes and flavouring. One catalyst for this hydrogenation is the 
+octahedral complex of formula [RuH2(CO)(PPh3)3]. This complex is named 
+dihydridocarbonyltris(triphenylphosphine)ruthenium(Z), where Z is the oxidation state of 
+ruthenium. 
+(g) 
+State the value of Z.  
+ 
+The stereochemistry of the catalyst 
+[RuH2(CO)(PPh3)3] is shown. 
+(h) 
+Draw the other stereoisomers of this complex. Tick to indicate whether the stereoisomer 
+shown and each stereoisomer you have drawn has an enantiomer. For a pair of 
+enantiomers, only draw one of the pair.  
+This catalyst can be analysed by 31P NMR. 31P is 100% abundant and is a spin ½ nucleus like 
+1H. The 31P NMR is run in a way that means no coupling between 31P and 1H is observed. The 
+only coupling which is observed is between 31P nuclei in different environments.  
+(i) 
+What is observed in the 31P NMR spectrum of this catalyst? Tick the correct answer. 
+In the 1H NMR spectrum, the two hydrides appear at negative chemical shifts and have 
+complex coupling patterns. The couplings observed for these signals arise from coupling 
+through two bonds to either 1H or 31P, (i.e. either 1H–Ru–1H, or 1H–Ru–31P) and are measured 
+in Hz. The coupling constant between two nuclei that are trans is usually larger than between 
+two nuclei that are cis.  
+ 
+The signal at −6.83 ppm is a ‘triplet of doublets of doublets’. The signal is split into a triplet 
+with the largest coupling constant of 31 Hz, further split into a doublet with coupling constant 
+of 15 Hz, further split into a doublet with coupling constant of 6 Hz.  
+The signal at −8.80 ppm is a ‘doublet of triplets of doublets’. The signal is split into a doublet 
+with the largest coupling constant of 74 Hz, further split into a triplet with coupling constant of 
+28 Hz, further split into a doublet with coupling constant of 6 Hz. 
+(j) 
+Complete the table to assign the values of the coupling constants in Hz to the following 
+pairs of nuclei (HJ–HK, HJ–PW, HJ–PX, HJ–PY, HK–PW, HK–PX, HK–PY). 
+ 
+ 
+
+7 
+ 
+Q4 This question is about ‘social distancing’ within molecules 
+The COVID-19 pandemic has introduced us to social 
+distancing. This question is about how the arrangement of 
+molecules in 3D space often results in parts of those 
+molecules being as far from each other as possible. 
+In the molecule ethane, rotation around the central C–C 
+bond means that the relative position of the hydrogen atoms 
+in 3D space can change. This rotation happens rapidly at 
+room temperature. The different 3D arrangements are 
+called conformers (or conformational isomers).  
+ 
+ 
+These conformers are represented using a Newman projection. A Newman projection is a 
+view of the molecule along the C–C bond represented by a circle. The bonds to hydrogen 
+made by the carbon atom at the front are shown in front of the circle. The bonds made to 
+hydrogen by the carbon atom at the back are shown behind the circle. This view clearly 
+shows the angle between the C−H bonds on the front carbon and the C−H bonds on the back 
+carbon. This angle is called the dihedral angle, and the dihedral angle θ between H’ and H’’ is 
+shown above. In ethane, the eclipsed conformation where θ = 0° is higher in energy than the 
+staggered conformation where θ = 60°, as the hydrogens are less ‘socially distanced’. 
+ 
+(a) 
+The relative energy of the different conformations for a complete 360° rotation around 
+the C–C bond in ethane is shown on the diagram above. For the five dihedral angles 
+shown on the graph, indicate whether ethane is in an eclipsed conformation (write E in 
+the box), or a staggered conformation (write S in the box). 
+ 
+ 
+
+8 
+ 
+Although θ can take any value between 0° and 360° for rotation around a bond, we often 
+consider just six conformations (three staggered and three eclipsed). The diagram shows the 
+relative energy of the conformations for rotation around the C2−C3 bond in methylbutane. 
+ 
+(b) 
+Match the six Newman projections of methylbutane (1−6) with the points A−F on the 
+energy diagram. Write only one number in each box. 
+The energy difference between conformations can be used to approximate the percentage of 
+time a molecule will be found in each conformation by treating the interconversion between 
+conformations as equilibria. 
+For butane, we will assume that the molecule 
+is always in one of the three staggered 
+conformations: gauche 1 (G1), antiperiplanar 
+(AP), or gauche 2 (G2). 
+ 
+The equilbrium  G1  ⇋  AP  has a ΔG
+⦵ = −3.63 kJ mol−1 at 298 K. 
+ΔG
+⦵ = −RT ln K 
+(c) 
+(i) 
+Complete the table in the answer booklet by calculating the Gibbs energy 
+change, ΔG
+⦵, and the equilibrium constant, K, for each of the three equilibria at 
+298 K.  
+ 
+G1  ⇋  AP 
+AP  ⇋  G2 
+G2  ⇋  G1 
+ 
+(ii) 
+Hence, calculate the percentage of time that butane is in the anti-periplanar 
+conformer AP. 
+
+9 
+ 
+ 
+ 
+ 
+Acetylcholine is a neurotransmitter 
+released by motor neurons to activate 
+muscles. 
+ 
+Six Newman projections of different 
+conformations of acetylcholine are shown. 
+The ethanoate ester group is abbreviated 
+as OAc and the methyl groups are 
+abbreviated as Me. 
+ 
+(d) 
+Group these conformations into sets of equal energy.  
+For example you could write:  
+(7 = 8 = 9) 
+(10 = 11)  
+12 
+Include all conformations in your answer.  
+Although acetylcholine can adopt many conformations in solution, when it binds in muscle 
+receptors it has to adopt a particular conformation. Drugs to treat various diseases seek to 
+block acetylcholine binding.  
+Many of these drugs are more rigid molecules, where the angle between the (NMe3)+ and the 
+OAc groups cannot freely change. The drugs which most closely resemble the 3D shape of 
+bound acetylcholine usually bind most strongly in the receptors and so are the most effective 
+blockers. 
+ 
+The cyclopropane rings in molecules W, X, Y and Z are planar and have very little 
+conformational flexiblity. W, X, Y and Z were investigated as acetylcholine blockers. 
+(e) 
+For each conformation of acetylcholine 7 – 12, tick whether they are mimicked by any 
+of the cyclopropanes W, X, Y or Z. Some conformations may have more than one 
+mimic and some conformations may have no mimics.  
+
+10 
+ 
+5. This question is about Donald Trump and the coronavirus 
+Donald Trump suggested several strategies for preventing 
+or treating a coronavirus infection, which medical experts 
+have disagreed with. These include shining UV light inside 
+the body and injecting disinfectant. In May 2020, Trump said 
+that he was taking hydroxychloroquine. In October 2020, it 
+was reported that he had tested positive for COVID-19. 
+ 
+ 
+Hydroxychloroquine may be synthesised by the following route. Note in this question not all 
+by-products are shown in the reaction schemes.  
+ 
+(a)  
+Give the IUPAC name for starting material A.  
+(b) 
+Draw the structures of B and C.   
+(c) 
+Tick in the answer booklet the reagents/conditions required to perform step (i). 
+Br2 / UV light 
+KMnO4 
+H2 / Ni catalyst 
+acidified K2Cr2O7 
+OsO4 
+ethylamine 
+O2 / UV light 
+H2SO4 catalyst 
+Another starting material in the synthetic route is benzene.  
+ 
+(d) 
+Draw the structures of D, E and F.   
+
+11 
+ 
+Reagent Z is synthesised as shown below. When treated with a base diethyl malonate forms 
+anion V−. When treated with an acid triethyl orthoformate forms cation W+. Cation W+ 
+fragments, losing ethanol to give cation X+. Anion V− and cation X+ then combine to form 
+intermediate Y, which loses a further molecule of ethanol to form Z. 
+ 
+(e) 
+Draw the structures of anion V−, cation W+, cation X+, intermediate Y, and reagent Z.   
+The final part of the synthesis is shown below. 
+ 
+(f) 
+Draw the structures of G, H, I, and J. 
+ 
+ 
+
+12 
+ 
+6. This question is about fluorides of xenon 
+At the time of its discovery by Scottish 
+chemist Sir William Ramsay, the noble gas 
+xenon was considered to be inert. It has 
+since been discovered that xenon will react 
+with strong oxidants. For example, xenon 
+reacts with fluorine gas, forming a series of 
+fluorides, XeF2, XeF4 and XeF6. 
+ 
+(a) 
+Write an equation for the formation of xenon tetrafluoride. 
+The structure of xenon tetrafluoride has six electron pairs on xenon and therefore the 
+structure is based on an octahedral configuration. 
+(b) 
+Draw a dot-and-cross structure of xenon tetrafluoride. 
+(c) 
+Draw the two possible three-dimensional arrangements of the electron pairs on xenon in 
+xenon tetrafluoride and tick the one adopted.  
+(d) 
+Draw the possible three-dimensional arrangements of the five electron pairs on xenon in 
+xenon difluoride and tick the one adopted. 
+The kinetics of the formation of xenon difluoride from xenon and fluorine has been studied 
+under various conditions. The following table shows the instantaneous reaction rates at 
+120 °C for different initial concentrations of the reagents. Assume the volume of the reaction 
+vessel is constant. 
+ 
+ 
+ 
+ 
+ 
+𝑛Xe 
+/ mol 
+𝑛F2 
+/ mol 
+ 105 × rate 
+/ mol dm−3 s−1 
+1.0 
+5.0 
+3.6 
+1.0 
+10.0 
+3.6 
+2.0 
+10.0 
+7.2 
+(e) 
+What is the rate equation for the formation of xenon difluoride? 
+ 
+ 
+ 
+
+13 
+ 
+The Arrhenius equation describes the relationship between the rate constant and 
+temperature.  
+𝑘= 𝐴 e−𝐸𝑎/𝑅𝑇 
+The uncatalysed reaction between xenon and fluorine to form XeF2 at a temperature T  has a 
+rate constant k, with collision frequency factor A  and activation energy Ea. R  is the universal 
+gas constant.  
+When a nickel difluoride catalyst is added to the reaction mixture, the rate constant changes 
+to kcat, with a different collision frequency Acat and activation energy Ecat. It is found that the 
+catalysed reaction is 13 times faster at 120 °C and 23 times faster at 100 °C. 
+The change in activation energy ΔE = Ea − Ecat. 
+(f) 
+Write an expression for the ratio kcat/k  in terms of T, A, Acat, ΔE  and any constants. 
+(g) 
+Calculate the change in activation energy, ΔE, in kJ mol−1, assuming that the collision 
+frequency factors do not depend on temperature. 
+The rate-determining step in the uncatalysed formation of xenon difluoride is the reaction of 
+atomic fluorine with xenon, F(g) + Xe(g) → XeF(g). A more refined kinetic theory expresses the 
+rate constant of this reaction as: 
+𝑘= (𝑇
+𝜇)
+1
+2
+e−𝐸𝑎/𝑅𝑇              
+where   is a constant and µ  is a reduced mass, neither of which depend on temperature. 
+The rate constant has the following values at different temperatures: 
+T / °C 
+50 
+70 
+100 
+130 
+170 
+k / dm3 mol−1 s−1 
+1.55 × 10−10 
+1.19 × 10−9 
+1.70 × 10−8 
+1.63 × 10−7 
+2.07 × 10−6 
+ 
+(h) 
+Determine the activation energy of this reaction using the data tabulated above. 
+When xenon was discovered in 1898 it was assigned a relative atomic mass of 128, which is 
+mistakenly reported as 28 in the picture at the start of the question. The relative atomic mass 
+has since been refined to its current value of 131.29.  
+The rate constant depends on the reduced mass, 𝜇, where: 
+      1
+𝜇=
+1
+𝑀Xe
++ 1
+𝑀F
+        
+𝑀Xe and 𝑀F are the atomic masses of xenon and fluorine in g mol−1 as given in the periodic 
+table at the end of the paper.  
+(i) 
+Determine the rate constant for the reaction F + Xe → XeF at 100 °C if the atomic mass 
+of xenon was 28 g mol−1. Assume all other parameters remained unchanged. 
+ 
+ 
+ 
+
+14 
+ 
+Acknowledgements & References 
+ 
+Q1 The image is © Dr Ben Pilgrim 
+Phosphine gas in the cloud decks of Venus Nature Astronomy, 2020, 
+https://doi.org/10.1038/s41550-020-1174-4  
+ 
+Q2 The image is © Science Photo Library 
+A Process for Capturing CO2 from the Atmosphere Joule, 2018, 2, 1573-1594. 
+https://doi.org/10.1016/j.joule.2018.05.006 
+ 
+Q3 The image is © Getty Images 
+Clean Production of Levulinic Acid from Fructose and Glucose in Salt Water by 
+Heterogeneous Catalytic Dehydration ACS Omega, 2020, 5, 14275-14282. 
+https://doi.org/10.1021/acsomega.9b04406 
+Solid acid catalyzed synthesis of furans from carbohydrates Catalysis Reviews, 2016, 
+58, 36-112. 
+https://doi.org/10.1080/01614940.2015.1099894 
+Combining Sustainable Synthesis of a Versatile Ruthenium Dihydride Complex with 
+Structure Determination Using Group Theory and Spectroscopy Journal of Chemical 
+Education, 2017, 94, 928-931. 
+https://doi.org/10.1021/acs.jchemed.6b00874 
+ 
+Q4 The image is © Shutterstock 
+ 
+Q5 The image is © Dr Ben Pilgrim 
+https://www.bbc.co.uk/news/world-us-canada-52399464 
+ 
+Q6 The image is © Dr George Trenins. The original public domain image was a caricature of 
+Ramsay by Leslie Ward, in Vanity Fair in 1908. Ramsay was pointing to krypton in the 
+original image that contained the wrong relative atomic mass. The image was edited for this 
+paper so that Ramsay was pointing to xenon, but we did not correct the relative atomic 
+mass. 
+Data is adapted from On the xenon-fluorine reactions Journal of Inorganic and Nuclear 
+Chemistry, 1976, 28, 173-178. 
+https://doi.org/10.1016/0022-1902(76)80622-7 
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike  CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as 
+they credit you and license their new creations under the identical terms. 
+ 
+Authors of 2020 UK Round One Paper (listed alphabetically) 
+Dr Helen Alonzi (St Bartholomew’s School)  
+Peter Bolgar (St Catharine’s College, University of Cambridge) 
+Chloe Francis (Royal Society of Chemistry) 
+Mark Jordan (Royal Society of Chemistry) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (Corpus Christi College, University of Oxford) 
+Dr Ben Pilgrim (University of Nottingham) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Richard Simon (Element Energy) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Dr Alex Thom (Girton College, University of Cambridge) 
+Dr George Trenins (ETH Zürich) 
+ 
+ 
+
+15 
+ 
+Physical Constants & Formulae 
+ 
+ 
+ 
+Avogadro’s constant 
+NA 
+6.02  1023 mol−1 
+molar gas constant 
+R 
+8.314 J K−1 mol−1 
+Faraday constant 
+F 
+96485 C mol−1 
+Planck constant 
+h 
+6.626  10−34 m2 kg s−1 
+speed of light in vacuum 
+c 
+2.998  108 m s−1 
+mass of electron 
+me 
+9.109  10−31 kg 
+ 
+ 
+ 
+1 nm = 1  10−9 m 
+1 Å = 1  10−10 m 
+0 C = 273 K 
+ 
+ 
+ 
+ΔG
+⦵ = ΔH
+⦵ −TΔS
+⦵ 
+ΔG
+⦵ = – RT ln K   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+16 
+ 
+1 
+H 
+1.008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+He 
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.06 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.102 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.904 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+ 
+44 
+Ru 
+101.07 
+45 
+Rh 
+102.91 
+46 
+Pd 
+106.42 
+47 
+Ag 
+107.87 
+48 
+Cd 
+112.41 
+49 
+In 
+114.82 
+50 
+Sn 
+118.71 
+51 
+Sb 
+121.76 
+52 
+Te 
+127.60 
+53 
+I 
+126.90 
+54 
+Xe 
+131.29 
+55 
+Cs 
+132.91 
+56 
+Ba 
+137.33 
+57 
+La 
+138.91 
+72 
+Hf 
+178.49 
+73 
+Ta 
+180.95 
+74 
+W 
+183.84 
+75 
+Re 
+186.21 
+76 
+Os 
+190.23 
+77 
+Ir 
+192.22 
+78 
+Pt 
+195.08 
+79 
+Au 
+196.97 
+80 
+Hg 
+200.59 
+81 
+Tl 
+204.38 
+82 
+Pb 
+207.2 
+83 
+Bi 
+208.98 
+84 
+Po 
+ 
+85 
+At 
+ 
+86 
+Rn 
+ 
+87 
+Fr 
+ 
+88 
+Ra 
+ 
+89 
+Ac 
+ 
+104 
+Rf 
+ 
+105 
+Db 
+ 
+106 
+Sg 
+ 
+107 
+Bh 
+ 
+108 
+Hs 
+ 
+109 
+Mt 
+ 
+110 
+Ds 
+ 
+111 
+Rg 
+ 
+112 
+Cn 
+ 
+113 
+Nh 
+ 
+114 
+Fl 
+ 
+115 
+Mc 
+ 
+116 
+Lv 
+ 
+117 
+Ts 
+ 
+118 
+Og 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lanthanides 
+58 
+Ce 
+140.12 
+59 
+Pr 
+140.91 
+60 
+Nd 
+144.24 
+61 
+Pm 
+ 
+62 
+Sm 
+150.4 
+63 
+Eu 
+151.96 
+64 
+Gd 
+157.25 
+65 
+Tb 
+158.93 
+66 
+Dy 
+162.50 
+67 
+Ho 
+164.93 
+68 
+Er 
+167.26 
+69 
+Tm 
+168.93 
+70 
+Yb 
+173.05 
+71 
+Lu 
+174.97 
+Actinides 
+90 
+Th 
+232.04 
+91 
+Pa 
+231.04 
+92 
+U 
+238.03 
+93 
+Np 
+ 
+94 
+Pu 
+ 
+95 
+Am 
+ 
+96 
+Cm 
+ 
+97 
+Bk 
+ 
+98 
+Cf 
+ 
+99 
+Es 
+ 
+100 
+Fm 
+ 
+101 
+Md 
+ 
+102 
+No 
+ 
+103 
+Lr 
+ 

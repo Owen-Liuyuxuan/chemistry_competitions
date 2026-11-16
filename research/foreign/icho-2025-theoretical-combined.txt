@@ -1,0 +1,2984 @@
+S E C T I
+O N _
+B O U N D A R Y _
+0 _
+1 6
+Safety rules in the practical exam
+Students must obey the following safety rules. Any student who breaks these
+rules will have to leave the practical exam and may receive a score of zero for
+the practical part. 
+Whilst in the practical exam hall, students must:
+• wear full length trousers or other clothing covering their whole legs;
+• wear closed and flat shoes;
+• wear a lab coat with long sleeves;
+• wear safety goggles that fit well;
+• wear gloves when handling solutions and substances;
+• tie back any long hair and/or beards.
+Note: Contact lenses are prohibited during the practical exam. Students needing
+vision correction must wear glasses covered by safety goggles. 
+Students must not eat or drink at their bench. Chewing gum is not allowed.
+Students must work only in their designated area. Common work areas must be
+kept tidy.
+Electrical Hazard! Be aware you are working with aqueous solutions close to
+electrical equipment. 
+No unauthorised experiments or modification of the experiments is allowed.
+Inform your lab assistant about any accident, spills, or broken glassware
+immediately.
+All waste must be properly discarded to prevent contamination or injury. Dispose of
+the solutions in the containers with the correct labels. If any container is full inform
+your lab assistant.
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 1 of 39
+
+GHS Statements
+Hazard Code
+Hazard Statement
+H225
+Highly flammable liquid and vapour
+H226
+Flammable liquid and vapour
+H260
+In contact with water releases flammable gases which may ignite
+spontaneously
+H272
+May intensify fire; oxidiser
+H290
+May be corrosive to metals
+H301
+Toxic if swallowed
+H302
+Harmful if swallowed
+H304
+May be fatal if swallowed and enters airways
+H311
+Toxic in contact with skin
+H312
+Harmful in contact with skin
+H314
+Causes severe skin burns and eye damage
+H315
+Causes skin irritation
+H317
+May cause an allergic skin reaction
+H318
+Causes serious eye damage
+H319
+Causes serious eye irritation
+H331
+Toxic if inhaled
+H332
+Harmful if inhaled
+H335
+May cause respiratory irritation
+H336
+May cause drowsiness or dizziness
+H341
+Suspected of causing genetic defects
+H351
+Suspected of causing cancer
+H361d
+Suspected of damaging the unborn child
+H361f
+Suspected of damaging fertility
+H361fd
+Suspected of damaging fertility. Suspected of damaging the
+unborn child
+H371
+May cause damage to organs
+H373
+May cause damage to organs through prolonged or repeated
+exposure
+H400
+Very toxic to aquatic life
+H410
+Very toxic to aquatic life with long lasting effects
+H411
+Toxic to aquatic life with long lasting effects
+H412
+Harmful to aquatic life with long lasting effects
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 2 of 39
+
+Chemicals:
+1-Nitroso-2-naphthol
+H225, H302, H315, H317, H319, H341
+Acetate buffer pH 5
+H226, H314
+Alizarin Red S indicator
+Non-hazardous
+Anisaldehyde stain
+H225, H290, H314, H319, H361fd, H412
+Carbonate buffer pH 10
+H319
+Copper(II) acetate
+H302, H314, H410
+Ehrlich's Reagent
+H225, H290, H314, H317, H319
+Eluent
+H225, H319, H336
+Eluent EtOAc/hexane 
+H225, H304, H315, H319, H336, H361f,
+H373, H411
+Ethanol
+H225, H319
+Ethylenediaminetetraacetic acid disodium
+salt
+H332, H373
+EtOAc
+H225, H319, H336
+Iron(III) chloride in ethanol
+H225, H302, H315, H318, H319
+Murexide indicator
+Non-hazardous
+α-Naphthol
+H225, H302, H311, H315, H317, H318,
+H319, H335, H371, H410
+Ninhydrin stain
+H302, H315, H319
+Nitric acid
+H272, H290, H314, H331
+Potassium permanganate stain
+H272, H302, H314, H315, H319, H335,
+H361d, H373, H410
+Salen ligand
+H315, H319, H335
+Salen ligand in ethanol
+H225, H315, H319, H335
+Sodium carbonate
+H319
+Sodium hydroxide
+H290, H314
+Sodium hypochlorite
+H290, H314, H410
+Sodium nitrite
+H272, H301, H319, H400
+Sodium nitroprusside
+H301
+Sulfanilic acid
+H290, H314, H315, H317, H319, H335
+Sulfuric acid
+H290, H314
+Unknown amino acid sample
+Non-hazardous
+Unknown mixtures of amino acids
+Non-hazardous
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 3 of 39
+
+Unknown samples A-D
+H302, H317, H319, H332, H335, H411
+Unknown samples E-H
+H225, H260, H290, H301, H302, H311,
+H312, H315, H317, H319, H331, H336,
+H351, H373, H410, H412
+Urea
+Non-hazardous
+General instructions
+This examination has 3 problems and is 5 hours long. There is 20 minutes reading
+time before the examination starts. During the reading time you are not allowed
+to touch the equipment nor open the answer booklet. 
+The question paper is viewable on your screen. The printed answer booklet has 11
+stapled pages and 4 separate sheets for TLC plates pages and is on your desk. 
+The answer booklet contains boxes with numbers corresponding to the
+questions. Write your answer in the designated box for that question. If you must
+write outside of the designated box, make a note in the box and write your answer
+somewhere else on the same page. 
+Do not write your answers on the reverse side of the answer booklet. Markers will
+only see the printed sides of the answer booklet. Do not separate the pages of the
+stapled answer booklet.
+Write relevant calculations where needed. Full marks will only be given for correct
+answers showing working.
+For multiple choice questions, if you want to change your answer
+, completely
+scribble out the box you have ticked and draw a new box next to it.
+Start working when the "START" command is given. The supervisors will announce
+a "30 MINUTE WARNING" 30 minutes before the end of the exam. At the end of the
+exam, a "STOP" command will be given and you must stop working immediately. If
+you do not stop working, you may be given a score of zero for the examination.
+You must not leave your workspace unless with a lab assistant. If you need
+assistance during the exam, raise the appropriate card. 
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 4 of 39
+
+If you need a toilet break
+When you want to submit your 96 well
+plate
+When you need to visualise a TLC plate
+When you want the assistant to take a
+picture of your TLC plate
+If you need a refill or replacement item,
+or have any other questions
+The switches to turn on the "Hot plate" and "Vacuum" are behind your computer
+screen. If you are unsure how to turn on the equipment, ask your lab assistant. 
+Gloves, distilled water
+, and paper tissues are available for free refill as needed. If
+you need a replacement or refill of any other item both you and the assistant need
+to sign the table on the answer sheet. One extra TLC plate (either for Q2 or for Q3
+non-UV) and one other replacement of any item are given without penalty. Each
+further replacement will result in the deduction of 1 point from your 40 practical
+exam points.
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 5 of 39
+
+Keep all items within the marked out area of your bench.
+The following abbreviations are used for state: solid = s; liquid = l; aqueous solution
+= aq; solution containing organic solvent = sol.
+Write only with the pen provided in the answer booklet. Do not use the permanent
+marker or the pencil for your answers. The permanent marker is only for labelling
+lab equipment. The pencil is only for labelling TLC plates. Use only the calculator
+provided. 
+The Official English version of this examination is available on your computer
+.
+At the end of the exam, put your answer booklet back into the envelope. Do not
+seal the envelope. 
+Do not take anything out of the lab when you leave. 
+(Good Luck)
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 6 of 39
+
+Periodic table and data sheet
+Formulae
+Beer-Lambert law
+spin-only magnetic moment
+Periodic table
+A = log( I0
+I )  =  εcd
+μ = √n(n + 2)  BM
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 7 of 39
+
+Number
+Question 
+Weighting
+1
+A complex problem
+10%
+2
+Exploring the AminOasis
+15%
+3
+Rf you ready to spot the answers?
+15%
+Total
+40%
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 8 of 39
+
+Common equipment and chemicals
+Equipment
+Item
+Quantity
+Label
+Shared on the table of common use:
+Nitrile gloves (S, M, L)
+as needed
+Paper tissues refill
+as needed
+Ice box with ice and cold ethanol
+as needed
+UV-lamp
+Wash bottles with distilled water
+as needed
+Trays to deliver the TLC plates
+TLC photography station
+Shared in the hall central area:
+Distilled water refill tanks
+as needed
+For each student:
+Hot plate covered with foil and 2 clamps
+1
+Crystallisation dish (water bath)
+1
+Q1/Q3 Water Bath
+Permanent marker
+1
+Ruler
+1
+Tweezers
+1
+Pencil
+1
+Pen
+1
+Rubber
+1
+Sharpener
+1
+Pack of paper tissues
+1
+Container for disposal of sharps
+1
+Sharp waste
+Container for disposal of general waste
+1
+General waste
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 9 of 39
+
+Chemicals
+Name
+State Concentration Quantity
+Placed in
+Label
+For each student:
+Distilled water
+l
+-
+500 cm3 Wash bottle, 500 cm3
+H2O dist.
+Ethanol
+l
+-
+50 cm3
+Bottle, 100 cm3
+Ethanol
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 10 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+1 _
+1 7
+1. A complex problem
+Equipment
+Item
+Quantity
+Label
+Part A
+In a labelled bag:
+Magnetic stirring bar
+1
+Q1
+Plastic Pasteur pipette
+1
+Steel spatula
+1
+Tweezers
+1
+Weighing paper
+2
+On/under the desk:
+Sintered funnel
+1
+Buchner flask with rubber sleeve
+1
+Vacuum pump with hose
+1
+Glass vial with cap for product
+1
+Fe-salen + student
+code
+Thermometer
+1
+125 mL plastic bottle 
+1
+Q1 waste 
+In the box:
+Q1 
+10 mL measuring cylinder
+1
+50 mL glass beaker 
+2
+96 Well plate
+1
+Student Code
+Glass rod
+1
+Micropipette
+1
+Student Code
+Micropipette tips
+1 box
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 11 of 39
+
+Chemicals
+Name
+State Concentration Quantity
+Placed in
+Label
+Part A
+Iron(III) chloride in
+ethanol
+sol
+0.1264 M
+5 mL
+10 mL bottle
+FeCl3
+Salen ligand 
+s
+-
+200 mg
+10 mL bottle
+Salen 
+For Part B
+Iron(III) chloride in
+ethanol
+sol
+0.00045 M
+4 mL
+10 mL bottle
+Fe-Stock
+Salen ligand in
+ethanol
+sol
+0.00045 M
+4 mL
+10 mL bottle
+Salen-Stock
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 12 of 39
+
+10% of the total
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+Total
+1
+20
+0
+18
+3
+2
+3
+47
+Schiff base ligands are a class of organic compounds characterised by the presence
+of an imine group (-C=N-). They can easily be prepared by condensation reactions
+between aldehydes/ketones and amines. These ligands form many complexes,
+including salen complexes, which are efficient oxidation catalysts for organic
+molecules.
+This task has two parts. In Part A, using a pre-synthesised sample of the salen
+ligand (N,N'-Bis(salicylidene)-1,2-phenylenediamine) you will make an iron salen
+complex, which you will then characterise in Part B using UV-Vis absorption.
+The synthesis of this salen ligand from o-phenylenediamine and salicylaldehyde is
+shown below.
+Q1.1 Identify by-product X formed in the ligand synthesis.
+PART A: Synthesis of the iron salen complex
+The switches for the vacuum and the hot plate are behind the computer
+. 
+1. Transfer all the salen ligand sample "Salen" (200 mg, 0.632 mmol) into a 50 mL
+beaker
+.
+2. Add 15 mL of ethanol and a magnetic stirrer bar
+.
+3. Fill approximately half of the water bath on the hot plate with distilled water
+.
+4. Clamp the beaker in the water bath. Insert the thermometer into the water bath
+using the thermometer clamp. 
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 13 of 39
+
+5. Gently heat the beaker containing the suspension, while stirring, until the water
+bath reaches around 60 °C (position VI on the dial). Warning: Electrical hazard!!
+6. Using a Pasteur pipette, add slowly all the ethanolic FeCl3 solution "FeCl3". An
+immediate colour change from orange to dark brown occurs.
+7. Continue stirring for 20 min while keeping the temperature at around 60 °C,
+during which time a fine dark precipitate forms. You can work on other tasks
+during this time.
+8. Turn off the heating and continue stirring for an additional 10 min. Then remove
+the beaker from the hot plate and let it cool to room temperature.
+Using the tweezers provided, remove the magnetic stirrer bar from the beaker
+.
+9. Filter the reaction mixture using the vacuum filtration setup.
+10. Raise the "Questions" card. A lab assistant will bring you some ice-cold ethanol.
+Wash the precipitate once with 2 mL of ice-cold ethanol.
+11. Let air pass through the product for about 3 min to dry it.
+12. Carefully transfer your product to the vial labelled "Fe-salen + student code".
+You may use weighing paper
+. Do not scrape too hard as this may lead to some of
+the frit coming off.
+Q1.2 Keep the vial. At the end of the exam, a lab assistant will collect your vial and
+both you and the lab assistant should sign on your answer sheet. 
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 14 of 39
+
+PART B: Characterisation of the iron salen complex
+The iron salen complex can decompose over time, so the following things are
+important:
+Complete all of your pipetting in one go.
+You don't need to mix as this will be done by the spectrometer with an in
+built linear shaker function.
+First add "Salen-Stock" to all the wells you intend to use; then add ethanol,
+finally add "Fe-Stock". You should finish adding the first reagent to the plate
+before adding the second. Added volumes are mentioned in the table below. 
+Submit your plate as soon as you have finished pipetting. The time you submit
+your plate will be noted.
+Note you will only be able to submit a plate once and your plate will not
+be returned.
+Measuring the absorbance values may take some time, during which you
+should do other tasks.
+You have been provided with stock solutions of the salen ligand and iron(III)
+chloride, both of which have a concentration of 4.50 × 10−4 M. 
+Using a micropipette, you will prepare solutions with nine different ratios of metal
+to ligand, according to the table below. These solutions should be made in the 96
+well plate. Ensure the plate is the same way around as in the figure.
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 15 of 39
+
+The columns are labelled with numbers 1-12. Columns 1-9 will contain each of these
+solutions. The last three columns (Columns 10-12) should be left empty.  The
+solution number must be in the correct column of the plate with the same
+number to gain credit.
+The plate has eight rows labelled A-H. One set of the solutions can fit in each row. It
+is recommended that you make three sets. When the list of absorbance values is
+returned, you will be asked to tick which row(s) you would like to choose for your
+accepted absorbance values. You will also be able to exclude individual wells in a
+row from being taken into account if you think there has been an error in that well. 
+Solution/Column
+No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Salen-Stock / μL
+90
+80
+70
+60
+50
+40
+30
+20
+10
+Ethanol / μL
+100
+100
+100
+100
+100
+100
+100
+100
+100
+Fe-Stock / μL
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Total Volume /
+μL
+200
+200
+200
+200
+200
+200
+200
+200
+200
+Transfer the solutions to the appropriate wells using the micropipette.
+Q1.3 As soon as you have filled all the wells that you want to, raise the "ANALYSIS"
+card. A lab assistant will collect your plate. Both you and the assistant should sign
+on the answer sheet. The lab assistant will write the time collected on the answer
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 16 of 39
+
+sheet. The lab assistant will run your plate in the spectrometer
+, and return a printed
+list of absorbance values for all wells. They will write the time the plate was run on
+the spectrometer on the answer sheet. 
+We will measure samples in the order they are submitted and will do so as quickly
+as possible. The grading scheme accounts for the time between submission of the
+plate and running of the plate. 
+Q1.4 On the picture of the plate, tick the letter(s) of the row(s) you have selected to
+determine your accepted absorbance values. If you choose multiple rows, we will
+take an average of these for your accepted values. If you have made a mistake in a
+well, draw a cross over that individual well, and it will not be graded. 
+Q1.5 Determine the metal-to-salen ratio, Fe:salen, of the iron salen complex. By
+refering to the printed list of absorbance values, you may wish to draw a graph of
+absorbance, A, versus mole fraction of Fe, x(Fe), on the plot provided. The graph will
+not be graded.
+The spin-only magnetic moment of a complex, 
+, in Bohr magnetons (BM), can be
+calculated from the following formula, where n is the number of unpaired
+electrons. 
+The iron salen complex was measured to have 
+ = 5.89 BM.
+Q1.6 Determine  the number of unpaired electrons, n, in this complex and the
+oxidation state, z, of the Fe centre.
+The obtained Fe-salen complex contains chloride and no coordinated solvent.
+Adding a few drops of an aqueous AgNO3 solution to a solution of Fe-salen complex
+does not produce a precipitate. 
+Q1.7 Draw the structure of the complex based on your data and this information.
+Do not use any abbreviation for the structure of the ligand.
+μB
+μB   =  √n(n + 2)  BM
+μB
+PQ1
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 17 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+2 _
+1 8
+2. Exploring the AminOasis
+Equipment
+Item
+Quantity
+Label
+Part A
+In labelled bags:
+pH indicator paper
+5 strips
+Q2
+pH scale
+1
+Filter paper
+1
+TLC plate
+1
+Q2 TLC
+On the desk:
+Test tube rack
+1
+Glass test tube, 30 mL
+25
+Glass beaker for water bath, 250 mL
+1
+Q2 Water bath
+Test tube holder
+1
+TLC capillary (in a centrifuge tube)
+5
+Q2 Capillaries
+TLC chamber with a filter paper
+1
+Q2 TLC chamber
+Glass Petri dish
+1
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 18 of 39
+
+Item
+Quantity
+Label
+Part B
+On/under the desk:
+Laboratory stand with a double burette clamp
+1
+Burette, 25.00 mL
+2
+Funnel 
+2
+Q2
+Graduated pipette, 10.00 mL
+1
+Graduated pipette, 5.00 mL
+1
+Three-valve pipette bulb
+1
+Erlenmeyer flask, 100 mL
+3
+Measuring cylinder
+, 10.0 mL
+1
+Glass beaker
+, 50 mL
+3
+Item
+Quantity
+Label
+Parts A and B
+In a labelled bag:
+Plastic Pasteur pipette
+5 + 2 extra
+Q2
+On the desk:
+Plastic bottle for liquid waste, 1 L
+1
+Q2 Waste
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 19 of 39
+
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Part A
+5 unknown
+mixtures of
+amino acids
+aq
+0.05–0.5% (each
+amino acid)
+10 mL
+Centrifuge
+tubes, 15 mL
+Mix 1, Mix 2,
+Mix 3, Mix
+4, Mix 5
+Eluent
+ l
+75 vol.% propan-
+2-ol, 25 vol.%
+H2O
+10 mL
+ Bottle, 25 mL
+1. iPrOH:H2O
+Ninhydrin stain
+sol
+0.5%
+10 mL
+Dropping
+bottle, 30 mL
+2. Ninhydrin
+Ehrlich’s
+reagent
+sol
+0.2 g 4-
+dimethylamino-
+benzaldehyde in
+5 mL ethanol and
+5 mL 20% H2SO4
+10 mL
+Dropping
+bottle, 30 mL
+3. Ehrlich’s
+reagent
+Sulfuric acid
+aq
+50%
+10 mL
+Dropping
+bottle, 30 mL
+4. H2SO4
+Sodium
+nitroprusside
+aq
+10%
+10 mL
+Dropping
+bottle, 30 mL
+5.
+Na2[Fe(CN)5NO]
+Sodium
+hydroxide
+aq
+5 M
+10 mL
+Dropping
+bottle, 30 mL
+6. NaOH
+α-Naphthol
+sol
+1%
+10 mL
+Dropping
+bottle, 30 mL
+7. α-Naphthol
+Urea
+aq
+5%
+10 mL
+Dropping
+bottle, 30 mL
+8. Urea
+Sodium
+hypochlorite
+aq
+5% active
+chlorine
+10 mL
+Dropping
+bottle, 30 mL
+9. NaClO
+Sulfanilic acid
+aq
+1% in 0.1 M HCl
+10 mL
+Dropping
+bottle, 30 mL
+10. Sulfanilic
+acid
+Sodium nitrite
+aq
+5%
+10 mL
+Dropping
+bottle, 30 mL
+11. NaNO2
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 20 of 39
+
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Sodium
+carbonate
+aq
+10%
+10 mL
+Dropping
+bottle, 30 mL
+12. Na2CO3
+1-Nitroso-2-
+naphthol
+sol
+0.1%
+10 mL
+Dropping
+bottle, 30 mL
+13. 1-Nitroso-
+2-naphthol
+Nitric acid
+aq
+2 M
+10 mL
+Dropping
+bottle, 30 mL
+14. HNO3
+Part B
+Alizarin Red S
+indicator
+aq
+0.2%
+10 mL
+ Dropping
+bottle, 30 mL
+15. Alizarin Red
+S
+Murexide
+indicator 
+s
+1% in NaCl
+0.21 g
+Amber
+dropping
+bottle, 30 mL
+16. Murexide
+Copper(II)
+acetate
+aq
+To be determined
+150 mL Bottle, 250 mL 17. Cu(CH3COO)2
+Ethylene-
+diamine-
+tetraacetic acid
+disodium salt
+aq
+0.0200 M
+100 mL
+Bottle, 100 mL 18. Na2H2EDTA
+Acetate buffer
+(pH 5.5)
+aq
+0.25 M (CH3COONa
++ CH3COOH)
+30 mL
+Bottle, 50 mL
+19. Acetate
+buffer
+Carbonate
+buffer (pH 10)
+aq
+0.1 M (Na2CO3 +
+NaHCO3)
+100 mL
+Bottle, 100 mL
+20. Carbonate
+buffer
+ Unknown
+amino acid
+sample
+aq
+1%
+25.00 mL
+Volumetric
+flask, 100 mL 
+21. Sample X
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 21 of 39
+
+15% of the total
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+2.10
+Total
+14
+11.5
+6.5
+0
+10
+3
+0
+15
+1
+4
+65
+Part A: Qualitative analysis of mixtures
+Five aqueous solutions Mix 1–Mix 5 each contain two of the following ten amino
+acids: 
+Arginine (Arg), Cysteine (Cys), Glutamic acid (Glu), Histidine (His), Lysine (Lys),
+Phenylalanine (Phe), Proline (Pro), Serine (Ser), Tryptophan (Trp), Tyrosine (Tyr).
+Each amino acid is present only once. The structures of these amino acids are given
+on the answer sheet. Your task is to identify the amino acids present in each
+solution Mix 1–Mix 5, using TLC, pH measurement and qualitative tests.
+TLC and ninhydrin test:
+- Mark the starting line on the TLC plate ("Q2 TLC") at least 1 cm from the bottom. 
+- Mark positions 1-5 on the starting line and spot solutions Mix 1–Mix 5 1-2 times
+on their respective positions.
+- Develop the TLC plate using the "1. iPrOH:H2O" solution as the eluent, keeping
+the filter paper in the chamber
+. Bear in mind that this step is time-consuming, so
+you should proceed with the problem.
+- Once finished, mark the solvent front and let the TLC plate dry in the air
+.
+- Make sure to wear gloves for further operations when handling the ninhydrin
+stain solution.
+- Fill the Petri dish with the "2. Ninhydrin" stain solution using a dropper until the
+bottom of the dish is just covered.
+- Dip the TLC plate in the ninhydrin stain solution using the tweezers, let the excess
+stain drip off the plate onto the paper wipes.
+- Heat the TLC plate on the hot plate covered with aluminium foil (set the dial at VI).
+The test distinguishes between amino acids with a primary α-amino group (brown
+to purple colour) and a secondary α-amino group (yellow colour). Overheating may
+turn the spots brown.
+- Circle all spots with a pencil.
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 22 of 39
+
+Q2.1 Label the TLC plate with your student code using the pencil and put it on the
+separate answer sheet for question 2.1. Raise the "CAM" card. You and the lab
+assistant must sign the answer sheet. The lab assistant will take a picture of it and
+return it to you. Put the TLC plate in the box in the zip bag labelled with your code.
+Q2.2 Complete the table with your results as follows:
+(a) Report the approximate pH value of each solution using the pH indicator paper
+strips;
+(b) Report if the qualitative tests described below were positive (use the plus sign
+“+”) or negative (use the minus sign “–“). Only “+” and “–“ signs will be graded.
+For some tests, you will need a water bath:
+- Fill the beaker "Q2 Water bath" with 50 mL of water and put it on the hot plate.
+- Set the dial of the hot plate to X. 
+- When the water starts boiling, decrease the heating so it boils gently (set the dial
+between VI and X).
+Ehrlich test ("Ehrlich" on the answer sheet): 
+- Add 10 drops of "4. H2SO4" to ca. 0.5 mL of the unknown solution. 
+- Add 10 drops of "3. Ehrlich’s reagent" and mix thoroughly. 
+- Heat the solution using the water bath.
+- The appearance of a violet colour indicates the presence of indole (bicyclic
+heterocycle) derivatives in the solution.
+Nitroprusside test ("Nitroprusside" on the answer sheet):
+- Add 5 drops of "6. NaOH" to ca. 1 mL of the unknown solution. 
+- Add 5 drops of "5. Na2[Fe(CN)5NO]" and mix thoroughly. 
+- The appearance of red colour indicates the formation of the Na4[Fe(CN)5(NOS)]
+complex. Note that this colour disappears over time.
+Sakaguchi test ("Sakaguchi" on the answer sheet):
+- Add 5 drops of "6. NaOH" to ca. 1 mL of the unknown solution. 
+- Add 5 drops of "7. α-Naphthol" and mix thoroughly. 
+- Add 3 drops of "8. Urea" and then 5 drops of "9. NaClO" solution while mixing. 
+- Only a stable red colour indicates the presence of guanidine derivatives in the
+solution. The structure of guanidine is given below:
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 23 of 39
+
+Pauly’s test ("Pauly" on the answer sheet): 
+-  Mix 3 drops of "11. NaNO2" with 5 drops of "10. Sulfanilic acid" (4-
+aminobenzenesulfonic acid). 
+- Quickly after mixing the first two reagents, add 3 drops of the unknown solution
+and mix thoroughly. 
+- Add 5 drops of "12. Na2CO3". 
+- The appearance of a red or red-orange colour indicates coupling of an amino acid
+with a diazonium salt.
+Gerngross test ("Gerngross" on the answer sheet):
+- Add 3 drops of "13. 1-Nitroso-2-naphthol" to ca. 1 mL of the unknown solution. 
+- Add 5 drops of "4. H2SO4" and 5 drops of "14. HNO3". 
+- Heat the solution using the water bath. 
+- The appearance of a red colour indicates the presence of a phenol group. Note
+that this colour disappears over time.
+Q2.3 (a) Write  the three-letter codes of the amino acids (the row "AA" on the
+answer sheet) you identified in each solution;
+(b) For each pair of amino acids identified in each solution,  tick the box for the
+amino acid with a higher Rf value (the row "Higher Rf" on the answer sheet).
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 24 of 39
+
+Part B: Titrimetric analysis
+Step 1. Standardisation of copper(II) acetate solution
+1. Fill a burette with 0.0200 M "18. Na2H2EDTA" solution.
+2. To an Erlenmeyer flask, add: 
+        - 3 mL of "19. Acetate buffer" using a plastic Pasteur pipette;
+        - 3 drops of the "15. Alizarin Red S" indicator solution using a dropper;
+        - 5.00 mL of "17. Cu(CH3COO)2" solution using a graduated pipette.
+Note that the 5.00 mL pipette is graduated as shown below:
+3. Titrate until the solution changes colour from pink to a steady bright green.
+4. Repeat steps 1-3 if necessary.
+Q2.4 Record the observed volumes (V0, mL – initial burette reading; Vf, mL – final
+burette reading; T, mL – titre).
+Q2.5 Record your accepted final titre of Na2H2EDTA (VNa₂H₂EDTA, mL).
+Q2.6 Calculate the concentration of the copper(II) acetate solution (cCu(CH₃COO)₂, M).
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 25 of 39
+
+Step 2. Titration of a sample of an unknown natural amino acid
+5. Fill the volumetric flask containing "21. Sample X" (250 mg of an unknown amino
+acid) to the mark with distilled water
+.
+6. Fill a new burette with the standardised "17. Cu(CH3COO)2" solution.
+7. Add 15 mL of "20. Carbonate buffer" to the amber bottle with the "16.
+Murexide" indicator
+.  Mix until the indicator is fully dissolved.  Proceed with the
+titration immediately after preparation of the indicator solution.
+8. To an Erlenmeyer flask, add:
+       - 10 mL of "20. Carbonate buffer" using the measuring cylinder;
+       - 2 mL of prepared murexide solution using the dropper;
+       - 10.00 mL of Sample X solution using a graduated pipette.
+Note that the 10.00 mL pipette is graduated as shown below:
+9. Titrate from pink until the complete disappearance of the intermediate violet
+colour
+. Observe the colour change against a white background and out of direct
+sunlight.
+10. Repeat steps 8-9 if necessary. 
+Q2.7 Record the observed volumes (V0, mL – initial burette reading; Vf, mL – final
+burette reading; T, mL – titre).
+Q2.8 Write your accepted final titre of Cu(CH3COO)2 (VCu(CH₃COO)₂, mL).
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 26 of 39
+
+Q2.9 Copper(II) acetate reacts with the titrated amino acid in 1:2 ratio.  Draw a
+reasonable structure of the product of this reaction (use “R” to indicate the amino
+acid side chain).
+Q2.10 Calculate the molecular weight (Mr) of the amino acid in Sample X based on
+the titration results. 
+Note: The Mr values of natural amino acids and their structures are presented on the next
+page for your reference.
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 27 of 39
+
+Glycine (Gly)
+C2H5NO2
+Mr = 75.07
+L-Alanine (Ala)
+C3H7NO2
+Mr = 89.09
+L-Serine (Ser)
+C3H7NO3
+Mr = 105.1
+L-Proline (Pro)
+C5H9NO2
+Mr = 115.1
+L-Valine (Val)
+C5H11NO2
+Mr = 117.1
+L-Threonine (Thr)
+C4H9NO3
+Mr = 119.1
+L-Cysteine (Cys)
+C3H7NO2S
+Mr = 121.2
+L-Leucine (Leu)
+C6H13NO2
+Mr = 131.2
+L-Isoleucine (Ile)
+C6H13NO2
+Mr = 131.2
+L-Asparagine (Asn)
+C4H8N2O3
+Mr = 132.1
+L-Aspartic acid (Asp)
+C4H7NO4
+Mr = 133.1
+L-Glutamine (Gln)
+C5H10N2O3
+Mr = 146.1
+L-Lysine (Lys)
+C6H14N2O2
+Mr = 146.2
+L-Glutamic acid
+(Glu)
+C5H9NO4
+Mr = 147.1
+L-Methionine (Met)
+C5H11NO2S
+Mr = 149.2
+L-Histidine (His)
+C6H9N3O2
+Mr = 155.2
+L-Phenylalanine
+(Phe)
+C9H11NO2
+Mr = 165.2
+L-Arginine (Arg)
+C6H14N4O2
+Mr = 174.2
+L-Tyrosine (Tyr)
+C9H11NO3
+Mr = 181.2
+L-Tryptophan (Trp)
+C11H12N2O2
+Mr = 204.2
+PQ2
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 28 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+3 _
+1 9
+3. Rf you ready to spot the answers?
+Equipment
+Item
+Quantity
+Label(s)
+PS stain chamber
+1
+PS
+AS stain chamber
+1
+AS
+TLC chamber
+, 250 mL with filter
+paper
+2
+Q3 TLC
+Petri dish
+2
+1:3 and 1:6
+Bottle, 250 mL
+1
+Q3 waste
+Eppendorf tubes (2 mL)
+8 + 2 extra
+E, F, G, H, EF, 
+EG, FH, GH
+Vial stand (for Eppendorfs)
+1
+–
+Floating rack
+1
+In the box labelled Q3
+In labelled bags:
+Non-UV TLC plate
+2
+Q3 TLC A + Student Code
+UV TLC plate
+1
+Q3 TLC UV A + Student
+Code
+Non-UV TLC plate
+5 + 4 extra
+TLC B + Student Code
+Plastic spatula
+4 + 1 extra
+In the box labelled Q3
+Plastic Pasteur pipette
+10 + 10 extra
+In the box labelled Q3
+Capillaries in a centrifuge tube
+15 + 15 extra
+Q3 capillaries
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 29 of 39
+
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed
+in
+Label
+KMnO4 stain
+aq
+-
+40 mL
+50 mL
+bottle
+PS
+Anisaldehyde
+stain
+sol
+-
+40 mL
+50 mL
+bottle
+AS
+Eluent
+EtOAc:hexane
+l
+1:6
+20 mL
+50 mL
+bottle
+1:6
+Eluent
+EtOAc:hexane
+l
+1:3
+40 mL
+50 mL
+bottle
+1:3
+Ethyl acetate
+l
+-
+20 mL
+50 mL
+bottle
+EtOAc
+1 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+A, B, C,
+D
+2 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+3 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+4 in EtOAc
+sol
+0.1 M
+0.3 mL
+2 mL vial
+5
+-
+Pure
+200 mg
+2 mL vial
+E, F, G,
+H
+6
+-
+Pure
+200 mg
+2 mL vial
+7
+-
+Pure
+200 mg
+2 mL vial
+8
+-
+Pure
+200 mg
+2 mL vial
+9
+-
+Pure
+200 mg
+2 mL vial
+10
+-
+Pure
+200 mg
+2 mL vial
+11
+-
+Pure
+200 mg
+2 mL vial
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 30 of 39
+
+15% of the total
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5.8
+2
+3.13
+3.14
+3.15
+3.16
+3.17
+3.18
+3.19
+3.20
+3.21
+3.22
+Total
+1.2
+4
+1
+2
+1
+0
+4
+15
+4
+12
+62
+Thin Layer Chromatography (TLC) is a powerful analytical technique in organic
+chemistry. This task explores some of its many purposes.
+In Part A, you will use three types of visualisation to identify unknown solutions A-D.
+In Part B, you will identify unknown chemicals E-H by their pairwise reactions and
+subsequent TLC analysis of the reaction mixtures.
+Part A: TLC visualisation
+You are provided with alkaline KMnO4 stain (PS), acidic p-anisaldehyde stain (AS),
+and four unknown samples A-D. The structure of p-anisaldehyde is given below.
+Each sample contains a different one of the compounds 1-4. You must identify
+which sample contains each compound by running TLC plates and using the stains
+and UV light visualisation. 
+1. Turn on the heating on the hot plate (turn the dial to between VI and X) and slow
+stirring. The stirring is required as it cools the hot plate electronics.
+2. For this part, you need two TLC plates from zip bag "Q3 TLC A" and one from zip
+bag "Q3 TLC UV A". Prepare the plates as shown in the figure below: mark the
+starting line and four spots labelled (A-D) at equal distance apart.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 31 of 39
+
+Example of TLC plate for PS
+3. Label the two TLC plates at the top with "AS" and "PS". Label the UV plate in the
+separate bag as "UV". Do not stain or heat this plate, it will be used for UV
+visualisation.
+4. Prepare the TLC chamber marked as "1:6" using the eluent EtOAc:Hexane = 1:6.
+The eluent level should be ~0.5 cm. Discard any excess eluent into the bottle labelled
+“Q3 waste”.
+5. Load the three TLC plates with unknowns A-D using the glass capillary. Do not
+overload the plates; the spot diameter should be below 4 mm.
+6. Use the tweezers to place the TLC plates in the chamber and run the TLC plates.
+More than one TLC plate can be run in the same chamber at once. We recommend
+to run at least 5 cm of the TLC plate. The chamber should always be closed. 
+7. Once the plates have run, remove them from the chamber and mark the solvent
+front with a line.
+8. Dry the plates in the air until all visible solvent has evaporated.
+PS TLC Plate
+9. Have a paper tissues ready. Put the stain in chamber labelled as PS. Take the PS
+TLC plate with tweezers. Dip the PS TLC plate in the PS stain. Ensure the stain
+reaches up to the solvent front line.
+10. Take the plate out and let the excess stain drip off the plate onto the paper
+tissues. Wipe the back of the plate with a paper tissues.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 32 of 39
+
+Q3.1 Report any spots that appear before heating. Tick the appropriate box/boxes
+if there is a spot for that sample; tick the box "N" if no spot appears.
+Q3.2 Draw a sketch of the PS TLC plate before heating.
+11. Heat the TLC plate on the hot plate (use tweezers to place and remove the TLC
+plate) until the spots have developed (~5-60 s).
+Q3.3 Report only additional spot(s) that appear after heating by ticking the
+appropriate box/boxes; tick the box "N" if no additional spot appears.
+12. Circle all the spots on the TLC plate with a pencil.
+Q3.4 Draw a sketch of the PS TLC plate after heating.
+AS TLC Plate
+13. Stain the AS TLC plate in the AS stain using the same procedure as for the PS
+stain. Close the stain chamber
+. 
+Q3.5 Report any spots that appear before heating. Tick the appropriate box/boxes
+if there is a spot for that sample; tick the box "N" if no spot appears.
+Q3.6 Draw a sketch of the AS TLC plate before heating.
+14. Heat the plate.
+Q3.7 Report only additional spot(s) that appear after heating by ticking the
+appropriate box/boxes; tick the box "N" if no additional spot appears.
+15. Circle all the spots on the plate with a pencil.
+Q3.8 Draw a sketch of the AS TLC plate after heating.
+UV TLC Plate
+The UV TLC plate is used to compare detection with stains and UV. Do NOT heat
+this plate.
+16. Raise the "UV" card. The lab assistant will take you to the UV lamp to visualise
+this plate.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 33 of 39
+
+17. Circle any spots visible under UV light. 
+Q3.9 Mark the lane with the compound with the lowest absorption of UV light. 
+Q3.10 Draw a sketch of the UV TLC plate.
+Q3.11 Put all three TLC plates on the separate answer sheet. Raise the "CAM" card.
+From this point on, both you and the lab assistant must sign the answer sheet. The
+lab assistant will take the TLCs for a picture with your answer sheet and return it to
+you. Place the three TLC plates in their respective bags (labelled as "Q3 TLC A" and
+"Q3 TLC UV A"). Both the picture and the submitted plates will be used for grading. 
+Q3.12 According to the TLC:
+(a) Tick the most polar compound(s) of A-D.            
+(b) Tick the least polar compound(s) of A-D.     
+Q3.13 Based solely on your experimental observations during this test, tick the
+box(es) corresponding to the statements you found to be correct. Do not rely on
+prior theoretical knowledge or assumptions.
+(a) PS does not visualise alkenes.
+(b) PS visualises alkenes without heating.
+(c) PS visualises alkenes only with heating.
+(d) AS visualises alkenes without heating.
+(e) AS does not visualise carbonyl compounds with α-CH bonds.
+(f) AS visualises carbonyl compounds with α-CH bonds without heating.
+(g) AS visualises carbonyl compounds with α-CH bonds only with heating.
+(h) UV does not visualise compounds that absorb UV light of the lamp used.
+(i) UV visualises compounds that absorb UV light of the lamp used.
+Q3.14 Assign compounds 1-4 to the samples A-D.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 34 of 39
+
+Part B: Identification of unknown compounds by their reactions
+Reagent concentration affects the rate of most chemical reactions. This often
+makes solventless reactions (reactions performed with little or no solvent) more
+robust than reactions performed in solvents. In this task you will perform a set of
+almost solventless reactions on a small scale to identify unknown compounds. This
+solventless technique allows these reactions to occur in 10 min, compared to 1-10 h
+in solvent.
+You have four unknown samples:  E, F, G, and H. Each sample is different and
+contains one of the seven compounds listed below (5-11). 
+Reaction progress will be monitored using TLC visualised with PS.
+Do NOT smell any compounds as they may be toxic if substantially inhaled!
+Do not rely on smell or physical state of any compound for identification. The
+substituents have not been given to prevent this. “Alk” is an alkyl substituent. The
+substituents R1-R6 are inert in reactions you will perform. We recommend relying
+on the experimental tests performed to identify the samples.
+Solubility/miscibility test
+Perform solubility/miscibility tests in EtOAc for unknowns E-H as follows:
+1. Take a labelled Eppendorf tube with the letters E-H. 
+2. Add one drop (if a liquid) or one small spatula (if a solid, see the picture below) of
+the appropriate unknown sample.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 35 of 39
+
+One small spatula looks like this
+3. Add ~1 mL of EtOAc.
+Q3.15 Tick your observations for each compound ("Y" for dissolved/miscible, or "N"
+for not dissolved/not miscible). 
+4. Keep the vials as the samples will be used as a reference for the subsequent TLC
+analysis.
+TLC analysis of pure unknowns
+5. Prepare a TLC plate; use the plates from the ziplock bag labelled as “Q3 TLC B”.
+Mark the starting line and spots labelled E-H. Label the plate UNK.
+6. Prepare a new chamber with eluent EtOAc:Hexane = 1:3. Run the TLC of E-
+H. Mark the solvent front.
+7. Stain the TLC plate with PS. Heat the plate. Circle all the developed spots.
+Q3.16 Put this plate on the separate answer sheet. Raise the "CAM" card. The lab
+assistant will come and take the plates for a photo. At the end of the task, put the
+TLC plate back in the bag labelled “Q3 TLC B”. Both the picture and the submitted
+plate will be used for grading at the end of the exam.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 36 of 39
+
+Q3.17 Tick your observations after PS visualisation ("Y" – visualised, "N" – not
+visualised) in the table.
+If a compound is not visualised with PS, you do not need to make a reference spot
+of this compound on TLCs in the remainder of this experiment. 
+Pairwise reactions
+Perform pairwise reactions between unknown samples E-H as follows.
+All reaction products should be visible by TLC analysis if run correctly. 
+No reaction occurs between pairs E+H and F+G, so you do not need to perform
+them.
+8. Preheat the water bath to a gentle boil: place the dial at X, when the bath
+reaches boiling, decrease the heating so it boils gently (dial between VI and X).
+9. Use the four Eppendorf tubes labelled for the four pairwise reactions you need
+to perform, for example, the reaction between E and F is performed in the
+Eppendorf labelled “EF”.
+10. Add the first reagent (two drops of liquid or two small spatula portions of
+solid).
+11. Add only one drop of EtOH as a solvent.
+12. Add the second reagent (two drops of liquid or two small spatula portions of
+solid).
+13. Do not close the reaction vessel. 
+Q3.18 You can note your observations (if any) in the table. This table is for your
+convenience, it will not be graded!
+14. Heat the reaction mixture for 10 min, by putting the vial in the floating rack and
+putting the rack in the preheated water bath (see the picture below).
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 37 of 39
+
+Floating rack
+Reaction set-up
+15. After 10 min remove the reaction mixture and let it cool to room temperature. 
+16. Add EtOAc (~1.5-1.8 mL), close the reaction vessel, and mix it cautiously.
+17. Perform TLC analysis of the reaction mixture, staining with PS and heating the
+plate afterwards. First, label the TLC plate with the combination, for example EF.
+Mark three spots: E – for compound E, R – for reaction mixture, F – for compound F.
+Use the EtOAc:Hexane = 1:3 eluent for all TLCs except the reaction between F and
+H for which you need to use EtOAc:Hexane = 1:6 eluent. Mark the solvent front line.
+Ensure you circle all spots on the TLC plate.
+Q3.19 Tick the reaction outcome ("Y" = reaction proceeds; "N" = no reaction)
+according to the TLC for each reaction pair on the answer sheet.
+Q3.20 Identify the unknown chemicals according to your experimental
+observations. Write the appropriate letter E-H below the chemicals 5-11 or tick "N"
+if a chemical is absent from all vials E-H.
+Q3.21  For each reaction pair
+, draw the product structures of the reactions
+according to the reactants E-H used; tick the box "N" in case of no product.
+Hints:
+One reaction pair gives two organic products; another reaction pair gives a cyclic
+product.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 38 of 39
+
+The carbonyl compounds are listed below in order of decreasing reactivity with a
+certain nucleophile.
+Q3.22 Put each TLC plate in the appropriate place on the separate answer
+sheet. Raise the "CAM" card. The lab assistant will take the plates for a picture.
+Place all the TLC plates from this part in the bag labelled “Q3 TLC B”. Both the
+picture and the submitted plate will be used for grading at the end of the exam.
+PQ3
+57th IChO 2025, UAE
+Practical Exam, English (Official)
+Page 39 of 39
+
+S E C T I
+O N _
+B O U N D A R Y _
+0 _
+u n a s
+s
+i
+g n e d
+General Instructions
+This examination has 9 problems and is 5 hours long. 
+The question paper is viewable on your screen.  You are also provided with a "Theory
+Schemes Booklet" which contains important reaction schemes from the question paper
+.
+You may use any part of this booklet for rough work. Nothing written in this booklet
+will be assessed.
+The printed answer booklet has 42 pages and is on your desk.
+The answer booklet contains boxes with numbers corresponding to the questions. Write
+your answer in the designated box for that question. If you must write outside of the
+designated box, make a note in the box and write your answer somewhere else on the
+same page. 
+Do not write on the reverse side of the answer booklet. Markers will only see the printed
+sides of the answer booklet. Do not separate the pages of the stapled answer booklet.
+Write relevant calculations where needed. Full marks will only be given for correct
+answers showing working.
+For multiple choice questions, if you want to change your answer
+, completely scribble out
+the box you have ticked and draw a new box next to it.
+Start working when the "START" command is given. The supervisors will announce a "30
+MINUTE WARNING" 30 minutes before the end of the exam. At the end of the exam, a
+"STOP" command will be given and you must stop  working immediately. If you do not
+stop working, you may be given a score of zero for the examination.
+Write only with the pen provided. Use only the calculator provided. 
+The Official English version of this examination is available for clarification purposes only.
+This can be viewed on your screen.
+If you need a toilet break or any assistance, raise the appropriate card. 
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 1 of 51
+
+If you need a toilet break
+If you have any questions
+At the end of the exam, put your answer booklet back into the envelope. Do not seal the
+envelope.
+(Good Luck)
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 2 of 51
+
+Periodic table and data sheet
+Physical constants and formulae
+Avogadro constant
+NA
+6.022 
+1023 mol−1
+molar gas constant
+R
+8.314 J K−1 mol−1
+Faraday constant
+F
+96485 C mol−1
+Planck constant
+h
+6.626 
+10−34 J s
+speed of light in vacuum
+c
+2.998 
+108 m s−1
+mass of electron
+me
+9.109 
+10−31 kg
+charge of electron
+e
+1.602
+10−19 C
+atmospheric pressure
+patm
+101325 Pa
+ionic product of water at 298 K
+Kw
+10−14
+1 nm = 1 
+10−9 m
+1 Å = 1 
+10−10 m
+1 pm = 1 
+10−12 m
+0 °C = 273.15 K
+1 kWh = 3600 kJ
+1 W = 1 J s−1
+1 eV = 1.602
+10−19 J
+1 bar = 105 Pa
+×
+×
+×
+×
+×
+×
+×
+×
+×
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 3 of 51
+
+area of triangle
+volume of cube
+volume of sphere
+surface area of sphere
+ideal gas equation
+frequency of light
+energy of a photon
+Beer-Lambert law
+spin-only magnetic moment
+Henderson–Hasselbalch equation
+0th order integrated rate law
+1st order integrated rate law
+Arrhenius equation
+enthalpy
+Gibbs energy
+standard Gibbs energy change
+Clausius-Clapeyron equation
+specific heat
+boiling point elevation 
+freezing point depression
+Consider all gases ideal unless told otherwise. 
+In equilibrium constant calculations, all concentrations are referenced to a concentration
+of 1 mol dm−3.
+A = 1
+2 ab ⋅sinC
+V = a3
+V = 4
+3 πr3
+S = 4πr2
+pV = nRT
+ν = c
+λ
+E = hc
+λ
+A = log( I0
+I ) = εcd
+μ = √n(n + 2) BM
+pH = pKa + log( [A−]
+[HA] )
+[A] = [A]0 −kt
+ln[A] = ln [A]0 −kt
+k = A ⋅e−Ea
+RT
+H = U + pV
+G = H −TS
+ΔrGo = −RT ln K = −nFE o
+cell
+ln( P1
+P2 ) = ΔHvap
+R
+( 1
+T2 −
+1
+T1 )
+Q = mCp Δ T
+ΔT = iKbmi
+ΔT = iKfmi
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 4 of 51
+
+IR absorption data
+Bond stretching frequencies
+Bond type
+Wavenumber (cm−1)
+C-H
+Alkane
+3000-2850
+Alkene
+3100-3000
+Aromatic
+3150-3050
+Alkyne
+~3300
+Aldehyde
+2900-2700
+C=C
+Alkene
+1680-1600
+Aromatic
+1600-1400
+C≡C
+Alkyne
+2250-2100
+C=O
+Aldehyde
+1740-1720
+Ketone
+1725-1705
+Carboxylic acid
+1725-1700
+Ester
+1750-1720
+Amide
+1670-1640
+Anhydride
+1810, 1760
+C-O
+Alcohol, ether
+, ester
+, carboxylic acid, anhydride
+1300-800
+O-H
+Alcohol, phenol, free
+3600-3200
+Hydrogen bonded
+3500-3200
+Carboxylic acid
+3400-2500
+N-H
+Primary and secondary amine and amide
+3500-3100
+C-N
+Amine
+1350-1000
+C=N
+Imine and oxime
+1690-1640
+C≡N
+Nitrile
+2260-2240
+N=O
+Nitro (R-NO2)
+1600-1500, 1400-1300
+S=O
+Sulfoxide
+1050
+Sulfate, sulfonamide
+1200-1140
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 5 of 51
+
+Characteristic bond stretching frequencies of anionic species
+Anion
+Wavenumber (cm−1)
+SO42−
+1100-1200 (νas) 
+ClO4−
+1050-1170 (νas)
+NO3−
+1370 (νas)
+CN−
+2089
+SCN−
+2053 (νC-N), 748 (νC-S)
+N3−
+2042 (νas), 1343 (νs)
+CNO−
+2052 (νC-N), 1057 (νN-O)
+Number of CO stretching bands in the IR spectra of metal carbonyl complexes
+Complex
+Number of bands
+M(CO)6
+1
+M(CO)5X
+3
+cis-M(CO)4X2
+4
+trans-M(CO)4X2
+1
+fac-M(CO)3X3
+2
+mer-M(CO)3X3
+3
+fac-M(CO)3X2Y
+3
+cis-M(CO)2X4
+2
+trans-M(CO)2X4
+1
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 6 of 51
+
+Periodic table
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 7 of 51
+
+Number
+Question 
+Weighting
+1
+Isocaryophyllene, clovene, and humulene
+6%
+2
+Rapamycin - A molecular glue
+6.5%
+3
+Lanterns and the Burj Khalifa
+7.5%
+4
+The life of tennis balls 
+6%
+5
+Solar-powered multi-stage flash desalination
+6.5%
+6
+Solar energy conversion by CO2 reduction
+6%
+7
+Dubai crude oil
+7%
+8
+Carbon monoxide: deadly poison or promising
+therapeutic agent?
+7.5%
+9
+Enzymes and cofactors
+7%
+Total
+60%
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 8 of 51
+
+1. Isocaryophyllene, clovene, and humulene
+6% of the total
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+Total
+7
+3
+6
+2
+2
+8
+2
+2
+2
+34
+Sesquiterpenes have the formula C15H24. They are secondary metabolites in plants and
+both deter insects which eat plants and attract animals which eat the insects.
+Isocaryophyllene (i-Cy) is a sesquiterpene found in oregano, rosemary, pepper
+, and
+cloves. 
+The structural formula of i-Cy can be determined by performing various reactions and
+analysing the products as shown in the figure.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 9 of 51
+
+equiv. = translation 'equiv.'
+1.1 Draw the structures of i-Cy, A, and B. Stereochemistry is not required.
+1.2 Circle the stereocentres in compound C and assign them as R or S.
+Clovene (Cv) can be synthesised from i-Cy under acid catalysis. The synthesis of Cv starts
+from compound D.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 10 of 51
+
+H+ (cat.)="translation H+ (cat.)"
+1.3 Draw the structures of compounds E and F. Stereochemistry is not required.
+For steps '1' and '2' several reagents could be considered. For example:
+☐ PCC
+☐ K2Cr2O7, H2SO4, H2O
+☐ MnO2
+☐ (i) OsO4, (ii) KHSO3
+1.4 From the reagents above, tick which one(s) would be suitable for step '1'.
+1.5 From the reagents above, tick which one(s) would be suitable for step '2'.
+The final part of the synthesis is shown.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 11 of 51
+
+1.6 Draw the structures of compounds I, J, and K. Stereochemistry is not required.
+Humulene (Hu) is another sesquiterpene. It can be converted to α-caryophyllene alcohol
+(α-Ca), which is similar in structure to Cv. This conversion is an acid-catalysed hydration
+reaction which takes place via multiple intermediate structures. Incomplete structures of
+some intermediates, X and Y, are shown.
+H+ (cat.)="translation H+ (cat.)"
+The transformation from Hu to X is an acid-catalysed isomerisation reaction.
+Intermediate Y is charged.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 12 of 51
+
+1.7 Complete the structure of intermediate  X by adding double bonds in the correct
+places.
+1.8 Complete the structure of intermediate Y by adding a positive charge in the correct
+place.
+Five carbon atoms are circled in Hu. Through understanding the mechanism we can
+determine where these five carbon atoms end up in α-Ca.
+1.9 Circle the five corresponding carbon atoms in α-Ca which are circled in Hu. 
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 13 of 51
+
+2. Rapamycin - A molecular glue
+6.5% of the total
+2.1
+2.2
+2.3
+2.4
+Total
+12
+19
+18
+18
+67
+Rapamycin was isolated from the bacterium Streptomyces hygroscopicus in 1972. It acts as a
+“molecular glue” and inhibits the activity of the protein mTOR through binding to another
+protein. It has been used to treat various diseases. The stereochemical complexity of
+rapamycin makes its total synthesis challenging. The figure shows part of the first total
+synthesis by the Nicolaou group.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 14 of 51
+
+The major stereoisomer (C) is formed from the chromium-mediated coupling reaction of
+aldehyde A and vinyl iodide B and can be predicted using the Felkin-Anh model without
+chelation. 
+2.1a Draw a Newman projection showing the best approach of the nucleophile in this
+reaction. Use the labels =O, –H, –R1, –OMe, and Nu. 
+2.1b Draw the full structure of the major diastereomer C showing all stereochemistry. 
+After a few transformations, C can be converted into an aldehyde D which reacts with E to
+form F. F can be further transformed into rapamycin.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 15 of 51
+
+2.2a Using the Zimmerman-Traxler model, predict the arrangement of the reactants as
+they come together to form the six-membered ring transition state in the reaction to
+form F. Draw the substituents at positions labelled with numbers. If a position does not
+have a substituent, put an “X” in the box. Boxes 1 and 2 have been filled in as an
+example. You may use the abbreviation R2 as given in the scheme above.
+2.2b Draw the structure of F showing all stereochemistry. You may use the abbreviation
+R2 as given in the scheme above.
+Whilst stereochemical control is challenging synthetically, the biological synthesis controls
+stereochemistry elegantly through an assembly line of various enzymes.
+The carbon chain is built up through the addition of monomers. These units are
+connected via a thioester to Coenzyme A (CoA).
+The functions of the various enzymes and proteins are shown in the table.
+Abbreviation
+Name
+Function
+ACP
+Acyl-carrier
+protein
+Carries growing chain between domains
+CoL
+CoA-Ligase
+Activates a carboxylic acid substrate to be loaded onto
+the ACP
+AT
+Acyltransferase
+Selects monomer and transfers to ACP 
+KS
+Ketosynthase
+Accepts growing chain from previous ACP and activates
+it for Claisen condensation with next monomer-loaded
+ACP
+KR
+Ketoreductase
+Reduces carbonyl of a previous monomer to a hydroxyl
+DH
+Dehydratase
+Forms  , -unsaturated thioester via elimination on the
+previous monomer
+ER
+Enoylreductase
+Reduces  ,  -unsaturated thioester to saturated chain
+on the previous monomer
+α β
+α β
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 16 of 51
+
+The first part of the assembly line is shown with blanks. The enzymes are shown in circles
+and act in the order of the arrow.
+2.3a Draw in the hexagons the structure of the monomer needed by the enzyme AT at
+each of the points numbered  1-4. Carbon dioxide is released when the monomers are
+incorporated. The monomers have the following general structure where the R group is
+anionic:
+2.3b Fill in each circle with the abbreviations of enzyme(s) needed. Write “X” if no
+additional enzyme is needed.
+2.3c Complete the rectangles with the structure of the growing molecule attached to the
+enzyme.
+The final steps of the enzymatic synthesis are shown below.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 17 of 51
+
+The building blocks involved were determined by feeding the bacterium with three
+different 13C-labelled starting materials which are incorporated into the monomers (13C
+are circled as shown below):
+2.4 Circle the carbons in rapamycin that will be 13C-labelled when the bacterium is fed
+with each of the three starting materials a-c in turn, following the guidelines on the next
+page. Incorrect circles will be penalised but there is no negative scoring.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 18 of 51
+
+Guidelines for circling carbon atoms:
+Each circle should clearly surround one carbon atom
+Do not include multiple carbon atoms in the same circle
+Do not circle any bonds
+If you would like to change your answer and cross-out a circle, put an “X” over the
+circle.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 19 of 51
+
+3. Lanterns and the Burj Khalifa
+7.5% of the total
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+Total
+6
+4
+4
+5
+40
+20
+32
+111
+At 829.8 m, Dubai’s Burj Khalifa is the world's tallest structure. To simplify construction,
+many floors were made from similar pieces. Some artificial "molecular skyscrapers" can
+be made through coordination chemistry of just two pieces: metal ions and organic
+ligands. 
+In these 3D structures, every vertex contains a square planar Pd(II) ion coordinated to
+four pyridine ligands. Along each edge is a bent organic ligand consisting of two pyridines
+linked together
+.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 20 of 51
+
+The angle between the two N→Pd bonds from the same ligand controls which structure
+forms. Larger angles give larger structures.
+Where free rotation around a bond is possible, the ligand adopts a conformation to
+form a structure with the smallest possible angle.
+3.1 Tick  the smallest angle (approximately) between the N→Pd bonds which could be
+achieved by ligands A, B, and C.
+3.2 Using “<”, rank ligands D, E, and F, from smallest angle to largest angle between the
+N→Pd bonds that they could form.
+One series of structures can be modelled as polyhedra with tetracoordinated Pd(II) ions
+at the vertices. All structures have eight triangular faces (F3), with various numbers of
+square faces (F4).
+The triangular and square faces can be placed onto a square grid, where the relative
+position of two nearest triangles is described with integer coordinates h and k. Q is then
+given by the equation: 
+Part of the grid for a structure with h = 2 and k = 4 is shown below.
+Q = h2 + k2
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 21 of 51
+
+The smallest possible structure in this series is an octahedron, where Q = 1, and (h, k) = (0,
+1) or (1, 0). It has six vertices, eight triangular faces, and 12 edges. Nearest triangles are a
+move of one face in one direction apart.
+The second smallest structure is a cuboctahedron, where Q = 2. Nearest triangles are a
+move of one face in each direction apart.
+3.3 Complete the column in the table for Q = 2, describing the number of vertices, V,
+number of edges E, the total number of faces, F, and the number of square faces, F4.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 22 of 51
+
+Q
+1
+2
+(h, k)
+(0, 1) or (1, 0)
+(1, 1) 
+V
+6
+E
+12
+F
+8
+F3
+8
+8
+F4
+0
+All structures obey the following rules:
+3.4 Complete the table for the third smallest structure, where Q = 4.
+Q
+4
+(h, k)
+V
+E
+F
+F3
+8
+F4
+In contrast to these large structures, the smallest structures contain two metals and four
+ligands and are called lanterns. They are similar in shape to the traditional lanterns seen
+at the Dubai light festival. Lanterns are formed by ligands such as L, which make two
+parallel N→Pd bonds. Ligand L has two planes of symmetry and can adopt a planar
+conformation with the angles shown.
+V −E + F = 2
+V = 6Q
+F −V = 2
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 23 of 51
+
+Hint: 
+- The transformation from H to I could also be achieved by Lewis acid catalysis. 
+3.5 Draw the structures of compounds H, I, J, K, and ligand L.
+Unlike symmetrical ligand L, chiral ligand M lacks symmetry and exists as a pair of R and S
+enantiomers.
+Multiple lantern isomers can be formed from ligand M. We can group these isomers in
+two ways. Firstly we categorise by the number of each type of ligand in the lantern: (i) all
+the same (RRRR or SSSS), (ii) one different (RRRS or SSSR), (iii) cis-RRSS, and (iv) trans-RSRS.
+Secondly, the two ends of ligand M are not the same; the ligand has a head (H) and a tail
+(T). There are four categories of structure considering head-to-tail orientation: (1) all up
+(HHHH), (2) three up (HHHT), (3) cis-HHTT, and (4) trans-HTHT.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 24 of 51
+
+The 16 possible combinations of these categories are represented by empty cells in the
+table. Some combinations have only one possible isomer
+, whereas others have multiple
+possible isomers. In any one combination, all possible isomers are either chiral or achiral.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 25 of 51
+
+3.6 Complete the table by writing "C" for chiral and "A" for achiral. Note, in this part you
+will be awarded points for each correct answer but deducted points for each incorrect
+answer down to a minimum of zero. There is no penalty for empty cells. 
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 26 of 51
+
+3.7 Complete the table with the number of possible isomers of each combination.
+2
+4
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 27 of 51
+
+4. The life of tennis balls
+6% of the total
+4.1
+4.2
+4.3
+4.4
+Total
+3
+16
+5
+16
+40
+This problem honours the incredible Rafael Nadal, a true tennis icon who concluded his
+remarkable career in 2024.
+The Dubai Tennis Championships is a prestigious tournament held annually in UAE. Many
+of the world's top players, including Rafael Nadal, Roger Federer
+, Novak Djokovic, and
+Andy Murray have won titles there.
+The composition of tennis balls has evolved over hundreds of years. To ensure a good
+bounce, the inside of modern tennis balls is pressurised above atmospheric pressure.
+However
+, old hollow tennis balls just contained air at atmospheric pressure. 
+In this problem, assume tennis balls have an inner radius of R = 3.0 cm that remains
+constant throughout the pressurisation process. Assume that the composition of air is
+20% O2 and 80% N2 by volume. Consider that overpressure does not expand the ball.
+4.1 Calculate the mass m (in g) of air inside an old tennis ball at T0 = 25 °C.
+Chemists then discovered how to pressurise a ball above atmospheric pressure using a
+reaction between compounds A and B, which forms gas C (to create additional inner
+pressure) plus other non-gaseous products.  
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 28 of 51
+
+A capsule with a quantity mmix = 0.3389 g of a stoichiometric mixture of two white
+inorganic compounds A and B was placed inside a ball filled with air at atmospheric
+pressure. They reacted completely inside the ball upon heating to form gas C and other
+products (reaction 1) to produce an overall pressure inside the ball of p = 1.600 atm (at
+25° C). Once this ball was opened, all residue inside was collected and dissolved in water
+.
+The dropping of silver nitrate in that solution gave a white precipitate (reaction 2). This
+collected precipitate could be partially dissolved in a concentrated aqueous solution of B.
+By increasing the pH of this mixture, the precipitate dissolved completely (reaction 3). If
+the same initial capsule of A+B is dissolved in water and concentrated solution of silver
+nitrate added, mprecipitate = 0.8224 g of white precipitate formed which was approximately
+twice the mass of precipitate formed in reaction 2.
+When the capsule of A+B dissolved in a solution of HI the formation of gas D started, and
+the solution turned brown (reaction 4). Upon further addition of sodium thiosulfate this
+colour disappeared (reaction 5).
+The densities of gases C and D differ by no more than 10%.
+4.2 Write the chemical formulae of compounds A-D.
+4.3 Write equations for reactions 1-5.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 29 of 51
+
+The pressure inside modern tennis balls is p0 = 1.80 atm. They are sold in a pressurised
+can, with the same pressure in the can as in the ball to stop gas coming out during
+storage.
+Standard balls contain air and premium balls contain pure N2. Once the can is opened,
+depressurisation begins, and the gas diffuses out of the balls until the internal pressure
+reaches atmospheric pressure. Assume there is no diffusion of gas into the balls at any
+point. The activation energy for the depressurisation of a premium ball is EA = 50.0 kJ
+mol−1. 
+The rate of ball depressurisation (pressure/time) could be described by similar equations
+of those used in chemical kinetics. At T0 = 25.0 °C, once the can is opened, the premium
+balls depressurise to p1 = 1.40 atm after t1 = 241 h and to p2 = 1.19 atm after about t2 = 21
+days. The initial depressurisation rate of regular balls is 10% faster than premium balls. 
+4.4a  Demonstrate that the depressurisation process follows the first kinetic order by
+calculating the depressurisation rate constant 
+ for N2 in h-1.
+Note: If you couldn't calculate the answer, use 
+ = 10-3 h-1 in further calculations.
+4.4b Calculate the (depressurisation) rate constant 
+ for O2 in h-1, assuming the rates
+for both gases are additive.
+As well as today being the IChO 2025 theory paper
+, it is also (perhaps less importantly) the
+Semi-Finals day at Wimbledon. Amanda Anisimova will start a match in tmatch = 12.0 h from
+now. The weather today in Wimbledon is predicted to be a constant TW = 30.0 °C. Assume
+a new set of premium balls, which were manufactured and placed in the can at T0 = 25.0
+°C, are opened now and quickly change to TW = 30.0 °C.
+4.4c Calculate the pressure pstart (in atm) of the balls at the start of the match.
+kN2
+kN2
+kO2
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 30 of 51
+
+5. Solar-powered multi-stage flash desalination
+6.5% of the total
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+Total
+2
+2
+3
+2
+2
+2
+1
+2
+16
+Freshwater is scarce in the arid climate of the UAE. The country relies on solar-powered
+desalination plants to produce freshwater
+. A Dubai desalination plant uses a multi-stage
+flash (MSF) desalination process. In MSF desalination, seawater is heated by passing
+through a series of heat exchangers to raise its temperature, reaching its saturation
+temperature at a high pressure. When pressure is reduced, this superheated seawater
+gives off pure water vapour to become saturated again, a process known as flashing. 
+Assume seawater in Dubai is at T0 = 25.00 °C and is an aqueous solution of 3.45 % mass
+NaCl. Assume complete ionisation of NaCl in water
+. 
+The boiling point of seawater is higher than pure water
+. The boiling point elevation
+constant, Kb = 0.5120 K kg mol-1.
+5.1 Calculate the boiling point, T, (in °C) of Dubai seawater at atmospheric pressure.
+If you couldn't calculate the answer, use a temperature of 373.50 K for further calculations.
+5.2 Calculate the percentage mass of NaCl, wNaCl, in water that has a boiling point, Tb =
+378.00 K. 
+5.3 The boiling point of seawater also increases as pressure increases. Calculate the
+boiling point, T, (in °C) of the initial Dubai seawater at a pressure, p = 2.50 atm. The latent
+heat of vaporisation of water
+, Evap = 2260 kJ kg-1 (40.716 kJ/mol). Assume this is the same
+for seawater
+. 
+In the plant, a flash chamber (of volume, V = 100 L) contains a mass of 1.00 kg of seawater
+(l) at T1 = 90.0 °C.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 31 of 51
+
+Another mass of 1.00 kg of seawater is then overheated to T2 = 110.0 °C at high pressure
+before being added to this chamber
+, where a reduction in pressure causes some water to
+turn into steam.
+After equilibrium was established, the temperature in the chamber was Tf = 97.0 °C.
+Assume there was no loss of energy, and that the latent heat of vaporisation is
+independent of temperature.
+The specific heat capacity of seawater
+, Cp = 3.85 kJ kg−1 K−1, assumed to be independent of
+temperature. The density of seawater
+, d = 1025 kg m−3.
+5.4 Calculate the amount, n, (in mol) of water that vapourised, assuming that the latent
+heat of vaporization does not depend on pressure, and that the heat capacity of water
+vapor in the chamber is negligble. 
+If you couldn't calculate the answer, use 0.56 mol for further calculations.
+5.5 Assuming the initial vapour pressure before addition of the overheated water in the
+chamber was pi = 0.690 atm,  calculate the final vapour pressure, pf, (in atm) in the
+chamber assuming the water vapour behaves as an ideal gas. 
+5.6 Calculate the thermal energy, E, (in kWh) required to heat a mass of 1.00 kg of
+seawater from T1 = 25.0 oC to T2 = 110.0 oC.
+If you couldn't calculate the answer, use 0.1 kWh for further calculations.
+5.7 A plant produces 50,000 m3 of pure water per day. The plant passes Dubai seawater
+through 30 flash cycles and overall can extract 85% of the water present. Calculate the
+mass, m, (in kg) of Dubai seawater needed per day.
+If you couldn't calculate the answer, use 6.0 × 107 kg for further calculations.
+Plants make efficient use of heat exchangers to save energy. We can assume the total
+energy required by the plant is the same as the energy needed to heat all the seawater
+from T1 = 25.0 oC to T2 = 110.0 oC.
+5.8 Assuming a 10 m2 solar panel has a power of 2.00 kW averaged during the 12
+operational hours every day and the efficiency of using energy is 67%,  calculate the
+number of panels, N, required for the plant. 
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 32 of 51
+
+6. Solar energy conversion by CO2 reduction
+6% of the total
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+Total
+5
+2
+3
+3
+3
+2
+4
+22
+Use the following data to solve this problem. Assume enthalpy and entropy changes of
+reactions do not depend on temperature.
+CO2(g)
+CO(g)
+O2(g)
+Zn(s)
+Zn(l)
+Zn(g)
+ZnO(s)
+∆fH°298 /
+kJ mol−1
+-393.5
+-110.5
+6.5
+130.4
+-350.5
+S°298 /
+J mol−1 K−1
+213.8
+197.7
+205.1
+41.7
+50.8
+161.0
+43.7
+Melting
+Point / K
+692.7
+2247
+Boiling Point
+/ K
+1180
+Photochemical reduction of carbon dioxide is a promising approach both for solar energy
+conversion and for reduction of CO2 content in the atmosphere. There are several ways
+to convert CO2 to CO and other useful substances.
+Direct decomposition
+Direct decomposition of CO2 to CO and O2 is a highly endothermic process which
+requires a large amount of energy – from heat or from light.
+6.1 Estimate the temperature (in K) at which half of CO2 decomposes at equilibrium at a
+total pressure of 1 bar
+.
+Catalytic decomposition
+The use of metal/metal oxide catalytic systems allows the temperature of CO2
+decomposition to be significantly reduced and eases the separation of the gaseous
+products by using thermochemical cycles.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 33 of 51
+
+Consider a catalytic cycle based on the Zn/ZnO system and containing two reactions. The
+net reaction is CO2 decomposition into CO and O2. Reaction 1 is exothermic, while
+Reaction 2 is highly endothermic – the reactants should be heated to the required
+temperature.
+6.2 Write equations for Reaction 1 and Reaction 2.
+The operating temperature for Reaction 1 is 1073 K.
+6.3 Calculate the equilibrium constant, K, for  Reaction 1 and find the degree of CO2
+conversion, x, at this temperature.
+Reaction 2 is performed at the much higher temperature of 2000 K.
+6.4 Calculate the equilibrium pressure of oxygen, p(O2), in bar
+, at this temperature.
+Photocatalytic reduction
+Photocatalytic reduction of CO2 with water is akin to natural photosynthesis. Plants
+convert CO2 to carbohydrates as an energy source, but human civilisation needs
+hydrocarbons to produce energy. On the way from CO2 to CxHy there are many possible
+intermediate products of CO2 reduction.
+6.5 Complete the table with the formulae of the one-carbon species from CO2 reduction,
+containing only H and/or O atoms in addition to the one C. The oxidation number of the
+carbon in each species is shown. For the oxidation state +2 give the formulae of both an
+anion "anion" and a neutral molecule "neutral molecule". Indicate only one species in
+each box.
++3
++2 (anion)
++2 (neutral
+molecule)
+0
+-2
+-4
+Visible light (400 nm < λ < 700 nm) makes up >40% of the total solar radiation reaching
+Earth. Light can be absorbed by semiconductors or dyes, leading to electronic excitation
+which can promote redox reactions. The band gaps of some common semiconductors are
+listed.
+Semiconductor
+CdS
+Ge
+Si
+SiC
+WO3
+ZrO2
+Band gap / eV
+2.4
+0.67
+1.1
+3.2
+2.8
+5.0
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 34 of 51
+
+6.6 Tick which semiconductor(s) can be excited by visible light to serve as a potential
+photocatalyst(s). Support your answer with calculations.
+In an early photocatalysis experiment, SiC semiconductor was suspended in V = 100 mL of
+water
+, and CO2 was bubbled through at a rate of v = 3.0 L min−1 (T = 25 oC, p = 1 atm). The
+suspension was irradiated by a P = 500 W lamp (λ = 365 nm) for t = 7 h. After irradiation,
+the solution contained c(HCHO) = 1.0 × 10–3 M and c(CH3OH) = 5.4 × 10–3 M.
+The apparent quantum yield  is defined as:
+,
+where Ne is the number of electrons transferred and Ni is the number of incident
+photons.
+6.7 Calculate the total degree of CO2 conversion, , and the apparent quantum yield of
+photocatalytic reduction, .
+ϕ
+ϕ = Ne
+Ni
+η
+ϕ
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 35 of 51
+
+7. Dubai crude oil
+7% of the total
+7.1
+7.2
+7.3
+7.4
+7.5
+Total
+8
+2
+3
+1
+8
+22
+The petroleum industry plays an important role in the UAE economy. The oil called “Dubai
+Crude” is a benchmark for global oil prices. Crude oil is a complex mixture of organic
+compounds, mainly hydrocarbons, along with smaller amounts of S, N, and O-containing
+compounds.
+The hydrocarbon composition of oil is characterised by the PONA number
+. The
+abbreviation stands for  P – paraffins (alkanes), O – olefins (alkenes), N – naphthenes
+(cycloalkanes), and A – aromatics (arenes). One method to determine the composition of
+oil is gas chromatography–mass spectrometry (GC–MS). 
+Below are mass spectra (electron impact ionisation, I – relative intensity) of four
+hydrocarbons 1–4 of Dubai Crude oil. They include linear alkane P, linear alkene O,
+monosubstituted cycloalkane N, and arene A. Alkene O does not have cis–trans isomers.
+1’–4’ are selected fragmentation products.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 36 of 51
+
+Compound 1
+Compound 2
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 37 of 51
+
+Compound 3
+Compound 4
+7.1 Draw the structures of 1–4 and 1’–4’. If you cannot determine the structure(s) of 1–
+4, write the corresponding letter code (P/O/N/A) and the molecular formula.
+Hint: Species 3’ is formed by a rearrangement of the molecular ion by the McLafferty mechanism.
+To differentiate isoparaffins (isoalkanes, I) from n-alkanes, the PIONA number may be used
+for a more precise description of crude oil composition. Below are two mass spectra of
+branched alkanes 5 and 6. In the mass spectrum of 6, the [M+1]+ peak has an intensity of
+ca. 5.4% relative to the intensity of the [M]+ peak of the molecular ion.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 38 of 51
+
+Compound 5
+Compound 6
+7.2 Draw the structures of compounds 5 and 6.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 39 of 51
+
+Crude oil is classified by the sulfur content as either sweet (<0.5 wt%) or sour (>0.5 wt%). A
+V = 115 μL sample of Dubai Crude oil (ρ = 871 g dm−3) was completely burnt. The resulting
+gas mixture was passed through a H2O2 solution containing an excess of Ba(OH)2,
+leading to the formation of m = 1.395 g of white precipitate. Upon acidification with HNO3,
+the precipitate’s mass decreased by 98.95%.
+7.3 Calculate the sulfur content (w(S), wt%) of Dubai Crude oil.
+In addition to sulfur
+, crude oil contains trace amounts of selenium, which transfers into
+the water used during refining. In aqueous solutions, selenium exists as SeO32− and
+SeO42−.
+The concentration of SeO32− can be determined chromatographically by its selective
+reaction with diamine X under acidic conditions, forming piazoselenol Y. This reaction is
+complete only at the right pH range.
+X and Y elute at different times (t) on the chromatogram shown below. The absorption
+spectra (1 mAbs corresponds to absorbance A = 0.001) of X and Y are also provided.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 40 of 51
+
+7.4
+Tick the optimal wavelength (λ) for the absorbance measurements in the
+chromatogram.
+ 270 nm      
+300 nm      
+ 350 nm      
+ 510 nm
+Acidified water from the refining process, containing SeO32− and SeO42− (solution 1), was
+analysed as follows. A 9.50 mL sample was mixed with 0.50 mL of an aqueous solution of X
+(300 μM, excess) to form solution 2. 
+The area, S, under each chromatogram peak was measured. These areas are proportional
+to the amount of the respective species in the peak. In a blank experiment under the
+same conditions with Se-free water
+, the peak area of X, S(X) from the free diamine, was
+0.825 mAbs min. Running identical measurements with known amounts of SeO32−
+showed that the peak area for Y (mAbs min) depends on Se concentration (μM) as
+follows: S(Y) = 1.21∙c(Se).
+The measurements for the Se-containing sample (solution 2) were carried out at different
+pH values, adjusted by adding four different strong acids. The ratios S(X)/S(Y) of the area
+under peak X to the area under peak Y for these measurements are shown in the table
+below. Assume all reactions have reached equilibrium.
+Table. S(X)/S(Y) measured at different pH values with four strong acids
+pH
+3.0
+2.0
+1.5
+1.0
+0
+−0.50
+HNO3
+1.523
+3.334
+5.454
+7.783
+10.232
+13.450
+HCl
+0.634
+0.538
+0.523
+0.523
+0.581
+0.782
+HBr
+0.523
+0.377
+0.368
+0.368
+0.399
+0.546
+HI
+1.722
+2.223
+5.114
+8.123
+11.736
+15.780
+Hint: You need only two values from the table to solve this question.
+7.5 Calculate the concentrations of selenium species (c0(SeO32−), c0(SeO42−), in μM) in
+solution 1.
+□
+□
+□
+□
+⋅
+⋅
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 41 of 51
+
+8. Carbon monoxide: deadly poison or promising
+therapeutic agent?
+7.5% of the total
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+8.8
+8.9
+Total
+4
+1
+6
+3
+2
+2
+4
+8
+5
+35
+Carbon monoxide is a toxic gas because it binds to haemoglobin and blocks oxygen
+binding. A major source of CO is incomplete combustion of engine fuel. Therefore, many
+exhausts are fitted with catalytic converters which remove CO and other hazardous
+compounds including unburnt hydrocarbons and nitrogen oxides (NOx), forming mainly
+water vapour
+, carbon dioxide, and nitrogen.
+8.1 Write the equations for the reactions of the following in a converter
+. Tick the box to
+indicate whether the carbon or nitrogen atom(s) have been oxidised  by oxygen, "Ox",
+been reduced "Red", or stayed at the same oxidation state "Same". Please ignore any
+reactions between the exhaust gases.
+(a) CO
+(b) Unburnt hydrocarbon CxHy
+(c) Nitrogen oxides NOx
+Catalytic converters contain nanoparticles of noble metals which act as catalysts,
+immobilised on a cheap high surface area material such as Al2O3.
+In one experiment, m(cat.) = 0.10 g of catalyst containing w(Pd) = 10 wt% was used in a
+tube reactor
+. Gases were passed over the catalyst under continuous flow. The flow rate of
+CO gas was v(CO) = 10 mL min-1, which was mixed with a second flow of air (assume 20%
+O2, 80% N2), at T = 273.15 K and p = 1.00 atm, before entering the reactor
+.
+8.2 Calculate the flow rate v (in mL min-1) of air required for the reactants to be present in
+a stoichiometric ratio.
+Assume 10% of the Pd atoms in the nanoparticles are exposed on the surface. Assume the
+conversion of CO to CO2 was η = 70%.
+8.3 Calculate the number of CO2 molecules, N, formed after t = 1 h per surface Pd atom.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 42 of 51
+
+Ruthenium nanoparticles are efficient catalysts for CO combustion. The bonding
+interactions between CO molecules and the surface Ru atoms are of two types:
+1. σ-bonding through a lone pair on the carbon atom;
+2. π-interaction through an overlap between the Ru valence d-orbitals and CO
+molecular orbitals. 
+8.4 Complete the MO diagram for CO with electrons and the following table with the type
+(σ/π) of overlap for forming each MO.
+MO
+1
+2
+3
+4
+5
+6
+7
+8
+Type of overlap
+8.5  What is the effect of the Ru−CO π-interaction on the Ru−CO and the C−O bond
+strengths? Tick the correct answer
+.
+(i) Ru−CO bond strength:
+☐increases "in"
+☐decreases "dec"
+☐ no change "nc"
+(ii) C−O bond strength:
+☐increases "in"
+☐decreases "dec"
+☐ no change "nc"
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 43 of 51
+
+Adsorbed CO molecules have strong IR absorptions due to C−O stretching vibrations.
+Three binding modes for CO adsorbed on a metal surface are shown, where CO can
+interact with one or more metal atoms. IR peaks in the spectra of free CO and the three
+binding modes of adsorbed CO were observed at values of 1850, 1930, 2100, and 2143
+cm−1.
+8.6 Tick which wavenumber corresponds to each adsorption mode (A, B, and C) and to
+free CO.
+Dispersion of a metal catalyst refers to the percentage of its atoms exposed on the
+surface. Dispersion can be determined by pulse chemisorption of CO since it adsorbs
+selectively onto surface atoms. Equal pulses of known amounts of CO are injected and a
+certain amount is adsorbed from each pulse. The amount remaining is measured by a
+detector and a peak, the area under which correlates with the amount of unadsorbed CO
+from each pulse, is plotted as shown below. Injections continue until no more CO adsorbs.
+One experiment used 50 L pulses consisting of 10% vol CO in He, at 25 °C and 100 kPa. 15
+mg catalyst was used, composed of 10 wt% Ni on an Al2O3 support. Assume one CO
+molecule adsorbs on each surface Ni atom.
+Pulse # (x axis)
+1
+2
+3
+4
+5
+6
+7
+% of pulse
+unadsorbed (y axis)
+4
+10
+20
+50 80
+100
+100
+8.7 Calculate the percentage of Ni atoms exposed on the surface, %Ni.
+μ
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 44 of 51
+
+Despite being toxic at higher concentrations, at a concentration of 10-250 ppm, CO shows
+anti-inflammatory properties. Prodrugs known as CO releasing molecules (CORMs) target
+the delivery of effective dosages of CO to tissues in response to a trigger
+. Mn(I) carbonyl
+complexes have shown promise as PhotoCORMs as they can release CO when exposed to
+light. 
+Compounds A-D are all neutral Mn(I) carbonyl complexes.
+B, C, and D do not contain two CO ligands in a trans arrangement.
+The IR spectrum of C contains a band at 2042 cm−1 in addition to the CO stretching bands.
+The table with the number of CO stretching bands in the IR spectra of metal carbonyl
+complexes is given in the data sheet section at the beginning of the exam.
+Compound
+%Mn by mass
+Number of CO stretching bands
+A
+19.98
+3
+B
+12.15
+3
+C
+13.26
+3
+D
+12.95
+2
+For simplicity, the ligand can be drawn as:
+8.8  Draw the structures of compounds A-D, ensuring the three-dimensional shape is
+clear
+. If the compound is chiral, only one enantiomer needs to be drawn.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 45 of 51
+
+Compound C reacts with alkynes and this can be used to tag proteins. This is known as an
+Inorganic Click (iClick) reaction. 
+During the conversion of C to E, the 2042 cm−1 band in the IR spectrum of C disappears.
+The IR spectrum of E has two new C=O bands in the range of 1735-1725 cm−1. After a
+further 6 h, compound E converts to compound F which only has one C=O band in the
+range of 1735-1725 cm−1. Compound G does not contain manganese and has two planes
+of symmetry.
+8.9 Draw the structures of compounds E, F, and G, ensuring the three-dimensional shape
+is clear
+. If the compound is chiral, only one enantiomer needs to be drawn.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 46 of 51
+
+9. Enzymes and cofactors
+7% of the total
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+Total
+2
+6
+2
+6
+10
+10
+36
+In any answer for this task, stereochemistry is not required and the phosphate group
+can be abbriviated as "OP" (see the scheme below).
+Transketolase (TK) and transaldolase (TA) are enzymes that catalyse C–C bond cleavage.
+TK contains the cofactor thiamine pyrophosphate 1, a derivative of vitamin B1, in the
+active site.
+Breslow and coworkers studied cation  2, a model of cofactor  1, to demonstrate the
+relatively acidic properties of thiamine. Cation 2 underwent a single H/D exchange in D2O,
+which yielded 4 via intermediate 3.
+9.1 From the structures in the answer sheet, choose the one that corresponds to
+compound 4.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 47 of 51
+
+Compounds such as  3 have many applications in organocatalysis. When a catalytic
+amount of 3 is generated in a solution of benzaldehyde 5, a condensation reaction leads
+to product 9 via the catalytic cycle shown.
+9.2 Draw the structures of compounds 3, 6, and 8. Intermediates 6 and 8 are cations.
+There is no rearrangement in this catalytic cycle.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 48 of 51
+
+An aldose is a sugar containing an aldehyde. A ketose is a sugar containing a ketone.
+Enzyme TK contains 1 as a cofactor which catalyses the transfer of a two-carbon fragment
+from a ketose to an aldose by the catalytic cycle presented below.
+9.3 Draw the structure of 13.
+9.4 Draw the structures of intermediates 15-17.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 49 of 51
+
+Enzyme TA catalyses the transfer of a three-carbon fragment from a ketose to an aldose.
+The residue of amino acid lysine 20 in the active site of TA is responsible for the enzyme
+activity.
+9.5 Draw the structures of intermediates 21-25. 23 and 25 have the same functional
+groups.
+TK and TA are used in some organisms to transform five molecules of three-carbon
+sugars into three molecules of a five-carbon sugars.
+9.6 Propose a reaction sequence for this transformation. Label all sugars with a letter
+followed by a number
+. Use the letter A for any aldose and the letter K for any ketose. Use
+the number corresponding to the number of carbon atoms in the sugar; see the example
+below (e.g., present structure 10 as K7; using full structural formulae is not required). The
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 50 of 51
+
+number of carbon atoms in the sugar intermediates is between 3 and 7. There are no
+non-enzymatic steps in the pathway.
+Write either TA or TK as the catalyst for each step. Ignore any phosphorylation,
+dephosphorylation, and isomerisation reactions. Beside transaldolase activity, TA exhibits
+aldolase activity resulting in only one product. Any five-carbon sugar (A5 or K5) is an
+acceptable product. Use the same style as shown in the figure below.
+57th IChO 2025, UAE
+Theory Exam, English (Official)
+Page 51 of 51

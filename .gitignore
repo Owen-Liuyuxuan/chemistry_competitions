@@ -1,0 +1,7 @@
+dist/
+output/
+.tools/
+__pycache__/
+*.pyc
+node_modules/
+sites/

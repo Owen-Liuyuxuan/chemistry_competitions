@@ -1,0 +1,3553 @@
+ 54th IChO2022 
+QUESTIONS 
+and MARKING 
+SCHEMES
+©  The 54th International Chemical Olympics All Rights Reserved.
+
+1
+Table of Contents
+General Instruction..........................................................  2 
+Question 1. Rapid and Visual Nucleic Acid Testing for COVID-19...............  9 
+Question 2. Chromium in Ancient and Modern Times............................. 13 
+Question 3. Capture and Transformation of Carbon Dioxide..................... 20 
+Question 4. A New Journey for Ancient Sulfur................................. 30 
+Question 5. Interconversion among Nitrogen Oxides............................ 39 
+Question 6. Enabling Phosphines.............................................. 49 
+Question 7. Organic Molecules in Life........................................ 57 
+Question 8. Amazing Chiral Spiro Catalyst.................................... 63 
+Question 9. Total Synthesis of Capitulactone................................. 70 
+Marking scheme 1 ............................................................ 77 
+Marking scheme 2 ............................................................ 80 
+Marking scheme 3 ............................................................ 83 
+Marking scheme 4 ............................................................ 87 
+Marking scheme 5 ............................................................ 95 
+Marking scheme 6 ............................................................ 99 
+Marking scheme 7 ........................................................... 102 
+Marking scheme 8 ........................................................... 105 
+Marking scheme 9 ........................................................... 107 
+
+Theory
+G0-1
+English (Oﬃcial)
+International Chemistry Olympiad 2022 Tianjin, China 
+54th IChO2022 Tianjin, China
+10th July –18th July, 2022
+https://icho2022.cn/
+2
+
+Theory
+G0-2
+English (Oﬃcial)
+General Instruction
+• This examination has 9 problems.
+• Use only a pen and non-programmable calculator.
+• You have 5 hours to complete the exam.
+• Begin only when the START command is given.
+• All results must be written in the appropriate boxes with a pen on the answer sheets. Use the back
+of the exam sheets if you need scratch paper. Remember that the content of the answer boxes will
+be graded.
+• Write relevant calculations in the appropriate boxes when necessary. Full marks will be given for
+correct answers only when your work is shown.
+• The invigilator will announce a 30-minute warning before the STOP command.
+• You must stop working when the STOP command is given. Failure to stop writing will lead to the
+nulliﬁcation of your exam.
+• The oﬃcial English version of this examination is available on request only for clariﬁcation.
+• You are not allowed to leave your working place without permission. If you need any assistance
+(broken calculator, need to visit a restroom, etc.), raise hand and wait until an invigilator arrives.
+• For questions where you are asked to choose from a collection of choices, indicate your an-
+swer with a ✓in the [
+] before your choice. An example is provided below:
+(Suppose you wish to choose (A) out of (A), (B), (C) and (D).)
+[ ✓] (A)
+[
+] (B)
+[
+] (C)
+[
+] (D)
+GOOD LUCK!
+3
+
+Theory
+G0-3
+English (Oﬃcial)
+Problems and Grading Information
+No
+Title
+Total Points
+% of Total
+1
+Rapid and Visual Nucleic Acid Testing for COVID-19
+14
+9
+2
+Chromium in Ancient and Modern Times
+21
+11
+3
+Capture and Transformation of Carbon Dioxide
+42
+14
+4
+A New Journey for Ancient Sulfur
+45
+16
+5
+Interconversion among Nitrogen Oxides
+45
+15
+6
+Enabling Phosphines
+36
+7
+7
+Organic Molecules in Life
+32
+9
+8
+Amazing Chiral Spiro Catalyst
+36
+10
+9
+Total Synthesis of Capitulactone
+44
+9
+Total
+100
+4
+
+Theory
+G0-4
+English (Oﬃcial)
+Physical Constants and Equations
+Avogadro constant:
+𝑁𝐴= 6.022 × 1023 mol−1
+Universal gas constant:
+�E = 8.31446 J mol−1 K−1
+Standard pressure:
+𝑝−
+⊖
+−= 1bar = 105 Pa
+Standard atmospheric pressure:
+𝑝atm = 1 atm = 1.01325 bar = 1.01325 × 105 Pa
+Zero of the Celsius scale:
+273.15 K
+Faraday constant:
+�9 = 9.6485 × 104 C mol−1
+Planck's constant:
+ℎ= 6.626 × 10−34 J s
+Mass of electron:
+�Z�R = 9.109 × 10−31 kg
+Speed of light:
+𝑐= 2.998 × 108 m s−1
+pi:
+𝜋= 3.141592653589793
+Energy of a photon:
+𝐸= ℎ𝑐/𝜆
+Ideal gas equation:
+𝑝�I = �[�E�G
+The ﬁrst law of thermodynamics:
+Δ�H = �D + �J
+Enthalpy H:
+�; = �H + 𝑝�I
+The change of entropy:
+Δ�F = �Drev/�G
+Gibbs free energy:
+�: = �; −�G�F
+Δ�:−
+⊖
+−= −�E�Gln𝐾−
+⊖
+−
+Δ�:−
+⊖
+−= −�[�9𝐸−
+⊖
+−
+cell
+Δ�: = Δ�:−
+⊖
+−+ �E�Gln�D
+Reaction quotient:
+�D = [C]
+�P[D]
+�Q
+[A]
+𝑎[B]
+�O
+For a reaction a[A] + b[B] −
+−
+⇀
+↽
+−
+−c[C] + d[D]
+Nernst equation:
+𝐸= 𝐸−
+⊖
+−−�E�G
+�[�9 ln𝑐red
+𝑐ox
+Langmuir isotherm equation:
+𝜃= 𝑎𝑃/(1 + 𝑎𝑃)
+Arrhenius equation:
+𝑘= 𝐴𝑒−𝐸𝑎/𝑅𝑇
+Integrated rate law:
+Zero order:
+[A] = [A]0 −𝑘𝑡
+First order:
+ln[A] = ln[A]0 −𝑘𝑡
+Second order:
+1
+[A] =
+1
+[A]0
++ 𝑘𝑡
+5
+
+Theory
+G0-5
+English (Oﬃcial)
+Half-life time for a ﬁrst order process:
+𝑡1/2 = ln2
+𝑘
+Half-life time for a second order process (A + A ⟶B):
+𝑡1/2 =
+1
+𝑘[A]0
+Lambert–Beer equation:
+𝐴= 𝜀�Y𝐶
+Electric work:
+�J = �H�<𝑡= �H�D
+Quantity of electric charge:
+�D = �<𝑡
+Volume of a sphere:
+�I = 4
+3𝜋𝑟3
+Surface area of a sphere:
+�F = 4𝜋𝑟2
+6
+
+Theory
+G0-6
+English (Oﬃcial)
+Periodic Table
+7
+
+Theory
+G0-7
+English (Oﬃcial)
+The Color Wheel
+a: red
+b: orange
+c: yellow
+d: green
+e: blue
+f: violet
+1: If a substance absorbs here
+2: it appears as this color.
+Figure 0.1
+8
+
+Theory
+Q1-1
+English (Oﬃcial)
+Rapid and Visual Nucleic Acid Testing for COVID-19
+9% of the total
+Question
+1.1
+1.2
+1.3
+1.4
+1.5
+Total
+Points
+1
+1
+4
+4
+4
+14
+Score
+Fast and simple methods for early detection of COVID-19 are urgently needed. Gold nanoparticles-aided
+detection is one of the promising methods. Gold nanoparticles are widely used as a visible readout for
+test strips due to their high molar extinction coeﬃcients (molar absorptivity). The color appearance of
+gold nanoparticles is closely associated with their sizes and dispersity. Generally, the larger the gold
+nanoparticles, the more reddish the color is. Once the nanoparticles are aggregated, the color shifts
+from red to blue.
+When the surface of gold nanoparticles is modiﬁed with two kinds of single-stranded nucleic acid frag-
+ments a and b, the gold nanoparticles would aggregate in the presence of the target nucleic acid (a’
+b’
+),
+causing the color change of the solution from red to blue in several minutes (as indicated below). Based
+on this principle, the target nucleic acids collected from the coronavirus in a sample can be detected.
+Dispersed (Red)
+Aggregated (Blue）
+1.1
+Indicate the absorption band region of the dispersed gold nanoparti-
+cles with an appropriate letter (a-f in the color wheel of Figure 0.1 in
+General Instructions)
+1.0 pt
+9
+
+Theory
+Q1-2
+English (Oﬃcial)
+1.2
+Indicate the change in the absorption spectrum of the gold nanoparticles once
+they are aggregated. Compared to the absorption wavelength of the dispersed
+gold nanoparticles, the wavelength of the aggregated nanoparticles
+(a) becomes longer
+(b) becomes shorter
+(c) does not change
+1.0 pt
+Gold nanoparticles are composed of gold atoms that are closely packed as solid gold (density
+𝜌= 19.3 g cm−3).
+1.3
+Calculate how many gold atoms (𝑁) are there in a spherical gold nanoparticle
+with a diameter of 30.0 nm.
+4.0 pt
+The synthesis of gold nanoparticles depends on the redox reaction between hydrogen tetrachloroau-
+rate(III) (HAuCl4 · 3H2O, MW = 394) and reducing substances (such as sodium citrate). 5.2 mg of HAuCl4 ·
+3H2O was completely converted into uniform spherical gold nanoparticles with a diameter of 30.0 nm
+in a 100.0 mL reaction solution. The absorbance of the resulting red solution was 0.800 measured at
+530 nm by a UV-Vis spectrometer.
+1.4
+Calculate the molar extinction coeﬃcient (molar absorptivity) of the resulting
+gold nanoparticles solution at 530 nm per mol of gold nanoparticles. The optical
+path of the cuvette used is 1 cm. If you failed to get the number of gold atoms
+(𝑁) in 1.3 , use 𝑁= 1.00 × 105.
+4.0 pt
+The standard addition method was used for colorimetric detection of the target nucleic acid. The original
+throat swab sample was collected and divided equally into two portions. After addition of the probe
+solutions and water (as indicated below), the absorbance of the two resulting solutions was measured
+at 600 nm separately.
+No.
+Volume of
+Volume of solution of
+Volume of standard
+Volume of
+Absorbance
+throat swab
+gold nanoparticles
+solution containing
+water
+sample (mL)
+modiﬁed with nucleic
+2.0 μg mL−1 target
+(mL)
+acid fragments (mL)
+nucleic acid (mL)
+1
+0.10
+0.80
+0.00
+0.10
+0.400
+2
+0.10
+0.80
+0.10
+0.00
+0.900
+1.5
+Calculate the concentration of the viral nucleic acids in the original throat swab
+sample.
+4.0 pt
+10
+
+Theory
+A1-1
+English (Oﬃcial)
+Rapid and Visual Nucleic Acid Testing for COVID-19
+9% of the total
+Question
+1.1
+1.2
+1.3
+1.4
+1.5
+Total
+Points
+1
+1
+4
+4
+4
+14
+Score
+1.1 (1.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+[
+] (e)
+[
+] (f)
+1.2 (1.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+1.3 (4.0 pt)
+𝑁= ______________________________
+11
+
+Theory
+A1-2
+English (Oﬃcial)
+1.4 (4.0 pt)
+𝜀= ______________________________ L mol−1 cm−1
+1.5 (4.0 pt)
+CX =______________________________𝜇g mL−1
+12
+
+Theory
+Q2-1
+English (Oﬃcial)
+Chromium in Ancient and Modern Times
+11% of the total
+Question
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+Total
+Points
+2
+1
+6
+1
+2
+1
+1
+5
+2
+21
+Score
+(The photo is from the website of Palace Museum)
+Black glazed porcelain is a special Chinese porcelain and was popular in the Tang and Song dynasties
+(ca. 1000 years ago). The ceramic ware contained iron oxides as the main color rendering agent, which
+was mixed with other transition metal oxides to exhibit different color appearance such as auburn, dark
+brown or black. Currently, the black glazed porcelain is still popular in China.
+13
+
+Theory
+Q2-2
+English (Oﬃcial)
+The typical black glaze is composed of Fe-containing oxides with a spinel structure. Spinel oxides have the
+general formula AB2O4 and the structure consists of a cubic close packing array of O2−ions in which the
+A cations occupy one-eighth of the tetrahedral vacancies and the B cations occupy half of the octahedral
+vacancies, as shown in Figure 2.1(a) for a unit cell.
+Figure 2.1 Illustration of spinel structure
+The cubic unit cell of a spinel structure can be divided into 8 cubic subunits, and the dashed lines repre-
+sent the internal edges of the subunits. 4 of the subunits belong to type I, and the other 4 subunits are
+type II (Figure 2.1(b)). The details of adjacent subunits of type I and type II are shown in Figure 2.1(c).
+2.1
+How many cations of type A and B are there in a unit cell?
+2.0 pt
+The black ceramic glaze with spinel structure can be produced by roasting Fe2O3 and Cr2O3 in a certain
+proportion in a reducing atmosphere (reaction (I)). When Fe2O3 and Cr2O3 are reacted with the mass
+ratio of 63.6 ∶36.4, they completely transform into a pure stoichiometric compound. The product has a
+spinel structure, in which the tetrahedral A sites are occupied by iron cations only.
+14
+
+Theory
+Q2-3
+English (Oﬃcial)
+2.2
+In reaction (I), which element is reduced?
+1.0 pt
+2.3
+Calculate the numbers of Fe3+ and Cr3+ in the B sites of one unit cell.
+6.0 pt
+Besides doping in black ceramic glaze, chromium-containing pigments are used in painting and printing
+due to the abundant color originating from chromium with different oxidation states, such as +2, +3
+and +6. The pigment, chrome green (Cr2O3) can be converted into a series of other compounds (D-G) in
+the following process, where E, F, G are yellow, orange and red respectively.
+2.4
+Write the chemical formula of E.
+1.0 pt
+2.5
+Write the reaction equation of F ⟶G.
+2.0 pt
+2.6
+Choose the agent which could be H.
+(A) FeSO4
+(B) FeCl3
+(C) ZnSO4
+(D) CuSO4
+1.0 pt
+15
+
+Theory
+Q2-4
+English (Oﬃcial)
+The variable valence of chromium is not only important for the production of pigments, but also use-
+ful for catalysis. For example, a typical Phillips catalyst for the polymerization of ethylene consists of
+chromium oxide species grafted onto a porous support material such as amorphous silica. The tetra-
+coordinated Cr(VI) specie is the core in the pre-catalyst (1), which is proposed to be reduced quickly into
+a six-coordinated Cr(II) specie (2) by the ethylene molecules at the beginning. 2 is proposed to further
+catalyze polymerization of ethylene molecules.
+2.7
+The reaction of 1 with ethylene can be traced by UV–vis spectra, which show the
+light absorption of 1 at 21500 cm−1 and the light absorption of 2 at 16700 cm−1
+in the visible region, respectively. Choose the appropriate combination of col-
+ors of 1 and 2.
+(A) orange and white, respectively
+(B) orange and blue, respectively
+(C) blue and orange, respectively
+(D) blue and white, respectively
+1.0 pt
+2.8
+Assuming that the Cr(II) ion in 2 is located in a regular octahedral crystal ﬁeld
+with a splitting energy Δo of 16000 cm−1, draw the conﬁgurations of d electrons
+of the Cr(II) ion in 2, and calculate the crystal ﬁeld stabilization energy (CFSE)
+for the Cr(II) ion in 2. (Note: The pairing energy P for Cr(II) in 2 is 23500 cm−1 )
+5.0 pt
+2.9
+Coordination compounds/ions exhibit paramagnetism when containing un-
+paired electrons, and the corresponding magnetic moment (𝜇) of transition
+metal cations is calculated by the function 𝜇= √𝑛(𝑛+ 2) 𝜇B where 𝑛is the num-
+ber of unpaired electrons. Calculate the magnetic moment in term of 𝜇B for the
+Cr(II) ion in 2.
+2.0 pt
+16
+
+Theory
+A2-1
+English (Oﬃcial)
+Chromium in Ancient and Modern Times
+11% of the total
+Question
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+Total
+Points
+2
+1
+6
+1
+2
+1
+1
+5
+2
+21
+Score
+2.1 (2.0 pt)
+A ∶________
+B ∶________
+2.2 (1.0 pt)
+2.3 (6.0 pt)
+17
+
+Theory
+A2-2
+English (Oﬃcial)
+2.4 (1.0 pt)
+2.5 (2.0 pt)
+2.6 (1.0 pt)
+[
+] (A)
+[
+] (B)
+[
+] (C)
+[
+] (D)
+2.7 (1.0 pt)
+[
+] (A)
+[
+] (B)
+[
+] (C)
+[
+] (D)
+18
+
+Theory
+A2-3
+English (Oﬃcial)
+2.8 (5.0 pt)
+CFSE = ______________________________cm−1
+2.9 (2.0 pt)
+𝜇= __________ 𝜇B
+19
+
+Theory
+Q3-1
+English (Oﬃcial)
+Capture and Transformation of Carbon Dioxide
+14% of the total
+Question
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+Total
+Points
+2
+5
+2
+3
+2
+8
+2
+2
+5
+7
+2
+2
+42
+Score
+Climate change is one of the most critical global challenges nowadays. The increase of CO2 concentration
+in the atmosphere has been recognized as the primary driver of global warming. The study of the capture
+and transformation of CO2 has attracted considerable attention.
+Direct air capture (DAC) technology which aims to extract CO2 directly from ambient air is promising. The
+conventional method of DAC is wet scrubbing with alkaline hydroxide solutions (typically NaOH), where
+CO2 in air is absorbed till pH ≈10 (step 1). The spent sorbent is regenerated by dosing calcium hydroxide
+into the system (step 2). The white precipitate A received in step 2 decomposes at 700 °C, giving rise
+to CO2 and another white compound B (step 3). Finally, calcium hydroxide can be generated by the
+hydration of B. This process is highly energy-demanding. ( H2CO3 ∶𝐾a1 = 4.5 × 10−7, 𝐾a2 = 4.7 × 10−11 )
+3.1
+Write the formulas for A and B respectively.
+2.0 pt
+3.2
+Write the balanced equations of all possible reactions in steps 1-3. NaOH so-
+lution is used as sorbent.
+5.0 pt
+Recently, an electrochemical process was developed for regenerating the alkaline solution in the wet
+scrubbing process for DAC application, and pure CO2 gas could be recovered that is suitable for storage
+or utilization. The process is based on a H2-recycling electrochemical system (HRES), as shown in Figure
+3.1.
+20
+
+Theory
+Q3-2
+English (Oﬃcial)
+Figure 3.1 Schematic drawing of the experimental setup
+The electrochemical cell contains three compartments: an anode region (A), an acidifying region (B),
+and a cathode region (C). They are separated by ion-selective permeable membranes M1 and M2. Dur-
+ing the operation, protons produced from H2 oxidation at the anode are transported to the acidifying
+compartment where the spent solution (Na2CO3-NaHCO3) coming from the air contactor is fed. The de-
+creasing pH of the solution leads to the conversions of carbonate to hydrocarbonate (reaction 1) and
+hydrocarbonate to carbonic acid (reaction 2). When the solution is saturated by dissolved CO2 (solubility:
+0.033 mol L−1), a further pH decrease leads to the release of CO2 gas (reaction 3). H2 generated in the
+cathode is introduced to the anode and the solution from the cathode can be reused as a DAC absorbent.
+3.3
+Write the electrode reactions in the anode (A) and the cathode (C) respectively.
+2.0 pt
+3.4
+Write the balanced equations for the reactions 1–3 in the acidifying region (B).
+3.0 pt
+3.5
+Check all that correctly describe the movement of cations during the system
+operation.
+(a) H+ ions permeate through M1 from A to B.
+(b) H+ ions permeate through M2 from B to C.
+(c) Na+ ions permeate through M1 from B to A.
+(d) Na+ ions permeate through M2 from B to C.
+(e) Both H+ and Na+ ions can permeate through M1and M2.
+2.0 pt
+The cell works at a steady state when the current passing through the cell is 2.00 A and the ﬂow rate of
+the solution (0.050 mol L−1 Na2CO3 - 0.10 mol L−1 NaHCO3) into the region B is 10.0 mL min−1. The pH in
+the anode compartment is maintained at 1 in the steady state.
+3.6
+Calculate the generation rate of CO2 gas (in mmol min−1).
+8.0 pt
+Zeolitic imidazolate frameworks (ZIFs), a sub-class of metal–organic frameworks (MOFs) are promising
+21
+
+Theory
+Q3-3
+English (Oﬃcial)
+materials for the capture and utilization of CO2. The structures of ZIFs resemble zeolites. They form
+3D frameworks with tetrahedrally coordinated metal ions (e.g. Zn2+, Co2+) bridged by imidazolate (Im−)
+and its derivatives. As the conjugated base of imidazole (HIm), imidazolate anion binds to metal cations
+(M) by its two N atoms. The fact that the M-Im-M angle is similar to the Si-O-Si angle (145°) preferred in
+zeolites (as shown below) has led to the synthesis of a large number of ZIFs with zeolite-type tetrahedral
+topologies.
+ZIF-8 is one of the representative ZIFs, which adopts a sodalite framework (SOD), as shown in Figure
+3.2. ZIF-8 was ﬁrstly synthesized by Chinese scientists Xiao-Ming Chen et al. (they named it as MAF-4) by
+the reaction of Zn2+ with 2-methylimidazole (CH3(C3N2H3), HmIm). It crystalizes in the cubic system with
+the cell parameter 𝑎= 1.632 nm for a solvent-free phase with the effective pore diameter (shown by the
+inside virtual sphere in Figure 3.2d) of 1.16 nm.
+22
+
+Theory
+Q3-4
+English (Oﬃcial)
+Figure 3.2 Topology of SOD and structure of ZIF-8
+(a)
+Topology of SOD cage;
+(b)
+SOD cage in ZIF-8 formed by Zn2+ (at the centers of the tetrahedra) and imidazolate (H atoms
+are omitted for clarity);
+(c)
+Framework of SOD with the unit cell shown by the square box;
+(d)
+Some of the pores are highlighted by virtual spheres in ZIF-8.
+Note: If you wish, you may use the symbol "HmIm" and "mIm" representing 2-methylimidazole and 2-
+methylimidazolate respectively in solving the following questions.
+3.7
+Write the formula of the single sodalite cage.
+2.0 pt
+23
+
+Theory
+Q3-5
+English (Oﬃcial)
+3.8
+Write the composition of the unit cell of ZIF-8.
+2.0 pt
+3.9
+Calculate the inner surface area (𝑆) of the pores (modeled by the virtual
+spheres) of 1 g ZIF-8 (in m2). If you failed to get the composition of the unit
+cell, use 3500 as the formula weight of the unit cell.
+5.0 pt
+3.10
+Calculate the porosity 𝑅of ZIF-8 (𝑅is the ratio of pore volume to the actual
+volume of the material) and the pore volume of 1 g ZIF-8 (𝑉𝑝, in cm3).
+7.0 pt
+ZIF-8 can also act as a catalyst to promote the conversion of CO2 to high value-added chemicals. One of
+the most promising routes for CO2 ﬁxation is the preparation of cyclic carbonates via CO2 cycloaddition.
+An example is shown as below:
+A mechanism of catalytic conversion of CO2 to cyclic carbonate over ZIF-8 catalyst is proposed:
+24
+
+Theory
+Q3-6
+English (Oﬃcial)
+3.11
+If ZIF-8 provides acid sites in the above catalytic process, complete the mecha-
+nism by choosing the reasonable intermediates from the following species:
+Choose the intermediates corresponding to I and II respectively.
+2.0 pt
+ZIF-8 shows a relatively high thermal stability. However, a recent study revealed that its structure would
+be destroyed if applied in a wet acidic environment. The co-existence of CO2 and H2O with ZIF-8 resulted
+in the formation of ZnCO3.
+3.12
+Write the balanced equation of ZIF-8 with CO2 and H2O.
+2.0 pt
+25
+
+Theory
+A3-1
+English (Oﬃcial)
+Capture and Transformation of Carbon Dioxide
+14% of the total
+Question
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+Total
+Points
+2
+5
+2
+3
+2
+8
+2
+2
+5
+7
+2
+2
+42
+Score
+3.1 (2.0 pt)
+A: ____________________
+B: ____________________
+3.2 (5.0 pt)
+step 1:
+step 2:
+step 3:
+26
+
+Theory
+A3-2
+English (Oﬃcial)
+3.3 (2.0 pt)
+A:
+C:
+3.4 (3.0 pt)
+reaction 1:
+reaction 2:
+reaction 3:
+3.5 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+[
+] (e)
+27
+
+Theory
+A3-3
+English (Oﬃcial)
+3.6 (8.0 pt)
+𝑟(CO2) = ____________________mmol min−1
+3.7 (2.0 pt)
+3.8 (2.0 pt)
+28
+
+Theory
+A3-4
+English (Oﬃcial)
+3.9 (5.0 pt)
+𝑆= ______________________________m2
+3.10 (7.0 pt)
+𝑅= ______________________________; 𝑉𝑝= ______________________________cm3
+3.11 (2.0 pt)
+I:
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+II: [
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+3.12 (2.0 pt)
+29
+
+Theory
+Q4-1
+English (Oﬃcial)
+A New Journey for Ancient Sulfur
+16% of the total
+Question
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+4.10
+4.11
+4.12
+Total
+Points
+2
+4
+4
+3
+1
+5
+2
+4
+5
+4
+6
+5
+45
+Score
+Sulfur has been known and used since the ancient times. Nowadays, sulfur is widely used in chemical
+production and pharmaceutical industry as an inexpensive chemical raw material.
+Pyrite (FeS2) is commonly used as a raw material in the industrial production of elemental sulfur. By
+heating pyrite in the presence of limited air supply, the theoretical yield of elemental sulfur is 100% and
+a black magnetic oxide (Fe3O4) is the other product.
+4.1
+Write the balanced reaction equation that describes the above conversion.
+2.0 pt
+In addition to sulfur, a small amount of SO2 is generated as a by-product during the actual process.
+This reaction can be monitored by measuring the amount of SO2. The following recipe is used for the
+monitoring:
+Raw ore powder is heated in a temperature-controlled tube furnace. The generated SO2 is absorbed by
+2 mol L−1 NaOH solution. When the reaction is completed, the solution is transferred to a 500 mL volu-
+metric ﬂask and diluted by distilled water to the mark. 25.00 mL of this diluted solution is then added into
+an iodine ﬂask containing 50.00 mL 0.05122 mol L−1 I2 standard solution and 5 mL 20% H2SO4 solution.
+After maintaining the iodine ﬂask in dark for 5 min, the solution is titrated with 0.1012 mol L−1 Na2S2O3
+30
+
+Theory
+Q4-2
+English (Oﬃcial)
+standard solution. When the color of the solution turns light brown, 3 mL 0.5% starch indicator is added.
+Continue the titration until the blue color disappears.
+4.2
+Write the balanced reaction equations involving I2 in the above measurement.
+4.0 pt
+4.3
+In such a test experiment starting from pyrite, 17.6 g of elemental sulfur was
+collected. The analysis of the by-product gases according to the above proce-
+dure resulted in the consumption of 18.47 mL of Na2S2O3 standard solution. As-
+suming that no other sulfur containing species were produced, calculate what
+percentage of the sulfur in pyrite was lost as the by-product?
+4.0 pt
+The lithium-sulfur battery is a compelling energy storage system because its high theoretical energy den-
+sity exceeds conventional Li-ion batteries. The net reaction of a lithium-sulfur battery can be simpliﬁed
+as: 16 Li + S8 −
+−
+→8 Li2S. Sulfur is the cathode and metallic lithium is the anode active material during
+discharge.
+4.4
+Write the balanced equations for reactions that take place at cathode (a) and
+anode (b) during discharge.
+3.0 pt
+4.5
+Calculate the mass ratio of the cathode active material to the anode active ma-
+terial, according to the net battery reaction.
+1.0 pt
+A lithium-ion battery (LIB) that possesses an average operating voltage of 3.8 V and a deliverable capacity
+of 3110 mAh can provide energy for a mobile phone to play videos continuously for 22 hours upon a full
+charge.
+4.6
+If the LIB is replaced by an ideal lithium-sulfur battery pack, which has an av-
+erage operating voltage of 4.2 V and contains 23 g sulfur as the active elec-
+trode material that can react stoichiometrically during discharge, calculate
+how many hours the new battery pack will provide energy for the phone to
+play videos continuously after a full charge.
+5.0 pt
+Elemental sulfur generally exist as S8 molecules. In real lithium-sulfur batteries, S8 is not directly reduced
+to Li2S during discharge, but it undergoes stepwise reactions generating different soluble lithium poly-
+sulﬁdes (Li2Sn, n = 3 −8). These lithium polysulﬁdes could diffuse to the anode and corrode it, which
+results in the loss of active electrode materials. This phenomenon is called "shuttle effect".
+4.7
+Write the balanced reaction equation for the corrosion of anode by soluble
+lithium polysulﬁdes (Li2Sn) that produces Li2S.
+2.0 pt
+In order to suppress the "shuttle effect", the forms of polysulﬁdes in an electrolyte have been extensively
+studied. Li2S6 is one of the most representative intermediate products:
+31
+
+Theory
+Q4-3
+English (Oﬃcial)
+2Li+ + S8 + 2e−⟶Li2S6 + 2S
+A theoretical study shows that two conformers with comparable energies, Li2S6(I) and Li2S6(II) coexist in
+1,2-dimethoxyethane (DME), a common electrolyte solvent in lithium-sulfur batteries. The dissociation
+of Li2S6 in DME is shown below:
+Chemical equilibria of Li2S6, LiS−
+6 , S2−
+6 and LiS•
+3 in DME
+Table 4.1 Dissociation Gibbs energies (kJ mol−1) of different reactions in DME (298.15 K, 1 bar)
+Δ𝐺−
+⊖
+−
+d1(I)
+Δ𝐺−
+⊖
+−
+d1(II)
+Δ𝐺−
+⊖
+−
+d2
+Δ𝐺−
+⊖
+−
+dr (I)
+Δ𝐺−
+⊖
+−
+dr (II)
+20.68
+18.92
+100.55
+45.13
+43.37
+32
+
+Theory
+Q4-4
+English (Oﬃcial)
+4.8
+Using the data from Table 4.1, calculate the equilibrium concentration ratio of
+two conformers in DME (298.15 K, 1 bar), [Li2S6(II)]
+[Li2S6(I)] .
+4.0 pt
+4.9
+Using the data from Table 4.1, calculate the apparent dissociation constant of
+Li2S6 ⟶Li+ + LiS−
+6 in DME (298.15 K, 1 bar).
+5.0 pt
+4.10
+Sort the following equilibrium concentrations in decreasing order:
+[Li2S6],
+[LiS−
+6 ], [S2−
+6 ], [LiS•
+3] in DME.
+4.0 pt
+4.11
+The standard reduction potential of metallic lithium in water at 298.15 K and
+1 bar is:
+𝐸−
+⊖
+−(Li+/Li) = −3.040 V
+The standard solvation Gibbs energies of
+gaseous Li+(g) to Li+(sol) in different solvents.
+Li+(H2O)
+Li+(DME)
+Δ𝐺−
+⊖
+−/kJ mol−1
+−116.9
+−114.6
+Calculate the standard reduction potential of metallic lithium electrode in DME.
+6.0 pt
+Studies have shown that electromotive force of a lithium-sulfur battery would be increased by replac-
+ing DME with dimethyl sulfoxide (DMSO). Therefore, the forms of polysulﬁdes in DMSO also attract re-
+searchers' attention.
+In a test, a certain amount of Li2S and 4.81 mg sulfur powder were added into 10.00 mL DMSO, then
+heated and stirred until completely dissolved (ignoring the change in volume). Suppose that only the
+following polysulﬁdes were present in the DMSO: S•−
+3 ，
+S2−
+4 ，
+S2−
+5 ，
+S2−
+6 ，
+S2−
+7 ，
+S2−
+8 . The equilibrium concen-
+tration ratio of the sulfur containing species was:
+[S•−
+3 ] ∶[S4
+2−] ∶[S5
+2−] ∶[S6
+2−] ∶[S7
+2−] ∶[S8
+2−] = 17.50 ∶1.00 ∶4.50 ∶55.00 ∶5.00 ∶0.75
+4.12
+Calculate the original mass 𝑚(in mg) of Li2S added to DMSO.
+5.0 pt
+33
+
+Theory
+A4-1
+English (Oﬃcial)
+A New Journey for Ancient Sulfur
+16% of the total
+Question
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+4.10
+4.11
+4.12
+Total
+Points
+2
+4
+4
+3
+1
+5
+2
+4
+5
+4
+6
+5
+45
+Score
+4.1 (2.0 pt)
+4.2 (4.0 pt)
+4.3 (4.0 pt)
+______________________________%
+34
+
+Theory
+A4-2
+English (Oﬃcial)
+4.4 (3.0 pt)
+(a)
+(b)
+4.5 (1.0 pt)
+mass ratio:______________________________
+4.6 (5.0 pt)
+______________________________h
+35
+
+Theory
+A4-3
+English (Oﬃcial)
+4.7 (2.0 pt)
+4.8 (4.0 pt)
+[Li2S6(II)]
+[Li2S6(I)] = ______________________________
+36
+
+Theory
+A4-4
+English (Oﬃcial)
+4.9 (5.0 pt)
+𝐾−
+⊖
+−
+d1 = ______________________________
+4.10 (4.0 pt)
+(1)____________
+>
+(2)____________
+>
+(3)____________
+>
+(4)____________
+37
+
+Theory
+A4-5
+English (Oﬃcial)
+4.11 (6.0 pt)
+𝐸−
+⊖
+−(Li+(DME)/Li) = ______________________________V
+4.12 (5.0 pt)
+𝑚(Li2S) = ______________________________mg
+38
+
+Theory
+Q5-1
+English (Oﬃcial)
+Interconversion among Nitrogen Oxides
+15% of the total
+Question
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+Total
+Points
+4
+4
+2
+4
+3
+8
+4
+6
+4
+6
+45
+Score
+Nitrogen oxides (including N2O, NO, NO2, N2O4 and etc., usually written as NOx) are one of the main air
+pollutants that can cause a series of problems such as ozone depletion, acid rain, photochemical smog,
+and greenhouse effect. Therefore, the emission and conversion of NOx must be controlled to improve
+air quality. Here let us investigate the oxidation of NO to NO2 via the reaction of 2NO + O2 ⟶2NO2.
+Part A
+It is generally accepted that this reaction proceeds through the following mechanism in the atmosphere:
+2 NO −
+−
+⇀
+↽
+−
+−N2O2
+(1)
+N2O2 + O2 −
+−
+→2 NO2
+(2)
+Reaction (1) and (2) and the reverse of reaction (1) are elementary reactions.
+Reaction (1) is a pre-
+equilibrium reaction, and its equilibrium constant in terms of concentrations is denoted as 𝐾𝑐1. Reaction
+(2) is the rate-determining step of the overall reaction, and its rate constant is 𝑘2.
+5.1
+Deduce the rate expression for the overall reaction of 2NO + O2 ⟶2NO2 as a
+function of [NO], [O2], 𝐾𝑐1 and 𝑘2.
+4.0 pt
+The temperature dependence of 𝐾𝑐1 could be approximately described as ln 𝐾𝑐1 = 𝑀−(𝑁/�G) (𝑀and
+𝑁are constants).
+The change of 𝑘2 with temperature follows the Arrhenius equation with the pre-
+exponential factor of 𝐴2 and apparent activation energy of 𝐸𝑎,2. Assume that 𝐸a,2 and 𝐴2 are independent
+of the temperature.
+5.2
+Deduce the expressions for the pre-exponential factor (𝐴+) and apparent acti-
+vation energy (𝐸𝑎+) of the reaction of 2NO + O2 ⟶2NO2 as functions of 𝑀, 𝑁,
+𝐴2 and 𝐸𝑎,2.
+4.0 pt
+39
+
+Theory
+Q5-2
+English (Oﬃcial)
+The apparent rate constant (𝑘+) of the overall reaction is 6.63 × 105 L2 mol−2 min−1 at 600 K, and its ap-
+parent activation energy is 1.20 kJ mol−1.
+5.3
+Calculate the rate constant (in L2 mol−2 min−1) of this reaction at 700 K.
+2.0 pt
+The standard enthalpies of formation (ΔfH−
+⊖
+−
+m ) and standard entropies (S−
+⊖
+−
+m ) at 298.15 K are as follows:
+NO(g)
+O2(g)
+NO2(g)
+Δf𝐻−
+⊖
+−
+m (kJ mol−1)
+91.3
+33.1
+𝑆−
+⊖
+−
+m (J K−1 mol−1)
+210.8
+205.2
+240.1
+The standard reaction enthalpy and entropy changes of 2NO + O2 ⟶2NO2 can be regarded as temper-
+ature independent. All the gases are taken to be ideal for the following questions.
+5.4
+Calculate the thermodynamic equilibrium constant (𝐾−
+⊖
+−
+𝑝) of this reaction at
+600 K.
+4.0 pt
+5.5
+Calculate the standard internal energy change Δr�H −
+⊖
+−
+m (in kJ mol−1) of this reac-
+tion at 600 K.
+3.0 pt
+Experimental observation shows that the rate of the reaction of 2NO2 ⟶2NO + O2 is independent on
+the concentration of NO and O2.
+5.6
+Deduce the expression of the rate for this reaction (the apparent rate constant
+could be directly used as 𝑘−) and calculate the value of 𝑘−apparent at 600 K.
+(If you failed to ﬁnd the 𝐾−
+⊖
+−
+𝑝(600 K) in question 5.4, use 𝐾−
+⊖
+−
+𝑝(600 K) = 350.0)
+8.0 pt
+NO2 gas is introduced to a container with a ﬁxed volume which is held at 600 K and allowed to reach
+equilibrium. 20 percent of the reactant is converted to NO and O2. All the gases are taken to be ideal.
+5.7
+Calculate the total pressure of this reaction system at equilibrium. (If you failed
+to ﬁnd the 𝐾−
+⊖
+−
+𝑝(600 K) in question 5.4, use 𝐾−
+⊖
+−
+𝑝(600 K) = 350.0)
+4.0 pt
+Part B
+Industrial exhaust is a main source of NOx. One of the approaches to reduce the emission of NOx is
+through the oxidation of NO to NO2 and the subsequent absorption of the formed NO2 by absorbents.
+However, because of the low concentration of NO in exhaust, its spontaneous oxidation in the atmo-
+sphere is too slow to meet the demand of industry. Generally, solid catalysts are used to accelerate this
+reaction. The NO oxidation proceeds on the surface of a speciﬁc catalyst (CatX) through the following
+mechanism (adsorption site is denoted as Site):
+40
+
+Theory
+Q5-3
+English (Oﬃcial)
+O2(g) + 2 Site
+kS+1
+−
+−
+⇀
+↽
+−
+−
+kS−1 2 O-Site
+(S1)
+𝑟S+1 = 𝑘S+1 [O2] 𝜃2
+𝑣
+𝑟S−1 = 𝑘S−1𝜃2
+O
+NO(g) + Site
+kS+2
+−
+−
+⇀
+↽
+−
+−
+kS−2 NO-Site
+(S2)
+𝑟S+2 = 𝑘S+2[NO]𝜃𝑣
+𝑟S−2 = 𝑘s−2𝜃NO
+NO(g) + O-Site
+kS+3
+−
+−
+→NO2-Site
+(S3)
+𝑟S+3 = 𝑘S+3[NO]𝜃O
+NO2-Site
+kS+4
+−
+−
+⇀
+↽
+−
+−
+kS−4 NO2(g) + Site
+(S4)
+𝑟S+4 = 𝑘S+4𝜃NO2
+𝑟S−4 = 𝑘S−4 [NO2] 𝜃𝑣
+Assume that the adsorptions of NO, NO2 and O (from the dissociation of O2) cannot proceed beyond a
+monolayer coverage, and these species are adsorbed by the same kind of surface sites. Their fractional
+coverages (𝜃, deﬁned as the ratio of the number of adsorption sites occupied to the number of total ad-
+sorption sites) are denoted as 𝜃NO, 𝜃NO2 and 𝜃O, respectively. Thus, the fraction of unoccupied adsorption
+sites (𝜃v) is 𝜃v = 1 −𝜃NO −𝜃NO2 −𝜃O. Assume that all the adsorption and desorption processes are much
+faster than reaction (S3).
+5.8
+Deduce the expression for 𝜃v as a function of [NO], [O2], [NO2] and the rate
+constants involved in reactions (S1)−(S4).
+6.0 pt
+41
+
+Theory
+Q5-4
+English (Oﬃcial)
+5.9
+Choose the correct expression for the rate of 2 NO(g) + O2(g) −
+−
+→2 NO2(g) at
+the beginning of the reaction. Assume that the concentration and adsorption
+of NO2 are both negligible.
+(A) 𝑟S+ =
+𝑘S+3(𝑘S+1/𝑘S−1)0.5[NO][O2]0.5
+1 + (𝑘S+1[O2]/𝑘S−1)0.5 + 𝑘S+2[NO]/𝑘S−2
+(B) 𝑟S+ =
+0.5𝑘S+3(𝑘S+1/𝑘S−1)0.5[NO][O2]0.5
+1 + (𝑘S+1[O2]/𝑘S−1)0.5 + 𝑘S+2[NO]/𝑘S−2
+(C) 𝑟S+ =
+𝑘S+3(𝑘S+1/𝑘S−1)[NO][O2]0.5
+1 + 𝑘S+1[O2]/𝑘S−1 + 𝑘S+2[NO]/𝑘S−2
+(D) 𝑟S+ = 𝑘S+4𝑘S+3(𝑘S+1/𝑘S−1)0.5[NO][O2]0.5/𝑘S−4
+1 + 𝑘S+1([O2]/𝑘S−1)0.5 + 𝑘S+2[NO]/𝑘S−2
+4.0 pt
+For some catalysts, the surface reaction proceeds via an alternative way instead of reaction (S3):
+NO-Site + O-Site
+kS+5
+−
+−
+→Site + NO2-Site
+(S5)
+𝑟S+5 = 𝑘S+5𝜃NO𝜃O
+This step is also rate-determining for the overall reaction.
+A catalyst (CatY) is used to promote the reaction of 2NO + O2 ⟶2NO2. When the temperature and NO
+concentration are constant, the initial reaction rate changes with the concentration of O2 as follows:
+42
+
+Theory
+Q5-5
+English (Oﬃcial)
+5.10
+Choose a mechanism that is consistent with this curve.
+(A) S3
+(B) S5
+(C) cannot be determined
+6.0 pt
+43
+
+Theory
+A5-1
+English (Oﬃcial)
+Interconversion among Nitrogen Oxides
+15% of the total
+Question
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+Total
+Points
+4
+4
+2
+4
+3
+8
+4
+6
+4
+6
+45
+Score
+5.1 (4.0 pt)
+𝑟+ = _______________________________________
+5.2 (4.0 pt)
+𝐴+ = ______________________________, 𝐸𝑎+ = ______________________________
+44
+
+Theory
+A5-2
+English (Oﬃcial)
+5.3 (2.0 pt)
+𝑘+(700 K) = ______________________________L2 mol−2 min−1
+5.4 (4.0 pt)
+𝐾−
+⊖
+−
+𝑝(600 K) = ______________________________
+45
+
+Theory
+A5-3
+English (Oﬃcial)
+5.5 (3.0 pt)
+Δr𝑈−
+⊖
+−
+m = ______________________________kJ mol−1
+5.6 (8.0 pt)
+𝑟−= ______________________________, 𝑘−(600 K) = ______________________________
+46
+
+Theory
+A5-4
+English (Oﬃcial)
+5.7 (4.0 pt)
+𝑝total = ______________________________kPa
+47
+
+Theory
+A5-5
+English (Oﬃcial)
+5.8 (6.0 pt)
+𝜃v = ______________________________
+5.9 (4.0 pt)
+[
+] (A)
+[
+] (B)
+[
+] (C)
+[
+] (D)
+5.10 (6.0 pt)
+[
+] (A)
+[
+] (B)
+[
+] (C)
+48
+
+Theory
+Q6-1
+English (Oﬃcial)
+Enabling Phosphines
+7% of the total
+Question
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+Total
+Points
+3
+6
+8
+5
+6
+3
+5
+36
+Score
+Phosphines are phosphorus analogues of amines. They also carry a lone pair of electrons at the phos-
+phorus atom and thus exhibit Lewis basicity or nucleophilicity. But in contrast with tertiary amines, chiral
+phosphines like P1 with three different substituents can be isolated as single enantiomers. Chiral phos-
+phines are often used as chiral ligands in transition metal catalysis.
+6.1
+Using R/S symbol, assign the absolute conﬁguration of P1.
+3.0 pt
+In the past two decades, as organocatalysis grew rapidly, a large number of nucleophilic phosphine-
+catalyzed synthetic reactions have emerged. Among them, one of the most famous phosphine-catalyzed
+reactions is the Lu (3+2) cycloaddition reaction, which was ﬁrst developed by Chinese scientist Xiyan Lu.
+For instance, under the catalysis of triphenylphosphine, ethyl allenoate 1 and methyl acrylate 2 smoothly
+produce two cyclopentene derivatives 3 (major) and 4 (minor).
+Lu (3+2) cycloaddition:
+49
+
+Theory
+Q6-2
+English (Oﬃcial)
+In a generally accepted mechanism, the Lu (3+2) reaction is a formal cycloaddition reaction. Initially,
+the catalyst triphenylphosphine engages in a nucleophilic addition to ethyl allenoate 1 to generate a
+zwitterionic intermediate A, which subsequently cyclizes with methyl acrylate 2 by two paths. In the
+path leading to compound 3, an in situ generated phosphorus ylide intermediate B reversibly converts
+into intermediate C via proton transfer; C undergoes an elimination to deliver the major product 3 and
+release the phosphine catalyst. In the path leading to compound 4, a phosphorus ylide intermediate
+B' is formed, which also reversibly converts into intermediate C' via proton transfer; C' undergoes an
+elimination to give the minor product 4 and regenerate the phosphine catalyst.
+Mechanism:
+6.2
+Draw the two major resonance structures that make up the shown resonance
+hybrid A (the involvement of ester group is not considered, and stereochemistry
+is not required).
+6.0 pt
+50
+
+Theory
+Q6-3
+English (Oﬃcial)
+6.3
+Draw the structures of intermediates B' and C' (stereochemistry is not re-
+quired).
+8.0 pt
+Under similar conditions, ethyl allenoate 1 and diethyl fumarate 5 readily deliver the corresponding cy-
+cloaddition product 6.
+6.4
+Draw the structure of compound 6 (stereochemistry is not required).
+5.0 pt
+Asymmetric Lu (3+2) cycloaddition reaction can be readily realized by utilizing chiral phosphine catalysts.
+For example, under the catalysis of a chiral bicyclic phosphine P2, ethyl allenoate 1 and methyl acrylate
+2 smoothly delivered an enantio-enriched cycloaddition product 3 in 80% ee (enantiomeric excess).
+Asymmetric Lu (3+2) cycloaddition:
+Calculation equation of ee:
+ee = 𝑛major −𝑛minor
+𝑛major + 𝑛minor
+× 100%
+𝑛major = the amount of major enantiomer
+𝑛minor = the amount of minor enantiomer
+51
+
+Theory
+Q6-4
+English (Oﬃcial)
+6.5
+Mark the chirality centers in the chiral phosphine P2 by using asterisks. (Note:
+points will be deducted for every wrong asterisk until 0 points)
+6.0 pt
+6.6
+Give the ratio of 𝑛major/𝑛minor of product 3.
+3.0 pt
+Lu (3+2) cycloaddition reaction is a versatile tool in organic synthesis. For example, it was success-
+fully used to synthesize (–)-hinesol, an important component of the Chinese medicinal herb Chang Zhu
+(Atractylodes lancea var Chinensis). Under the catalysis of PPh3, a chiral cyclohexanone 7 cyclized with tert-
+butyl allenoate 8, affording a major product 9 and three minor products 10, 11 and 12. Minor products
+10−12 are all the isomers of 9. Compound 9 could be readily transformed into (–)-hinesol by a multistep
+process.
+52
+
+Theory
+Q6-5
+English (Oﬃcial)
+6.7
+In the following compounds, choose which one does not belong to the minor
+products 10‒12.
+5.0 pt
+53
+
+Theory
+A6-1
+English (Oﬃcial)
+Enabling Phosphines
+7% of the total
+Question
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+Total
+Points
+3
+6
+8
+5
+6
+3
+5
+36
+Score
+6.1 (3.0 pt)
+____________
+6.2 (6.0 pt)
+54
+
+Theory
+A6-2
+English (Oﬃcial)
+6.3 (8.0 pt)
+B' (4.0 pt)
+C' (4.0 pt)
+6.4 (5.0 pt)
+6
+55
+
+Theory
+A6-3
+English (Oﬃcial)
+6.5 (6.0 pt)
+6.6 (3.0 pt)
+____________
+6.7 (5.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+56
+
+Theory
+Q7-1
+English (Oﬃcial)
+Organic Molecules in Life
+9% of the total
+Question
+7.1
+7.2
+7.3
+Total
+Points
+12
+8
+12
+32
+Score
+The synthesis of complex peptides and proteins is a challenging task. On September 17, 1965, Chinese
+scientists synthesized crystalline bovine insulin artiﬁcially for the ﬁrst time, marking a crucial step in the
+journey of exploring the secret of life and opening the era of protein synthesis.
+Stamp issued on the 50th anniversary (2015) of the ﬁrst synthesis of crystalline bovine insulin
+Coupling of carboxylic acid groups with amine groups to forge an amide bond is the most elementary
+reaction in the synthesis of peptides and proteins. Allenone 2 was reported to be able to activate the
+carboxylic acid 1 under mild reaction conditions forming the intermediate 3. Intermediate 3 then reacts
+with amine 4 to give amide 5 with high yield, along with the byproduct 6.
+57
+
+Theory
+Q7-2
+English (Oﬃcial)
+Similarly, N-ethynyl-N-methyl-p-toluenesulfonamide (MYTsA) with its major resonance structure 7 (in-
+volvement of Ts group is not considered) can activate carboxylic acid in the same way as allenone 2.
+7.1
+Draw the structures of 7, intermediate 9 and compound 12. Show the stereo-
+chemistry of any stereocenters.
+12.0 pt
+As the length of peptide chain grows, formation of amide bonds becomes more diﬃcult, and conven-
+tional condensation methods are not applicable in the synthesis of proteins. In the ﬁrst synthesis of crys-
+talline bovine insulin, a method based on the chemistry of acylhydrazine 13 was developed to achieve
+the challenging amide coupling between two peptides. As the following equations, compound 15 reacts
+58
+
+Theory
+Q7-3
+English (Oﬃcial)
+with 16 smoothly in the presence of triethylamine.
+Note: P1, P2 = peptides
+7.2
+Draw the structures of compounds 15 and 16.
+8.0 pt
+In addition to de novo synthesis, scientists can modify existing proteins. Although there are multiple re-
+active sites on the surface of protein, such as amino groups, thiol groups, and carboxyl groups, the most
+nucleophilic thiol groups are the preferred site when the protein is treated with electrophilic reagents
+such as N-phenyl maleimide 18 via Michael addition.
+Under mild basic conditions (pH = 7.5), reagent 19 was proposed to react with the thiol group of protein
+20 to give a neutral intermediate 21 which is attacked by hydroxide to give compound 22. Compound 22
+can equilibrate with an acyclic form 23, and subsequently react with another protein 20. The resulting
+major product can exist either in the acyclic form 24 or in the cyclic form 25 in a similar way as the
+equilibration between 22 and 23.
+59
+
+Theory
+Q7-4
+English (Oﬃcial)
+7.3
+Draw the structures of intermediate 21, compounds 24 and 25. Stereochem-
+istry is not required.
+12.0 pt
+60
+
+Theory
+A7-1
+English (Oﬃcial)
+Organic Molecules in Life
+9% of the total
+Question
+7.1
+7.2
+7.3
+Total
+Points
+12
+8
+12
+32
+Score
+7.1 (12.0 pt)
+7 (4.0 pt)
+9 (4.0 pt)
+12 (4.0 pt)
+7.2 (8.0 pt)
+15 (4.0 pt)
+16 (4.0 pt)
+61
+
+Theory
+A7-2
+English (Oﬃcial)
+7.3 (12.0 pt)
+21 (4.0 pt)
+24 (4.0 pt)
+25 (4.0 pt)
+62
+
+Theory
+Q8-1
+English (Oﬃcial)
+Amazing Chiral Spiro Catalyst
+10% of the total
+Question
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+8.8
+Total
+Points
+16
+2
+2
+2
+2
+8
+2
+2
+36
+Score
+Chiral compounds are important for human health, for example, more than 50% of the medicines cur-
+rently in clinical use are single enantiomers of chiral molecules. However, synthesizing chiral molecules
+in enantio-enriched form is a great challenge. Professor Qilin Zhou's team in Nankai University in China
+developed a series of chiral spiro catalysts with high activity, raising the eﬃciency of asymmetric synthe-
+sis to a new height, and being widely used in the pharmaceutical industry. These catalysts can give up
+to (reach up to) 99.9% ee and can be used down to 0.00002 mol% loading. This research result won the
+ﬁrst prize of the 2019 National Natural Science Award of China.
+Note:
+Ar = 3, 5-(𝑡Bu)2C6H3
+Part A
+The synthetic route of the chiral ligand SpiroPAP is shown in the following scheme.
+63
+
+Theory
+Q8-2
+English (Oﬃcial)
+Note:
+eq = equivalent
+Ar = 3, 5-(
+𝑡Bu)2C6H3
+8.1
+Draw the structures of 1, 2, 4, 5. (Stereochemistry is not considered)
+16.0 pt
+8.2
+From the following reagents, which reagent A can NOT be used for the trans-
+formation of 8 to 9?
+(a) NaBH(OAc)3
+(b) NaBH3CN
+(c) NH2NH2, NaOH
+(d) NaBH4
+2.0 pt
+The racemic spiro compound 6 reacts with (–)-menthyl chloroformate (10) to generate compounds 11a
+and 11b, which can be separated by column chromatography, followed by hydrazinolysis to obtain opti-
+cally pure (+)-6 and (–)-6.
+64
+
+Theory
+Q8-3
+English (Oﬃcial)
+Note:
+eq = equivalent
+8.3
+Choose the correct statement below.
+(a) Compounds 11a and 11b are a pair of enantiomers.
+(b) Compounds 11a and 11b are a pair of diastereomers.
+(c) Compounds 11a and 11b are a pair of cis-trans isomers.
+(d) Compounds 11a and 11b are a pair of conformational isomers.
+2.0 pt
+Part B
+The Ir-SpiroPAP was prepared by reaction of SpiroPAP with [Ir(cod)Cl]2 (cod is cycloocta-1,5-diene) in
+MeOH under hydrogen as shown below.
+65
+
+Theory
+Q8-4
+English (Oﬃcial)
+Note:
+Ar = 3, 5-(
+𝑡Bu)2C6H3
+8.4
+Write the oxidation number of Ir in the catalyst Ir-SpiroPAP.
+2.0 pt
+8.5
+Write the number of valence electrons of d orbitals for metal Ir in the catalyst
+Ir-SpiroPAP.
+2.0 pt
+The chiral spiro catalyst Ir-SpiroPAP was used for the asymmetric total synthesis of Mulinane-type diter-
+pene 22 as shown below.
+8.6
+Draw the structures of 15 and 16, including the appropriate stereochemistry.
+8.0 pt
+66
+
+Theory
+Q8-5
+English (Oﬃcial)
+8.7
+From the following reagents, choose the best for B.
+(a) MeLi/CeCl3
+(b) MeLi/CuI
+(c) MePh3P+I–, 𝑛BuLi
+(d) Me3S+I–, NaH
+2.0 pt
+8.8
+From the following reagents, choose the best for C.
+(a) MeLi/CeCl3
+(b) MeLi/CuI
+(c) MePh3P+I–, 𝑛BuLi
+(d) Me3S+I–, NaH
+2.0 pt
+67
+
+Theory
+A8-1
+English (Oﬃcial)
+Amazing Chiral Spiro Catalyst
+10% of the total
+Question
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+8.8
+Total
+Points
+16
+2
+2
+2
+2
+8
+2
+2
+36
+Score
+Part A
+8.1 (16.0 pt)
+1(4.0 pt)
+2(4.0 pt)
+4(4.0 pt)
+5(4.0 pt)
+8.2 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+68
+
+Theory
+A8-2
+English (Oﬃcial)
+8.3 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+Part B
+8.4 (2.0 pt)
+____________
+8.5 (2.0 pt)
+____________
+8.6 (8.0 pt)
+15(4.0 pt)
+16(4.0 pt)
+8.7 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+8.8 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+69
+
+Theory
+Q9-1
+English (Oﬃcial)
+Total Synthesis of Capitulactone
+9% of the total
+Question
+9.1
+9.2
+9.3
+9.4
+Total
+Points
+24
+2
+16
+2
+44
+Score
+The plant of Curculigo capitulata grows in the Southern China and has long been used in traditional Chi-
+nese herbal medicine for the treatment of many diseases. Capitulactone (1) was isolated from the roots
+of Curculigo capitulata. Its structure with absolute conﬁguration was unambiguously established by a
+combination of spectroscopic data and total synthesis.
+The total synthesis of 1 began with the iodination of commercially available 4-bromoveratrole 2 through
+a key intermediate 12 as shown in the following scheme.
+70
+
+Theory
+Q9-2
+English (Oﬃcial)
+Note:
+cat = catalyst
+eq = equivalent
+9.1
+Draw the structures of compounds 3-5, 8, 9 and 11 and show the stereochem-
+istry of any stereocenters.
+24.0 pt
+71
+
+Theory
+Q9-3
+English (Oﬃcial)
+(R)-Epichlorohydrin (7) was prepared from (+)-mannitol (13) through a route as shown below.
+Note:
+eq = equivalent
+conc = concentrated
+72
+
+Theory
+Q9-4
+English (Oﬃcial)
+9.2
+From the following conditions, choose the best for A.
+(a) Pyridine
+(b) 5% KOH/H2O
+(c) 1% HCl/H2O
+(d) Anhydrous ZnCl2
+2.0 pt
+9.3
+Draw the structures of intermediate products 15, 16, 18 and 19 and show the
+stereochemistry of any stereocenters.
+16.0 pt
+The diketal 14 can also be prepared by treating (+)-mannitol (13) with 2-methoxypropene (23) in the
+presence of catalytic amount of tolunesulfonic acid (TsOH) in anhydrous toluene. The model reaction is
+shown below.
+9.4
+The proposed mechanism for this reaction involves key intermediates (I-V) as
+shown above, choose the correct order of the formation of the key intermedi-
+ates during the reaction process.
+(a) I, II, III, IV, V
+(b) III, II, I, V, IV
+(c) III, I, II, IV, V
+(d) III, I, II, V, IV
+2.0 pt
+73
+
+Theory
+A9-1
+English (Oﬃcial)
+Total Synthesis of Capitulactone
+9% of the total
+Question
+9.1
+9.2
+9.3
+9.4
+Total
+Points
+24
+2
+16
+2
+44
+Score
+9.1 (24.0 pt)
+3 (4.0 pt)
+4 (4.0 pt)
+5 (4.0 pt)
+8 (4.0 pt)
+74
+
+Theory
+A9-2
+English (Oﬃcial)
+9.1 (cont.)
+9 (4.0 pt)
+11(4.0 pt)
+9.2 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+75
+
+Theory
+A9-3
+English (Oﬃcial)
+9.3 (16.0 pt)
+15 (4.0 pt)
+16 (4.0 pt)
+18 (4.0 pt)
+19 (4.0 pt)
+9.4 (2.0 pt)
+[
+] (a)
+[
+] (b)
+[
+] (c)
+[
+] (d)
+76
+
+Theory-Marking Scheme
+M1-1
+English (Oﬃcial)
+[Marking Scheme] Rapid and Visual Nucleic Acid Testing for
+COVID-19
+1.1 (1.0 pt)
+(d)
+1.2 (1.0 pt)
+(a)
+77
+
+Theory-Marking Scheme
+M1-2
+English (Oﬃcial)
+1.3 (4.0 pt)
+The volume of a gold nanoparticle:
+1 point
+𝑉𝑁𝑃= 4
+3𝜋(𝐷
+2 )
+3
+= 4
+3 × 3.14 × (30.0 × 10−7
+2
+)
+3
+= 1.41 × 10−17 cm3 or 1.41 × 10−23 m3
+The mass of a gold nanoparticle:
+1 point
+𝑚𝑁𝑃= 𝜌𝑉𝑁𝑃= 19.3 × 1.41 × 10−17 = 2.72 × 10−16 g
+The number of gold atoms in each particle:
+2 point
+𝑁= 𝑚𝑁𝑃
+𝐴𝑊𝐴𝑢
+⋅𝑁𝐴= 2.72 × 10−16
+197.0
+× 6.022 × 1023 = 8.31 × 105
+OR
+4 points
+𝑁= 𝑉𝑁𝑃
+𝑉atom
+= 𝜋𝜌𝑁𝐴𝐷3
+6𝑀
+= 3.14 × 19.3 × 6.022 × 1023 × (30.0 × 10−7)3
+6 × 197.0
+= 8.34 × 105
+OR
+The volume of a gold nanoparticle:
+1 point
+𝑉𝑁𝑃= 4
+3𝜋(𝐷
+2 )
+3
+= 4
+3 × 3.14 × (30.0 × 10−7
+2
+)
+3
+= 1.41 × 10−17 cm3 or 1.41 × 10−23 m3
+The mass of each gold atom:
+1 point
+𝑚= 𝐴𝑊𝐴𝑢
+𝑁𝐴
+=
+197.0
+6.022 × 1023 = 3.271 × 10−22 g
+The volume of each gold atom:
+1 point
+𝑉atom = 𝑚
+𝜌= 3.271 × 10−22
+19.3
+= 1.69 × 10−23 cm3
+The number of gold atoms in each particle:
+1 point
+𝑁= 𝑉𝑁𝑃
+𝑉atom
+= 1.41 × 10−17
+1.69 × 10−23 = 8.34 × 105
+4 points in total
+−1 point for calculating error.
+78
+
+Theory-Marking Scheme
+M1-3
+English (Oﬃcial)
+1.4 (4.0 pt)
+The total number of gold atoms:
+1 points
+𝑁Total = 5.2 × 10−3
+394
+× 6.022 × 1023 = 7.9 × 1018
+The concentration of gold nanoparticles:
+2 points
+𝐶= 𝑁Total
+𝑁𝑉𝑁𝐴
+=
+7.9 × 1018
+8.34 × 105 × 100 × 10−3 × 6.022 × 1023 = 1.6 × 10−10 mol L−1
+The extinction coeﬃcient:
+1 points
+𝜀= 𝐴
+𝑙𝐶=
+0.800
+1 × 1.6 × 10−10 = 5.0 × 109 L mol
+−1 cm−1
+4 points in total
+−1 point for each calculating error.
+1.5 (4.0 pt)
+𝐴1 = 𝜀𝑙𝐶1 = 𝜀𝑙0.10𝐶𝑥
+1.0
+= 0.400
+1 point
+OR
+0.400
+0.900 =
+0.10𝐶𝑥
+1.0
+0.10𝐶𝑥+ 2.0 × 0.10
+1.0
+2 points
+𝐴2 = 𝜀𝑙𝐶2 = 𝜀𝑙0.10𝐶𝑥+ 2.0 × 0.10
+1.0
+= 0.900
+1 point
+𝐶𝑥= 1.6 μg mL−1
+2 points
+4 points in total
+−1 point for calculating error.
+79
+
+Theory-Marking Scheme
+M2-1
+English (Oﬃcial)
+[Marking Scheme] Chromium in Ancient and Modern Times
+2.1 (2.0 pt)
+A: 8 B: 16
+2 points in total, each correct assignment 1 point
+2.2 (1.0 pt)
+Fe (or iron)
+2.3 (6.0 pt)
+Fe3+ ∶7, Cr3+ ∶9
+Solution 1:
+Assume there are 𝑥Fe ions (including Fe2+ and Fe3+) and 𝑦Cr3+ ions in a cubic cell, then
+𝑥
+𝑦= 63.6 × (52.00 × 2 + 16.00 × 3)
+36.4 × (55.85 × 2 + 16.00 × 3)
+which gives the result: 𝑥
+𝑦= 1.66
+Considering that the total amount of the cations in each crystal cell is 24, it can be obtained
+(1 + 1.66)𝑦= 24
+which gives the result: 𝑦≈9
+Thus, the amount of Fe3+ occupying the octahedral vacancies is
+16 −9 = 7
+Solution 2:
+Assume there are 𝑥Fe ions (including Fe2+ and Fe3+) in the ﬁnal compound, then, the number of Cr3+
+should be 3−𝑥because the summary of A+B should be 3 in AB2O4, and the formula of the compound
+should be Fe𝑥Cr3−𝑥O4, then
+𝑥
+3 −𝑥= 63.6 × (52.00 × 2 + 16.00 × 3)
+36.4 × (55.85 × 2 + 16.00 × 3) = 5
+3
+which gives the result: 𝑥= 1.875
+Accordingly, Fe2+ in the tetrahedral vacancies is 1, and the number of Fe3+ in the octahedral vacancies
+is
+𝑥−1 = 1.875 −1 = 0.875
+and the number of Cr3+ occupying the octahedral is
+3 −𝑥= 3 −1.875 = 1.125
+In one unit cell, there are 8 Fe2+, thus the numbers of Fe3+ and Cr3+ are
+8
+1 × 0.875 = 7
+and
+8
+1 × 1.125 = 9
+respectively.
+6 points in total
+2 points for the correct molar ratio of Fe/Cr
+1 point for the correct result of the amount of Cr3+
+1 point for the correct result of the total amount of Fe
+1 point for the correct result of the amount of Fe3+
+1 point for the correct result of the number of Fe3+ and Cr3+ in the B sites of one unit cell
+80
+
+Theory-Marking Scheme
+M2-2
+English (Oﬃcial)
+2.4 (1.0 pt)
+Na2CrO4
+2.5 (2.0 pt)
+Na2Cr2O7 + 2H2SO4 →2CrO3 + H2O + 2NaHSO4
+Ionic form is acceptable.
+−1 point if the stoichiometry is incorrect.
+2.6 (1.0 pt)
+(A)
+2.7 (1.0 pt)
+(B)
+2.8 (5.0 pt)
+CFSE = 0 −𝐸octa = 0 −[(−2/5Δo) × 3 + 3/5Δo] = 3/5Δo = 9600 cm−1
+5 points in total
+1 point for the correct energy level of the ﬁve 3d orbitals in octahedral crystal ﬁeld.
+1 point for the correct electron conﬁguration on the energy level lines.
+1 point for the correct equation of CFSE.
+1 point for the result of CFSE with Δo.
+1 point for the result of CFSE with cm−1.
+81
+
+Theory-Marking Scheme
+M2-3
+English (Oﬃcial)
+2.9 (2.0 pt)
+𝜇= √4(4 + 2) 𝜇B = 4.9 𝜇B
+2 points
+82
+
+Theory-Marking Scheme
+M3-1
+English (Oﬃcial)
+[Marking Scheme] Capture and Transformation of Carbon
+Dioxide
+3.1 (2.0 pt)
+A: CaCO3
+B: CaO
+2 points in total; 1 point for each
+3.2 (5.0 pt)
+step 1: (2a)
+2NaOH + CO2 ⟶Na2CO3 + H2O
+or
+2OH−+ CO2 ⟶CO2−
+3
++ H2O
+(2b)
+NaOH + CO2 ⟶NaHCO3
+or
+OH−+ CO2 ⟶HCO−
+3
+or
+Na2CO3 + CO2 + H2O ⟶2NaHCO3
+or
+CO2−
+3
++ CO2 + H2O ⟶2HCO−
+3
+step 2: (2c)
+Na2CO3 + Ca(OH)2 ⟶CaCO3 + 2NaOH
+(2d)
+NaHCO3 + Ca(OH)2 ⟶CaCO3 + NaOH + H2O
+step 3: (2e)
+CaCO3 ⟶CaO + CO2
+5 points in total; 1 point for each equation (2a) ∼(2e)
+3.3 (2.0 pt)
+A:
+H2 →2H+ + 2e−
+C:
+2H2O + 2e−→H2 + 2OH−
+2 points in total; 1 point for each equation
+3.4 (3.0 pt)
+1
+H+ + CO2−
+3
+⟶HCO−
+3
+2
+H+ + HCO−
+3 ⟶H2CO3
+3
+H2CO3 ⟶H2O + CO2
+3 points in total; 1 point for each equation.
+83
+
+Theory-Marking Scheme
+M3-2
+English (Oﬃcial)
+3.5 (2.0 pt)
+[ ✓] (a)
+[
+] (b)
+[
+] (c)
+[ ✓] (d)
+[
+] (e)
+2 points in total; 1 point for each correct selection.
+If wrong item(s) is/are included, −1 point for each till the total point is zero, no negative score.
+3.6 (8.0 pt)
+Rate of H+ production:
+𝑟(H+) = 60 s min−1×2.00 A/(96485 C mol−1)
+2 points
+= 1.24 × 10−3 mol min
+−1 = 1.24 mmol min−1
+1 point
+Input rate of HCO−
+3 to zone B:
+𝑟(HCO−
+3 ) =0.10 mol L−1×10.0 mL min−1 =1.0 mmol min−1
+Input rate of CO2−
+3 to zone B:
+𝑟(CO2−
+3 ) =0.050 mol L−1×10.0 mL min−1 =0.50 mmol min−1
+1 point
+H+ + CO2−
+3
+⟶HCO−
+3
+H+ + HCO−
+3 ⟶CO2 + H2O
+The amount of dissolved CO2 in the ﬂow:
+10.0 mL min−1×0.033 mol L−1 =0.33 mmol min−1
+1 point
+Rate of CO2 production:
+𝑟(CO2) =𝑟(H+)−𝑟(CO2−
+3 )–0.33 mmol min−1
+2 points
+= 1.24 mmol min−1–0.50 mmol min−1−0.33 mmol min−1 =0.41 mmol min−1
+1 point
+8 points in total
+Some of the steps in the derivation and in the calculation may be taken implicitly or simultaneously.
+As long as they are correct, full marks will be scored for each of the partial steps.
+3.7 (2.0 pt)
+Zn24(C4H5N2) 12+
+36
+or Zn24(C4H5N2) 12−
+60
+2 points in total
+Expression Zn24(mIm) 12+
+36
+or Zn24(mIm) 12−
+60
+is acceptable.
+84
+
+Theory-Marking Scheme
+M3-3
+English (Oﬃcial)
+3.8 (2.0 pt)
+Zn12(C4H5N2)24
+2 points in total
+Expression Zn12(mIm)24 or Zn12C96H120N48 is acceptable.
+3.9 (5.0 pt)
+𝑀Zn(C4H5N2)2
+= [65.38 + (12.01 × 4 + 1.01 × 5 + 14.02 × 2) × 2] g mol−1 =227.6 g mol−1
+1 point
+𝑆
+= 2 × 4𝜋𝑟2 × 𝑁𝐴× 1 g
+12 × 𝑀Zn(C4H5N2)2
+=
+2 × 4 × 3.14 × (1.16 × 10−9 m
+2
+)
+2
+× 6.02 × 1023 mol−1 × 1 g
+12 × [65.38 + (12.01 × 4 + 1.01 × 5 + 14.01 × 2) × 2] g mol−1
+= 50.8 × 105
+12 × 227.6m2 = 1.86 × 103 m2
+4 points: 2 point for the correct formula (1 point for the coeﬃcient 2), 1 for properly introducing
+data, 1 for correct calculation result.
+5 points in total.
+Some of the steps in the derivation and in the calculation may be taken implicitly or simultaneously.
+As long as they are correct, full marks will be scored for each of the partial steps.
+85
+
+Theory-Marking Scheme
+M3-4
+English (Oﬃcial)
+3.10 (7.0 pt)
+Volume of one spherical cage:
+𝑉Cage
+= (4/3) × 3.14 × (1.16 nm/2)3 = 0.817 nm3
+1 point
+Volume of the unit cell:
+𝑉cell
+= (1.632 nm)3 = 4.347 nm3
+1 point
+Porosity:
+𝑅
+= 2 × 𝑉Cage/𝑉cell = 2 × 0.817 nm3/4.347 nm3 = 0.376
+2 points
+1 point for the coeﬃcient 2
+𝑉p
+=
+2 × 𝑉cage × 𝑁A × 1 g
+12 × 𝑀Zn(C4H5N2)2
+=
+4
+3𝜋𝑟3 × 𝑁A × 1 g
+6 × 𝑀Zn(C4H5N2)2
+= 0.817 × 10−21 cm3 × 6.02 × 1023 mol
+−1 × 1 g
+6 × 227.6 g mol
+−1
+= 0.360 cm3
+3 points
+3 points: 1 for the correct formula, 1 for properly introducing data; 1 for correct calculation result
+7 points in total.
+Some of the steps in the derivation and in the calculation may be taken implicitly or simultaneously.
+As long as they are correct, full marks will be scored for each of the partial steps.
+3.11 (2.0 pt)
+I
+(b)
+II
+(d)
+2 points in total, 1 point for each correct selection.
+3.12 (2.0 pt)
+Zn (C4H5N2)2 + CO2 + H2O ⟶ZnCO3 + 2C4H6N2
+or
+Zn(mIm)2 + CO2 + H2O ⟶ZnCO3 + 2HmIm
+2 points in total
+86
+
+Theory-Marking Scheme
+M4-1
+English (Oﬃcial)
+[Marking Scheme] A New Journey for Ancient Sulfur
+4.1 (2.0 pt)
+3 FeS2 + 2 O2
+Δ
+−
+−
+→6 S + Fe3O4
+or
+12 FeS2 + 8 O2
+Δ
+−
+−
+→3 S8 + 4 Fe3O4
+No penalty will be given if the heating symbol on the reaction arrow is missing.
+−1 point if the stoichiometry is incorrect.
+4.2 (4.0 pt)
+(a)
+Na2SO3 + I2 + H2O ⟶Na2SO4 + 2HI
+(2 points)
+or
+SO2−
+3
++ I2 + H2O ⟶SO2−
+4
++ 2H+ + 2I−
+(b)
+2Na2S2O3 + I2 ⟶Na2S4O6 + 2NaI
+(2 points)
+or
+2S2O2−
+3
++ I2 ⟶S4O2−
+6
++ 2I−
+No partial point will be given if NaOH is present for (a).
+No partial point will be given if the oxidation product is not Na2S4O6 or S4O2−
+6
+for (b).
+−1 point if the stoichiometry is incorrect for each equation.
+4.3 (4.0 pt)
+0.05122 mol L−1 × 50.00 mL = 2.561 mmol
+(1 point)
+1
+2 × 0.1012 mol L−1 × 18.47 mL = 0.9346 mmol
+(1 point)
+(2.561 mmol −0.9346 mmol) × 10−3 × 20 × 32.06 g mol−1 = 1.043 g
+(1 point)
+1.043 g
+(1.043 g + 17.6 g) × 100% = 5.59%
+(1 point)
+4 points in total
+For each calculation, consider whether the logic for solving this question is correctly established;
+If not, no points will be given.
+−1 point if the answer is not correct due to miscalculation.
+If the calculation is based on the incorrect equation answered in 4.2 (b), no penalty will be given when
+the calculation is correct.
+87
+
+Theory-Marking Scheme
+M4-2
+English (Oﬃcial)
+4.4 (3.0 pt)
+(a) S8 + 16Li+ + 16e−⟶8Li2S
+(2 points)
+(b) Li ⟶Li+ + e−
+or
+16Li ⟶16Li+ + 16e−
+(1 point)
+3 points in total
+No partial point will be given if the cathode and anode reactions are reversed.
+−1 point if the stoichiometry is incorrect for (a).
+No penalty will be given if the equation is written as S + 2e−⟶S2−for (a).
+No penalty will be given if the equation is written as S + 2Li+ + 2e−⟶Li2S for (a).
+No penalty will be given if e−is written as e.
+4.5 (1.0 pt)
+8 × 32.06
+16 × 6.941 = 2.3
+1 point in total
+0.5 point will be given if the ratio is presented in reverse order.
+No penalty will be given if the ratio is in reverse order but the cathode and the anode are correctly
+identiﬁed.
+88
+
+Theory-Marking Scheme
+M4-3
+English (Oﬃcial)
+4.6 (5.0 pt)
+The total energy of the LIB is 3.8 V × 3.110 A h × 3600 s/h = 4.25 × 104 J
+(1 point)
+Energy consumed by the mobile phone per hour is 4.25 × 104 J
+22 h
+= 1.93 × 103 J h−1
+(1 point)
+The capacity of the ideal lithium-sulfur battery pack is
+23 g × 16 × 96485 C mol
+−1
+8 × 32.06 g mol
+−1
+= 23 g × 2 × 96485 C mol
+−1
+32.06 g mol
+−1
+= 1.4 × 105 C
+(1 point)
+The total energy of the ideal lithium-sulfur battery pack is
+4.2 V × 1.4 × 105 C = 5.9 × 105 J
+(1 point)
+After a full charge, the new battery pack can provide energy for the phone to play videos
+continuously for:
+5.9 × 105 J
+1.93 × 103 J h−1 = 306 h
+(1 point)
+5 points in total
+For each calculation, consider whether the logic for solving this question is correctly established;
+If not, no points will be given.
+−1 point if the answer is not correct due to miscalculation.
+−1 point if any other unit than asked unit is used in the answer.
+No penalty will be given if the result is 301 h without rounded calculations.
+4.7 (2.0 pt)
+(2n −2) Li + Li2Sn ⟶nLi2S
+−1 point if the stoichiometry is incorrect.
+No penalty will be given if n is written as 3-8 and the stoichiometry is correct.
+89
+
+Theory-Marking Scheme
+M4-4
+English (Oﬃcial)
+4.8 (4.0 pt)
+Li2S6(I)(DME) ⟶Li2S6(II)(DME)
+Δ�:−
+⊖
+−
+I⟶II = Δ�:−
+⊖
+−
+d1(I)−Δ�:−
+⊖
+−
+d1(II) =20.68 kJ mol−1 −18.92 kJ mol−1 = 1.76 kJ mol−1
+or
+Δ�:−
+⊖
+−
+I⟶II =Δ�:−
+⊖
+−
+dr (I)−Δ�:−
+⊖
+−
+d𝑟(II) = 45.13 kJ mol−1 −43.37 kJ mol−1 = 1.76 kJ mol−1
+(1 point)
+Δ�:−
+⊖
+−
+I⟶II = −𝑅𝑇ln 𝐾−
+⊖
+−
+I⟶II
+(1 point)
+𝐾−
+⊖
+−
+I⟶II = exp (−
+1.76 kJ mol−1 × 1000
+8.314 J mol−1 K−1 × 298.15 K) = 0.492
+(1 point)
+𝐾−
+⊖
+−
+I⟶II = [Li2S6(II)]/𝑐−
+⊖
+−
+[Li2S6(I)]/𝑐−
+⊖
+−= [Li2S6(II)]
+[Li2S6(I)] = 0.492
+(1 point)
+4 points in total
+For each calculation, consider whether the logic for solving this question is correctly established;
+If not, no points will be given.
+−1 point if the answer is not correct due to miscalculation.
+90
+
+Theory-Marking Scheme
+M4-5
+English (Oﬃcial)
+4.9 (5.0 pt)
+[Li2S6(II)]
+[Li2S6(I)] =0.492, [Li2S6(II)] =0.492[Li2S6(I)]
+Li2S6 ⟶Li+ + LiS−
+6
+𝐾−
+⊖
+−
+d1 = [Li+][LiS−
+6 ]
+[Li2S6]
+=
+[Li+][LiS−
+6 ]
+[Li2S6(I)] + [Li2S6(II)]
+(1 point)
+𝐾−
+⊖
+−
+d1 =
+[Li+][LiS−
+6 ]
+1.492[Li2S6(I)] =𝐾−
+⊖
+−
+d1(I)
+1.492
+(1 point)
+or
+𝐾−
+⊖
+−
+d1 =
+[Li+][LiS−
+6 ]
+3.03[Li2S6(II)] =𝐾−
+⊖
+−
+d1(II)
+3.03
+or
+𝐾−
+⊖
+−
+d1 =
+[Li+][LiS−
+6 ]
+[Li2S6(I)] + [Li2S6(II)] =
+1
+1
+𝐾−
+⊖
+−
+d1(I) +
+1
+𝐾−
+⊖
+−
+d1(II)
+Li2S6(I) ⟶Li+ + LiS−
+6 , Δ�:−
+⊖
+−
+d1(I) = −𝑅𝑇ln 𝐾−
+⊖
+−
+d1(I)
+(1 point)
+𝐾−
+⊖
+−
+d1(I) = exp (−
+20.68 kJ mol−1 × 1000
+8.314 J mol−1 K−1 × 298.15K) = 2.37 × 10−4
+(1 point)
+or
+Li2S6(II) ⟶Li+ + LiS−
+6 , Δ�:−
+⊖
+−
+d1(II) = −𝑅𝑇ln 𝐾−
+⊖
+−
+d1(II)
+𝐾−
+⊖
+−
+d1(II) = exp (−
+18.92 kJ mol−1 × 1000
+8.314 J mol−1 K−1 × 298.15K) = 4.84 × 10−4
+𝐾−
+⊖
+−
+d1 = 2.37 × 10−4
+1.492
+= 1.59 × 10−4
+(1 point)
+or
+𝐾−
+⊖
+−
+d1 = 4.84 × 10−4
+3.03
+= 1.59 × 10−4
+or
+𝐾−
+⊖
+−
+d1 =
+1
+1
+𝐾−
+⊖
+−
+d1(I) +
+1
+𝐾−
+⊖
+−
+d1(II)
+=
+1
+1
+2.37 × 10−4 +
+1
+4.84 × 10−4
+= 1.59 × 10−4
+5 points in total
+For each calculation, consider whether the logic for solving this question is correctly established;
+If not, no points will be given.
+-1 point if the answer is not correct due to miscalculation.
+91
+
+Theory-Marking Scheme
+M4-6
+English (Oﬃcial)
+4.10 (4.0 pt)
+[Li2S6] > [LiS−
+6 ] > [LiS•
+3] > [S2−
+6 ]
+LiS−
+6 (DME) ⟶Li+(DME) + S2−
+6 (DME)
+Δ�:−
+⊖
+−
+d2 = −𝑅𝑇ln 𝐾−
+⊖
+−
+d2, 𝐾−
+⊖
+−
+d2 = exp (−
+100.55 kJ mol−1 × 1000
+8.314 J mol−1 K−1 × 298.15 K) = 2.418 × 10−18
+Li2S6 →2LiS
+•
+3
+𝐾−
+⊖
+−
+dr = [LiS
+•
+3]
+2
+[Li2S6] =
+[LiS
+•
+3]
+2
+[Li2S6(I)] + Li2S6(II)] =
+[LiS
+•
+3]
+2
+1.492 [Li2S6(I)] = 𝐾−
+⊖
+−
+dr (I)
+1.492
+Li2S6(I) →2LiS
+•
+3, Δ�:−
+⊖
+−
+dr (I) = −𝑅𝑇ln 𝐾−
+⊖
+−
+dr (I)
+𝐾−
+⊖
+−
+dr (I) = exp (−
+45.13 kJ mol
+−1 × 1000
+8.314 J mol
+−1 K−1 × 298.15 K
+) = 1.24 × 10−8
+𝐾−
+⊖
+−
+dr = 1.24 × 10−8
+1.492
+= 8.31 × 10−9
+4 points in total
++1 point if [Li2S6] is in the ﬁrst blank, but (2),(3),(4) and [LiS
+−
+6 ] , [LiS
+•
+3] , [S2−
+6 ] are not in one-to-one cor-
+respondence.
+(2), (3), (4) and [LiS
+−
+6 ] , [LiS
+•
+3] , [S2−
+6 ] must be in one-to-one correspondence, e.g. −2 points if [LiS
+•
+3] >
+[LiS
+−
+6 ] > [S2−
+6 ].
+92
+
+Theory-Marking Scheme
+M4-7
+English (Oﬃcial)
+4.11 (6.0 pt)
+Δ�:−
+⊖
+−
+1 = Δ�:−
+⊖
+−
+g + Δ�:−
+⊖
+−
+s1
+(1)
+(1 point)
+Δ�:−
+⊖
+−
+2 = Δ�:−
+⊖
+−
+g + Δ�:−
+⊖
+−
+s2
+(2)
+(1 point)
+(2) −(1): Δ�:−
+⊖
+−
+2 −Δ�:−
+⊖
+−
+1 = Δ�:−
+⊖
+−
+s2 −Δ�:−
+⊖
+−
+s1
+(1 point)
+Li(metal) ⟶Li+(H2O)+e−, Δ�:−
+⊖
+−
+1 = 𝑛�9𝐸−
+⊖
+−(Li+(H2O)/Li)
+(1 point)
+Li(metal) ⟶Li+(DME)+e−, Δ�:−
+⊖
+−
+2 = 𝑛�9𝐸−
+⊖
+−(Li+(DME)/Li)
+(1 point)
+𝑛�9𝐸−
+⊖
+−(Li+(DME)/Li) = 𝑛�9𝐸−
+⊖
+−(Li+(H2O)/Li) −Δ�:−
+⊖
+−
+s1 + Δ�:−
+⊖
+−
+s2
+𝐸−
+⊖
+−(Li+(DME)/Li) = −3.040 −[(−116.9 kJ mol−1) −(−114.6 kJ mol−1)] × 1000
+96485 C mol−1
+= −3.016 V
+(1 point)
+6 points in total
+For each calculation, consider whether the logic for solving this question is correctly established.
+If not, no points will be given.
+−1 point if the answer is not correct due to miscalculation.
+93
+
+Theory-Marking Scheme
+M4-8
+English (Oﬃcial)
+4.12 (5.0 pt)
+Assume [S2−
+4 ] = 𝑐1, the original concentration of Li2S is 𝑐0
+According to the charge balance:
+2c0 = 1 × [S•−
+3 ] + 2 × [S2−
+4 ] + 2 × [S2−
+5 ] + 2 × [S2−
+6 ] + 2 × [S2−
+7 ] + 2 × [S2−
+8 ]
+(1 point)
+2𝑐0 = 17.50𝑐1 + 1.00 × 2𝑐1 + 4.50 × 2𝑐1 + 55.00 × 2𝑐1 + 5.00 × 2𝑐1 + 0.75 × 2𝑐1 = 150𝑐1
+𝑐0 = 75𝑐1
+(1point)
+According to the material balance:
+𝑐0 +
+4.81 mg
+32.07 g mol−1 × 10.00 mL
+= 17.50 × 3𝑐1 + 1.00 × 4𝑐1 + 4.50 × 5𝑐1 + 55.00 × 6𝑐1 + 5.00 × 7𝑐1 + 0.75 × 8𝑐1
+(1 point)
+75𝑐1 + 0.0150 mmol mL−1 = 450𝑐1
+(1 point)
+𝑐1 = 4.00 × 10−5 mmol mL−1
+𝑚(Li2S) = 75 × 4.00 × 10−5 mmol mL−1 × 10.00 mL × 45.96 g mol−1 = 1.38 mg
+(1 point)
+5 points in total
+For each calculation, consider whether the logic for solving this question is correctly established.
+If not, no points will be given.
+−1 point if the answer is not correct due to miscalculation.
+94
+
+Theory-Marking Scheme
+M5-1
+English (Oﬃcial)
+[Marking Scheme] Interconversion among Nitrogen Oxides
+15% of the total
+Question
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+Total
+Points
+4
+4
+2
+4
+3
+8
+4
+6
+4
+6
+45
+Score
+5.1 (4.0 pt)
+Using the deﬁnition of 𝐾c1 = [N2O2]
+[NO]
+2 , [N2O2] = 𝐾c1 [NO]
+2 is obtained.
+Thus, 𝑟+ = 𝑘2 [N2O2] [O2] = 𝑘2𝐾c1 [NO]
+2 [O2]
+4 points in total
+1 point for the correct expression of 𝐾c1
+1 point for the expression of 𝑟+ with [N2O2] and [O2]
+1 point for the correct [N2O2]
+1 point for the correct 𝑟+
+5.2 (4.0 pt)
+Combining 𝐾c1 = exp (𝑀−𝑁/𝑇), 𝑘2 = 𝐴2 exp (−𝐸a,2
+𝑅𝑇) and 𝑘+ = 𝑘2𝐾c1,
+𝑘+ = 𝑘2𝐾c1 = 𝐴2 exp (−𝐸a,2
+𝑅𝑇) exp (𝑀−𝑁𝑅
+𝑅𝑇) = 𝐴2 exp(𝑀) exp (−𝐸a,2 + 𝑁𝑅
+𝑅𝑇
+).
+Comparing this equation with Arrhenius equation,
+𝐴+ = 𝐴2 exp(𝑀) and 𝐸a+ = 𝐸a,2 + 𝑁𝑅are obtained.
+4 points in total
+1 point for the correct expression of 𝑘2
+1 point for the correct expression of 𝑘+ with 𝐸a,2, 𝐴2, 𝑀and 𝑁
+1 point for the correct expression of 𝐴+
+1 point for the correct expression of 𝐸a+
+5.3 (2.0 pt)
+Calculation:
+According to Arrhenius equation, ln 𝑘+ (𝑇2)
+𝑘+ (𝑇1) = 𝐸a+
+𝑅( 1
+𝑇1
+−1
+𝑇2
+) is obtained.
+Thus, 𝑘+ (700 K) = 6.86 × 105 L2 mol
+−2 min
+−1
+2 points in total
+If 𝑘+ (700 K) is incorrect due to miscalculation, 1 point will be deducted.
+95
+
+Theory-Marking Scheme
+M5-2
+English (Oﬃcial)
+5.4 (4.0 pt)
+Calculation:
+Because Δr𝐻−
+⊖
+−
+m and Δr𝑆−
+⊖
+−
+m do not change with temperature,
+Δ𝑟𝐻−
+⊖
+−
+𝑚(600K)
+= Δ𝑟𝐻−
+⊖
+−
+𝑚(298K)
+= 2Δ𝑓𝐻−
+⊖
+−
+𝑚(NO2, 298K) −Δ𝑓𝐻−
+⊖
+−
+𝑚(NO, 298K) −Δ𝑟𝐻−
+⊖
+−
+𝑚(O2, 298K)
+= −116.4 kJ mol−1
+Δ𝑟𝑆−
+⊖
+−
+𝑚(600K)
+= Δ𝑟𝑆−
+⊖
+−
+𝑚(298K)
+= 2𝑆−
+⊖
+−
+𝑚(NO2, 298K) −2𝑆−
+⊖
+−
+𝑚(NO, 298K) −𝑆−
+⊖
+−
+𝑚(O2, 298K)
+−146.6 J K−1 mol−1
+For a thermostatic process, Δ𝐺= Δ𝐻−𝑇Δ𝑆, thus Δr𝐺−
+⊖
+−
+m (600 K) = −28.44 kJ mol
+−1
+Using the equation of 𝐾−
+⊖
+−
+𝑝
+= exp(−Δr𝐺−
+⊖
+−
+m /𝑅𝑇), 𝐾−
+⊖
+−
+𝑝(600 K) = 299.2 is obtained.
+4 points in total
+1 point for the correct value of Δr𝐻−
+⊖
+−
+m (600 K)
+1 point for the correct value of Δr𝑆−
+⊖
+−
+m (600 K)
+1 point for the correct value of Δr𝐺−
+⊖
+−
+m (600 K) or the correct relationship among Δr𝐻−
+⊖
+−
+m (600 K),
+Δr𝑆−
+⊖
+−
+m (600 K) and 𝐾−
+⊖
+−
+𝑝(600 K)
+1 point for the correct value of 𝐾−
+⊖
+−
+𝑝(600 K)
+If any miscalculation exists, 1 point will be deducted.
+5.5 (3.0 pt)
+Calculation:
+Using the equation of Δr𝑈−
+⊖
+−
+m = Δr𝐻−
+⊖
+−
+m −∑𝜈𝑅𝑇and ∑𝜈value of −1 (𝜈NO2 −𝜈NO−𝜈O2 = 2−2−1 = −1),
+Δr𝑈−
+⊖
+−
+m (600 K) = −111.4 kJ mol
+−1 is obtained.
+3 points in total
+1 point for the correct relationship between Δr𝑈−
+⊖
+−
+m and Δr𝐻−
+⊖
+−
+m
+1 point for the correct value of Σ𝜈
+1 point for the correct value of Δr𝑈−
+⊖
+−
+m (600 K)
+If Δr𝑈−
+⊖
+−
+m (600 K) is incorrect due to miscalculation, 0.5 points will be deducted
+96
+
+Theory-Marking Scheme
+M5-3
+English (Oﬃcial)
+5.6 (6.0 pt)
+Calculation:
+When chemical equilibrium is reached, 𝐾𝑐=
+[NO2]
+2
+eq
+[NO]2
+eq [O2]eq
+and 𝑟−eq = 𝑟+eq.
+Thus, 𝑟−eq = 𝑟+eq = 𝑘+[NO]2
+eq [O2]eq = 𝑘+
+[NO2]
+2
+eq
+𝐾𝑐
+= 𝑘−[NO2]
+2
+eq
+Therefore, 𝑟−= 𝑘−[NO2]
+2
+Using the equation of 𝐾𝑐= 𝐾−
+⊖
+−
+𝑝(𝑅𝑇
+𝑝−
+⊖
+−)
+−∑B 𝜈B
+and 𝐾−
+⊖
+−
+𝑝(600 K) value of 299.2, 𝐾𝑐= 1.49 × 104 L mol
+−1
+is obtained.
+According to 𝑘−= 𝑘+/𝐾𝑐, the value of 𝑘−is calculated to be 44.4 L mol−1 min
+−1 If the 𝐾−
+⊖
+−
+𝑝(600 K) value
+is used as 350.0, the result should be 38.0.
+8 points in total
+1 point for the consideration of 𝑟−eq = 𝑟+eq
+2 points for the correct expression of 𝑟−
+1 point for the correct relationship among 𝑘+, 𝐾and 𝑘−
+4 points for the correct value of 𝑘−
+If 𝐾−
+⊖
+−
+𝑝instead of 𝐾𝑐is used, 2 points will be deducted
+If 𝑘−is incorrect due to miscalculation, 1 point will be deducted
+5.7 (4.0 pt)
+Calculation:
+According to the stoichiometry of the reaction and setting 𝑝NO2 = 0.8𝑝0, 𝑝NO = 0.2𝑝0 and 𝑝O2 = 0.1𝑝0
+are obtained.
+𝐾−
+⊖
+−
+𝑝
+=
+(𝑝NO2/𝑝−
+⊖
+−)
+2
+(𝑝NO/𝑝−
+⊖
+−)
+2 (𝑝O2/𝑝−
+⊖
+−)
+=
+(0.8𝑝0/𝑝−
+⊖
+−)
+2
+(0.2𝑝0/𝑝−
+⊖
+−)
+2 (0.1𝑝0/𝑝−
+⊖
+−)
+= 160𝑝−
+⊖
+−
+𝑝0
+Therefore, 𝑝0 = 53.5 kPa.
+𝑝total = 𝑝NO2 + 𝑝NO + 𝑝O2 = 1.1𝑝0 = 58.8 kPa
+If the 𝐾−
+⊖
+−
+𝑝(600 K) value is used as 350.0, the result of 50.3 kPa is obtained.
+4 points in total
+1 point for the expression of 𝐾−
+⊖
+−
+𝑝. If 𝑝−
+⊖
+−is omitted, no penalty.
+1 point for the correct ratio among 𝑝NO2, 𝑝NO and 𝑝O2
+2 points for the correct value of 𝑝total
+If 𝑝total is incorrect due to miscalculation, 1 point will be deducted
+97
+
+Theory-Marking Scheme
+M5-4
+English (Oﬃcial)
+5.8 (6.0 pt)
+The given mechanism involves a pre-equilibrium:
+𝑟S+1 = 𝑟S−1, 𝑘S+1 [O2] 𝜃2
+𝑣= 𝑘S−1𝜃2
+O, 𝜃O/𝜃𝑣= (𝑘S+1 [O2] /𝑘S−1)
+0.5
+𝑟S+2 = 𝑟S−2, 𝑘S+2[NO]𝜃𝑣= 𝑘S−2𝜃NO, 𝜃NO/𝜃𝑣= 𝑘S+2[NO]/𝑘S−2
+𝑟S+4 = 𝑟S−4, 𝑘S+4𝜃NO2 = 𝑘S−4 [NO2] 𝜃𝑣, 𝜃NO2/𝜃𝑣= 𝑘S−4 [NO2] /𝑘S+4
+Because 𝜃𝑣+ 𝜃NO + 𝜃NO2 + 𝜃O = 1, using the ratios among these coverages,
+𝜃𝑣=
+1
+1 + (𝑘S+1 [O2] /𝑘S−1)
+0.5 + 𝑘S+2[NO]/𝑘S−2 + 𝑘S−4 [NO2] /𝑘S+4
+is obtained.
+6 points in total
+1 point for the correct expression of 𝜃0/𝜃𝑣
+1 point for the correct expression of 𝜃NO/𝜃𝑣
+1 point for the correct expression of 𝜃NO2/𝜃𝑣
+1 point for the utilization of the normalized condition
+2 points for the correct expression of 𝜃𝑣
+If no derivation is provided, 6 points for the correct expression of 𝜃𝑣
+One of the numerator and the four parts of the denominator of this expression is wrong, 4 points;
+two of them are wrong, 2 points; three or more are wrong, 0 point.
+5.9 (4.0 pt)
+(B)
+4 points for choosing (B)
+2 points for choosing (A)
+0 points for other choices
+5.10 (6.0 pt)
+(B)
+6 points for choosing (B)
+0 points for other choices
+98
+
+Theory-Marking Scheme
+M6-1
+English (Oﬃcial)
+[Marking Scheme] Enabling Phosphines
+6.1 (3.0 pt)
+R
+3 points in total;
+3 points for assigning as R
+6.2 (6.0 pt)
+6 points in total.
+3 points for each;
+no points if any structure containing C=P is given:
+6.3 (8.0 pt)
+8 points in total.
+4 points for each.
+Reasonable resonance structures of B′ and C′ are also acceptable.
+1 point is given if structures with two methyl esters or two ethyl esters.
+99
+
+Theory-Marking Scheme
+M6-2
+English (Oﬃcial)
+6.4 (5.0 pt)
+5 points in total.
+2 points if the isomerized structure is given:
+6.5 (6.0 pt)
+6 points in total.
+6 points for 4 correct asterisks, 1.5 points for each;
+−1.5 points for every wrong asterisk till 0 points.
+6.6 (3.0 pt)
+90:10
+3 points in total;
+3 points for the correct answer: 90/10 or 9/1 or 9
+100
+
+Theory-Marking Scheme
+M6-3
+English (Oﬃcial)
+6.7 (5.0 pt)
+(d)
+5 points in total;
+5 points for choosing (d)
+101
+
+Theory-Marking Scheme
+M7-1
+English (Oﬃcial)
+Organic Molecules in Life
+7.1 (12.0 pt)
+12 points in total.
+4 points for each;
+2 points for the enantiomer of 9, or the structure missing the chirality is given;
+2 points if the enol form of 12 is given:
+102
+
+Theory-Marking Scheme
+M7-2
+English (Oﬃcial)
+7.2 (8.0 pt)
+8 points in total.
+4 points for each;
+4 points for the resonance structures of 15 or if azide is written as N3:
+2 points for its protonated form:
+1 point if the nitrosonation on the nitrogen linked to carbonyl is given:
+103
+
+Theory-Marking Scheme
+M7-3
+English (Oﬃcial)
+7.3 (12.0 pt)
+12 points in total.
+4 points for the isomers of 21:
+2 points if the form of NGP is given:
+1 point if the second protein is added at the β position of amide group, and no double punishment
+for 24 and 25.
+104
+
+Theory-Marking Scheme
+M8-1
+English (Oﬃcial)
+[Marking Scheme] Amazing Chiral Spiro Catalyst
+8.1 (16.0 pt)
+16 points in total.
+4 points for each correct structure as shown above.
+4 points if the cis isomer of 1 is given
+2 points if the regioisomer of 4 is given
+8.2 (2.0 pt)
+(c)
+2 points in total;
+2 points for choosing (c)
+8.3 (2.0 pt)
+(b)
+2 points in total;
+2 points for choosing (b)
+105
+
+Theory-Marking Scheme
+M8-2
+English (Oﬃcial)
+8.4 (2.0 pt)
+Ir(III) or +3
+2 points in total;
+2 points for Ir(III) or +3
+8.5 (2.0 pt)
+6
+2 points in total;
+2 points for 6
+8.6 (8.0 pt)
+8 points in total.
+4 points for each;
+2 points for correct skeleton, missing or wrong stereochemistry;
+2 points if the regioisomer of 16 is given
+8.7 (2.0 pt)
+(b)
+2 points in total;
+2 points for choosing (b)
+8.8 (2.0 pt)
+(a)
+2 points in total;
+2 points for choosing (a)
+106
+
+Theory-Marking Scheme
+M9-1
+English (Oﬃcial)
+[Marking Scheme] Total Synthesis of Capitulactone
+9% of the total
+Question
+9.1
+9.2
+9.3
+9.4
+Total
+Points
+24
+2
+16
+2
+44
+Score
+9.1 (24.0 pt)
+24 points in total.
+4 points for each;
+2 points for each structure of 8, 9 or 11 with missing or wrong stereochemistry.
+9.2 (2.0 pt)
+(d)
+2 points in total;
+2 points for choosing (d)
+9.3 (16.0 pt)
+16 points in total.
+4 points for each;
+2 points if structure with missing or wrong stereochemistry is given.
+107
+
+Theory-Marking Scheme
+M9-2
+English (Oﬃcial)
+9.4 (2.0 pt)
+(b)
+2 points in total;
+2 points for choosing (b)
+107

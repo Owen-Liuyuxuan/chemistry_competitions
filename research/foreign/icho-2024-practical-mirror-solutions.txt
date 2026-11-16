@@ -1,0 +1,1706 @@
+Practical
+G0-1
+English (Official)
+General Instructions
+• This examination is split into 2 sessions, with one task in each session. After the 30 minute refresh-
+ment break, please return to your working place.
+• Task 1 is 1 h 45 min, task 2 is 3 h 15 min long. Both tasks follow the same general procedure
+described on this page.
+• Each task is delivered in two booklets; the two tasks share these general instructions. The question
+booklets contain the tasks with numbered questions translated to the language of your choice.
+The answer booklets contain numbered boxes corresponding to the questions. Only language-
+independent symbols and formulae are used in the answer booklets.
+• You may begin working only when the START signal is given.
+• Equipment for task 1 is on your desk at the start. Do no touch the equipment for task 2 in the box
+on the shelf.
+• You should keep all items within the marked out area on the bench.
+• Use only the pen and calculator provided. Do not write with the marker on paper; use it only to
+label labware. Do not write your answers in pencil; the pencil is only for the TLC plates.
+• All results and answers must be clearly written with pen in the appropriate answer boxes of the
+answer booklets. Remember that only the answer booklet is collected. Do not separate the pages
+of the stapled answer booklets.
+• Do not write on the back sides of the answer booklet! Markers will only see the printed sides of the
+answer booklet. Use the back sides of the question booklet if you need scratch paper. Do not draw
+anything into or close to the QR codes.
+• For the multiple choice questions, if you want to change your answer, fill the tick box completely
+and then make a new box next to it.
+• The official English version of the exam booklets is available on request for clarification only.
+• You must follow the safety rules given in the IChO regulations. Any safety rule violation can result
+in your dismissal from the laboratory and the nullification of your practical examination.
+• If you need a toilet break or any assistance, or want to review the official English version, raise your
+hand.
+• If you need a replacement or refill, ask the lab supervisor. Both of you need to sign the table on
+the answer sheet. Only the first such incident (one item) is without penalty. Each further incident
+will result in the deduction of 1 point from your 40 practical exam points.
+• The supervisors will announce a 30-minute warning before the STOP signal. You must stop your
+work immediately when the STOP signal is announced. Failure to stop working or writing can lead
+to nullification of your practical exam.
+• After the supervisor tells you to do so, put only your answer booklet back into the envelope. You
+can keep the question booklet. Do not seal the envelope. The supervisors will collect it together
+with your TLC plates in their bag.
+• Do not take the calculator or anything from the lab, except for the question booklets .
+GOOD LUCK!
+
+Practical
+G0-2
+English (Official)
+Periodic Table
+1 
+18 
+1 
+H 
+1.008
+2 
+13 
+14 
+15 
+16 
+17 
+2 
+He
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01 
+5 
+B
+10.81
+6 
+C 
+12.01
+7 
+N 
+14.01
+8 
+O
+16.00
+9 
+F 
+19.00
+10 
+Ne
+20.18 
+11 
+Na
+22.99 
+12 
+Mg
+24.30 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Al 
+26.98
+14 
+Si 
+28.09
+15 
+P
+30.97
+16 
+S
+32.06
+17 
+Cl 
+35.45
+18 
+Ar
+ 
+39.95
+19 
+K
+39.10
+20 
+Ca
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87
+23 
+V
+50.94
+24 
+Cr
+52.00 
+25 
+Mn
+54.94 
+26 
+Fe
+55.85 
+27 
+Co
+58.93 
+28 
+Ni 
+58.69
+29 
+Cu
+63.55 
+30 
+Zn
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br
+ 
+79.90
+36 
+Kr 
+83.80
+37 
+Rb
+85.47 
+38 
+Sr 
+87.62
+39 
+Y
+88.91
+40 
+Zr
+ 
+91.22
+41 
+Nb
+92.91 
+42 
+Mo
+95.95 
+43 
+Tc
+-
+44 
+Ru
+101.1 
+45 
+Rh
+102.9 
+46 
+Pd
+ 
+106.4 
+47 
+Ag
+ 
+107.9 
+48 
+Cd
+112.4 
+49 
+In
+ 
+114.8
+50 
+Sn
+ 
+118.7 
+51 
+Sb
+121.8 
+52 
+Te
+127.6 
+53 
+I
+126.9
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57-71
+72 
+Hf
+178.5
+73 
+Ta
+180.9 
+74 
+W 
+183.8
+75 
+Re
+186.2 
+76 
+Os
+190.2 
+77 
+Ir 
+192.2
+78 
+Pt
+ 
+195.1
+79 
+Au
+ 
+197.0 
+80 
+Hg
+200.6 
+81 
+Tl 
+204.4
+82 
+Pb
+ 
+207.2 
+83 
+Bi 
+209.0
+84 
+Po 
+-
+85 
+At
+ 
+-
+86 
+Rn
+-
+87 
+Fr
+ 
+-
+88 
+Ra
+-
+89-
+103 
+104 
+Rf
+-
+105 
+Db
+-
+106 
+Sg
+ 
+-
+107 
+Bh
+ 
+-
+108 
+Hs 
+-
+109 
+Mt
+-
+110 
+Ds 
+-
+111 
+Rg
+-
+112 
+Cn
+-
+113 
+Nh
+-
+114 
+Fl 
+-
+115 
+Mc
+-
+116 
+Lv
+-
+117 
+Ts
+-
+118 
+Og
+ 
+-
+57 
+La 
+138.9 
+58 
+Ce
+140.1 
+59 
+Pr
+ 
+140.9
+60 
+Nd
+144.2 
+61 
+Pm
+ 
+-
+62 
+Sm
+ 
+150.4 
+63 
+Eu
+ 
+152.0 
+64 
+Gd
+ 
+157.3 
+65 
+Tb
+158.9 
+66 
+Dy
+ 
+162.5 
+67 
+Ho
+164.9 
+68 
+Er 
+167.3
+69 
+Tm
+ 
+168.9 
+70 
+Yb
+ 
+173.0 
+71 
+Lu
+ 
+175.0 
+89 
+Ac 
+-
+90 
+Th
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0
+93 
+Np
+-
+94 
+Pu
+ 
+-
+95 
+Am
+ 
+-
+96 
+Cm
+-
+97 
+Bk 
+-
+98 
+Cf
+-
+99 
+Es 
+-
+100 
+Fm
+ 
+-
+101 
+Md
+-
+102 
+No
+-
+103 
+Lr
+ 
+-
+
+Practical
+G0-3
+English (Official)
+Problems and Grading Information
+Title
+Question Pages
+Answer Pages
+Total Score
+Percentage
+1
+Indicators
+6
+4
+107
+16
+2
+Titrations on a balance
+11
+11
+85
+24
+Total
+40
+
+Practical
+G0-4
+English (Official)
+Safety
+When in the laboratory students must respect the rules:
+• Do not eat or drink in the lab. Chewing gum is not allowed.
+• Work only in the designated area. Keep your work area and the common work areas tidy.
+• No unauthorized experiments are allowed. No modification of the experiments is allowed.
+• Inform your lab assistant about spills and broken glassware immediately. Inform the assistants
+about any accident.
+• All waste must be properly discarded to prevent contamination or injury. Dispose the solutions in
+the containers with the correct labels. If any container is full inform your lab assistant.
+• Contact lenses are prohibited in the laboratory.
+During the examination, the students will be required to wear:
+• pants covering their whole legs;
+• closed and flat shoes;
+• a lab coat with long sleeves;
+• safety goggles fitting the contour of their face;
+• if applicable, long hair and beards tied back.
+Any student who fails to respect these rules will not be allowed to enter the lab along with the
+nullification of their practical exam and exclusion from the practical exam.
+
+Practical
+G0-5
+English (Official)
+GHS Statements
+The GHS hazard and precautionary statements associated with the materials used are indicated in the
+problems. Their meanings are as follows:
+H-phrases Physical Hazards
+H225: Highly flammable liquid and vapour
+H272: May intensify fire: oxidizer
+H290: May be corrosive to metals
+H-phrases Health Hazards
+H301: Toxic if swallowed
+H302: Harmful if swallowed
+H311: Toxic in contact with skin
+H314: Causes severe skin burns and eye damage
+H315: Causes skin irritation
+H318: Causes serious eye damage
+H319: Causes serious eye irritation
+H331: Toxic if inhaled
+H332: Harmful if inhaled
+H336: May cause drowsiness or dizziness
+H351: Suspected of causing cancer
+H370: Causes damage to organs
+H372: Causes damage to organs through prolonged or repeated exposure
+H-phrases Environmental Hazards
+H400: Very toxic to aquatic life
+
+Practical
+Q1-1
+English (Official)
+Task 1 Indicators (time 1 h 45 min)
+Equipment and materials
+Item
+Label
+Quantity
+Location
+Test tube rack (positions labeled
+A1-E12)
+1
+desk
+Test tubes, 𝟧cm𝟥
+40
+rack
+Indicator solutions
+Student code + A,
+B, C, D
+𝟦× 𝟧cm𝟥
+small centrifuge
+tubes, rack
+Isopropyl alcohol eluents (acidified
+EA, neat (neutral) EN, base added EB)
+EA, EN, EB
+𝟥× 𝟣𝟢cm𝟥
+small centrifuge
+tubes, rack
+Spotting capillaries
+5
+small centrifuge
+tube, rack
+Graduated plastic pipettes, 𝟥cm𝟥
+15
+desk
+Graduated plastic pipettes, 𝟣cm𝟥
+5
+rack
+Tweezers
+1
+rack
+Pencil
+1
+rack
+Ruler
+1
+desk
+TLC plates (polar silica), 𝟦× 𝟪cm
+Student code on
+bag
+4
+in labeled zip lock
+bag
+𝟤𝟧𝟢cm𝟥beakers for TLC chambers
+3
+desk
+Aluminum foil pieces (TLC chamber
+covers), approx. 𝟣𝟢× 𝟣𝟢cm
+3
+desk
+Filter paper strips (to be used as
+"wick" in TLC experiment)
+3
+desk
+Unknown solutions
+Student code +
+𝟣−𝟪
+𝟪× 𝟥𝟢cm𝟥
+large centrifuge
+tubes
+𝟢.𝟣mol/dm
+𝟥HCl solution
+HCl
+𝟥𝟢cm𝟥
+large centrifuge
+tube
+
+Practical
+Q1-2
+English (Official)
+Permanent marker
+1
+desk
+Distilled water
+1
+wash bottle
+Distilled Water Jugs
+H2O
+Desks
+Goggles
+1
+desk
+Calculator
+1
+desk
+Pen
+1
+desk
+Paper towels
+1 roll
+desk
+UV lamp for TLC visualization
+2 per lab
+hoods
+Nitrile gloves
+next to the
+blackboard
+Container for used capillaries
+hoods
+
+Practical
+Q1-3
+English (Official)
+Acid-base indicators
+Acid-base indicators are substances that exhibit different colors in their protonated and deprotonated
+forms. Since each protonation has a different equilibrium constant, the color change for different indi-
+cators occurs at a different pH. Thus, in a solution at a given pH, one indicator may appear as 'acidic' and
+another as 'basic'. In this task, you will use four indicators. One of them has two distinct color changes
+at two different pH values.
+Your goal is to find the order of their transition pH and to identify the solutions of eight compounds
+according to different pH. You will start TLC experiments with the indicators first.
+TLC experiments
+Four centrifuge tubes, marked with capital letters A–D, contain methanolic solutions of the four indica-
+tors. Carry out TLC experiments on a polar silica gel stationary phase using the four indicator solutions.
+Handle the plates with tweezers or touch them only on their edges.
+• Prepare 3 plates with a baseline and spots for each indicator using the pencil and ruler.
+• Use capillaries to spot the solutions. Be very careful with the capillaries during your work and
+discard them into the designated container (under the hood) after all your plates are developed
+and ready.
+• Make sure that the spots are dry, and all the solvent has evaporated (at least 2 minutes of standing).
+• Develop the plates using the three isopropyl alcohol eluents (E𝘈– acidic, E𝘕– neutral, E𝘉– basic) in
+the beakers closed (tightly) with aluminum foil.
+• Observe the colors of the spots during the run and after drying.
+• You should allow the TLC to develop for at least 20 minutes, but you should carry on with the
+other experiments while the TLC is running.
+• Mark the invisible spots with pencil using the UV lamp under the hood.
+• Place the properly labeled plates in the zip lock bag labeled with your student code. The TLC plates
+will be marked (12 pt).
+You can request one new plate without a penalty.
+
+Practical
+Q1-4
+English (Official)
+1.1
+Identify the eluent that gives the best spots and best separation of the individ-
+ual indicators. Tick the eluent code on the answer sheet.
+SOLUTION:
+Pure isopropyl alcohol has bad tailing for BG (C). The acidic (acetic acid + iPrOH)
+and basic (ammonia + iPrOH) eluents both give good spots, but in the acidic elu-
+ent several retention factors are similar to each other. The ammonia – isopropyl
+alcohol mixture is the eluent of choice (2 p)
+2 pt
+
+Practical
+Q1-5
+English (Official)
+SOLUTION:
+These TLC separations are very reproducible and robust. We made several experiments to identify the
+critical errors. If wick is not used the Rf values are practically unchanged. The only critical error is not to
+cover the beaker (or not correctly do so).
+This table summarizes our results:
+In solution, most of these indicators form anions. Only one form of one of the indicators that is observ-
+able on the TLC plates is a neutral, molecular species. None of the other three indicators have a neutral
+form in the eluents used. Some of the indicators with several acidic groups can form dianions as well.
+
+Practical
+Q1-6
+English (Official)
+1.2.
+Based on your observations, identify the spots containing the neutral molecu-
+lar species. Select the indicator which has a neutral form, and tick the eluent(s)
+where that indicator forms a neutral species.
+SOLUTION:
+We are searching for an acidic form, with high retention factor. The colorless
+(acidic) form of thymolphtalein [TP, D, 2 p] runs very close to the solvent line on
+every plate. That is the neutral molecule in all three eluents. (3 p).
+5 pt
+1.3.
+Based on your observations, identify the spot(s) containing dianions of their
+respective indicator molecule.
+SOLUTION:
+The dianions must be basic forms, with low Rf values. Most of the spots have Rf
+values above 0.5, only the basic forms of BG (C) and PR (A) are below 0.5. These
+are the dianions strongly interacting with the polar substrate (2×2 p). [TB (B)
+in pure isopropyl alcohol also has a low retention factor, but the spot is yellow
+indicating thet this is the acidic form.]
+4 pt
+Identification experiments
+Four centrifuge tubes, marked with capital letters A–D, contain methanolic solutions of the four indica-
+tors. Each one comes with a plastic pipette. The concentrations of the indicator solutions are such that
+one drop of the indicator solution is sufficient to stain several cm𝟥of solution.
+There are eight large centrifuge tubes numbered 1–8. Each tube contains a 𝟢.𝟣mol/dm
+𝟥aqueous so-
+lution of one of the following eight compounds. Perform experiments to identify the content of the
+unknown solutions.
+You can use the indicator solutions A–D, hydrochloric acid (also at 𝟢.𝟣mol/dm
+𝟥) and distilled water in
+addition to the unknown solutions.
+H3BO3
+(COOH)2
+H3PO4
+CH3CH2COOH
+NaH2PO4
+NaOH
+CH3CH2COONa
+Na3PO4
+Hint: The test tube rack has labeled positions (A1-E12).
+Dissociation data
+H3BO3 ∶pK𝑎= 9.15
+H3PO4 ∶pK𝑎1 = 2.15, pK𝑎2 = 7.20, pK𝑎3 = 12.35
+
+Practical
+Q1-7
+English (Official)
+CH3CH2COOH ∶pK𝑎= 4.87
+(COOH)2 ∶pK𝑎1−
+−1.27, pK𝑎2 = 4.28
+
+Practical
+Q1-8
+English (Official)
+1.4.
+Give the centrifuge tube numbers containing the particular compounds in the
+table on the answer sheet. If you cannot distinguish between two or more so-
+lutions, list those as alternatives for a partial mark.
+SOLUTION:
+The colors for the unknowns + HCl:
+The unknowns can be ranked by pH based on the dissociation constants given.
+Propionic acid and its salt are unique in color pattern. The other 6 unknowns are
+in two pairs, two appearing as acidic as HCl, two slightly acidic (two indicators
+different from HCl), and two very basic (all indicators different).
+ 
+The Na3PO4 and NaOH solutions can be distinguished for example with hy-
+drochloric acid. You can make a 1:1 mixture by volume of both solutions with
+HCl solution. You then get a solution of 0.05 mol/dm3 Na2HPO4 and NaCl, with
+pH values of about 9.2 and 7.0, respectively. (Without knowing the exact pH
+values, you can estimate that the Na2HPO4 solution has a higher pH.) By exam-
+ining these solutions with indicators, you can find one (Thymol Blue, (B)) that
+can distinguish them.
+ 
+The identified NaOH solution can be used to distinguish between oxalic acid and
+phosphoric acid solutions by making an acidic salt or a buffer. Boric acid and
+dihydrogen phosphate can be distinguished either by a strong acid or a strong
+base, similarly by forming a buffer, or by exploiting the difference in valence.
+ 
+Correct identification of CH3CH2COOH and CH3CH2COONa: 5 p each.
+Correct identification of the other 6 solutions: 7 p each.
+If the student identifies and gives correct alternatives for the 3 pairs of solu-
+tions: 5 p each
+If the student swaps members of the 3 pairs of solutions: 2 p each.
+52 pt
+
+Practical
+Q1-9
+English (Official)
+In the next 3 questions you need to describe the experiments and observations that you used to distin-
+guish certain pairs of compounds.
+Describe the experiments in the following fashion: 1 cm3 HCl + 1 cm3 H2O
+Use the following language independent color codes: N: colorless, R: red, G: green, B: blue, Y: yellow, O:
+orange P: pink V: violet, Br: brown, Bk: black, and their combinations: YG: yellowish green, BG: bluish
+green, etc.
+
+Practical
+Q1-10
+English (Official)
+1.5
+Specify the experiments and the observations that you used to distinguish
+(COOH)2 −H3PO4 on the answer sheet.
+Describe the experiment in column "EXP", give the indicator code in column
+"ABCD", and give the code of the observed color in column "COLOR". Make
+sure that you have observations for both solutions.
+SOLUTION:
+For appropriate distinguishing experiments for the pairs: 4 p for a pair.
+The pH of the two solutions is challanging, but possible to distinguish with two
+indicators without any reaction:
+4 pt
+
+Practical
+Q1-11
+English (Official)
+1.6
+Specify the experiments and the observations that you used to distinguish
+NaOH −Na3PO4 on the answer sheet.
+Describe the experiment in column "EXP", give the indicator code in column
+"ABCD", and give the code of the observed color in column "COLOR". Make
+sure that you have observations for both solutions.
+SOLUTION:
+For appropriate distinguishing experiments for the pairs: 4 p for a pair.
+4 pt
+
+Practical
+Q1-12
+English (Official)
+1.7
+Specify the experiments and the observations that you used to distinguish
+CH3CH2COOH −CH3CH2COONa on the answer sheet.
+Describe the experiment in column "EXP", give the indicator code in column
+"ABCD", and give the code of the observed color in column "COLOR". Make
+sure that you have observations for both solutions.
+SOLUTION:
+For appropriate distinguishing experiments for the pairs: 4 p for a pair.
+N.B. these solutions have different pH, so no reaction is needed to distinguish
+them.
+ 
+On the second set of experiment shown bellow indicator C (BG) is used instead
+of B (TB).
+4 pt
+1.8
+Select the letter code of the indicator that changes color distinctly at two pH
+values and give its color between the two changes using the color codes.
+SOLUTION:
+Identification (B) and intermediate color (Y) of TB indicator: 2+2 p
+4 pt
+1.9
+Give the colors of the indicators in pH ≈1.5 and pH ≈13 solutions using the
+color codes.
+SOLUTION:
+A O/Y R/P/V
+B R/P/V B/V
+C Y B
+D N B (1 p each)
+8 pt
+
+Practical
+Q1-13
+English (Official)
+1.10
+List the letter codes of the indicators in increasing order of their transition pH.
+Start with the indicator that changes color in the most acidic medium, and make
+sure that the "three-color" indicator appears twice.
+SOLUTION:
+Order of transition pH (B<C<A<B<D): 8 p (2 p less for each transition missing
+or for each swap needed to restore the right order BCADB or BCAD are 6 point
+each.)
+8 pt
+SOLUTION:
+
+Practical
+Q1-14
+English (Official)
+1.11
+Place the properly labeled plates in the zip lock bag labeled with your student
+code. The TLC plates will be marked.
+The correction of the TLCs will be reported on a separate sheet (and a separate
+assignment in Gradescope). The following marks will be given for each plates:
+-start/stop line present (0.5p)
+-component names indicated (0.5p)
+-spots marked w. pencil (0.5p)
+-spot sizes acceptable (0.5p)
+-acceptable separation (even if Rf-s are out of range) (0.5p)
+-Rf values acceptable (range indicated on the report sheet) (1p)
+-solvent height acceptable (>=4cm and below the top side) (0.5p)
+Penalty points if two (-2p) or three (-4p) plates are swapped, or no eluent code
+is written (-4p) on plates.
+12p total, minimum 0p
+see part of the report sheet below:
+12 pt
+GHS hazard codes for the chemicals
+
+Practical
+Q1-15
+English (Official)
+Chemical
+Hazard code
+Indicator solutions
+H225, H301, H302, H311, H319, H331, H370
+Eluents
+H225, H302, H315, H319, H336
+Unknown solutions
+H314, H318, H319
+𝟢.𝟣mol/dm
+𝟥HCl solution
+H290
+
+Practical
+A1-1
+English (Official)
+1.1 (2 pt)
+□EA
+□EN
+□EB
+1.2 (5 pt)
+□A
+□B
+□C
+□D
+□EA
+□EN
+□EB
+1.3 (4 pt)
+EA
+EN
+EB
+□A
+□B
+□C
+□D
+ 
+□A
+□B
+□C
+□D
+ 
+□A
+□B
+□C
+□D
+ 
+
+Practical
+A1-2
+English (Official)
+1.4 (52 pt)
+No.
+H3BO3
+(COOH)2
+H3PO4
+CH3CH2COOH
+NaH2PO4
+NaOH
+CH3CH2COONa
+Na3PO4
+1.5 (4 pt) (COOH)2 −H3PO4
+EXP
+ABCD
+COLOR
+
+Practical
+A1-3
+English (Official)
+1.6 (4.0 pt) NaOH −Na3PO4
+EXP
+ABCD
+COLOR
+1.7 (4. pt) CH3CH2COOH −CH3CH2COONa
+EXP
+ABCD
+COLOR
+1.8 (4 pt)
+□A
+□B
+□C
+□D
+COLOR
+1.9 (8 pt)
+pH ≈1.5
+pH ≈13
+A
+B
+C
+D
+
+Practical
+A1-4
+English (Official)
+1.10 (8.0 pt)
+<
+<
+<
+<
+P.1
+Items replaced or refilled
+Time
+Supervisor
+signature
+Student
+signature
+Free TLC plate
+
+Practical
+A1-5
+English (Official)
+1.11 (12 pt)
+
+Practical
+Q2-1
+English (Official)
+Task 2 Titration on a balance (time 3 h 15 min)
+Equipment and materials
+Item
+Label
+Quantity
+Location
+A box containing items for Task 2
+1
+on the desk, taken
+down from the
+shelf
+Electronic balance (0.01 g accuracy)
+1
+box
+Conical flasks (𝟤𝟧𝟢cm𝟥)
+3
+box
+Plastic cups (𝟤𝟧𝟢cm𝟥)
+24
+box
+Graduated plastic pipettes (droppers)
+(𝟥cm𝟥)
+15
+box
+Plastic spatulas
+3
+box
+1% starch solution
+Starch
+𝟩cm𝟥
+small vial, box
+1% CuSO4 solution
+CuSO4
+𝟩cm𝟥
+small vial, box
+Solid Na2S2O3 ⋅5 H2O
+Na2S2O3 ⋅5 H2O
+𝟨g
+small vial, box
+Solid KI
+KI
+𝟣𝟢g
+small vial, box
+CH2Cl2
+CH2Cl2
+𝟥𝟢cm𝟥
+centrifuge tube,
+box
+~1% KI solution
+KI, student
+code
+𝟧𝟢cm𝟥
+centrifuge tube,
+box
+~1% KMnO4 solution
+KMnO4,
+student code
+𝟣𝟢𝟢cm𝟥
+dark glass bottle,
+box
+~0.6% HCOONa solution
+HCOONa,
+student code
+𝟪𝟢cm𝟥
+plastic bottle, box
+1 mol dm−3 H2SO4 solution
+H2SO4
+𝟪𝟢cm𝟥
+plastic bottle, box
+20% HCl solution
+HCl
+𝟣𝟪𝟢cm𝟥
+plastic bottle, box
+5% NaOH solution
+NaOH
+𝟧𝟢cm𝟥
+plastic bottle, box
+Saturated BaCl2 solution
+BaCl2
+𝟧𝟢cm𝟥
+plastic bottle, box
+
+Practical
+Q2-2
+English (Official)
+Calculator
+1
+desk
+Pen
+1
+desk
+Permanent marker
+1
+desk
+Distilled water
+1
+wash bottle
+Goggles
+1
+desk
+Paper towel
+1 roll
+desk
+Waste containers for Part A, C, D (no
+organic)
+Waste (A, C, D)
+hoods
+Waste containers for Part B (organic)
+Waste (B)
+hoods
+Nitrile gloves
+next to the
+blackboard
+Distilled water jugs
+H2O
+desks
+
+Practical
+Q2-3
+English (Official)
+Manganese has a varied chemistry and is widely used in classical analytical chemistry. The most com-
+monly used manganese compound, potassium permanganate, is a strong oxidant whose behavior varies
+with pH. In this task, you will look into the reactions of permanganate and iodide ions in different media.
+ 
+General procedure
+Instead of accurate volumetric equipment (e.g., burettes, pipettes, volumetric flasks), you will use a bal-
+ance to accurately measure the mass of reagent and titrant solutions.
+• Use disposable plastic cups as containers (except for Part B). Mix their contents by careful swirling.
+• Transferring solutions is best accomplished with graduated plastic disposable droppers that can
+be used for volume measurements as well.
+• Regularly zero the balance without any load (Press TARE). Measure and record the mass of each
+container before use. We recommend not using the tare button otherwise.
+• Never leave a load on the balance for a longer period and never overload the balance (more than
+500 grams altogether) because the sensors can become damaged. All your bottles fit within this
+limit.
+• Record all measured masses into the appropriate boxes on the answer sheets.
+• Add the starting reagents to the container; measure and record the necessary masses. Remove the
+container from the balance.
+• When titrating, measure the mass of the titrant, its container and the pipette used to add it, alto-
+gether. Record this mass before the titration and once the end point is reached.
+• Never run the titrations on the balance because they have built-in compensation for slow changes
+(i.e. drops) and your results might be inaccurate if you add drops to a container on the balance.
+• Continue adding the reagent until the reaction is complete. Record the mass of the titrant, its
+container and the pipette used to add it, altogether. Deduce the mass of the titrant solution used.
+• The critical points are different from a regular titration. The containers should not get wet outside.
+Adding anything to the reaction flask being weighed or transferring reactant from the container
+being measured requires attention and consideration.
+• As usual in analytical chemistry, repeat the whole procedure as you find necessary. The repro-
+ducibility of this method is comparable, but not as high as of a volumetric titration. Report the
+individual results and the value you accepted for your calculations.
+• Should the balance experience underload ( |_____| is displayed), long press the ON/OFF button to
+turn off the balance.
+• The balance turns off after 3 minutes of inactivity.
+• When using gloves, keep your hands away from the pan while reading the mass to avoid electro-
+static effects.
+• Should the balance behave strangely, or display text, ask the laboratory supervisor for assistance.
+
+Practical
+Q2-4
+English (Official)
+Use the following molar masses in your calculations:
+Na2S2O3 ⋅5 H2O
+Na2S2O3
+KMnO4
+KI
+𝟤𝟦𝟪.𝟣𝟪g mol
+−𝟣
+𝟣𝟧𝟪.𝟣𝟣g mol
+−𝟣
+𝟣𝟧𝟪.𝟢𝟥g mol
+−𝟣
+𝟣𝟨𝟨.𝟢𝟢g mol
+−𝟣
+Part A Determination of the exact concentration of permanganate solution in a dilute
+acid solution
+Permanganate is most often used in acidic media (e.g., dilute sulfuric acid), because its reactions are
+usually fast and quantitative. You have a permanganate solution (KMnO4, mass fraction of approximately
+1%).
+Dissolve approximately 𝟤.𝟧g of pure crystalline Na2S2O3 ⋅5 H2O (𝘔= 𝟤𝟦𝟪.𝟣𝟪g mol
+−𝟣) in water to yield
+about 𝟧𝟢g of solution in a plastic cup.
+A.1
+Report the accurate masses you used during the preparation of your thiosul-
+fate solution on the answer sheet.
+SOLUTION:
+0 p – the question provides space for reporting data
+0.0 pt
+A.2
+Calculate the mass fraction (𝘸𝟣) of Na2S2O3(𝘔= 𝟣𝟧𝟪.𝟣𝟣g mol
+−𝟣) in the solution
+you prepared.
+SOLUTION:
+𝑤1 =
+𝑚𝑠𝑎𝑙𝑡158.11 g mol−1
+𝑚𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛248.18 g mol−1
+1 pt for using data consistently reported in A.1. – no points for 2.50 g and 50.00
+g
+1 pt for correct calculation
+2.0 pt
+• Add 𝟧g of the permanganate solution into a plastic cup and record its accurate mass.
+• Add 𝟣𝟢cm𝟥of 𝟣mol dm
+−𝟥H2SO4 and 𝟤g of solid KI.
+• Immediately titrate the iodine formed with the thiosulfate solution.
+• Add 10 drops of starch solution close to the end point.
+• Repeat the titration as necessary.
+
+Practical
+Q2-5
+English (Official)
+A.3
+Record all your raw measurements (masses from the balance) on the answer
+sheet that are required to report data in question A.4.
+SOLUTION:
+0 p – the question provides space for reporting data. This is useful for the men-
+tors to see what their students actually did.
+0.0 pt
+A.4
+Report the masses for your titrations in the table on the answer sheet. For each
+titration fill a column.
+Give the mass of the KMnO4 solution (𝑚(KMnO4)) and the mass of the Na2S2O3
+solution (𝑚(Na2S2O3)) and calculate the mass of Na2S2O3 solution needed for
+5.00 g permanganate solution (𝑚5.00 g(Na2S2O3)).
+SOLUTION:
+1 pt for using data consistently reported in A.3 and calculating correctly
+1.0 pt
+A.5
+Give your accepted value for the mass of thiosulfate solution (𝘮𝟣) needed for
+𝟧.𝟢𝟢g permanganate solution.
+SOLUTION:
+15 pt for accuracy compared to master value. Reported student data will be
+recalculated with the master composition of the permanganate and student
+data for thiosulfate.
+Expected mass is around 8 g.
+Full marks within 0.08 g of the expected mass.
+No marks if off by more than 0.40 g.
+15.0 pt
+A.6
+Give balanced ionic equations relevant to the titration.
+SOLUTION:
+10 I−+ 2 MnO4
+−+ 16 H+ = 5 I2 + 2 Mn2+ + 8 H2O
+2 S2O3
+2−+ I2 = 2 I−+ S4O6
+2−
+4 pt (correct equations with triiodide are even better)
+4.0 pt
+A.7
+Calculate the mass fraction (𝘸𝟤) of KMnO4 (𝘔= 𝟣𝟧𝟪.𝟢𝟥g mol
+−𝟣) in the perman-
+ganate solution.
+SOLUTION:
+The permanganate / thiosulfate ratio is 𝟣∶𝟧. (1pt)
+𝑤2 = 1
+5
+𝑚1𝑤1
+5.00 g
+158.03 g mol−1
+158.11 g mol−1
+Calculation 2 pt.
+3.0 pt
+
+Practical
+Q2-6
+English (Official)
+Part B Reaction of iodide and permanganate in concentrated hydrochloric acid solution
+In the presence of concentrated (>15%) hydrochloric acid, permanganate gives the same reduction prod-
+uct as in Part A, but iodide is oxidized to a different product.
+• Use a conical flask. Add 10 g of the KI solution (mass fraction of approximately 1%) into the flask
+and record the accurate mass of the solution.
+• Add 30 g of the 20% HCl solution and 𝟧cm𝟥of CH2Cl2.
+• Immediately start titrating with the permanganate solution slowly with intense swirling through-
+out. Follow the mass of the bottle containing the titrant, and not the reaction mixture.
+• The end point of the titration is when the color appearing during the titration disappears completely
+from the organic phase.
+• When close to the end point, allow ample time to establish the partition equilibrium between the
+two phases.
+• Repeat the titration as necessary.
+• Should you want to reuse a flask, discard its contents into the container labeled “Waste B” under
+the hood. Wash it at the sink and dry the outside with paper towels.
+B.1
+Record all your raw measurements (masses from the balance) on the answer
+sheet that are required to report data in question B.2.
+SOLUTION:
+0 p – the question provides space for reporting data
+0.0 pt
+B.2
+Report the masses for your titrations in the table on the answer sheet. For each
+titration fill a column.
+Give the mass of the KI solution (𝑚(KI)) and the mass of the KMnO4 solution
+(𝑚(KMnO4)) and calculate the mass of KMnO4 solution needed for 10.00 g KI
+solution (𝑚10.00 g(KMnO4)).
+SOLUTION:
+1 pt for using data consistently reported in B.1 and calculating correctly
+1.0 pt
+B.3
+Give your accepted value for the mass of permanganate solution (𝘮𝟤) needed
+for 𝟣𝟢.𝟢𝟢g KI solution.
+SOLUTION:
+15 pt for accuracy compared to master value. Reported student data will be
+recalculated with the master composition of the permanganate and iodide so-
+lution.
+Expected mass is around 4 g.
+Full marks within 0.08 g of the expected mass.
+No marks if higher by more than 0.40 g or less by 0.16 g. Overtitration often
+happens when not waiting for the iodine to equilibrate.
+15.0 pt
+
+Practical
+Q2-7
+English (Official)
+B.4
+Pick on the answer sheet the color of the organic phase before the end of the
+titration and the species causing this color.
+a) Purple MnO4
+−b) Purple I2 c) Brown MnO4
+−d) Brown I2
+SOLUTION:
+b (2 pt)
+2.0 pt
+B.5
+Pick on the answer sheet the explanation why the color of excess perman-
+ganate is not seen after the end of the titration.
+a) Permanganate ions disproportionate and turn brown in very acidic solutions.
+b) Permanganate ions react with the chloride ions present.
+c) Permanganate ions react with dichloromethane.
+d) The color of permanganate is only visible in aqueous solution.
+SOLUTION:
+b (2 pt)
+2.0 pt
+B.6
+Calculate the stoichiometric ratio of permanganate and iodide, 𝘯(MnO−
+𝟦)
+𝘯(I−)
+for the
+titration reaction using the approximate composition of the iodide solution
+(1%). Show your work.
+SOLUTION:
+𝘯KMnO4
+𝘯KI
+=
+𝘮𝟤𝘸𝟤
+𝟢.𝟢𝟣⋅𝟣𝟢.𝟢𝟢g
+𝟣𝟨𝟨.𝟢𝟢gmol
+−𝟣
+𝟣𝟧𝟪.𝟢𝟥gmol
+−𝟣
+Calculation : 2 p
+The ratio is around 0.4.
+2.0 pt
+B.7
+Give the integer oxidation state of the iodine in the dominant product formed.
+Show your work.
+SOLUTION:
+The change in the oxidation number of iodide can be calculated from the 5 elec-
+trons permanganate accepts. One iodide will lose 5 ⋅𝑛(MnO4
+−)
+𝑛(I−)
+electrons (around
+2).
+So the iodine will be +1.
+Correct calculation based on experimental results: 2pt
+2.0 pt
+Note: Best marks are not necessarily awarded to measurements reproducing expected integer values in
+the results.
+
+Practical
+Q2-8
+English (Official)
+B.8
+You can assume that the reaction leading to this product is quantitative.
+Calculate the exact mass fraction (𝘸𝟥) of KI (𝘔= 𝟣𝟨𝟨.𝟢𝟢g mol
+−𝟣) in the solu-
+tion. Show your work.
+SOLUTION:
+The ideal permanganate / iodide ratio is 𝟤∶𝟧. (1pt)
+𝑤3 = 5
+2
+𝑚2𝑤2
+10.00 g
+166.00 𝑔mol
+−1
+158.03 𝑔mol
+−1
+Calculation 2 pt.
+3.0 pt
+
+Practical
+Q2-9
+English (Official)
+Part C The reaction of permanganate in a strongly alkaline solution
+Permanganate is a strong oxidizer in very basic solutions as well, but the reduction product is the green
+manganate ion (MnO4
+2−). Follow the order of the steps closely.
+• Add 5 g of your KMnO4 solution into a plastic cup and record its accurate mass.
+• Add 𝟧cm𝟥of the saturated BaCl2 solution.
+• Add 10 drops of 1% CuSO4 solution to catalyse the titration reaction.
+• Add 𝟤.𝟧cm𝟥of 5% NaOH solution.
+• Immediately start the titration with the HCOONa solution. Always add the titrant dropwise.
+• When the titrant is added slowly the desired bluish-black barium manganate precipitate appears
+early in the titration. Continue adding the titrant dropwise until the endpoint.
+• The dark precipitate makes it difficult to observe the solution, but the presence or absence of un-
+reacted permanganate in the solution can be clearly seen against a white background.
+• Repeat the titration as necessary.
+C.1
+Record all your raw measurements (masses from the balance) on the answer
+sheet that are required to report data in question C.2.
+SOLUTION:
+0 p – the question provides space for reporting data
+0.0 pt
+C.2
+Report the masses for your titrations in the table on the answer sheet. For each
+titration fill a column.
+Give the mass of the KMnO4 solution (𝑚(KMnO4)) and the mass of the HCOONa
+solution (𝑚(HCOONa)) and calculate the mass of HCOONa solution needed for
+5.00 g permanganate solution (𝑚5.00 g(HCOONa)).
+SOLUTION:
+1 pt for using data consistently reported in C.1 and calculating correctly
+1.0 pt
+C.3
+Give your accepted value for the mass of formate solution (𝘮𝟥) needed for 5.00
+g permanganate solution.
+SOLUTION:
+10 pt for accuracy compared to master value.
+Expected mass is around 1.7 g.
+Full marks within 0.08 g of the expected mass.
+No marks if off by more than 0.25 g.
+10.0 pt
+
+Practical
+Q2-10
+English (Official)
+C.4
+Give a balanced ionic equation for the oxidation of formate by permanganate
+in a strongly basic solution in the presence of barium chloride. Indicate the
+physical state (s = solid, g = gaseous, aq = aqueous solution, l = liquid) for each
+product and reactant.
+SOLUTION:
+ 
+HCOO−(aq)+2 MnO4
+−(aq)+3 OH−(aq)+3 Ba2+(aq) = BaCO3(s)+2 BaMnO4(s)+
+2 H2O(l) 2 pt
+-0.5 pt for not giving precipitates
+-1 pt for CO2 as product
+2.0 pt
+
+Practical
+Q2-11
+English (Official)
+Part D Reaction of iodide and permanganate in a strongly alkaline solution
+Iodide will give an oxidation product different from Part A and B under these conditions.
+Make a 5-fold dilution from your KI solution. Prepare about 40 g of the dilute solution.
+D.1
+Report the accurate masses you used during the preparation of your dilute KI
+solution.
+SOLUTION:
+0 p – the question provides space for reporting data
+0.0 pt
+D.2
+Calculate the mass fraction (𝘸𝟦) of KI in the dilute solution you prepared.
+SOLUTION:
+𝘸𝟦=
+𝘮𝘰𝘳𝘪𝘨𝘪𝘯𝘢𝘭𝘸𝟥
+𝘮𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯
+1 pt for using data consistently reported in D.1. – no points for 8.00 g and 40.00
+g
+1.0 pt
+Follow the order of the steps closely.
+• Add 𝟣cm𝟥of 5% NaOH solution into a plastic cup.
+• Add 3 g of your diluted KI solution and record its accurate mass.
+• Add 10 g of your KMnO4 solution and record its accurate mass.
+• Add 10 drops of 1% CuSO4 solution to catalyse the titration reaction.
+• Then add 𝟧cm𝟥of the saturated BaCl2 solution.
+• The mixture will become even darker due to the formation of the bluish-black barium manganate
+precipitate.
+• Immediately start the titration with the HCOONa solution. Always add the titrant dropwise.
+• The dark precipitate makes it difficult to observe the solution, but the presence or absence of un-
+reacted permanganate in the solution can be seen against a white background.
+• Repeat the titration as necessary.
+D.3
+Record all your raw measurements (masses from the balance) on the answer
+sheet that are required to report data in D.4.
+SOLUTION:
+0 p – the question provides space for reporting data
+0.0 pt
+
+Practical
+Q2-12
+English (Official)
+D.4
+Report the masses for your titrations in the table on the answer sheet. For each
+titration fill a column.
+Give the mass of the KI solution (𝑚(KI)), the mass of the KMnO4 solution
+(𝑚(KMnO4)) and the mass of the HCOONa solution (𝑚(HCOONa)).
+SOLUTION:
+1 pt for using data consistently reported in D.4
+1.0 pt
+D.5
+For each titration, calculate the mass of the KMnO4 solution that reacted with
+10.00 g dilute KI solution (𝑚10.00 g(KMnO4)). Report your accepted value (𝘮𝟦).
+SOLUTION:
+10 pt for accuracy compared to master value.
+Reported student data will be recalculated with the master composition of the
+permanganate, iodide and student data for iodide dilution.
+This calculated
+mass is around 14 g and accumulates the error of many experimental data.
+The measured masses are relatively small.
+Full marks within 2.8 g of the calculated mass.
+No marks if off by more than 3.5 g.
+4 points for calculation.
+𝑚10.00 g(KMnO4) = 10 ⋅
+𝑚KMnO4−
+5𝑚HCOONa
+𝑚3
+𝑚KI
+14.0 pt
+D.6
+Calculate the stoichiometric ratio of permanganate and iodide, 𝘯(MnO−
+𝟦)
+𝘯(I−)
+for the
+reaction in a strongly basic solution. Show your work.
+SOLUTION:
+𝑛KMnO4
+𝑛KI
+=
+𝑚D, 10.00 g(KMnO4) 𝑤2
+10.00 g 𝑤4
+166.00 gmol
+−1
+158.03 gmol
+−1
+Calculation : 2 p
+The ratio is around 7.
+2.0 pt
+Note: Best marks are not necessarily awarded to measurements reproducing expected integer values in
+the results.
+D.7
+Give the integer oxidation state of iodine in the product(s).
+SOLUTION:
+The value according to the ratio (+7 and/or +5) is accepted for 2 points.
+2.0 pt
+
+Practical
+Q2-13
+English (Official)
+GHS hazard codes for the chemicals
+Chemical
+Hazard code
+1% starch solution
+No hazard
+1% CuSO4 solution
+H319, H412
+Solid Na2S2O3 ⋅5 H2O
+H315, H319, H335
+Solid KI
+H372
+CH2Cl2
+H351
+~1% KI solution
+H372
+~1% KMnO4 solution
+H272, H302, H400
+~0.6% HCOONa solution
+No hazard
+1 mol dm−3 H2SO4 solution
+H290, H314, H315, H318, H319
+20% HCl solution
+H290, H314, H335
+5% NaOH solution
+H290, H314, H315
+Saturated BaCl2 solution
+H301, H332, H319
+
+Practical
+A2-1
+English (Official)
+A.1 (0.0 pt)
+A.2 (2.0 pt)
+𝘸𝟣=
+A.3 (0.0 pt)
+
+Practical
+A2-2
+English (Official)
+A.4 (1.0 pt)
+𝑚(KMnO4)
+𝑚(Na2S2O3)
+𝑚5.00 g(Na2S2O3)
+A.5 (15.0 pt)
+𝘮𝟣=
+A.6 (4.0 pt)
+A.7 (3.0 pt)
+
+Practical
+A2-3
+English (Official)
+A.7 (cont.)
+𝘸𝟤=
+B.1 (0.0 pt)
+
+Practical
+A2-4
+English (Official)
+B.2 (1.0 pt)
+𝑚(KI)
+𝑚(KMnO4)
+𝑚10.00 g(KMnO4)
+B.3 (15.0 pt)
+𝘮𝟤=
+B.4 (2.0 pt)
+□a)
+□b)
+□c)
+□d)
+B.5 (2.0 pt)
+□a)
+□b)
+□c)
+□d)
+
+Practical
+A2-5
+English (Official)
+B.6 (2.0 pt)
+𝘯(MnO−
+𝟦)
+𝘯(I−)
+=
+
+Practical
+A2-6
+English (Official)
+B.7 (2.0 pt)
+□−𝟣
+□𝟢
+□𝟣
+□𝟤
+□𝟥
+□𝟦
+□𝟧
+□𝟨
+□𝟩
+B.8 (3.0 pt)
+𝘸𝟥=
+
+Practical
+A2-7
+English (Official)
+C.1 (0.0 pt)
+C.2 (1.0 pt)
+𝑚(KMnO4)
+𝑚(HCOONa)
+𝑚5.00 g(HCOONa)
+
+Practical
+A2-8
+English (Official)
+C.3 (10.0 pt)
+𝘮𝟥=
+C.4 (2.0 pt)
+D.1 (0.0 pt)
+D.2 (1.0 pt)
+𝘸𝟦=
+
+Practical
+A2-9
+English (Official)
+D.3 (0.0 pt)
+D.4 (1.0 pt)
+𝑚(KI)
+𝑚(KMnO4)
+𝑚(HCOONa)
+
+Practical
+A2-10
+English (Official)
+D.5 (14.0 pt)
+𝑚10.00 g(KMnO4)
+𝘮𝟦=
+
+Practical
+A2-11
+English (Official)
+D.6 (2.0 pt)
+𝘯(MnO−
+𝟦)
+𝘯(I−)
+=
+D.7 (2.0 pt)
+□−𝟣
+□𝟢
+□𝟣
+□𝟤
+□𝟥
+□𝟦
+□𝟧
+□𝟨
+□𝟩
+P.1
+Items replaced or refilled
+Time
+Supervisor
+signature
+Student
+signature

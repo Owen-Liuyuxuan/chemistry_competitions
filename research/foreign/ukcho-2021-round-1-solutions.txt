@@ -1,0 +1,667 @@
+1 
+53rd INTERNATIONAL  
+CHEMISTRY OLYMPIAD 
+2021 
+UK Round One 
+MARK SCHEME 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors. Allow 
+where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme and where ECF is not allowed.  
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+Organic structures are shown in their skeletal form, but also accept displayed formulae as 
+long as the representation is unambiguous.  
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+9 
+9 
+16 
+13 
+21 
+17 
+85 
+This resource was downloaded from https://rsc.li/2WmGF2V
+
+2 
+ 
+1. 
+This question is about life on Venus 
+Mark 
+(a) 
+ 
+Shape must be clearly pyramidal rather than trigonal planar for the mark. Lone pair does not 
+have to be drawn in. Wedges and dashes are not needed if shape is clear. 
+ 
+(b) 
+(i) 
+phosphine 
+−3 
+phosphoric acid 
++5  or  5 
+ 
+Both must be correct for mark. 
+(ii) 
+PH3  +  2O2  →  H3PO4 
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(c) 
+(i) 
+PCl3  +  3LiH  →  PH3  +  3LiCl 
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(ii) 
+Ca3P2  +  3H2O  →  2PH3  +  3CaO 
+or 
+Ca3P2  +  6H2O  →  2PH3  +  3Ca(OH)2 
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(iii) 
+4H3PO3  →  3H3PO4  +  PH3 
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(d) 
+(i) 
+SO42− 
+Charge must be present and correct for mark.  
+ 
+ 
+(ii) 
+ 
+Fully correct structure is worth two marks. No partial credit. 3D shape is not required.  
+
+ 
+ 
+Total out of 9 9 
+ 
+ 
+
+3 
+ 
+2. 
+This question is about capturing carbon 
+Mark 
+(a) 
+CaO  +  CO2  →  CaCO3 
+Must be fully correct for mark. 
+ 
+(b) 
+CaCO3  →  CaO  +  CO2 
+Must be fully correct for mark. 
+ 
+(c) 
+2H2S  +  3O2  →  2H2O  +  2SO2 
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(d) 
+2SO2  +  2CaCO3  +  O2  →  2CaSO4  +  2CO2  
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(e) 
+Ca(OH)2  +  K2CO3  →  2KOH  +  CaCO3  
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(f) 
+Standard enthalpy change of reaction = Σ(ΔfH
+⦵ products) − Σ(ΔfH
+⦵ reactants) 
+= [−1151.2 + −285.8 −(−393.5 + 2  −424.8)] kJ mol−1 
+= −193.9 kJ mol−1 
+Working does not have to be displayed if answer is correct. 
+ 
+(g) 
+The standard enthalpy change is positive 
+✔The standard enthalpy change is zero 
+The standard enthalpy change is negative 
+More information is needed to calculate the standard enthalpy change 
+No marks if more than one box ticked. 
+ 
+(h) 
+✔The entropy change of the universe is positive 
+The entropy change of the universe is negative 
+The entropy change of the universe is zero 
+More information is needed to calculate the entropy change of the universe 
+The entropy change of this direct air capture process is positive 
+✔The entropy change of this direct air capture process is negative 
+The entropy change of this direct air capture process is zero 
+More information is needed to calculate the entropy change of this direct air capture process 
+One mark for each correct statement ticked. If more than two statements are ticked or if two 
+contradictory statements are ticked (e.g. statement one and statement two) then no marks 
+should be awarded for this part.  
+ 
+ 
+ 
+Total out of 9 9 
+ 
+ 
+ 
+
+4 
+ 
+3. 
+This question is about levulinic acid 
+Mark 
+(a) 
+ester 
+aldehyde 
+✔ketone  
+ 
+acetal 
+ 
+✔carboxylic acid  
+ 
+alkene 
+alcohol 
+ 
+hemiacetal 
+Must tick both carboxylic acid and ketone only for the mark. 
+(b) 
+C5H8O3 
+ 
+(c) 
+ 
+Must circle both C and O atoms for mark.  
+ 
+(d) 
+(i)                                                                Alkene A 
+ 
+Either cis or trans isomer for mark.  
+ 
+(ii)                                               Other trisubstituted alkenes 
+ 
+Three correct structures scores two marks. Two correct structures with up to one incorrect 
+structure scores one mark. All other answers score zero marks.  
+
+ 
+(e) 
+Compounds C and D 
+ 
+Both must be correct for mark. Students do not have to identify which one is which. 
+ 
+(f) 
+Compound F 
+ 
+ 
+ 
+ 
+
+5 
+ 
+(g) 
++2 
+Accept 2, 2+ or II. 
+ 
+(h) 
+ 
+ 
+Two marks are available for the two correct structures. Two correct structures and no 
+incorrect or duplicated structures is worth two marks. If they have drawn at least one correct 
+structure but there are also incorrect sturctures or duplicates then answer is worth one mark. 
+One mark is available for the correct ticking. This mark is only available if students have 
+drawn at least one correct structure themsleves. All structures (including the catalyst 
+structure given) must be ticked as ‘No’ for this mark. If any structures are not octahedral or 
+have the wrong ligand set then automatically no marks for ticking.  
+ 
+ 
+ 
+ 
+ 
+ 
+(i) 
+one singlet  
+one doublet and one singlet 
+ 
+one doublet 
+one triplet and one singlet 
+one triplet 
+✔one triplet and one doublet  
+two singlets 
+three singlets 
+two doublets 
+three doublets 
+two triplets 
+three triplets 
+(j) 
+ 
+ 
+ 
+ 
+ 
+ 
+All seven correct scores three marks. Five or six correct scores two marks. Three or four 
+correct scores one mark. Two, one or zero correct scores no marks. 
+HJ–HK   6 Hz 
+HK–PW   28 Hz 
+HJ–PW   31 Hz 
+HK–PX   28 Hz 
+HJ–PX   31 Hz 
+HK–PY    74 Hz 
+HJ–PY   15 Hz 
+ 
+ 
+ 
+ 
+ 
+Total out of 16 16 
+
+6 
+ 
+4. 
+This question is about ‘social distancing’ within molecules 
+Mark 
+(a) 
+ 
+All must be correct for mark.  
+ 
+(b) 
+A 
+B 
+C 
+D 
+E 
+F 
+2 
+6 
+3 
+4 
+1 
+5 
+ 
+ 
+ 
+ 
+Fully correct and scores three marks. 
+A 
+B 
+C 
+D 
+E 
+F 
+3 
+6 
+2 
+5 
+1 
+4 
+ 
+Fully correct and scores three marks. 
+Two marks can be awarded if four or five numbers are in the correct position based on 
+either of the correct answers above. One mark can be awarded if three of the numbers are 
+in the correct position based on either of the correct answers above.  
+A 
+B 
+C 
+D 
+E 
+F 
+2 
+6 
+3 
+5 
+1 
+4 
+It is important to note that the above example only scores two marks (i.e. it cannot be given 
+full credit because the first half matches the first correct answer and the second half 
+matches the second correct answer). This is because structures do not form a sequence of 
+continuous rotation around the central bond.  
+ 
+ 
+ 
+
+7 
+ 
+(c) 
+(i) 
+ 
+G1  ⇋  AP 
+AP  ⇋  G2 
+G2  ⇋  G1 
+ΔG
+⦵ 
+−3.63 kJ mol−1 
++3.63 kJ mol−1 
+0 kJ mol−1 
+K 
+4.33 
+0.231 
+1 
+One mark for +3.63 kJ mol−1 for AP  ⇋  G2 
+One mark for 0 kJ mol−1 for G2  ⇋  G1 
+These two values can be stated based on the realisation that G1 and G2 must have the 
+same energy and that AP  ⇋  G2  is in the reverse direction of  G1  ⇋  AP. 
+ΔG
+⦵ = – RT ln K   
+e.g. K  for  G1  ⇋  AP 
+𝐾= e−𝛥𝐺⦵/𝑅𝑇 
+K = e^−(−3630 J mol−1 / 8.314 J K−1 mol−1  298 K) = 4.33 
+One mark for all three K values correct. ECF can be awarded for K values from values 
+of ΔG
+⦵ only if all three values are correct based on ECF. 
+ 
+ 
+ 
+(ii) 
+[G1] = [G2] 
+[G1] = 0.231  [AP] 
+%(AP) = 1 / (1 + 0.231 + 0.231) 
+%(AP) = 68.4% 
+Correct answer scores both marks. One mark can be awarded for two independent 
+simultaneous equations which are correct based on answer to part (i). 
+ECF answer = 
+100%
+1+𝐾2+𝐾2𝐾3  where K2 is for AP  ⇋  G2 and K3 is for G2  ⇋  G1. 
+ 
+ 
+(d) 
+(7 = 11)  ,  (8 = 10)  ,  9  ,  12 
+ 
+(e) 
+ 
+W 
+X 
+Y 
+Z 
+None 
+7 
+ 
+ 
+ 
+ 
+✔ 
+8 
+ 
+✔ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+✔ 
+10 
+ 
+ 
+✔ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+✔ 
+12 
+✔ 
+ 
+ 
+✔ 
+ 
+All six rows correct three marks. Four or five rows correct two marks. Two or three rows 
+correct one mark. 
+
+ 
+ 
+ 
+Total out of 13 13 
+
+8 
+ 
+5. 
+This question is about Donald Trump and the coronavirus 
+Mark 
+(a) 
+5-chloropentan-2-one 
+ 
+(b) 
+B 
+ 
+One mark 
+C 
+ 
+One mark 
+ 
+ 
+(c) 
+Br2 / UV light 
+KMnO4 
+✔H2 / Ni catalyst  
+acidified K2Cr2O7 
+OsO4 
+ethylamine 
+O2 / UV light 
+H2SO4 catalyst 
+ 
+ 
+(d) 
+D 
+  One mark 
+E 
+  One mark 
+ 
+ 
+ 
+F 
+ 
+One mark. Reduction of NO2 group to NH2 can be credited as ECF for F if there consistent 
+position of Cl from E to F. 
+(e) 
+Anion V– 
+ 
+Any one of the above structures scores two marks. No partial credit. 
+
+ 
+Cation W+ 
+ 
+ 
+Cation X+ 
+ 
+Any one of the above structures scores two marks. No partial credit. No ECF. 
+
+ 
+
+9 
+ 
+ 
+Intermediate Y 
+ 
+One mark. No ECF. 
+Reagent Z 
+ 
+One mark. No ECF. 
+ 
+ 
+(f) 
+ 
+G 
+ 
+Either of the above structures scores two marks. No partial credit.  
+ 
+ 
+H 
+ 
+Either of the above structures scores two marks. No partial credit. The anion or the sodium 
+salt of the carboxylic acid also should be given full credit. No ECF. 
+ 
+ 
+I 
+ 
+Either of the above structures scores two marks. No partial credit. No ECF. 
+ 
+ 
+J 
+ 
+No ECF. 
+ 
+ 
+Total out of 21 21 
+ 
+ 
+ 
+
+10 
+ 
+6. 
+This question is about fluorides of xenon 
+Mark 
+(a) 
+Xe + 2F2 → XeF4 
+Must be fully correct for mark. Accept correct fractional coefficients for balancing. 
+ 
+(b) 
+ 
+ 
+(c) 
+ 
+One mark for correctly identifiyng both the cis and trans arrangements of the lone pairs and 
+one mark for correctly ticking the trans (square planar) arrangement. The students are not 
+expected to name the arrangements. The square planar arrangement is adopted to 
+maximise the separation between the two lone pairs. Wedges and dashes are not required if 
+shape is clear. 
+ 
+ 
+(d) 
+ 
+The first mark is for drawing at least one arrangement of the correct overall shape (i.e. a 
+trigonal bipyramid). The name of the shape is not required but the shape must be 
+unambiguous from the drawing. The second mark is for having the three correct 
+arrangements (and no additional wrong shapes or duplicates). The third mark is for ticking 
+the linear structure. The students are not expected to name the arrangements. The linear 
+arrangement is adopted to maximise the separation between the three lone pairs. Wedges 
+and dashes are not required if shape is clear. 
+ 
+ 
+ 
+(e) 
+𝑟= 𝑘[Xe]    or      𝑟= 𝑘𝑝Xe 
+The reaction is first-order with respect to xenon and zeroth-order with respect to fluorine. A 
+correct expression in terms of either concentration, [Xe], or pressure, pXe, gets one mark.  
+ 
+(f) 
+𝑘cat
+𝑘
+= 𝐴cate−𝐸𝑐𝑎𝑡/𝑅𝑇
+𝐴e−𝐸𝑎/𝑅𝑇
+ 
+𝒌𝐜𝐚𝐭
+𝒌
+= 𝑨𝐜𝐚𝐭
+𝑨𝐞𝚫𝑬/𝑹𝑻 
+ 
+
+11 
+ 
+(g) 
+𝑦= ln 𝑘𝑐𝑎𝑡
+𝑘
+= Δ𝐸
+𝑅𝑇+ ln 𝐴𝑐𝑎𝑡
+𝐴 
+(𝑦1) −(𝑦2) = Δ𝐸
+𝑅( 1
+𝑇
+1
+−1
+𝑇2
+) 
+One mark 
+Δ𝐸= 𝑅𝑦(𝑇
+1) −𝑦(𝑇2)
+𝑇
+1
+−1 −𝑇
+2
+−1  
+One mark  
+Δ𝐸= 8.314 J K-1mol-1(ln 23 −ln 13)
+(373)−1K-1 −(393)−1K-1
+ 
+= 3.480  104 J mol−1 = 34.8 kJ mol−1    
+Correct answer scores full marks. One mark for eliminating Acat/A, one mark for rearranging 
+for ΔE, one mark for correctly calculating the final answer.  
+ 
+ 
+ 
+(h) 
+Collect the temperature-independent constants into a single parameter, c, and then 
+rearrange for Ea: 
+𝑘= 𝑐 𝑇
+1
+2𝑒−𝐸𝑎/𝑅𝑇 
+One mark for eliminating T-independent constants 
+ln 𝑘𝑇−1
+2 = −𝐸𝑎
+𝑅𝑇+ ln 𝑐 
+𝐸𝑎= −𝑅ln 𝑘1𝑇
+1
+−1/2 −ln 𝑘2𝑇
+2
+−1/2
+𝑇
+1
+−1 −𝑇
+2
+−1
+  
+One mark for rearranging for Ea 
+Note any two temperatures can be used. Using the data at 50 °C and 170 °C. 
+𝐸𝑎= −8.314 J K-1mol-1 × ln 1.55 × 10−10(323)−1/2 −ln 2.07 × 10−6(443)−1/2 
+(323)−1K-1 −(443)−1K-1 
+ 
+Ea = 92.7 kJ mol−1              One mark for correctly calculating the final answer. 
+The range for the correct answer is strictly 92.4 kJ mol−1 ≤ Ea ≤ 93.0 kJ mol−1. This allows for 
+rounding errors, but ensures that students who have neglected the T½ term in their 
+calculation do not get credit, as this gives an Ea = 94.3 kJ mol−1. Correct answer scores full 
+marks by any other method but only if in range specified above. 
+ 
+ 
+ 
+(i) 
+The only factor that is affected is the reduced mass µ. Denoting the rate constant for the 
+hypothetical ‘light’ xenon with k’, 
+𝑘′
+𝑘= √
+1
+28 +
+1
+𝑚𝐹
+1
+𝑚𝑋𝑒+
+1
+𝑚𝐹
+= √
+1
+28 +
+1
+19.00
+1
+131.29 +
+1
+19.00
+= 1.211 
+k' = 1.211 × 1.70 × 10−8 dm3 mol−1 s−1 
+= 2.06 × 10−8 dm3 mol−1 s−1 
+Correct answer scores full marks. One mark for an expression that eliminates all the 
+unchanged parameters and one mark for correctly calculating the new rate constant. 
+ 
+ 
+ 
+Total out of 17 17 
+ 

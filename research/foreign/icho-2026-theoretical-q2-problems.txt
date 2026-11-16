@@ -1,0 +1,158 @@
+Theory
+Q2-1
+English (Official)
+T2. Kinetics of the Belousov-Zhabotinsky reaction
+6%
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+∑
+2
+11
+4
+2
+9
+4
+3
+35
+When the chemicals KBrO3, CH2(COOH)2 (malonic acid, – MA), Ce(SO4)2, and H2SO4 are mixed, the
+concentration, 𝐶, of Ce species and the colour of the solution oscillates between yellow (due to Ce4+)
+and colourless (due to Ce3+). A schematic picture is given below:
+2.1
+Write the overall balanced reaction equation of the Belousov-Zhabotinsky reac-
+tion (BZ reaction). Note: in this reaction, MA is oxidised to CO2, BrO−
+3 is reduced
+to Br−, and Ce(IV) is a catalyst.
+2.0 pt
+
+Theory
+Q2-2
+English (Official)
+The mechanism of the BZ reaction is shown below (BMA −CHBr(COOH)2):
+Process A
+⎧
+⎪
+⎪
+⎨
+⎪
+⎪
+⎩
+(1) HBrO2 + BrO−
+3 + H+ 𝑘1
+−
+−
+→2BrO⋅
+2 + H2O
+(2) BrO⋅
+2 + Ce3+ + H+ 𝑘2
+−
+−
+→HBrO2 + Ce4+
+(3) 2HBrO2
+𝑘3
+−
+−
+→BrO−
+3 + HBrO + H+
+𝑘1 = 1.0 × 104 M−2 s−1
+𝑘2 = 6.2 × 104 M−2 s−1
+𝑘3 = 4.0 × 107 M−1 s−1
+Process B
+⎧
+⎪
+⎪
+⎨
+⎪
+⎪
+⎩
+(4) HBrO2 + Br−+ H+ 𝑘4
+−
+−
+→2HBrO
+(5) BrO−
+3 + Br−+ 2H+ 𝑘5
+−
+−
+→HBrO + HBrO2
+(6) HBrO + MA
+𝑘6
+−
+−
+→BMA + H2O
+𝑘4 = 2.0 × 109 M−2 s−1
+𝑘5 = 2.1 M−3 s−1
+𝑘6 = 8.2 M−1 s−1
+ 
+Process C {(7) Ce4+ + BMA
+𝑘7
+−
+−
+→Ce3+ + Br−+ other products
+𝑘7 = 1.0 × 102 M−1 s−1
+In the BZ reaction, Process C occurs continuously, while Processes A and B alternate with each other.
+Assume that:
+- when Process A occurs the solution is yellow and Process B practically does not occur;
+- when Process B occurs the solution is colourless and Process A practically does not occur;
+- [BrO3−]0 = 0.06 M, [MA]0 = 0.1 M, [H+]0 = 0.8 M, [Ce4+]0 = 0.001 M;
+- the concentrations of the reactants (except Ce4+) and pH are maintained constant throughout the BZ
+reaction.
+2.2
+Using the steady-state approximation, calculate the stationary molar concen-
+trations of HBrO2 in Processes A and B, [HBrO2]A and [HBrO2]B.
+11.0 pt
+If you could not calculate [HBrO2]A and [HBrO2]B, you can use the values [HBrO2]A = 1 × 10−5 M and
+[HBrO2]B = 1 × 10−10 M for the following calculations.
+
+Theory
+Q2-3
+English (Official)
+During the BZ reaction, the concentrations of HBrO2 and Br−oscillate strictly in relation to each other,
+and this is sketched in the phase portrait of [HBrO2] vs [Br−]:
+Here [Br−]max is the maximum concentration and [Br−]critical is the critical concentration of Br−at which
+there is a switch over in processes from A to B or from B to A. To switch Process A to Process B, the
+reaction rate of the elementary step (4) must exceed that of the elementary step (1) and vice versa.
+2.3
+Calculate [Br−]critical.
+4.0 pt
+If you could not calculate [Br−]critical, use [Br−]critical = 1 × 10−7 M for the following calculations.
+2.4
+In which direction in the phase portrait of [HBrO2] vs [Br−] will the concentra-
+tions of [HBrO2] and [Br−] change over time? Tick the correct box.
+2.0 pt
+The system does not traverse the phase portrait of [HBrO2] vs [Br−] at a constant velocity, that is the
+concentration of [Br−] slowly decreases from [Br−]max = 7.0 × 10−4 M to [Br−]critical, and then almost
+immediately reaches [Br−]max again.
+2.5
+Calculate based on the data the period of oscillations, 𝜏, of the BZ reaction, in
+seconds.
+9.0 pt
+
+Theory
+Q2-4
+English (Official)
+2.6
+What will be the effect if the following actions (1-4) are performed on an open
+system where a BZ reaction is taking place? Tick only one box (a-e) for each
+case.
+1. Adding of small amount of Ce4+
+during Process A.
+2. Adding of a small amount of Ag+
+during Process B.
+3. Adding of a small amount of Br−
+during Process B.
+4. Continuous addition of Br−.
+[ a ] prolongs Process A
+[ b ] prolongs Process B
+[ c ] Process A switches to Process B
+[ d ] Process B switches to Process A
+[ e ] oscillations stop
+4.0 pt
+2.7
+Which graph qualitatively illustrates the rate of change of Gibbs energy (𝑑𝐺
+𝑑𝑡) of
+a closed system in which an oscillatory reaction occurs? Tick the correct box.
+3.0 pt

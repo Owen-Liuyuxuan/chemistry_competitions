@@ -1,0 +1,875 @@
+1 
+ 
+ 
+ 
+ 
+56th INTERNATIONAL  
+ 
+CHEMISTRY OLYMPIAD  
+ 
+2024 
+ 
+UK Round One 
+ 
+MARK SCHEME 
+ 
+ 
+ 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors.  
+Allow where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+ 
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme and where ECF is not allowed.  
+ 
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+ 
+Organic structures are shown in their skeletal form, but also accept displayed formulae if 
+the representation is unambiguous.  
+ 
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+ 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+Total 
+Marks 
+Available 
+8 
+15 
+20 
+24 
+15 
+82 
+
+2 
+ 
+1. 
+This question is about Bronze 
+Mark 
+(a) 
+[Ar]4d10 
+[Ar]4d105s1 
+ 
+[Kr]4d10 
+[Kr]4d105s1 
+✓ 
+ 
+(b) 
+1s22s22p63s23p63d104s1 
+1s22s22p63s23p63d10 
+ 
+1s22s22p63s23p63d9 
+✓ 
+1s22s22p63s23p64s23d9 
+(c) 
+𝑣𝑜𝑙𝑢𝑚𝑒=
+𝑚𝑎𝑠𝑠
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦 
+𝑣𝑜𝑙𝑢𝑚𝑒=
+4600 g
+10.5 g cm−3 
+𝑣𝑜𝑙𝑢𝑚𝑒= 438 cm3 = 0.438 dm3 = 4.38 × 10−4 m3 
+Answer acceptable in cm3, dm3, or m3.  
+ 
+(d) 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 4(𝑀(𝐶𝑢) + 𝑦(𝑀(𝑆𝑛) −𝑀(𝐶𝑢)))
+5.93 × 10−23 cm3 × 𝑁
+𝐴
+ 
+7.85 g cm−3 =
+4(63.55 + 𝑦(118.71 −63.55)) g mol−1
+5.93  10−23 cm3 × 6.022  1023 mol−1 
+7.85 g cm−3 = (254.2 + 220.64𝑦) g mol−1
+35.71046 cm3 mol−1
+ 
+280.32711 g cm−1 = (254.2 + 220.64𝑦) g cm−1 
+26.12711
+220.64
+= 𝑦 
+𝑦= 11.8% 
+Do not accept 0.118; answer must be given as a percentage as specified in the question. 
+ 
+(e) 
+𝑎2 + 𝑎2 = (4𝑟)2 
+𝑎2 = 8𝑟2 
+𝑎= 2√2𝑟 
+𝑎= 2√2 × 128 × 10−12 m 
+𝑎= 3.62 × 10−10 m 
+𝑎= 3.62 × 10−8 cm 
+No mark to be awarded if answer not given in cm as this was asked for in the question. 
+Note some students may also write answers in terms of surds (e.g., 256√2 × 10−10 cm). 
+This should also be marked incorrect. Whilst the use of surds in maths is preferred as 
+they are exact and it avoids rounding errors, the final value here is based on an 
+experimentally determined atomic radius which has an assoicated error, and so the 
+answer should be stated in decimal form. 
+ 
+ 
+
+3 
+ 
+(f) 
+𝑣𝑜𝑙𝑢𝑚𝑒= 𝑎3 
+𝑣𝑜𝑙𝑢𝑚𝑒= (3.62 × 10−8 cm)3 
+𝑣𝑜𝑙𝑢𝑚𝑒= 4.75 × 10−23 cm3 
+Allow ECF from part (e). Incorrect units should only be penalised once per question, so if 
+the answer was given in m in part (e) and m3 here (instead of cm3 as asked for), this 
+answer can be marked correct.  
+ 
+(g) 
+𝑎𝑡𝑜𝑚𝑠 𝑖𝑛 𝑢𝑛𝑖𝑡 𝑐𝑒𝑙𝑙= 8 × 1
+8 + 6 × 1
+2 = 4 
+𝑚𝑎𝑠𝑠 𝑜𝑓 𝐶𝑢 𝑎𝑡𝑜𝑚𝑠 𝑖𝑛 𝑢𝑛𝑖𝑡 𝑐𝑒𝑙𝑙= 4 × 63.55 g mol−1
+6.022  1023 mol−1 
+𝑚𝑎𝑠𝑠 𝑜𝑓 𝐶𝑢 𝑎𝑡𝑜𝑚𝑠 𝑖𝑛 𝑢𝑛𝑖𝑡 𝑐𝑒𝑙𝑙= 4.2212  10−22 g 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 4.2226  10−22 g
+4.75 × 10−23 cm3 
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦= 8.89 g cm−3 
+Correct answer scores both marks. One mark can be awarded if correct statement of 
+number of atoms in a unit cell. Alternatively one mark can be awarded if number of atoms 
+in a unit cell is incorrect but remainder of calculation is correct. Allow ECF from part (f). 
+Incorrect units should only be penalised once per question, so if the answer was given in 
+m in part (e) for example and g m−3 here (instead of g cm−3 as asked for), this answer can 
+be marked correct. 
+
+ 
+ 
+Total out of 8 8 
+ 
+ 
+
+4 
+ 
+2. 
+This question is about iodate salts 
+Mark 
+(a) 
++5 
+ 
+(b) 
+ 
+Acceptable dot and cross diagrams are shown. The overall charge of −1 must be 
+indicated for the mark. Equivalent Lewis structures with formal charges also acceptable. 
+Note all oxygen atoms have eight electrons in outer shell in all acceptable forms; it is only 
+the iodine atom that can expand the octet.  
+ 
+(c) 
+<109.5° 
+✓ 
+109.5° 
+>109.5° 
+ 
+ 
+(d) 
+𝑚𝑎𝑠𝑠 𝑜𝑓 𝐾𝐼𝑂3 𝑛𝑒𝑒𝑑𝑒𝑑= 𝑚𝐾𝐼 
+𝑀(𝐾𝐼)
+ × 𝑀(𝐾𝐼𝑂3) 
+=
+130 mg 
+(39.102 + 126.90) g mol−1 × (39.102 + 126.90 + (3 × 16.00))  g mol−1 
+= 168 mg = 0.168 g 
+ 
+(e) 
+(i) 
+IO3− + 5I− + 6H+→ 3I2 + 3H2O 
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(ii) 
+redox 
+✓ 
+electrophilic 
+substitution 
+elimination 
+disproportionation 
+polymerisation  
+(f) 
+2S2O32− + I2 → S4O62− + 2I− 
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(g) 
+𝑎𝑚𝑜𝑢𝑛𝑡 𝑜𝑓  𝐼𝑂3
+− 𝑖𝑛 𝑡ℎ𝑒 𝑎𝑙𝑖𝑞𝑢𝑜𝑡= 𝑚𝑚𝑖𝑛𝑒𝑟𝑎𝑙 
+𝑀(𝑚𝑖𝑛𝑒𝑟𝑎𝑙)
+ × 𝑉
+𝑠𝑎𝑚𝑝𝑙𝑒
+𝑉
+𝑡𝑜𝑡𝑎𝑙
+ 
+𝑎𝑚𝑜𝑢𝑛𝑡 𝑜𝑓  𝐼𝑂3
+− 𝑖𝑛 𝑡ℎ𝑒 𝑎𝑙𝑖𝑞𝑢𝑜𝑡=
+1.000 g 
+255.46 g mol−1  × 10.00 cm3
+100.0 cm3 = 3.9145 × 10−4 mol 
+𝑎𝑚𝑜𝑢𝑛𝑡 𝑜𝑓 𝐼2 𝑓𝑜𝑟𝑚𝑒𝑑= 3.9145 × 10−4 mol ×  3 =  1.1744 × 10−3 mol  
+𝑎𝑚𝑜𝑢𝑛𝑡 𝑜𝑓 𝑡ℎ𝑖𝑜𝑠𝑢𝑙𝑓𝑎𝑡𝑒 𝑡ℎ𝑎𝑡 𝑟𝑒𝑎𝑐𝑡𝑠= 1.1744 × 10−3 mol ×  2 = 2.3487 × 10−3 mol 
+𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑡ℎ𝑖𝑜𝑠𝑢𝑙𝑓𝑎𝑡𝑒 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛= 2.3487 × 10−3 mol 
+0.1000 mol dm−3 = 0.02349 dm3 =  23.49 cm3  
+ 
+ 
+ 
+
+ 
+
+5 
+ 
+Final answer scores both marks. Award one mark if the amount of I2 formed is correct, or 
+if amount of I2 formed is incorrect but rest of calculation is done correctly using this 
+incorrect amount. Allow ECF if working is correct here, but incorrect stoichiometric ratios 
+are used that are consistent with equations written in parts (e)(i) and (f). Allow reasonable 
+rounding in answers. 
+(h) 
+Volume of thiosulfate solution that is needed to react with iodine formed by reaction of the 
+metal ion with iodide: 
+𝑉
+𝑒𝑥𝑐𝑒𝑠𝑠= 27.40 cm3 −23.49 cm3 = 3.91 cm3 
+Therefore, the amount of iodine formed by the reaction of the metal ion with iodide: 
+3.91 × 10−3 dm3 ×  0.1000 mol dm−3 × 1
+2 =  1.955 × 10−4 mol  
+The amount of metal ion in the sample is the same as the amount of iodate ions in the 
+sample calculated in part (g), therefore: 
+𝑛𝐼2
+𝑛𝑀𝑛+ = 1.955 × 10−4 mol
+3.9145 × 10−4 mol =  0.49943 = 0.5 
+Therefore 0.5 mol of iodine are produced by the reaction of 1 mol of metal ion with 
+excess iodide ions.  
+Final answer scores both marks. One mark can be awarded for correct calculation of 
+amount of iodine formed. If they use the volume value given (15.67 cm3), then the final 
+answer is 1.5 mol of iodine per mol of metal ion. Allow ECF from part (g). 
+
+ 
+(i) 
++(n+3) 
++(n+2) 
++(n+1) 
++(n) 
++(n−1) 
+✓ 
++(n−2) 
++(n−3) 
+ 
+As 0.5 mol of I2 are produced by the reaction of 1 mol of Mn+, the oxidation state of the 
+metal must have decreased by 1. If they used the incorrect volume value for part (g) 
+given as 15.67 cm3, then the correct answer here is +(n−3). 
+(j) 
+Two correct ions are necessary to get the mark; one correct ion only scores no mark. If 
+three or more ions given that include two correct answers can award mark.  
+Expected answers (two of): HCO3−, CO32−, HSO3−, SO32−, NO2−. 
+Ions such as H− can be credited as hydrides do give a gas upon reaction with acid, but it 
+is worth discussing with students that these react with water, and no naturally occurring 
+minerals contain the hydride ion.  
+Ions such as I− or S2− which could be oxidised, with concomitant reduction of HNO3 to 
+give NO2 gas can be credited. It is worth noting that these reactions are most commonly 
+demonstrated with concentrated nitric acid, and this result may not be seen with the 
+2 mol dm−3 HNO3 in this question. 
+Ions such as NH2−, F−, CN− should not be credited. Although the protonated forms of 
+these ions are gaseous, these gases are also highly water soluble, and it is likely no gas 
+evolution would be observed.  
+ 
+ 
+ 
+ 
+
+6 
+ 
+(k) 
+Mn+ 
+Sc3+ 
+Fe2+ 
+Fe3+ 
+Cu+ 
+Cu2+ 
+✓ 
+Mg2+ 
+Ga2+ 
+Zn2+  
+Zm− 
+F− 
+Cl− 
+Br− 
+H− 
+O2− 
+OH− 
+✓ 
+PO43− 
+SO32−  
+One mark for each correct identification. No marks for that ion if more than one box is 
+ticked in a row.  
+As charge on iodate = −1, we know than (n+ + m−) = +1. 
+Remaining molar mass of mineral = 255.46 g mol−1 − 174.90 g mol−1 = 80.56 g mol−1. 
+After this, students should look for a suitable molar mass combination. You may wish to 
+point out to students that the presence of Cu2+ gives a characteristic colour to the 
+mineral, however this knowledge is not needed to solve the problem.  
+ 
+ 
+Total out of 15 15 
+ 
+ 
+
+7 
+ 
+3. 
+This question is about fuel-producing bacteria. 
+Mark 
+(a) 
+C3H6 
+Allow if drawn out as a structural formula.  
+ 
+(b) 
+(i) 
+2C3H6 + 9O2 → 6CO2 + 6H2O  
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(ii) 
+(3 × −393.5 kJ mol−1) + (3 × −285.8 kJ mol−1) −𝑦= −2091 kJ mol−1 
+𝑦= (3 × −393.5 kJ mol−1) + (3 × −285.8 kJ mol−1) + 2091 kJ mol−1 
+𝑦= 53.1 kJ mol−1 
+Do not award mark if value quoted as negative.  
+ 
+(iii) 
+−2091 kJ mol−1
+3
+= −697.0 kJ mol−1 
+Do not award mark if value quoted as positive. 
+ 
+(iv) 
+−3951 kJ mol−1
+6
+= −658.5 kJ mol−1 
+Do not award mark if value quoted as positive unless already penalised for 
+incorrect sign in part (iii). 
+ 
+(c) 
+       or       
+ 
+A delocalised structure can be accepted.  
+ 
+(d) 
+ 
+ 
+The enolate intermediate acts a reducing agent; the iodomethane acts an oxidising agent. 
+ 
+The enolate intermediate acts an oxidising agent; the iodomethane acts a reducing agent. 
+ 
+The enolate intermediate acts an electrophile; the iodomethane acts a nucleophile. 
+✓ The enolate intermediate acts a nucleophile; the iodomethane acts an electrophile. 
+ 
+The enolate intermediate acts an acid; the iodomethane acts a base. 
+ 
+The enolate intermediate acts a base; the iodomethane acts an acid. 
+Fourth box must be ticked for mark. If the first box has been ticked, then do not penalise 
+for this. An argument can be made for the first statement depending on which 
+electronegativity value of iodine is used, if students analyse the reaction as per the 
+method in Q5. No marks if any other boxes ticked.  
+ 
+(e) 
+ 
+ 
+ 
+
+8 
+ 
+(f) 
+(i) 
+B 
+ 
+C 
+ 
+
+ 
+ 
+ 
+D 
+ 
+Both cis and trans or undefined 
+stereochemistry acceptable for alkene.  
+ 
+E 
+ 
+Allow if drawn as enamine tautomer 
+  
+Can award 1 mark for hydrazone 
+
+
+
+ 
+One mark each for B and C. Two marks each for D and E. One mark can be 
+awarded if the hydrazone is drawn for E. ECF can be awarded if a trivial error has 
+been propagated but the transformation is correct and the structure is consistent 
+with the formula given, for example an aldol reaction from C to D. 
+(ii) 
+ 
+step 1 
+step 2 
+step 3 
+step 4 
+step 5 
+ 
+✓ 
+✓ 
+ 
+ 
+Both steps must be ticked and no other steps may be ticked in order to receive the 
+mark. 
+ 
+(g) 
+oxidation 
+reduction 
+condensation 
+hydrolysis 
+isomerisation 
+elimination 
+ 
+✓ 
+ 
+ 
+ 
+ 
+ 
+ 
+(h) 
+X 
+CO2 
+ 
+One mark 
+Y 
+ 
+One mark 
+ 
+ 
+(i) 
+first enzyme 
+required for 
+process 
+second enzyme 
+required for 
+process 
+third enzyme 
+required for 
+process 
+last enzyme 
+required for 
+process 
+3 
+2 
+4 
+1 
+No partial marks. All four must be correct for the two marks.  
+
+ 
+ 
+Total out of 20 20 
+ 
+ 
+
+9 
+ 
+4. 
+This question is about the MRI contrast agent gadopiclenol 
+Mark 
+(a) 
+A 
+ 
+B 
+ 
+ 
+ 
+
+ 
+C 
+ 
+D 
+ 
+One mark each. ECF can be awarded for B if a trivial error has been propagated but the 
+transformation is correct (for example an extra CH2 drawn in both). ECF can be awarded 
+for D if a trivial error has been propagated but the transformation is correct and the 
+structure is consistent with the formula given. Students may be initially surprised that 
+the carboxylic acids can be reduced by NaBH4 to give compound C, as it is typically 
+taught that a stronger reducing agent such as LiAlH4 is needed for this. NaBH4 is 
+sufficient in this case as the carboxyxlic acids are activated towards reduction by the 
+electron withdrawing pyridine they are attached to.   
+(b) 
+ 
+All three correct with no incorrect centres circled – two marks. One mark can be awarded 
+for two correct centres circled only with no incorrect centres circled, or if three correct 
+centres circled and one extra incorrect centre circled.    
+ 
+ 
+ 
+ 
+
+10 
+ 
+(c) 
+E 
+ 
+
+
+
+
+ 
+F 
+ 
+G 
+ 
+Two marks for E, two marks for F, one mark for G. ECF can be awarded for F if a trivial 
+error has been propagated but the transformation is correct (for example a consistent 
+error in the tosyl protecting group drawn in both). ECF cannot be given for G (from either 
+F or B) as extra information is provided allowing students to work both forwards and 
+backwards. Partial credit can be given for E and F if one trivial error has been made 
+(such as extra CH2 group or missing CH3 group). Correct abbreviations such as Ts, Et, 
+CO2Et are allowed. 
+ 
+
+11 
+ 
+(d) 
+Formula of gadopiclenol: C35H54GdN7O15 
+Molar mass of gadopiclenol 
+= (35  12.01 + 54  1.008 + 157.25 + 7  14.01 + 15  16.00) g mol−1 
+= 970.102 g mol−1 
+concentration of dose solution = 485.05 g dm−3
+970.102 g mol−1 
+= 0.5000 mol dm−3 
+amount of gadolinium administered =  0.5000 mol dm−3  0.00600 dm3 
+= 0.003000 mol  
+𝑚𝑎𝑠𝑠 𝑜𝑓 𝑔𝑎𝑑𝑜𝑙𝑖𝑛𝑖𝑢𝑚=  0.003000 mol  157.25 g mol−1  
+= 0.472 g = 472 mg 
+Accept answer in either mg or g. 
+ 
+(e) 
+radiowave 
+✓ 
+microwave 
+IR 
+visible 
+UV 
+X-ray 
+gamma ray 
+ 
+No calculation is required here as students should know that NMR operates with 
+radiowave frequencies and that this is studying the same phenomenon.  
+(f) 
+𝑀= 𝑀0 (1 −𝑒−𝑡
+𝜏) 
+𝑀= 𝑀0 (1 −𝑒−3𝜏
+𝜏) 
+𝑀= 𝑀0(1 −𝑒−3) 
+𝑀= 𝑀0(0.9502) 
+𝑀= 95.0% 𝑜𝑓 𝑀0 
+Answer must be quoted as a percentage to be awarded mark.  
+ 
+(g) 
+[gadopiclenol] = 0.0500 mol dm−3 
+[water] = 1000 g dm−3
+18.016 g mol−3 
+[water] = 55.506 mol dm−3 
+The molar fraction can be written in terms of concentration.  
+𝜒=
+[gadopiclenol]
+[water]
+ 
+𝜒= 0.0500 mol dm−3
+55.506 mol dm−3 
+𝜒= 9.01 × 10−4 
+Correct answer scores both marks. One mark can be given if the molar concentration of 
+water has been calculated correctly. Alternatively one mark can be awarded if student is 
+out by a power(s) of 10 only, for example writes 0.9. 
+
+ 
+ 
+ 
+ 
+
+12 
+ 
+(h) 
+𝜏𝑒= 𝑘
+𝐵2 
+𝜏= 𝜏𝑐+ 𝑘
+𝐵2 
+𝜏1 = 𝜏𝑐+ 𝑘
+𝐵1
+2 
+𝐵1
+2(𝜏1 −𝜏𝑐) = 𝑘 
+𝜏2 = 𝜏𝑐+ 𝑘
+𝐵2
+2 
+𝐵2
+2(𝜏2 −𝜏𝑐) = 𝑘 
+𝐵1
+2(𝜏1 −𝜏𝑐) = 𝐵2
+2(𝜏2 −𝜏𝑐) 
+𝐵1
+2𝜏1 −𝐵1
+2𝜏𝑐= 𝐵2
+2𝜏2 −𝐵2
+2𝜏𝑐 
+𝐵2
+2𝜏𝑐−𝐵1
+2𝜏𝑐= 𝐵2
+2𝜏2 −𝐵1
+2𝜏1 
+𝜏𝑐(𝐵2
+2 −𝐵1
+2) = 𝐵2
+2𝜏2 −𝐵1
+2𝜏1 
+𝜏𝑐= 𝐵2
+2𝜏2 −𝐵1
+2𝜏1
+(𝐵2
+2 −𝐵1
+2)  
+The subscripts 1 and 2 are interchangeable in this equation. So this other expression is 
+also correct. 
+𝜏𝑐= 𝐵1
+2𝜏1 −𝐵2
+2𝜏2
+(𝐵1
+2 −𝐵2
+2)  
+ 
+(i) 
+𝑟
+c = 𝐴𝑇𝑒−𝛥𝐻
+𝑅𝑇 
+1
+𝑟
+c
+= 1
+𝐴𝑇𝑒
+𝛥𝐻
+𝑅𝑇 
+𝜏𝑐= 1
+𝑞𝜒× 1
+𝑟
+𝑐
+ 
+𝜏𝑐= 1
+𝑞𝜒× 1
+𝐴𝑇𝑒
+𝛥𝐻
+𝑅𝑇 
+𝑇𝜏𝑐=
+1
+𝑞𝜒𝐴𝑒
+𝛥𝐻
+𝑅𝑇 
+𝑙𝑛(𝑇𝜏𝑐) = 𝛥𝐻
+𝑅× 1
+𝑇+ 𝑙𝑛( 1
+𝑞𝜒𝐴) 
+𝑎= 𝛥𝐻
+𝑅 
+𝑏= 𝑙𝑛( 1
+𝑞𝜒𝐴) = −𝑙𝑛(𝑞𝜒𝐴) 
+One mark for a and one mark for b. Marks can be awarded for the appropriate equation 
+for 𝑙𝑛(𝑇𝜏𝑐); a and b do not have to be stated explicitly.  
+
+ 
+ 
+ 
+ 
+
+13 
+ 
+(j) 
+𝑦1 =
+𝑎
+𝑇
+1 + 𝑏 and 𝑦2 =
+𝑎
+𝑇
+2 + 𝑏 
+𝑦1𝑇
+1 −𝑦2𝑇2 = 𝑏(𝑇
+1 −𝑇2) 
+𝑏= 𝑦1𝑇
+1 −𝑦2𝑇2
+(𝑇
+1 −𝑇2)  
+𝑏= 𝑙𝑛(𝑇
+1𝜏𝑐1)𝑇
+1 −𝑙𝑛(𝑇2𝜏𝑐2)𝑇2
+(𝑇
+1 −𝑇2)
+ 
+𝑏= 𝑙𝑛(275 × 4.775 × 10−4)275 K −𝑙𝑛(280 × 3.326 × 10−4)280 K
+(275 −280) K
+ 
+𝑏= −558.298 + 664.659
+−5
+ 
+𝑏= −21.2722 
+𝑏= −𝑙𝑛(𝑞𝜒𝐴) 
+𝐴𝑞𝜒= 𝑒−𝑏 
+𝐴𝑞𝜒= 𝑒−𝑏 
+𝐴𝑞𝜒= 1.73 × 109 K−1s−1 
+Correct answer scores all three marks. First mark can be awarded for correct expression 
+that has eliminated a. Second mark can be awarded for correct value of b. Third mark is 
+for final answer.  
+
+
+ 
+(k) 
+𝐴𝑞𝜒
+𝐴
+𝑞𝜒
+= (𝑞𝜒)2 
+(𝑞𝜒)2 = 1.73 ×  109 K−1 s−1
+6.618 ×  1014 K−1 s−1 
+(𝑞𝜒)2 = 2.6111 ×  10−6 
+𝑞2 = 2.6111 ×  10−6
+𝜒2
+ 
+𝑞= √2.6111 ×  10−6
+(9.01 × 10−4)2 
+𝑞= 1.79 
+If using given values: 
+(𝑞𝜒)2 = 2.00 ×  109 K−1 s−1
+6.618 ×  1014 K−1 s−1 
+(𝑞𝜒)2 = 3.0221 ×  10−6 
+𝑞= √3.0221 ×  10−6
+(1.00 × 10−3)2 
+𝑞= 1.73 
+Final answer scores both marks. One mark can be awarded for correct numerical value 
+of (𝑞𝜒)2. 
+
+ 
+ 
+Total out of 24 24 
+ 
+ 
+
+14 
+ 
+5. 
+This question is about sulfur-containing molecules in the atmosphere 
+Mark 
+(a) 
+B 
+0 
+C 
+−2 
+E 
++2 
+ 
+ 
+ 
+One mark each. 
+(b) 
+(i) 
+C2H6S + ½O2 → C2H6OS  
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(ii) 
+ 
+Either of the two resonance structures is acceptable for full marks.  
+ 
+(c) 
+SO3 
+ 
+(d) 
+G is SO3. One mole of SO3 forms one mole of H2SO4, which forms two moles of H+ ions.  
+𝑛𝑆𝑂3 = 𝑝𝑉
+𝑅𝑇= 100000 Pa × 13.4 × 10−6 m3
+8.314 J K−1 mol−1 × 323 K = 4.99 × 10−4 mol 
+𝑛𝐻+ = 9.98 × 10−4 mol 
+As sample is dissolved in 1.000 dm3 of water 
+[𝐻+] = 9.98 × 10−4 mol dm−3 
+𝑝𝐻= −log10 [𝐻+] 
+𝑝𝐻= −log10 [9.98 × 10−4] 
+𝑝𝐻= 3.003 ≈3 
+Only numerical answer needed for mark. No reasoning is required. Mark can be awarded if 
+they have not rounded to the nearest whole number. If the student has forgotten the factor 
+of two for the diprotic acid do not award mark.   
+ 
+ 
+ 
+ 
+
+15 
+ 
+(e) 
+ 
+Forming J• 
+Forming N• 
+Loss of a H+  
+ 
+ 
+Loss of a H• 
+ 
+✓ 
+Loss of a H− 
+ 
+ 
+Reduction of sulfur 
+ 
+ 
+Oxidation of sulfur  
+✓ 
+ 
+Atomisation 
+ 
+ 
+Radical substitution 
+ 
+ 
+Radical addition 
+✓ 
+ 
+One mark for each correct tick. Minus one mark for any incorrect tick. Total for this part 
+cannot be less than zero. E.g., Three correct ticks and one incorrect tick scores total of two.  
+ 
+ 
+ 
+(f) 
+HO• 
+ 
+(g) 
+[C] is large and effectively constant over the experiments. 
+Rate of loss of L• in Experiment 1 decays with a half-life of 10 s, so reaction is first order in 
+L•. 
+An effective first-order rate law (with constant [C]) is rate = keff [L•], where keff is a function of 
+[C] 
+In Experiment 2, [L•] decreases more slowly, with a half-life of 20 s, so keff is halved. Since 
+[C] is also half of that in Experiment 1, we conclude that keff is proportional to [C], i.e., 
+keff = k[C], making: 
+rate = k[C]1[L•]1 
+So a =1 and b = 1 
+No reasoning is needed. One mark for correct value of a and one mark for correct value of b. 
+ 
+ 
+(h) 
+𝑘2𝑒𝑓𝑓= 𝑘3[𝑋] = 5.7  10−12 cm3 molecules−1 s−1 
+At 298 K, 100 kPa, the volume of 1 mol of an ideal gas is given by: 
+𝑉= 𝑛𝑅𝑇
+𝑃
+= 1 × 8.314 J K−1 mol−1 × 298 K
+100000 Pa
+= 0.02478 m3 =  24.78 dm3 
+[𝑋] = 1 𝑚𝑜𝑙  6.02  1023 (molecules) mol−1
+24.78 dm3
+= 2.4293  1022 molecules dm−3  
+[𝑋] = 2.4293  1019 molecules cm−3 
+𝑘3 = 5.7  10−12 cm3 molecules−1 s−1
+2.4293  1019 molecules cm−3  
+𝑘3 = 2.3  10−31 cm6 molecules−2 𝑠−1 
+One mark for correct numerical value in magnitude. One mark for correct units.  
+ 
+ 
+ 
+Total out of 15 15 
+ 

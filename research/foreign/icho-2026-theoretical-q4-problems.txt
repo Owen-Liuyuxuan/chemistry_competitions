@@ -1,0 +1,127 @@
+Theory
+Q4-1
+English (Official)
+T4. The nuclear past of Uzbekistan
+6%
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+∑
+2
+3
+3
+2
+2
+2
+2
+2
+4
+22
+Natural uranium consists primarily of two isotopes, 235U and 238U 
+ 
+. 235U is responsible for sustaining
+nuclear fission reactions.
+4.1
+Calculate the atomic abundance of 235U in natural uranium, assuming it con-
+sists only of isotopes 235U (235.04 a.u.) and 238U (238.05 a.u.).
+2.0 pt
+The main reaction occurring in nuclear power plants is the reaction where 235U absorbs a neutron and
+undergoes fission, releasing energy and producing three additional neutrons, thus sustaining a chain
+reaction.
+235
+92 U +1
+0 n →… + 31
+0n
+Neutrons that induce the chain reaction are produced by several ways:
+a) Reaction of 11B with 𝛼-particles inside the reactor core
+b) Interaction of 𝛾rays with 2D nuclei present in the reactor coolant water
+c) Reaction of 9Be with 𝛼-particles produced in an externally installed neutron source.
+4.2
+Write the nuclear reaction equations for (a), (b), and (c).
+3.0 pt
+
+Theory
+Q4-2
+English (Official)
+The graph above displays the percentage yield, P(A), of fission products by mass number, A, resulting
+from 235U fission.
+4.3
+Write the main nuclear fission equation for splitting of 235U upon neutron ab-
+sorption. The pair of elements formed in this reaction are in the same group of
+Periodic Table.
+3.0 pt
+4.4
+Calculate the energy released in this reaction (ΔE, MeV), if the binding energy
+𝐵𝐸(235U) = 7.59 MeV/nucleon and average binding energy for fission products
+𝐵𝐸(fis.) = 8.45 MeV/nucleon. Neglect the binding energy of free neutrons.
+2.0 pt
+Fission neutrons are produced with an average energy of 2 MeV and slow down through many scatterings
+with nuclei. After several collisions, their speed decreases until their average kinetic energy matches that
+of the surrounding atoms or molecules.
+The logarithmic energy decrement, 𝜉, shows the average decrease per collision in the logarithm of
+the neutron energy:
+𝜉= ln (
+𝐸𝑖𝑛𝑖𝑡𝑖𝑎𝑙
+𝐸𝑓𝑖𝑛𝑎𝑙)
+𝐸𝑖𝑛𝑖𝑡𝑖𝑎𝑙and 𝐸𝑓𝑖𝑛𝑎𝑙are the initial and final neutron energies per collision.
+
+Theory
+Q4-3
+English (Official)
+𝜉is a constant for each type of material and does not depend on the initial neutron energy.
+4.5
+Determine the average number of collisions required, n𝑐, to slow a neutron
+from 2 MeV to 0.012 eV, using water as the moderator. 𝜉(water)=0.948
+2.0 pt
+In 1963, the Urtabulak gas field suffered an uncontrolled natural gas well blowout, releasing enormous
+volumes of burning methane.
+4.6
+Calculate Δ𝑟𝐻∘
+298 (kJ mol−1) for one mole of methane combustion reaction at
+298 K. Assume all species are gaseous. Use the thermodynamic data below
+2.0 pt
+Δ𝑓𝐻∘
+298(CH4)
+-74.8 kJ mol−1
+Δ𝑓𝐻∘
+298(H2O, gas)
+-241.8 kJ mol−1
+Δ𝑓𝐻∘
+298(CO2)
+-393.5 kJ mol−1
+𝐶𝑃(CH4)
+35 J mol−1 K−1
+𝐶𝑃(H2O, gas)
+34 J mol−1 K−1
+𝐶𝑃(O2)
+29 J mol−1 K−1
+𝐶𝑃(CO2)
+37 J mol−1 K−1
+If you did not get an answer for 4.6, use Δ𝑟𝐻∘
+298 = −750 𝑘𝐽𝑚𝑜𝑙−1 for further calculations.
+4.7
+Calculate Δ𝑟𝐻2000 (kJ mol−1) per mole of methane combustion reaction at 2000
+K. Assume all species are gaseous.
+2.0 pt
+If you did not get an answer for 4.7, use Δ𝑟𝐻2000 = −700 𝑘𝐽𝑚𝑜𝑙−1 for further calculations.
+Assume that methane is flowing out the well at 101.325 kPa and 298 K with volumetric flow Q = 2.2 × 105
+m3 per day before it catches fire.
+4.8
+Calculate the total energy released per day, 𝐸, (in J day−1) by complete isother-
+mic combustion of methane at T = 2000 K
+2.0 pt
+The Urtabulak gas leak was ended by detonating a 30-kiloton in TNT equivalent underground nuclear
+explosion that collapsed the reservoir and sealed the leak. 1 ton of TNT equivalent is 4.184 GJ of energy.
+4.9
+Using the value from 4.4, calculate the total number of fissions, TN, during
+the nuclear explosion. Calculate the mass, m, of enriched uranium used in the
+explosion (in kg), assuming it contained 90% by mass of the 235U isotope, and
+33% of the 235U underwent fission.
+If you did not get an answer for 4.4, use Δ𝐸= 200 MeV.
+4.0 pt

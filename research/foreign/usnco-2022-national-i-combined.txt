@@ -1,0 +1,1688 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+ 
+2022 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART I 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Jesse Bernstein, Miami Country Day School, Miami, FL (retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+Joshua de Groot, College of Southern Idaho, Twin Falls, ID 
+James Dohm, ExxonMobil, Houston, TX 
+Xu Duan, Holton-Arms School, Bethesda, MD 
+ 
+Valerie Ferguson, Moore HS, Moore, OK (retired) 
+Kimberly Gardner, United States Air Force Academy, CO 
+Paul Groves, South Pasadena HS, South Pasadena, CA (retired) 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Sarah Leite, Hopkins School, New Haven CT 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los Angeles, CA 
+Jane Nagurney, Scranton Preparatory School, Scranton, PA (retired) 
+DIRECTIONS TO THE EXAMINER 
+The USNCO Subcommittee is conducting a survey in an effort to determine the impact of the Olympiad program on students. At the 
+end of the exam there are four questions, which should be answered on the same Scantron sheet students use for the exam. These 
+questions may be administered after the 90 minutes allotted for the exam, each student should be encouraged to answer these questions.  
+Part I of this test is designed to be taken with a Scantron answer sheet on which the student records his or her responses. Only this 
+Scantron sheet is graded for a score on Part I. Testing materials, scratch paper, and the Scantron sheet should be made available to the 
+student only during the examination period. All testing materials including scratch paper should be turned in and kept secure until May 
+14, 2022, after which tests can be returned to students and their teachers for further study. 
+Allow time for students to read the directions, ask questions, and fill in the requested information on the Scantron sheet. The answer 
+sheet must be completed using a pencil, not pen. When the student has completed Part I, or after one hour and thirty minutes has 
+elapsed, the student must turn in the Scantron sheet, Part I of the testing materials, and all scratch paper. 
+There are three parts to the National Chemistry Olympiad Examination. You have the option of administering the three parts in any 
+order, and you are free to schedule rest breaks between parts. 
+ 
+Part I 
+ 
+60 questions 
+ 
+single answer, multiple-choice 
+ 
+1 hour, 30 minutes 
+ 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+ 
+1 hour, 45 minutes 
+ 
+Part III  
+2 lab problems  
+laboratory practical 
+ 
+ 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page 2 for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, watch, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+DIRECTIONS TO THE EXAMINEE – DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+Answers to questions in Part I must be entered on a Scantron answer sheet to be scored. Be sure to write your name and assigned ID 
+number on the answer sheet. Make a record of this ID number because you will use the same number on Parts II and III. Each 
+item in Part I consists of a question or an incomplete statement that is followed by four possible choices. Select the single choice that 
+best answers the question or completes the statement. Then use a pencil to blacken the space on your answer sheet next to the same letter 
+as your choice. You may write on the examination, but the test booklet will not be used for grading. Scores are based on the number of 
+correct responses. When you complete Part I (or at the end of one hour and 30 minutes), you must turn in all testing materials, scratch 
+paper, and your Scantron answer sheet.  
+Do not forget to turn in your U.S. citizenship/Green Card Holder statement before leaving the testing site today. 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                   y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022 × 1023 mol–1 
+h = 6.626 × 10–34 J s 
+c = 2.998 × 108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−∆
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+Page 3 
+ 
+DIRECTIONS 
+ 
+When you have selected your answer to each question, blacken the corresponding space on the answer sheet using a soft, #2 
+pencil. Make a heavy, full mark, but no stray marks. If you decide to change an answer, erase the unwanted mark very carefully.  
+ 
+There is only one correct answer to each question. Any questions for which more than one response has been blackened will not 
+be counted.  
+ 
+Your score is based solely on the number of questions you answer correctly. It is to your advantage to answer every question. 
+ 
+1. 0.125 g of strontium metal reacts with excess liquid 
+ammonia to form strontium amide and hydrogen gas.  
+How many moles of hydrogen are produced? 
+(A) 7.13 × 10-4 mol 
+(B) 1.43 × 10-3 mol 
+(C) 2.14 × 10-4 mol 
+(D) 2.85 × 10-3 mol 
+ 
+2. A diamagnetic compound is 71.4% arsenic by mass.  
+What is its molecular formula? 
+(A) CH3AsN 
+(B) C2H6As 
+(C) C2H6As2N2 
+(D) C4H12As2 
+ 
+3. Weighed samples of iron are added in increments to a 
+given amount of liquid bromine and allowed to react 
+completely.  The reaction produces a single product that 
+is isolated and weighed.  Which statement best describes 
+the experiments summarized by the graph? 
+ 
+(A) When 1.00 g of Fe is added, Fe is the limiting 
+reactant. 
+(B) When 2.00 g of Fe is added, 10.6 g of FeBr2 is 
+formed. 
+(C) When 2.50 g of Fe is added, both reactants are used 
+completely. 
+(D) When 3.50 g of Fe is added, there is an excess of 
+Br2. 
+ 
+4. A copper ore consists of a mixture of Cu2S and CuS.  An 
+89.0 g sample of this ore is smelted to produce 67.5 g of 
+elemental copper.  What is the mass of CuS in the ore 
+sample? 
+(A) 13.3 g 
+(B) 26.6 g 
+(C) 37.5 g 
+(D) 64.1 g 
+ 
+5. The hypochlorite concentration in bleach can be 
+determined by treating it with excess iodide ion in acidic 
+solution, which causes the formation of triiodide ion 
+according to the following balanced reaction: 
+OCl–(aq) + 3 I–(aq) + 2 H3O+(aq) →  
+Cl–(aq) + I3–(aq) + 3 H2O(l) 
+The triiodide can then be titrated with sodium thiosulfate: 
+I3–(aq) + 2 S2O32-(aq) → 3 I–(aq) + S4O62-(aq) 
+A 75.0-mL sample of liquid bleach is treated with excess 
+KI and acid, and then titrated with 0.0235 M sodium 
+thiosulfate solution.  The endpoint is observed on the 
+addition of 21.23 mL of this solution.  What is the 
+hypochlorite concentration in the bleach? 
+(A) 4.99 × 10-4 M 
+(B) 1.66 × 10-3 M 
+(C) 3.33 × 10-3 M 
+(D) 6.65 × 10-3 M 
+ 
+6. Which aqueous solution has the highest normal boiling 
+point? 
+(A) 0.10 M Na3PO4 
+(B) 0.30 M Na2HPO4 
+(C) 0.50 M NaH2PO4 
+(D) 0.70 M H3PO4 
+ 
+7. Which element gives a red flame test? 
+(A) Aluminum 
+(B) Boron 
+(C) Sodium 
+(D) Strontium 
+ 
+8. Combining which solutions would produce a color 
+change? 
+(A) NaCl(aq) and Br2(aq) 
+(B) Na2CO3(aq) and HNO3(aq) 
+(C) K2C2O4(aq) and FeCl3(aq) 
+(D) CH3COOH(aq) and Co(NO3)2(aq) 
+ 
+9. Which metal resists oxidation in air because it forms a 
+protective oxide coating? 
+(A) Al 
+(B) Ca 
+(C) Fe 
+(D) Sr 
+ 
+ 
+
+ 
+Page 4  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+10. Which experiment would be most appropriate for 
+determining the number of components in a commercial 
+nail polish remover? 
+(A) Gas chromatography 
+(B) Paper chromatography 
+(C) Boiling point determination 
+(D) Combustion analysis 
+ 
+11. A solution containing a divalent metal ion forms a 
+precipitate when treated with hydrogen sulfide which 
+does not dissolve in 1 M HCl.  Which ion is present? 
+(A) Ca2+ 
+(B) Mn2+ 
+(C) Cd2+ 
+(D) Ba2+ 
+ 
+12. An unknown metal M reacts with aqueous sulfuric acid 
+to form hydrogen gas and the divalent metal ion M2+(aq).  
+A student collects the hydrogen over water and calculates 
+the molar mass of M based on the volume of hydrogen 
+collected.  Which error will result in a value of the 
+calculated molar mass that is higher than the true molar 
+mass? 
+(A) The concentration of sulfuric acid is 2.0 M rather 
+than 1.0 M as recommended by the procedure. 
+(B) Some of the metal sample has oxidized to the metal 
+oxide. 
+(C) The barometric pressure is assumed to be 760 torr 
+when in fact it is 740 torr. 
+(D) The vapor pressure of water is not included in the 
+calculation. 
+ 
+13. A 1.0-L container with 1.00 atm Ar gas is connected by a 
+stopcock to a 2.0-L container containing 0.5 atm Kr gas.  
+Which statement accurately describes the system after the 
+stopcock is opened and the system is allowed to reach 
+equilibrium?  The temperature is 25 °C throughout the 
+experiment. 
+(A) The total pressure is 1.00 atm. 
+(B) The number of moles of Ar in the 2.0-L container is 
+equal to the number of moles of Kr in the 1.0-L 
+container. 
+(C) The average speed of the Ar atoms is equal to the 
+average speed of the Kr atoms. 
+(D) The partial pressure of Ar is equal to the partial 
+pressure of Kr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14. The normal boiling point of CH2Br2 is 97 °C while the 
+normal boiling point of CHBr3 is 149 °C.  Differences in 
+which interactions are most responsible for this 
+difference in boiling points? 
+(A) London dispersion forces 
+(B) Dipole-dipole interactions 
+(C) Hydrogen bonding 
+(D) Carbon-bromine covalent bonding 
+ 
+15. The triple point of ethyne, C2H2, is 192.4 K and 1.2 atm.  
+What may be concluded from this information? 
+(A) Solid ethyne sublimes rather than melting at 1 atm 
+pressure. 
+(B) Solid ethyne is less dense than liquid ethyne. 
+(C) Solid ethyne is not thermodynamically stable at 
+193.0 K. 
+(D) A sample of ethyne at 192.4 K must have a pressure 
+of 1.2 atm. 
+ 
+16. The volume of a sample of gaseous SF6 would increase 
+by more than a factor of two under which of these 
+conditions? 
+I. 
+It is heated from 300.0 K to 600.0 K at a 
+pressure of 1.00 atm. 
+II. 
+The pressure is decreased from 2.00 atm to 1.00 
+atm at 300 K. 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+17. A pure sample of benzene (C6H6) melts sharply at 5.5 °C, 
+while a pure sample of hexafluorobenzene (C6F6) melts 
+sharply at 5.2 °C.  However, an equimolar mixture of 
+C6H6 and C6F6 melts sharply at 23.7 °C.  Which is the 
+best explanation for this observation? 
+(A) C6H6 and C6F6 are immiscible in the liquid phase. 
+(B) C6H6 and C6F6 form a crystal containing equal 
+amounts of the two substances. 
+(C) Fluorocarbons characteristically show negative 
+freezing point depression constants. 
+(D) The enthalpy of mixing of C6H6 and C6F6 is 
+negative. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+Page 5 
+18. A unit cell of a crystalline compound with the formula 
+ABC3 is shown below.  What is the arrangement of 
+nearest neighbors around the atoms of type C? 
+ 
+(A) Linear arrangement of B atoms 
+(B) Square planar arrangement of A atoms 
+(C) Cubic arrangement of A atoms 
+(D) Cubic arrangement of C atoms 
+ 
+19. When a helium-filled balloon is immersed in liquid 
+nitrogen, which statements accurately describe the 
+changes as the balloon deflates? 
+I. 
+The nitrogen does work on the balloon. 
+II. 
+The entropy of the nitrogen increases. 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+20. Solid KOH (M = 56.11, ∆H°soln = –57.6 kJ mol-1) is 
+slowly added to distilled water contained in a well-
+insulated vessel, initially at 25.0 °C.  What is the pH 
+when the temperature of the solution reaches 26.0 °C?  
+You may assume that the density of the solution remains 
+at 1.00 g mL-1 and its heat capacity remains at 4.184 J g-1 
+K-1 throughout the experiment. 
+(A) 9.1 
+(B) 9.9 
+(C) 12.1 
+(D) 12.9 
+ 
+21. What is ∆G°f (at 298 K) for ClF3(g)? 
+Substance 
+∆H°f, kJ mol-1 
+S°, J mol-1 K-1 
+F2(g) 
+0 
+202.8 
+Cl2(g) 
+0 
+223.1 
+ClF3(g) 
+–158.9 
+281.6 
+ 
+(A) –78.9 kJ mol-1 
+(B) –83.9 kJ mol-1 
+(C) –118.9 kJ mol-1 
+(D) –242.8 kJ mol-1 
+ 
+22. The triple point of bromine is 265.9 K and 0.058 bar, and 
+the standard entropy of vaporization of bromine is 89.0 J 
+mol-1 K-1.  What is the standard enthalpy of vaporization 
+of bromine? 
+(A) 17.4 kJ mol-1 
+(B) 23.7 kJ mol-1 
+(C) 26.5 kJ mol-1 
+(D) 30.0 kJ mol-1 
+23. The graph below shows how the standard entropy of 
+vaporization, ΔSovap, varies with molar mass for straight-
+chain alkanes CH3(CH2)nCH3. 
+ 
+Which of the following graphs best shows how ΔSovap 
+(solid squares, dashed line) varies with molar mass for 
+straight-chain primary alcohols CH3(CH2)nOH? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+
+ 
+Page 6  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+24. The natural logarithm of the molar solubility S of sodium 
+iodate monohydrate as a function of the reciprocal of the 
+absolute temperature is plotted below. 
+ 
+ 
+What is the standard enthalpy of dissolution for 
+NaIO3•H2O? 
+(A) 2.1 kJ mol-1 
+(B) 17.4 kJ mol-1 
+(C) 26.0 kJ mol-1 
+(D) 34.7 kJ mol-1 
+ 
+25. The isotope actinium-226 undergoes both beta decay, 
+with a half-life of 35.4 d, and electron capture, with a 
+half-life of 173 d.  What is the overall half-life for the 
+radioactive decay of 226Ac? 
+(A)  29.4 d 
+(B) 78.3 d 
+(C) 104 d 
+(D) 208 d 
+ 
+26. The rate of the gas-phase reaction of nitrogen dioxide 
+with carbon monoxide at 177 °C was measured under 
+three different sets of concentrations as shown.  What is 
+the rate law for this reaction under these conditions? 
+NO2(g) + CO(g) → NO(g) + CO2(g) 
+ 
+Initial [NO2], 
+mol L-1 
+Initial [CO], 
+mol L-1 
+Initial rate, 
+mol L-1 min-1 
+Ex 1 
+4.0 × 10-4 
+1.7 × 10-2 
+1.70 × 10-7 
+Ex 2 
+4.0 × 10-4 
+3.4 × 10-2 
+1.70 × 10-7 
+Ex 3 
+1.2 × 10-3 
+3.4 × 10-2 
+1.53 × 10-6 
+ 
+(A) Rate = k[NO2] 
+(B) Rate = k[NO2]2 
+(C) Rate = k[CO] 
+(D) Rate = k[NO2][CO] 
+ 
+27. Which statement best describes the properties of the 
+activation energy of a reaction? 
+(A) It increases in the presence of a catalyst. 
+(B) It decreases with increasing temperature. 
+(C) It must be larger than the energy change for forming 
+any intermediates in the reaction. 
+(D) It must be positive for endothermic reactions and 
+negative for exothermic reactions. 
+ 
+28. The kinetics of the reaction of crystal violet with excess 
+sodium hydroxide to form colorless products is 
+monitored using a spectrophotometer.  A plot of the 
+natural logarithm of the absorbance of green light by the 
+system as a function of time is linear with a negative 
+slope.  Which conclusions may be drawn from the data? 
+I. 
+The reaction is first-order in crystal violet. 
+II. 
+The reaction is first-order in hydroxide ion. 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+29. A reaction initially contains pure reactant R, which forms 
+product P reversibly.  Which reaction coordinate diagram 
+corresponds to the reaction in which P achieves a 
+concentration within 5% of its equilibrium value the 
+fastest? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Continued on next page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022  
+Page 7 
+30. The reaction between A and B involves an intermediate I 
+whose concentration remains very low throughout the 
+reaction. The initial rates of a reaction as a function of 
+[B] (at constant [A]) are shown below.  Which statement 
+about the mechanism is most consistent with the data? 
+ 
+(A) A initially reacts reversibly to form the intermediate 
+I, which then reacts irreversibly with B in a process 
+that is first-order in B. 
+(B) A initially reacts reversibly to form the intermediate 
+I, which then reacts irreversibly with B in a process 
+that is second-order in B. 
+(C) B initially reacts reversibly in a first-order process to 
+form the intermediate I, which then reacts 
+irreversibly with A. 
+(D) B initially reacts reversibly in a second-order 
+process to form the intermediate I, which then reacts 
+irreversibly with A. 
+ 
+31. Carbon monoxide reacts with hydrogen in the presence of 
+a catalyst to give methanol: 
+CO(g) + 2 H2(g) ⇆ CH3OH(g) 
+A metal container at 400 K is charged with 2.00 bar of an 
+equimolar mixture of CO and H2.  A catalyst for the 
+reaction is introduced and the pressure falls to 1.29 bar 
+once equilibrium is achieved.  What is Kp for this reaction 
+at 400 K? 
+(A) 1.32 
+(B) 6.54 
+(C) 8.44 
+(D) 29.1 
+ 
+32. A 0.10 M solution of glycolic acid is 3.8% ionized.  What 
+is the percent ionization of a 0.50 M solution of glycolic 
+acid? 
+(A) 1.7% 
+(B) 3.8% 
+(C) 8.5% 
+(D) 19.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33. The Ksp of BaCrO4 is 1.2 × 10-10.  What is the minimum 
+volume of 1.5 × 10-5 M Na2CrO4 that would need to be 
+added to 1.0 L of 1.5 × 10-5 M Ba(NO3)2 solution to 
+induce precipitation of BaCrO4? 
+(A) 0.53 L 
+(B) 0.73 L 
+(C) 1.0 L 
+(D) No amount of this Na2CrO4 solution will cause 
+precipitation of BaCrO4. 
+ 
+34. A reaction has Keq = 0.020 at 300 K, and its Keq value 
+increases with increasing temperature.  What can be 
+inferred about the values of ∆H°rxn and ∆S°rxn, assuming 
+that they are independent of temperature? 
+I. 
+∆H°rxn < 0 
+II. 
+∆S°rxn < 0 
+(A) I only 
+(B) 
+ II only 
+(C) Both I and II 
+ (D) Neither I nor II 
+ 
+35. Silver ion forms the complex Ag(CN)2– with Kf = 9.8 × 
+1021.  What is the minimum amount of HCN that would 
+need to be added to 1.00 L of a suspension of 0.010 mol 
+AgCl in order to dissolve all the solid?  The Ksp of AgCl 
+is 1.8 × 10-10 and the Ka of HCN is 6.2 × 10-10. 
+(A) 0.020 mol 
+(B) 0.079 mol 
+(C) 0.26 mol 
+(D) 1.7 mol 
+ 
+ 
+ 
+ 
+Continued on next page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 8  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+36. A vessel containing an equilibrium mixture of NO2(g) 
+and N2O4(g) at a certain temperature and 1.00 bar total 
+pressure is represented below. 
+ 
+Which is the best representation of the system at 
+equilibrium after a certain amount of argon is added to 
+the vessel, while keeping both the temperature and the 
+total pressure constant? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+37. In which species does the underlined element have the 
+highest oxidation state? 
+(A) HPO42- 
+(B) MnO42- 
+(C) HSO3– 
+(D) NO3– 
+ 
+38. Oxalic acid reacts with acidified potassium permanganate 
+according to the unbalanced equation below.  What is the 
+coefficient for H2O when the equation is balanced with 
+the smallest whole number coefficients? 
+__H2C2O4 + __MnO4– + __H+ →  
+__CO2 + __Mn2+ + __H2O 
+(A) 2 
+(B) 3 
+(C) 5 
+(D) 8 
+ 
+ 
+ 
+ 
+ 
+ 
+39. An aqueous solution containing both Cu(II) ions and 
+Rh(III) ions is electrolyzed.  After passage of 0.153 A for 
+16400 s, 0.826 g of metal has been deposited.  What is 
+the composition of the deposited metal? 
+(A) Cu only 
+(B) Rh only 
+(C) A mixture of Cu and Rh 
+(D) It cannot be determined from the information given. 
+ 
+40. Which statements about the following cell are correct? 
+Zn(s) + 2 AgI(s) → Zn2+(aq) + Ag(s) + 2 I–(aq) 
+Species 
+∆H°f, kJ mol-1 
+S°, J mol-1 K-1 
+Zn(s) 
+0 
+41.6 
+AgI(s) 
+–61.84 
+115.5 
+Zn2+(aq) 
+–153.89 
+–112.1 
+Ag(s) 
+0 
+42.6 
+I–(aq) 
+–55.19 
+111.3 
+ 
+I. 
+The standard cell potential at 298 K is 0.54 V. 
+II. 
+The cell potential increases with increasing 
+temperature. 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+41. The cell potential of the following at 298 K is 1.05 V. 
+Ni(s)|Ni2+(aq, 1.00 M)||Ag+(aq, 1.00 M)|Ag(s) 
+Sodium cyanide is added to each half-cell until the 
+concentration of free CN– reaches 1.00 M.  What is the 
+new observed cell potential?  The Kf of Ni(CN)42- is 2.0 × 
+1031 and the Kf of Ag(CN)2– is 9.8 × 1021. 
+(A) 0.68 V 
+(B) 0.78 V 
+(C) 1.33 V 
+(D) 1.43 V 
+ 
+42. What is the standard reduction potential of hydrogen 
+selenate ion to form elemental selenium under acidic 
+conditions at 298 K? 
+Half-reaction 
+E°, V 
+H2SeO3(aq) + 4 H+(aq) + 4e– →  
+Se(s) + 3 H2O(l) 
+0.74 
+HSeO4–(aq) + 3 H+(aq) + 2e– → 
+H2SeO3(aq) + H2O(l) 
+1.15 
+HSeO4–(aq) + 7 H+(aq) + 6e– →  
+Se(s) + 4 H2O(l) 
+??? 
+ 
+(A) 0.88 V 
+(B) 0.94 V 
+(C) 1.56 V 
+(D) 1.89 V 
+ 
+ 
+ 
+
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 9 
+43. What is the ground-state electron configuration of Ni2
++(g)?
+(A) 1s22s22p63s23p63d64s2
+(B) 1s22s22p63s23p63d84s2
+(C) 1s22s22p63s23p63d104s2
+(D) 1s22s22p63s23p63d8
+44. Question removed
+45. Which diatomic molecule has the greatest bond
+dissociation enthalpy?
+(A) F–F
+(B) Cl–Cl 
+(C) Br–Br 
+(D) I–I
+46. Which of the following best describes the trend in the
+amount of energy released on addition of an electron to
+the gas-phase atoms (electron affinity) of the group 1 and
+group 2 elements in the same period?
+(A) More energy is released by the group 1 elements
+because there is less electron-electron repulsion in
+the ions.
+(B) More energy is released by the group 1 elements
+because the added electron enters an s orbital rather
+than a p orbital.
+(C) More energy is released by the group 2 elements
+because they have more protons in the nucleus.
+(D) More energy is released by the group 2 elements
+because addition of an electron to a group 1 element
+disrupts an unusually stable half-filled s subshell.
+47. Two atomic orbitals have the same shape and orientation
+but have a different number of nodes.  Which statement
+about the quantum numbers of these orbitals is correct?
+(A) They have the same value of l but different values of
+n.
+(B) They have the same value of l but different values of
+ml.
+(C) They have the same value of ml but different values
+of l.
+(D) They have the same value of ms but different values
+of ml.
+48. A gas-phase hydrogen atom absorbs a photon of visible
+light and then emits a photon of ultraviolet light.  What
+may be concluded about its initial and its final values of
+the principal quantum number n?
+(A) Initially n = 1 and finally n = 2
+(B) Initially n = 2 and finally n = 1
+(C) Initially n = 2 and finally n = 4
+(D) This scenario is impossible because ultraviolet light
+is more energetic than visible light.
+49. Which molecule has the shortest carbon-nitrogen bond
+length?
+(A) HCNO
+(B) HNCO
+(C) H3CNO
+(D) H3CNO2
+50. Which statements about the structure of ClF3 are correct?
+I.
+All F–Cl–F angles are equal.
+II.
+All Cl–F bond lengths are equal.
+(A) I only
+(B) II only
+(C) Both I and II
+(D) Neither I nor II
+51. How many unpaired electrons are there in a ground-state
+NF molecule in the gas phase?
+(A)
+0
+(B) 1
+(C)
+2
+(D) 4
+52. The ionization energy of a ground-state nitrogen atom is
+14.5 eV, while the ionization energy of a ground-state
+fluorine atom is 17.4 eV.  What is the ionization energy
+of a ground-state NF molecule?
+(A) 13.1 eV
+(B) 15.1 eV
+(C) 16.8 eV
+(D) 18.8 eV
+53. Which is the best representation of the three-dimensional
+structure of the guanidinium ion, C(NH2)3+?
+(A) 
+(B)
+(C) 
+(D) 
+54. Which complex ion absorbs visible light of the longest
+wavelength?
+(A) Co(NH3)63+
+(B) Co(CN)63-
+(C) CoF63-
+(D) Co(NO2)63-
+
+ 
+Page 10  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+55. How many isomers have the formula C3H6Cl2? 
+(A) 4 
+(B) 5 
+(C) 6 
+(D) 7 
+ 
+56. Which compound produces a nitrile when treated with 
+sodium cyanide in DMSO? 
+(A) 2-Methylbutane 
+(B) 3-Methyl-1-butanol 
+(C) 3-Methyl-1-butene 
+(D) 1-Bromo-3-methylbutane 
+ 
+57. Which molecular orbitals are occupied in the ground state 
+of 1,3-butadiene? 
+ 
+I. 
+ 
+II. 
+ 
+ 
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58. Which compound reacts readily with water under acidic 
+but not basic conditions? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+59. Which C5H10O isomer exhibits a strong infrared 
+absorption band at 1717 cm-1? 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+60. The peptide hormone insulin becomes biologically 
+inactive after being treated with a mild reducing agent.  
+Which is the best explanation for this observation? 
+(A) The reducing agent cleaves disulfide bonds, which 
+alters the structure of the hormone. 
+(B) The reducing agent cleaves peptide (amide) bonds, 
+breaking the hormone into smaller polypeptides. 
+(C) The reducing agent modifies the alcohol-containing 
+side chains of some of the amino acids, decreasing 
+the affinity of the hormone for its cellular receptor. 
+(D) The reducing agent decreases the overall charge on 
+the hormone, causing it to bind unselectively to cell 
+membranes. 
+ 
+ 
+END OF TEST 
+ 
+ 
+ 
+ 
+
+Olympiad 2022  
+USNCO Local Section Exam 
+KEY 
+Question 
+1.
+B
+2.
+D
+3.
+A
+4.
+B
+5.
+C
+6.
+C
+7.
+D
+8.
+C
+9.
+A
+10.
+A
+11.
+C
+12.
+B
+13.
+D
+14.
+A
+15.
+A
+16.
+C
+17.
+B
+18.
+A
+19.
+C
+20.
+D
+21.
+C
+22.
+D
+23.
+A
+24.
+D
+25.
+A
+26.
+B
+27.
+C
+28.
+A
+29.
+B
+30.
+A
+Question
+Correct
+Answer 
+31.
+B
+32.
+A
+33.
+D
+34.
+D
+35.
+C
+36.
+D
+37.
+B
+38.
+D
+39.
+A
+40.
+41.
+A
+42.
+A
+43.
+D
+44.
+45.
+B
+46.
+B
+47.
+A
+48.
+B
+49.
+A
+50.
+D
+51.
+C
+52.
+A
+53.
+A
+54.
+C
+55.
+B
+56.
+D
+57.
+B
+58.
+B
+59.
+C
+60.
+A
+% Correct 
+Answers
+Correct
+Answer
+% Correct 
+Answers
+58%
+40%
+60%
+63%
+66%
+41%
+71%
+54%
+67%
+23%
+41%
+41%
+63%
+50%
+67%
+25%
+46%
+75%
+A or D
+removed
+39%
+36%
+46%
+15%
+47%
+27%
+40%
+90%
+76%
+70%
+47%
+25%
+62%
+46%
+34%
+54%
+36%
+25%
+91%
+74%
+50%
+56%
+17%
+37%
+67%
+25%
+41%
+46%
+59%
+56%
+19%
+49%
+26%
+30%
+31%
+34%
+28%
+36%
+28%
+44%
+31%

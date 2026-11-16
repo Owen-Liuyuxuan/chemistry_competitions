@@ -1,0 +1,1438 @@
+S E C T I
+O N _
+B O U N D A R Y _
+0 _
+u n a s
+i
+g n e d
+1. Isocaryophyllene, clovene, and humulene
+6% of total
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+Total
+7
+3
+6
+2
+2
+8
+2
+2
+2
+34
+1.1 (7 pt)
+A (2 pt)
+The trans-isomer gets full marks.
+-1 pt if missing a carbon atom in the ring/ added another carbon
+atom in the ring.
+B (2 pt)
+Also 2 pt if the structure is incorrect, but consistent with
+isocaryophyllene (and 2 equivalents of H2 are added).
+Iso-caryophyllene (i-Cy) (3 pt)
+-1 pt if missing a carbon atom/ added another carbon atom in the ring.
+-1 pt If a ring is made by combining two other C atoms and added a methyl to the other carbon.
+-2 pt if no second ring is present; only added CH3 to all/one/two carbonyls in the right-hand structure.
+The trans-isomer gets full marks. Stereochemistry will not be marked for A, B or i-Cy. 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 1 of 45
+
+1.2 (3 pt)
+Each centre correctly circled ½ pt. 
+Each descriptor correct ½ pt. 
+If incorrect centre is circled then -1pt per incorrect circle.
+Minimum score is 0pt
+1.3 (6 pt)
+E (3 pt)
+-2 pt if the structure is not cyclic and only the ester is removed. 
+Stereochemistry will not be marked. 
+F (3 pt)
+-2 pt for reducing the ester to an aldehyde (and alcohol).
+Stereochemistry will not be marked. 
+1.4 (2 pt)
+☐ PCC      
+☐ K2Cr2O7, H2SO4, H2O    
+✅ MnO2
+☐ (i) OsO4, (ii) KHSO3
+0 pt if any other box(es) ticked. 
+1.5 (2 pt)
+☐ PCC      
+✅ K2Cr2O7, H2SO4, H2O
+☐ MnO2
+☐ (i) OsO4, (ii) KHSO3
+0 pt if any other box(es) ticked. 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 2 of 45
+
+1.6 (8 pt)
+I (3 pt)
+-2 pt if double bond is not reduced. 
+-1 pt if ester is not formed.
+(minimum score is 0 pt)
+J (2 pt)
+-1 pt if acetal group is incorrect/not present.
+-1 pt if original ester is still present; protective group is in
+place.
+-1.5 pt if ester is formed with ethylene glycol.
+K (3 pt)
+-1 pt if acetal protecting group is still present.
+-2 pt if acid is turned into acid chloride and protective group is removed.
+-2 pt if five-membered ring is already formed with an alcohol group still present. 
+1.7 (2 pt)
+-1 pt for each mistake down to zero.
+-1 pt if all double bonds are mirrored.
+1.8 (2 pt)
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 3 of 45
+
+0 pt if any other charge/group has been added to the structure. 
+1.9 (2 pt)
+2 pt if five circles are correct.
+1 pt if four circles are correct and one incorrect/missing.
+0 pt for more than five carbons circled or two or more incorrect/missing.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 4 of 45
+
+2. Rapamycin - A molecular glue
+6.5% of the total
+2.1
+2.2
+2.3
+2.4
+Total
+12
+19
+18
+18
+67
+2.1a
+Correct 8 pts
+-2 pts if nucleophile approach not shown or incorrect
+4 pts if chirality at rear carbon is wrong, but MeO placed perpendicular
+4 pts if chirality at rear carbon is correct, but MeO not placed perpendicular
+Need to use Felkin-Anh model without chelation and put electronegative group OMe perpendicular to aldehyde.
+2.1b
+Structure of C fully correct 4 pts. If C' is given 2 pts.
+If partly correct:
+Absolute stereochemistry of OH and OMe is correct 2 pts. If incorrect, but the relative stereochemistry is correct 1 pt.
+–1 pt for each error in each molecule in functional groups not undergoing reaction.
+No error carried forward awarded even if part a is incorrect as stereochemistry can be inferred from the final structure of
+rapamycin
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 5 of 45
+
+2.2a
+Six-membered ring Zimmerman-Traxler Model:
+3
+4
+X
+5
+—H
+6
+7
+8
+—H
+Total 15 pts
+5 pts for aldehyde approach (aldehyde is at the back instead of the front)
+5 pts for Z enolate (flip 5/6)
+5 pts for aldehyde conformation (flip 7/8)
+-2 pts each for swapping 3 and 4
+-1 pt for each trivial mistake
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 6 of 45
+
+2.2b
+Structure of F (with stereochemistry) 4 pts
+–1 pt for each error of functional groups not undergoing reaction (trivial error).
+No error carried forward awarded even if part 2.2a is incorrect as stereochemistry can be inferred from the final structure of
+rapamycin.
+If partly correct:
+Absolute stereochemistry of newly formed stereocenters is correct 2 pts. If incorrect, but the relative stereochemistry is
+correct 1 pt.
+–1 pt for each error in each molecule in functional groups not undergoing reaction.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 7 of 45
+
+2.3
+Hexagons for building blocks are worth 1 pt each. Total = 4 pts
+Circles for enzymes and rectangles for structures worth 2 pts each. Total 14 pts. 
+No partial credit for this part. The order of the enzymes in the circles is not graded.
+Error carried forward can be implemented for the structures in the rectangles.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 8 of 45
+
+2.4
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 9 of 45
+
+Each of the three parts is worth 6 pts. The number of “accurate circles” = number of correct circles – number of incorrect circles.
+If the b and c are swapped and both perfectly correct: 6 pts are awarded for b + c. 
+In all other cases they will be marked as b and c as indicated.
+2.4a
+14 accurate circles = 6 pts
+12-13 accurate circles = 5 pts
+10-11 accurate circles = 4 pts
+8-9 accurate circles = 3 pts
+6-7 accurate circles = 2 pts
+4-5 accurate circles = 1 pt
+< 4 accurate circles = 0 pt
+2.4b
+7 accurate circles = 6 pts
+6 accurate circles = 5 pts
+5 accurate circles = 4 pts
+4 accurate circles = 3 pts
+3 accurate circles = 2 pts
+2 accurate circles = 1 pt
+< 2 accurate circles = 0 pts
+2.4c
+7 accurate circles = 6 pts
+6 accurate circles = 5 pts
+5 accurate circles = 4 pts
+4 accurate circles = 3 pts
+3 accurate circles = 2 pts
+2 accurate circles = 1 pt
+< 2 accurate circles = 0 pts
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 10 of 45
+
+3. Lanterns and the Burj Khalifa
+7.5% of the total
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+Total
+6
+4
+4
+5
+40
+20
+32
+111
+3.1
+Angle
+A
+B
+C
+0
+✅
+30
+45
+60
+90
+120
+✅
+135
+180
+✅
+ 6 pt (2 pt each). No pts if more than one angle ticked for any ligand. 
+3.2
+F < D < E
+ 4 pt
+2 pt if it is in the opposite order:  (E < D < F)
+3.3
+Q
+2
+(h, k)
+(1, 1)
+V
+12
+E
+24
+F
+14
+F3
+8
+F4
+6
+4 pt (1 pt each). No credit if numbers placed in wrong rows. 
+3.4
+Q
+4
+(h, k)
+(0, 2) or (2, 0)
+V
+24
+E
+48
+F
+26
+F3
+8
+F4
+18
+5 pt. (1 pt each). No credit if numbers placed in wrong
+rows. 
+°
+°
+°
+°
+°
+°
+°
+°
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 11 of 45
+
+3.5
+Please note that although there are lots of points per structure in this part, this is to balance the weighting with the rest of the
+question. There will generally be a penalisation of -2 pt per trivial error in this part. 
+H
+8 pt. Stereochemistry is not required. Alkenes can be drawn as cis or trans. Imine tautomer scores full credit. Structures without
+the correct formulae score zero; except for trivial mistakes. These will give a maximum of 6 pt. 
+I
+10 pt. Pyridone tautomer 10 pt Four-membered ring lactam (matches formula but strained) 4 pt. Indole/indolene structure 4 pt.
+Error carried forward from H can be given, but maximum 6 pt for structures that do not match formula. 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 12 of 45
+
+J
+6 pt. Error carried forward from I can be given as follows. All sufficiently acidic OH and NH groups on structure have undergone
+correct Mitsunobu alkylation 6 pt. Some but not all sufficiently acidic OH and NH groups have undergone alkylation 4 pt.
+Student has alkylated OH or NH groups which would be unreactive (standard alcohol OH or amine NH) 4 pt. OiBu or NiBu
+groups in product, but corresponding starting material was not OH/NH 2 pt. Further penalty of -1 pt if iPr drawn instead of iBu. 
+K
+6 pt. Error carried forward from J can be given, but structure must have undergone correct ester hydrolysis reaction. For error
+carried forward other base labile functional groups must be hydrolysed. 
+L
+10 pt. Error carried forward from K can be given, but structure must have undergone feasible reaction under these conditions
+for full credit. All structures (including any error carried forward) will be penalised as follows: −2 pt if ligand does not have two
+planes of symmetry, −2 pt for not 180° angle with both outer rigid pieces, −2 pt for not 120° angle with central rigid piece, -2 pt
+if carbons from oxalyl chloride have been incorporated. 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 13 of 45
+
+3.6
+C
+C
+C
+C
+C
+C
+C
+C
+A
+C
+A
+C
+A
+C
+A
+A
+20 pt. There is a 50% chance of guessing each box correctly and so these are not individually marked. Firstly the number of
+accurate boxes (x) is calculated from the number of correct boxes minus the number of incorrect boxes. The total number of pt
+(y) is calculated from the number of accurate boxes (x) using this relationship:
+y  =  
+20 
+1+e−0.5(x−8)
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 14 of 45
+
+ Accurate boxes 
+Pt
+0
+0.00
+1
+0.59
+2
+0.95
+3
+1.52
+4
+2.38
+5
+3.65
+6
+5.38
+7
+7.55
+8
+10.00
+9
+12.45
+10
+14.62
+11
+16.35
+12
+17.62
+13
+18.48
+14
+19.05
+15
+19.41
+16
+20.00
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 15 of 45
+
+3.7
+2
+(1 pt)
+2
+2
+(1 pt)
+2
+(1 pt)
+2
+(2 pt)
+8
+(4 pt)
+4
+2
+(2 pt)
+1
+(2 pt)
+4
+(4 pt)
+3
+(4 pt)
+2
+(2 pt)
+1
+(2 pt)
+2
+(2 pt)
+1
+(2 pt)
+1
+(3 pt)
+32 pt
+No partial credit for any other answer in a box. No credit for alternative version where columns or rows have been swapped
+etc. No error carried forward from previous question.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 16 of 45
+
+The isomers are drawn out below (this is not needed from students and is included just as information for mentors).
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 17 of 45
+
+4. The life of tennis balls
+6% of the total
+4.1
+4.2
+4.3
+4.4
+Total
+3
+16
+5
+16
+40
+4.1
+The inner ball pressure is equal to the atmospheric pressure. 
+The average molar mass of air
+,
+1 pt
+The ball volume is:
+1 pt
+Using the ideal gas law, we find the air mass as follows:
+1 pt
+4.2
+We can find the quantity of gas C:
+1 pt
+The reaction with HI indicates a possible redox reaction with formation of I2 (which is confirmed by the positive result in the
+further reaction with Na2S2O3).
+Thus, A or B is an oxidant. If Ag+ is added to A+B there is the formation of precipitate(s) (likely containing Ag(I)) but we don’t
+know if it is one or several compounds. We note that reaction 2 gives approximately half the amount of precipitate as the final
+reaction. This could mean that the precipitate from  the final reaction is a mixture of two precipitates, one of which is not
+formed in reaction 2.
+We might first guess an equimolar amount of each precipitate from reaction 2 and that the number of moles of each
+precipitate is the same the number of moles of gas C, 
+.
+If this is the case, we can calculate a molar mass for the precipitate:
+Assuming the cation is Ag(I) (= 107.87 g mol-1), this leaves an anion of 40.74 g mol-1.  1 pt
+Remembering that this mass was only approximate, this is consistent with the anionic part being a chloride ion (= 35.45 g mol-1)
+and the precipitate being AgCl. Upon addition of excess chloride, AgCl redissolves and thus this is consistent with B containing
+M = 0. 8 × 28. 02 g  mol−1 + 0. 2 × 32. 00 g  mol−1 = 28. 816 g  mol−1
+V = 4
+3 πR3 = 4
+3 ⋅π ⋅(3. 0)3 = 113. 1  mL
+p = nRT
+V
+= mRT
+MV
+⇒m = pMV
+RT
+= 101325 Pa×28.816 g  mol−1×1.131×10−4 m3
+ 8.314 J K−1  mol−1× 298.15 K
+= 0. 133 g
+n =
+pV
+RT =
+(161975−101325)  Pa  ×  4
+3 π⋅(0.03 m)3
+8.314 J K−1  mol−1  × 298.15 K
+= 2. 767 × 10−3  mol
+(2. 767 × 10−3  mol)
+M  =  
+0.4112 g
+2.767×10−3  mol = 148. 61 g  mol−1
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 18 of 45
+
+chloride ions.   2 pt 
+Indeed, there is several qualitative indications that the precipitate could be AgCl.
+Now we know accurately the molar mass of the first precipitate, we can calculate the accurate molar mass of the second
+precipitate (= 153.90 g mol-1). Assuming the cation is Ag(I), the anionic part has a molar mass of 46.03 g mol-1.  2 pt
+There are no single atoms that fit this charge and mass combination. If we consider atoms of common elements then we can
+deduce the anion is nitrite (46.01 g mol-1) and the precipitate as AgNO2.  2 pt
+Hence, A is a nitrite salt and B is a chloride salt. Again, taking equimolar ratios as a first guess, we can calculate the sum of the
+cation molar masses in A+B. (122.48 - 35.45 - 46.01) g mol-1 = 41.02 g mol-1.   1 pt
+As we know A is an oxidant due to the nitrite, reaction 1 is likely a redox reaction.
+However
+, it is the cation in B that is likely oxidised (as oxidation of chloride is difficult). One possibility would be the ammonium
+cation, and this also has a low molar mass.  2 pt
+The remaining molar mass (41.02 - (14.01+4x1.008)) g mol-1 = 22.98 g mol-1 is consistent with the second cation being Na+, so
+this is a possible answer
+.  1 pt
+NaNO2 + NH4Cl → N2 + NaCl + 2H2O
+We then conclude that C would be N2.  2 pt
+If nitrite acts as an oxidant in reaction 4, then gas D has contains a nitrogen atom in an oxidation state of lower than +3.
+Examples include NO, N2O or NH3, but only NO has a density similar to N2.  2 pt
+The reaction 3 helps us understand that compound B is amonium salt: NH4Cl thus A is NaNO2
+A: NaNO2
+B: NH4Cl
+C: N2
+D: NO
+Total 16 pts. All 16 pts will be given if the boxes above are all correct.
+4.3
+Reaction 1: NaNO2 + NH4Cl → N2 + NaCl + 2H2O
+Reaction 2: Ag+ + Cl- → AgCl
+Reaction 3: AgCl + 2NH4++2OH- → Ag(NH3)2++ 2H2O + Cl-
+Reaction 4: 2NaNO2 + 4HI → 2NO + I2 + 2NaI + 2H2O
+Reaction 5: 2Na2S2O3 + I2 → Na2S4O6 + 2NaI 
+1 pt each reaction equation = 5 pt total, -0.5 pt if not balanced correctly.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 19 of 45
+
+4.4a
+Atmospheric pressure and therefore the final pressure is 1.00 atm. The pressure above atomspheric is therefore 0.80 atm
+initially, 0.40 atm after 241 h, and 0.19 atm after t2= 21 days (i.e. 504 hours). We remind that t2 is approximate and using it we
+obtain an approximate data.
+For the kinetics of the first order we have next equation:
+Thus we could write two equation to find dressurisation rate constant for 
+.
+1.5 pt for each equation = 3pt
+The rate constants are very close, thus the kinetics process is of the first order
+.
+Knowing that t2 was approximate for the final version we use 
+1 pt (-0.5 pt 
+ or average of both constants)
+4.4b
+Next, we write equations for the initial processes for the N2 ball (vN2) and air ball (vair) considering partial pressures and the
+initial difference of pressure 
+ :
+1 pt  (-0.25 pt if the absoute pressure 
+ is considered)
+1 pt (-0.25 pt if the absoute pressure considered)
+As we know that the second process is 10% faster than the first, we can find kO2:
+1 pt
+1 pt
+1 pt
+or for
+ the given value of 
+ln P0
+Pt = kt
+N2
+ln 0.8
+0.4 = kN2 ⋅241 ⇒kN2 =
+1
+241 ⋅ln 0.8
+0.4 = 2. 88 ⋅10−3h−1 ln
+0.8
+0.19 = kN2 ⋅21 ⋅24 ⇒kN2 =
+1
+504 ⋅ln
+0.8
+0.19 = 2. 85 ⋅10−3h−1
+kN2 = 2. 88 ⋅10−3h−1
+kN2 = 2. 85 ⋅10−3h−1
+ΔP0
+v0 N2 = kN2ΔP0
+P0
+v0 air = kN2 ⋅0. 8ΔP0  +  kO2 ⋅0. 2ΔP0
+v0 air
+v0 N2 =
+0.8⋅kN2ΔP0 + 0.2⋅kO2ΔP0
+kN2ΔP0
+= 1.10
+1.00
+0. 3 ⋅kN2  =  0. 2 ⋅kO2
+kO2 = 1. 5 ⋅kN2 =  4. 31  ×  10−3 h−1
+kO2 =  1. 5  ×  10−3 h−1
+kN2 = 1. 0  ×  10−3 h−1
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 20 of 45
+
+4.4c
+We need to consider the following factors:
+(a) The initial inner ball pressure varies with the temperature (1 pt); 
+(b) The final pressure is the same (1 atm) and taken into account (2 pts);
+(c) The rate constant varies with the temperature via Arrhenius equation (2 pts).
+So next equations should be considered 
+(a) The initial pressure, p0(T), at another temperature, T, is 
+(b) The pressure of the ball, p, over time, t, varies as 
+(c) The variation of the rate constant with the temperature is:
+to obtain the final equation
+2 pt for the correct value (0.5 pts for correct calculation of factor (a), 0.75 pts for correct factor (b) and 0.75 pts for correct
+factor (c)).
+4.5
+We need to find the volume of rubber for one ball. The rubber has a thickness of 0.2 cm and it coats an inner sphere of radius
+3.0 cm. Thus, the volume is: 
+2 pt
+so the total mass considering the number of balls and recycling efficiency is: 
+1 pt
+p0(T) = p0(298.15) ⋅
+T
+298.15 K
+p = 1 + (p0 −1)e−kt
+k(T) = k(298.15)e
+( Ea
+R (
+1
+298.15 K −1
+T ))  
+p = 1 + (p0 ⋅
+T
+298.15 K −1)e
+−k⋅e( Ea
+R ⋅(
+1
+298.15 K −1
+T ))⋅t
+p = 1 atm + (1. 80 ⋅302.15 K
+298.15 K −1) atm⋅
+e
+−2.88⋅10−3 h−1⋅e(
+50000 J  mol−1
+8.314 J K−1  mol−1 ⋅(
+1
+298.15 K −
+1
+302.15 K ))⋅12 h =
+= 1. 74  atm
+V = 4
+3 π((3. 2  cm)3  − (3. 0  cm)3)
+=  24. 16  cm3
+m = 2000  ×  1. 34 g  cm−3   ×  24. 16  cm3   ×  0. 92
+=  59, 589 g  =  59. 6  kg
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 21 of 45
+
+5. Solar-powered multi-stage flash desalination
+6.5% of the total
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+Total
+2
+2
+3
+2
+2
+2
+1
+2
+16
+5.1
+100 g total mass means 3.45 g NaCl and 96.55 g H2O.  0.5 pt
+Molar mass of NaCl is 58.44 g mol-1.
+0.5 pt
+Assuming complete ionisation of NaCl, i = 2
+0.5 pt
+New bp 
+0.5 pt
+Total = 2 pt
+5.2 
+  0.5 pt
+   0.5 pt
+Assume 100 g total: x g NaCl, (100-x)g H2O  
+1.0 pt
+Total = 2 pt
+m  =  
+3.45 g
+58.44 g  mol−1  ⋅ 0.09655  kg = 0. 6114  mol   kg−1
+ΔTb  =  iKbm  =  2  ⋅ 0. 512 K  kg   mol−1   ⋅ 0. 6114  mol   kg−1 = 0. 6261 K
+=  0. 6261 K  +  373. 15 K  =  373. 7761 K  or  100. 6261 °C
+378. 00 K  − 373. 15 K  =  4. 85 K
+m = ΔTb
+ iKb   =  
+4.85 K
+2 ⋅ 0.512 K  kg   mol−1 =  4. 736  mol   kg−1
+4. 736 mol kg−1 =
+x g
+[58.44 g mol−1] ⋅ [(100−x)g/1000 kg]   = 21. 7%
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 22 of 45
+
+5.3
+Selection of correct values and units (T1 must be in K):
+T1 = 373.7761 K; P1 = 1.0 atm; P2 = 2.5 atm  0.5 pt
+0.5 pt
+Using Clausius-Clapeyron equation: 
+1 pt
+1 pt
+Total = 3 pt
+5.4
+After mixing mass = 2 kg; temperature = 100 oC. 
+Let n be amount of vapourised water
+.
+heat lost on cooling, Qc = heat required to vapourise water
+, Qv
+0.5 pt
+or 
+0.5 pt
+0.5 pt
+0.5 pt
+Total = 2 pt
+ΔHvap =   40. 716  kJ   mol−1
+ln P2
+P1 = −
+ΔHvap
+R
+( 1
+T2 −
+1
+T1 )
+ln 2.5  atm
+1  atm = −
+40716 J  mol−1
+8.314 J K−1  mol−1 ( 1
+T2 −
+1
+373.7761 K )
+−1. 8710 ⋅10−4 K−1 = ( 1
+T2 −
+1
+373.7761 K )
+2. 4883 ⋅10−3 K−1 =
+1
+T2
+T2  =  401. 88 K  =  128. 73 °C
+Q = mCp Δ T
+Qc = (2  − (0. 018016  mol−1) n)  kg   ⋅3850 J  kg−1  K−1 ⋅(373. 15 −370. 15) K
+Qc = 2  kg   ⋅3850 J  kg−1  K−1 ⋅(373. 15 −370. 15) K
+Qv = n  ⋅ 0. 018016  kg   mol−1   ⋅ 2260  ⋅103 J  kg−1
+23100  − 208. 0848 n  mol−1 =  40716. 16 n  mol−1
+23100  =  40924. 24 n  mol−1
+n  =  0. 565  mol
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 23 of 45
+
+5.5
+Amount of water in initial vapour:
+1 pt
+After evaporation, amount of water:
+0.5 pt
+0.5 pt
+Total = 2 pt
+5.6
+0.5 pt
+  1.0 pt    
+  0.5 pt  
+Total = 2 pt
+5.7
+0.5 pt
+0.5 pt
+Total =  1 pt
+5.8
+0.5 pt
+0.75 pt
+0.75 pt
+Total = 2 pt
+n0 =
+pV
+RT =  
+0.69 ⋅ 101325  Pa  ⋅ (100 − 1) ⋅ 10−3 m3
+8.314 J K−1  mol−1⋅ (363.15 K)
+= 2. 292  mol
+n =  2. 292  mol   +  0. 565  mol   =  2. 857  mol
+p = nRT
+V
+=   2.857  mol  ⋅ 8.314 J K−1  mol−1⋅ 370.15 K
+(100 − 2) ⋅ 10−3 m3
+= 89716  Pa   =  0. 885  atm
+ΔT  =  110 °C  − 25 °C  =  85 °C
+Q = mCp Δ T
+Q  =  1  kg   ⋅ 3. 85  kJ   kg−1  K−1  ⋅ 85 K
+=  327. 25  kJ  
+Q  =  
+327.25  kJ  
+3600  kJ   kWh−1   =  0. 0909  kWh
+mass of pure water in sea water = 5.0000 ⋅104 m3 ⋅1000  kg  m−3
+0.85
+=  5. 88  ⋅107  kg
+mass of sea water = 5.88 ⋅107  kg
+0.9655
+  =  6. 09 ⋅107  kg
+energy required  =  6. 09  ⋅107  kg   ⋅ 0. 0909  kWh
+=  5. 536  ⋅106 kWh
+energy panels provide =  5.536 ⋅106  kWh
+0.67
+= 8. 263  ⋅106  kWh
+number of panels  =   8.263 ⋅106  kWh
+2⋅12  kWh
+= 344, 292
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 24 of 45
+
+6. Solar energy conversion by CO2 reduction
+6% of the total
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+Total
+5
+2
+3
+3
+3
+2
+4
+22
+6.1
+CO2
+ CO + 1/2 O2
+Let n0 be the initial amount of CO2. At equilibrium:
+n(CO2) = n(CO) = 0.5n0; n(O2) = 0.25n0; ntotal = 1.25n0.
+Molar fractions: x(CO2) = x(CO) = 0.5n0 / 1.25n0 = 0.4; x(O2) = 0.2
+Partial pressures: p(CO2) = p(CO) = 0.4 bar; p(O2) = 0.2 bar
+.
+Equilibrium constant: 
+Enthalpy and entropy of the reaction:
+∆rH°298 = (–110.5 kJ mol−1) – (–393.5 kJ mol−1) = 283 kJ mol−1,
+∆rS°298 = 197.7 J mol−1 K−1 + 0.5 205.1 J mol−1 K−1 – 213.8 J mol−1 K−1 = 86.45 J mol−1 K−1
+T = 3038 K
+Reaction equation – 1 pt 
+(reaction with integer coefficients and the corresponding calculations are also accepted)
+Equilibrium composition (molar fractions) – 1 pt
+The value of the equilibrium constant – 1 pt
+Enthalpy and entropy of reaction – 0.5 pt each
+Temperature – 1 pt
+Total – 5 pts
+→
+Kp =
+p(CO)p(O2)1/2
+p(CO2)
+= 0.4⋅0.21/2
+0.4
+= 0. 447
+⋅
+Kp = 0. 447 = e(−ΔG°
+RT ) = e(−ΔH°
+RT )e( ΔS°
+R )
+0. 447 = e
+(−
+283000 J  mol−1
+8.314 J K−1  mol−1⋅T )e
+( 86.45 J K−1  mol−1
+8.314 J K−1  mol−1 )
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 25 of 45
+
+6.2
+Reaction 1: Zn + CO2 → ZnO + CO
+Reaction 2: ZnO → Zn + 1/2O2
+Each equation – 1 pt
+Total – 2 pts
+6.3
+Zinc is liquid at 1073 K.
+Zn(l) + CO2(g) → ZnO(s) + CO(g)
+rH  = ((–350.5) + (–110.5) – 6.5 – (–393.5)) kJ mol−1 = –74 kJ mol−1
+∆rS° = (43.7 + 197.7 – 50.8 – 213.8) J mol−1 K−1 = –23.2 J mol−1 K−1
+∆rG°1073 = –74 kJ mol−1 – (–23.2 10–3 kJ mol−1 K−1) 1073 K = –49.1 kJ mol−1
+where x is the degree of conversion.
+Gibbs energy – 1 pt (0 pts if calculated with Zn(s))
+Equilibrium constant – 1 pt
+Degree of conversion – 1 pt
+Total – 3 pts
+Δ
+°
+⋅
+⋅
+K = e(−ΔG°
+RT ) = e
+(
+49100 J  mol−1
+8.314 J K−1  mol−1⋅1073 K )=  246  =  
+x
+1−x
+x =  
+K
+K+1 = 0. 996
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 26 of 45
+
+6.4
+Zinc is a gas at 2000 K.
+ZnO(s) → Zn(g) + 1/2O2(g)
+rH  = (130.4 – (–350.5)) kJ mol−1 = 480.9 kJ mol−1
+∆rS° = (161.0 + 0.5 205.1 – 43.7) J mol−1 K−1 = 219.85 J mol−1 K−1
+∆rG°2000 = 480.9 kJ mol−1 – 219.85 10–3 kJ mol−1 K−1 2000 K = 41.2 kJ mol−1
+Gibbs energy – 1 pt (0 pts if calculated with Zn(s))
+The value of equilibrium constant – 1 pt
+Pressure of oxygen – 1 pt (0 pts if calculated with Zn(s))
+Total – 3 pts
+6.5
++3
++2 (anion)
++2 (molecule)
+0
+-2
+-4
+CO2– or
+HCO2· or
+CO+
+HCOO– or CO22–
+CO or HCOOH
+CH2O or
+CH2(OH)2
+CH3OH or CH3O– or CH3+
+CH4
+0.5 pts for each correct formula. Any reasonable suggestion is accepted.
+Total – 3 pts
+Δ
+°
+⋅
+⋅
+⋅
+Kp = e(−ΔG°
+RT ) = e
+(−
+41200 J  mol−1
+8.314 J K−1  mol−1⋅2000 K )= 0. 084
+Kp = p(Zn)p(O2)
+1
+2 = 2p(O2)p(O2)
+1
+2 = 2p(O2)
+3
+2
+p(O2)  =  0. 12  bar
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 27 of 45
+
+6.6
+CdS ✅
+Ge ✅
+Si ✅
+SiC
+WO3 ✅
+ZrO2
+Calculations:
+ = 400 nm
+Semiconductors with a band gap of less than 3.10 eV can be excited by visible light.
+0.25 pt for each correct choice, penalty 0.5 pt for each wrong choice down to zero.
+1 pt for the calculation supporting the choice.
+Total – 2 pts
+6.7
+Calculations:
+Quantity of CO2: n(CO2) = pV / RT
+= 101.325 kPa 3.0 L min-1 420 min / (8.314 J K-1 mol-1 298 K) = 51.5 mol
+Degree of CO2 conversion: 
+ = (n(HCHO)+n(CH3OH)) / n(CO2) 
+= (1.0 10–3 M + 5.4 10–3 M)   0.1 dm3/ 51.5 mol
+= 1.2 10–5
+Quantity of photons:
+n(h ) = Pt / Em = Pt / (hcNA/ ) = Pt  / hcNA
+= 500 W 7 3600 s  365 10–9 m / (6.626 10–34 J s 2.998 108 m s-1 6.022 1023 mol-1)
+= 38.4 mol
+Formation of HCHO and CH3OH from CO2 requires 4 and 6 electrons, respectively.
+Apparent quantum yield:
+= (4n(HCHO)+6n(CH3OH)) / n(h )  = (4 1.0 10–3 M + 6 5.4 10–3 M)   0.1 dm3 / 38.4 mol = 9.5 10–5.
+With conventional semiconductors, both the degree of conversion and quantum yield of photocatalysis are very low.
+Each calculation – 1 pt
+Total – 4 pts
+λ
+E(eV ) =
+hc
+λ
+1.602⋅10−19J⋅eV−1 =
+=
+6.626⋅10−34J s⋅2.998⋅108 m s−1
+400⋅10−9 m⋅1.602⋅10−19J⋅eV−1   = 3. 10  eV
+⋅
+⋅
+⋅
+η
+⋅
+⋅
+⋅
+⋅
+ν
+λ
+λ
+⋅⋅
+⋅
+⋅
+⋅
+⋅
+⋅
+⋅
+⋅
+ϕ
+ν
+⋅
+⋅
+⋅
+⋅
+⋅
+⋅
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 28 of 45
+
+7. Dubai crude oil
+7% of the total
+7.1
+7.2
+7.3
+7.4
+7.5
+Total
+8
+2
+3
+1
+8
+22
+7.1
+ 1
+ 1’
+ 2
+ 2’
+ 3
+ 3’
+ 4
+4’
+Based on the mass spectra, compounds  1–4  have (relative) molecular masses of 112, 114, 112, and 106, respectively. The
+molecular mass of 114 corresponds to an alkane with the formula C8H18, indicating that 2 is an alkane (P), specifically n-octane,
+as it is a linear alkane. Fragmentation product 2’ has m/z 43, corresponding to a propyl or isopropyl cation.
+The molecular mass of 112 corresponds to hydrocarbons with the molecular formula C8H16. Therefore, 1 and 3 are an alkene
+(O) and a cycloalkane (N). The only linear alkene without cis–trans isomers is oct-1-ene. Comparing the mass spectra of 1 and 3,
+one could notice that the mass spectrum for 1 is missing the [M−15]+ peak, which corresponds to the loss of a methyl group.
+This peak should be present for a linear alkene, confirming that  3  is oct-1-ene. Alternatively, one could also use the hint
+that 3’ (m/z 70) is formed by a McLafferty rearrangement, which requires the presence of a double bond:
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 29 of 45
+
+Since 3 is an alkene, 1 is a monosubstituted cycloalkane (N) with the molecular formula C8H16. Given that the base peak 1’ in the
+mass spectrum is [M−29]+, this suggests that the substituent is an ethyl group. Consequently, 1 is ethylcyclohexane, as when an
+ethyl group is removed, a stable secondary cation is formed.
+Finally, 4 is an arene (A) with the formula C8H10. This could correspond to ethylbenzene or one of the dimethylbenzene isomers.
+The base peak 4’ is [M−15]+, indicating the loss of a methyl group. Therefore, 4 is ethylbenzene, as when a methyl is removed, a
+stabilised benzyl cation, which can rearrange into the aromatic tropylium cation, is produced.
+For compounds 1-4: 1 pt per correct structure. If the structure is incorrect, then 0.25 pt in case the molecular formula is correct,
+and 0.25 pt in case the compound is of the same class as the correct one. If no structure is given, then 0.25 pt for the molecular
+formula and 0.25 pt for the letter
+.
+For fragments 1'-4': 1 pt per correct structure. If the structure is incorrect, then 0.25 pt in case the molecular formula is correct,
+and an additional 0.25 pt in case "+" or "·+" is also given.
+7.2
+ 5
+ 6
+The mass spectrum of  5  shows a molecular peak at  m/z  72, which corresponds to C5H12. Pentane has only two branched
+isomers: 2-methylbutane and 2,2-dimethylpropane. The base peak for 5 is [M−29]+, which corresponds to loss of an ethyl group.
+Therefore, 5 is 2-methylbutane, as only this branched isomer contains an ethyl group.
+At first glance, the mass spectrum of 6 appears to have a molecular ion peak [M]+ at m/z 57, as it is the rightmost peak, along
+with the [M+1]+ peak due to 13C. However
+, since alkanes cannot have an odd molecular mass, this peak corresponds instead to
+the C4H9+ cation. What happens is that the molecular ion peak in the mass spectrum of 6 is so weak that it is not visible within
+the given scale. However
+, since the [M+1]+ peak has an intensity of ca. 5.4% relative to [M]+, one can determine that compound 6
+contains 5.4/1.1 ≈ 5 carbon atoms. Therefore,  6  is the second branched isomer of pentane, 2,2-dimethylpropane. The low
+molecular peak intensity is explained by the formation of a highly stable  tert-butyl cation upon methyl loss, which favours
+fragmentation of the molecular ion.
+Compound 5: 1 pt for the correct structure. 0.5 pt if only the correct molecular formula is given.
+Compound 6: 1 pt for the correct structure. 0.5 pt if 2,2,3,3-tetramethylbutane is given instead of 2,2-dimethylpropane. 0.5 pt if
+only the correct molecular formula is given.
+1 pt total if structures 5 and 6 are switched. 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 30 of 45
+
+7.3
+The combustion of oil gives the following products:
+[C] + 2[O] → CO2
+[H] + 0.5[O] → 0.5H2O
+[S] + 2[O] → SO2
+[N] → 0.5N2
+The reactions with H2O2 and Ba(OH)2 proceed as follows:
+SO2 + H2O2 + Ba(OH)2 → BaSO4(s) + 2H2O
+CO2 + Ba(OH)2 → BaCO3(s) + H2O
+Upon acidification with HNO3, the carbonate precipitate dissolves:
+BaCO3 + 2HNO3 → Ba(NO3)2(aq) + H2O + CO2
+Since only BaSO4 remains as the final precipitate (1 pt), we can determine the sulfur content as follows:
+n(BaSO4) = (1−0.9895)·1.395 g/233.39 g mol−1 = 6.276·10−5 mol = n(S) (1 pt)
+w(S) = 6.276·10−5 mol·32.06 g mol−1/(115·10−6 dm3∙871 g dm−3)·100% = 2.01 wt.% ⇒ sour oil (1 pt)
+7.4
+ 270 nm
+ 300 nm 
+✅ 350 nm 
+ 510 nm
+The optimal wavelength for absorbance measurements is 350 nm, as both X and Y absorb the most light at this
+wavelength. (1 pt)
+□
+□
+□
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 31 of 45
+
+7.5
+Selenite (SeO32−) is selectively determined via piazoselenol (Y) formation. This reaction’s efficiency depends on pH, as seen in
+the  S(X)/S(Y) ratio variations in the table: at low H+  concentrations, the reaction does not reach completion, while at high
+H+ concentrations, diamine (X) protonation or the formation of selenium side products occurs.
+We have acids with different properties: 
+a) HNO3 is a strong oxidiser
+, so SeO32− is oxidised to SeO42−. This is why the S(X)/S(Y) is high, as there is minimal piazoselenol (Y)
+formation. 
+b) On the other side, HI is a strong reducing agent, which seems to reduce SeO32− (and SeO42−) possibly to Se, again preventing
+piazoselenol (Y) formation and leading to increased S(X)/S(Y) ratios. 
+c) HCl and HBr provide optimal conditions (1 pt), stabilising the S(X)/S(Y) ratio in the middle of the pH range. The S(X)/S(Y) of
+0.523 obtained in HCl corresponds to the initial SeO32− content, while the ratio of 0.368 in HBr corresponds to the combined
+SeO32− and SeO42− content, as SeO42− is reduced to SeO32− by HBr
+.
+From the blank experiment, the peak area of X is 0.825 min mAbs, and its concentration after dilution is: 300 μM·0.50 mL/(9.50
+mL+0.50 mL) = 15.0 μM. Thus, the proportionality constant between peak area and the concentration of  X  is: 0.825 min
+mAbs/15.0 μM = 0.0550 min mAbs μM−1 (1 pt).
+Since the total concentration of  X  and  Y is 15.0 μM, and  Y  represents the selenite (SeO32−) concentration, we set up the
+following system of equations: 
+For HCl medium:
+[X]HCl + [SeO32−] = 15.0 (1 pt)
+0.523 = 0.0550·[X]HCl/(1.21∙[SeO32−]) (1 pt)
+For HBr medium, where additional SeO32− was formed due to reduction of SeO42−:
+[X]HBr + [SeO32−] + [SeO42−] = 15.0 (1 pt)
+0.368 = 0.0550·[X]HBr/(1.21∙([SeO32−]+[SeO42−])) (1 pt)
+Solving these equations, we obtain: 
+[SeO32−] = 1.20 μM, [SeO42–] = 0.45 μM (1 pt)
+Before dilution: 
+c(SeO32−)0 = 1.20 μM∙10 mL/9.5 mL = 1.26 μM, c(SeO42−)0 = 0.45 μM∙10 mL/9.5 mL = 0.47 μM (1 pt)
+References:
+All 
+mass 
+spectra 
+were 
+sourced 
+from: 
+NIST 
+Standard 
+Reference 
+Database 
+69: 
+NIST 
+Chemistry 
+WebBook
+(https://webbook.nist.gov/)
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 32 of 45
+
+8. Carbon monoxide: deadly poison or promising therapeutic agent?
+7.5% of the total
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+8.8
+8.9
+Total
+4
+1
+6
+3
+2
+2
+4
+8
+5
+35
+8.1
+Ox
+Red
+Same
+(a)
+✅
+(b)
+✅
+(c)
+✅
+0.5 pt reaction in (a).
+1 pt for reaction in (b) and 1 pt for reaction in (c). 
+0.5 pt for each correct tick.  
+Total = 4 pts
+8.2
+1 pt
+CO   +   1
+2 O2  →  CO2
+CxHy  +  (x + y
+4 ) O2  →  xCO2 +   y
+2 H2O
+NOx   →  1
+2 N2  +   x
+2 O2
+10  mL   min−1  CO = 5  mL   min−1  O2 =  25  mL   min−1   air
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 33 of 45
+
+8.3
+1pt
+1pt
+1pt
+1pt
+1pt
+1pt
+Total = 6 pts
+8.4
+1.5 pts for the type of overlap, 0.25 pt each.  Adding the (*) for antibonding is not a must and no marks for its addition.
+1.5 pts for filling the electrons in the orbitals correctly with spins correct. If the number of electrons is correct but the electrons a
+If the electrons are in the correct orbitals but spins are wrong/not indicated 0.5 pt.
+Total = 3 pts
+8.5
+volume   of   CO   =  60  min   ×  0. 01  dm3   min−1   =  0. 6  dm3
+amount   of   CO,  n  =
+pV
+RT   =  
+101325 Pa×0.6×10−3 m3
+8.314 J K−1  mol−1× 273.15 K   =  0. 02677  mol
+amount   of   CO2   =  0. 02677  mol   ×  0. 7  =  0. 01874  mol
+molecules   of   CO2   =  0. 01874  mol   ×  6. 022  ×  1023  mol−1 = 1. 128  ×  1022
+mass   of   Pd   at  surface :  0. 1 g  ×  0. 1  ×  0. 1  =  0. 001 g
+atoms   of   Pd   at   surface   =  
+0.001 g
+106.42 g  mol−1 ×  6. 022 × 1023  mol−1   =  5. 659  ×  1018
+molecules   CO2   per   surface   Pd   atom   =   1.128×1022
+5.659×1018 =  1. 99  ×  103 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 34 of 45
+
+in
+dec
+nc
+Ru−CO
+✅
+C−O
+✅
+1 pt each
+Total = 2 pts
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 35 of 45
+
+8.6
+ 1850 cm-1
+1930 cm-1
+2100 cm-1
+2143 cm-1
+A
+✅
+B
+✅
+C
+✅
+CO
+✅
+0.5 pt for each correctly assigned wavenumber
+.
+Total = 2 pts
+8.7
+1 pt
+Molecules of adsorbed CO:
+1 pt
+1 pt
+1 pt
+Total = 4 pts
+volume   of   adsorbed   CO   =  50 μL  ×  0. 1  ×  (0. 96 + 0. 90 + 0. 80 + 0. 50 + 0. 20)
+=  16. 8 μL
+amount   of   CO,  n  = 100000  Pa  × 1.68 × 10−8 m3
+8.314 J K−1  mol−1× 298 K
+×  6. 022  ×  1023  mol−1
+=  4. 08  ×  1017 
+Ni   surface  atoms =  4. 08  ×  1017 
+total   Ni   atoms   =  0. 015 g  ×  0. 1  ×   6.02 × 1023  mol−1
+58.69 g  mol−1
+=  1. 54  ×  1019
+%  exposed   on   surface   =   4.08 × 1017
+1.54 × 1019 × 100%  =  2. 65%
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 36 of 45
+
+8.8
+A Correct 1 pt. Mn(CO)5Br formula only 0.5 pt. 
+B correct fac with shape clear 3 pts (only one enantiomer is needed). B correct but with unclear/ambiguous shape drawing 2.0
+pts. Structures that satisfy the correct formula are given 0.5 pt (This is for formula only, a mer structure, or a structure with a
+non-coordinated Br). Any structure that does not match formula 0 pt.
+C correct fac with shape clear 2 pts (only one enantiomer is needed). C correct but with unclear/ambiguous shape drawing 1.5
+pts. Structures that satisfy the correct formula are given 0.5 pt (This is for formula only, a mer structure, or a structure with a
+non-coordinated azide). Any structure that does not match formula 0 pt. No error carried forward from B as new data given.
+D correct cis with shape clear 2 pts. D correct but with unclear/ambiguous shape drawing 1.5 pts. Structures that satisfy the
+correct formula are given 0.5 pt (This is for formula only, a trans structure, or a five-coordinated structure with a non-
+coordinated azide). Any structure that does not match formula 0 pt. No error carried forward from B as new data given.
+Total = 8 pts
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 37 of 45
+
+8.9
+E Correct 2 pts. Either enantiomer is fine. Full credit can be given for error carried forward structures from C if ligands around
+Mn have been kept the same, however
+, triazole must be drawn correctly and coordinated through correct N 2 pt. Change in
+ligands around Mn but triazole correct and correctly coordinated 1 pt. If compound F has been drawn here 1 pt. 
+F Correct 2 pts. Either enantiomer is fine. Full credit can be given for error carried forward structures from C/E if ligands
+around Mn have been kept the same, however
+, triazole must be drawn correctly and coordinated through correct N 2 pt.
+Change in ligands around Mn but triazole correct and correctly coordinated 1 pt. If compound E has been drawn here 1 pt. 
+G Correct 1 pt. Wrong triazole NH isomer 0.5 pt. Error carried forward can be given from F if wrong triazole is drawn there
+but consistent here 1 pt.
+Total = 5 pts 
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 38 of 45
+
+9. Enzymes and cofactors
+7% of the total
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+Total
+2
+6
+2
+6
+10
+12
+38
+9.1 (2 pt)
+9.2 (6 pt)
+3
+6
+8
+2 pt for each structure.
+Intermediate 3 is graded with 2 pt and intermediate 6 is graded with 1 pt if deuteration was performed at the wrong position in
+9.1 and the same wrong assumption was made for compounds 3 and 6.
+-0.5 pt if a charge is missed. 
+Alternative but correct resonance structures are graded with full points.
+6 pt total
+The completed catalytic cycle is presented below.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 39 of 45
+
+For error carried forward, if a wrong atom is deprotonated in compound 2 (e.g., methyl group, see structure “wrong 3” below);
+then structure “wrong 6” is graded partially (1 pt) since the same mistake is conserved and chemistry makes sense, however
+only partial point is gives since this structure cannot lead to intermediate 7.
+9.3 (2 pt)
+13
+2 pt total regardless of the stereochemistry; 0.5 pts if one charge is missing (cahrge is not required in case of phosphate being
+abbreviated as "P").
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 40 of 45
+
+9.4 (6 pt)
+15
+16
+17
+2 pt each (stereochemistry is not graded)
+Alternative but correct resonance structures are graded with full points.
+6 pts total
+The complete catalytic cycle is presented below.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 41 of 45
+
+Error carried forward scoring can be given in a similar manner to previously.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 42 of 45
+
+9.5 (10 pt)
+21
+22
+23
+24
+25
+2 pt each (stereochemistry is not graded). If the charge is missed, penalty of -0.5 pt is applied.
+Alternative but correct resonance structures are graded with full points.
+10 pts total
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 43 of 45
+
+The complete catalytic cycle is presented below. 
+Error carried forward scoring can be given in a similar manner to previously.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 44 of 45
+
+9.6 (12 pt)
+The correct scheme is shown with blue 3-carbon starting sugars and red 5-carbon sugar products. The TK reaction is the only
+option for K6+A3, as the TA reaction would lead to products equivalent to the starting materials (A3+K3). A4 can only react with
+K3 affording K7. The latter reacts with A3 through the TK reaction leading to two 5-carbon products (in case of the TA reaction
+the products would be 4- and 6-carbon sugars and not 5-carbon sugars).
+2.5 pt for each correct step, if correct substrates, correct product(s), and correct enzyme are given. Mistake in one of the three
+above results in 2 pt, mistake in two of the three above results in 1 pt.
+10 pt total
+Alternative correct solutions will also get full marks.
+57th IChO 2025, UAE
+Theory Marking Scheme, English (Official)
+Page 45 of 45

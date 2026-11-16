@@ -1,0 +1,1697 @@
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026  
+ 
+ 
+2026 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Chris Fowler, Chair, High Point University, NC 
+ 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Esther Hines, Billerica High School, MA (retired) 
+Amiee Modic, Duchesne Academy of the Sacred Heart, TX  
+Melanie Mai Nguyen, University of California at Irvine, CA 
+Brent Shenton, Valencia High School, CA (retired) 
+ 
+DIRECTIONS TO THE EXAMINER 
+The laboratory practical part of the National Olympiad Examination is designed to test skills related to the laboratory. Because the 
+format of this part of the test is quite different from the first two parts, there is a separate, detailed set of instructions for the examiner. 
+This gives explicit directions for setting up and administering the laboratory practical. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+There are two laboratory tasks to be completed during the 90 minutes allotted to this part of the test. Students may carry out the two 
+tasks in any order they wish and move directly from one to the other within the allotted time. Each procedure must be approved for 
+safety by the examiner before the student begins that procedure.  
+A periodic table and other useful information are provided on page two for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, watch, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period.  Please indicate on the 
+exam sheet the item replaced or refilled. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+WHEN DIRECTED, TURN TO PAGE 2 AND READ THE INTRODUCTION AND SAFETY CONSIDERATIONS 
+CAREFULLY BEFORE YOU PROCEED. There are two laboratory-related tasks for you to complete during the next 90 minutes. 
+There is no need to stop between tasks or to do them in the given order. Simply proceed at your own pace from one to the other, using 
+your time productively. You are required to have a procedure for each problem approved for safety by an examiner before you carry out 
+any experimentation on that problem. You are permitted to use a non-programmable calculator. At the end of the 90 minutes, all answer 
+sheets should be turned in. Be sure that you have filled in USNCO ID number at the top of each page. Carefully follow all directions 
+from your examiner for safety procedures and the proper disposal of chemicals at your examination site. 
+STUDENT USNCO ID: 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022  1023 mol–1 
+h = 6.626  10–34 J s 
+c = 2.998  108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 19, 2026  
+Page 3 
+ 
+ 
+Student Instructions 
+ 
+Introduction 
+These problems test your ability to design and carry out laboratory experiments and to draw conclusions from your experimental work. 
+You will be graded on your experimental design, on your skills in data collection, and on the accuracy and precision of your results. 
+Clarity of thinking and communication are also components of successful solutions to these problems, so make your written responses 
+as clear and concise as possible. 
+ 
+Safety Considerations 
+You are required to wear approved eye protection at all times during this laboratory practical. You also must follow all 
+directions given by your examiner for dealing with spills and with disposal of wastes. 
+ 
+ 
+Lab Problem 1 
+ 
+Question: You are given three mixtures that include compounds containing various forms of the carbonate ion.  Using the 
+materials provided, devise a method to rank the mixtures from lowest to highest percent of carbonates. Safety: Do not use more 
+than 2.0 grams of solid mixture for any experiment.  
+ 
+ 
+Lab Problem 2 
+ 
+Question: Unknown solutions A and B contain a measurable concentration of copper (II) ions along with other inert dyes.  Using 
+the provided materials, construct an electrochemical set-up (or device) to determine the concentration of the two unknown copper 
+(II) solutions.   
+ 
+ 
+ 
+
+ 
+Page 4 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026  
+ 
+Answer Sheet for Laboratory Practical Problem 1 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+ 
+1.  Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Provide any balanced chemical reaction equation(s) and theoretical calculation(s) that support your experimental plan. 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 
+
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 19, 2026 
+Page 5 
+3.Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Using the results from parts 2 and 3, rank the provided mixtures in terms of mass percent of carbonate (from lowest to highest). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            Unknown Mixture _______  <  Unknown Mixture _______  <  Unknown Mixture _______   
+ 
+ 
+Proctor, please provide items replaced or refilled, if any: 
+
+ 
+Page 6 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026  
+STUDENT USNCO ID: 
+Answer Sheet for Laboratory Practical Problem 2 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+ 
+1. Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Using the provided template, complete a detailed illustration of your electrochemical setup that includes all relevant components 
+properly labeled. 
+ 
+ 
+ 
+ 
+ 
+ 
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 
+
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 19, 2026 
+Page 7 
+3.  Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  Using your data, show the calculations to give the concentrations for copper (II) ions in solutions A and B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solution A copper (II) concentration: _____________________________ 
+ 
+Solution B copper (II) concentration: _____________________________ 
+ 
+ 
+ 
+ 
+ 
+Proctor, please provide items replaced or refilled, if any: 
+
+ 
+Page 8 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026  
+ 
+THIS PAGE HAS BEEN LEFT BLANK INTENTIONALLY  
+ 
+
+ 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Page 1 
+ 
+2026 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+EXAMINER’S INSTRUCTIONS 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Chris Fowler, Chair, High Point University, NC 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Esther Hines, Billerica High School, MA (retired) 
+Amiee Modic, Duchesne Academy of the Sacred Heart, TX  
+Melanie Mai Nguyen, University of California at Irvine, CA 
+Brent Shenton, Valencia High School, CA (retired) 
+ 
+Thank you for administering the 2026 USNCO laboratory practical on behalf of your Local Section. It is essential that you follow the 
+instructions provided in order to ensure consistency of results nationwide. There may be considerable temptation to assist the students 
+after they begin the lab exercise. It is extremely important that you do not lend any assistance or hints whatsoever to the students once 
+they begin work. As in international competition, the students are not allowed to speak to anyone until the activity is complete. 
+The equipment needed for each student for both lab exercises should be available at their lab station or table when the students enter the 
+room. While the students may use any of the provided materials for the two problems, the equipment should be initially separated for 
+Lab Problem #1 and for Lab Problem #2. There are also materials that are to be used for both problems.  
+Students are permitted to request one replacement or refill of a chemical during the laboratory period. Please indicate on the 
+exam sheet the item replaced or refilled. 
+It is your responsibility to ensure that all students wear approved eye protection at all times, tie back long hair into a ponytail, 
+and wear close-toed shoes during this laboratory practical. A lab coat or apron for each student is desirable but not mandatory. 
+Disposable gloves should be made available.  You will also need to give students explicit directions for handling spills and for 
+disposing of waste materials, following approved safety practices for your examination site. Please check and follow procedures 
+appropriate for your site. 
+After the students have settled, read the following instructions to the students.  
+Hello, my name is ________. Welcome to the lab practical portion of the U.S. National Chemistry Olympiad Examination. In 
+this part of the exam, we will be assessing your lab skills and your ability to reason through a laboratory problem and 
+communicate its results. Do not touch any of the equipment in front of you until you are instructed to do so.  
+You will be asked to complete two laboratory problems. All the materials and equipment you may want to use to solve each 
+problem has been set out for you and is grouped by the number of the problem. You may use any of the supplied general 
+equipment or chemicals to work on either other problem, but specific chemicals have been supplied and labeled for each of the 
+two problems. You will have one hour and thirty minutes to complete the two problems. You may choose to start with either 
+problem. You are required to have a procedure for each problem approved for safety by an examiner. (Remember that approval 
+does not mean that your procedure will be successful – it is a safety approval.) When you are ready for an examiner to come 
+to your station for each safety approval, please raise your hand. (Continued on the next page) 
+
+ 
+Page 2 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Safety is an important consideration during the lab practical. You must wear safety goggles at all times. Please wash off any 
+chemicals spilled on your skin or clothing with large amounts of tap water.  Some solutions may produce “common household 
+odors”, these are considered mild and not a general safety concern.  If you have any known chemical allergies, please alert 
+your exam proctor before starting. 
+The appropriate procedures for disposing of solutions at the end of this lab practical are:  
+Leave all unused solutions and solids in their container or return to the examiner.  The laboratory coordinator will provide any 
+necessary waste disposal instructions at the conclusion of Part III. 
+Coordinator notes on waste: 
+Any reaction mixtures from question 1 can be poured down the drain plastic bags can be disposed of in the trash.  Solid 
+carbonate mixtures can be thrown in the trash or rinsed down the drain with excess water.  Absorbent cotton pads from question 
+2 that contain very small amounts of copper (II) can be thrown in the trash or taken to your local household hazardous waste 
+(HHW) collection centers.  For remaining copper (II) solutions: 
+o 
+Can be stored and reused for other experiments. 
+o 
+You can reach out to your local university to see if they are willing to include it with their waste disposal. 
+o 
+Can be combined in one large beaker or vessel then add a piece of steel wool and let set for several days.  At this point 
+the steel wool can be disposed of in the trash and the remaining clear solution can be safely poured down the drain; 
+please note that your solutions may not lose their blue color if they contain blue food coloring. 
+We are about to begin the lab practical. Please do not turn the page until directed to do so. Read the directions on the front 
+page. Please write your USNCO Id on the cover and pages 4-7 of the booklet. Are there any questions before we begin? 
+Distribute Part III booklets and again remind students not to turn the page until the instruction is given. Part III contains student 
+instructions and answer sheets for both laboratory problems. There is a periodic table on page two of the booklet. Allow students enough 
+time to read the brief cover directions. 
+Do not turn to page three until directed to do so. When you start to work, be sure to fill out all of the information at the top of 
+the answer sheets. Are they any additional questions? 
+If there are no further questions, the students should be ready to start Part III. 
+You may begin. 
+After one hour and thirty minutes, give the following directions. 
+This is the end of the lab practical. Please stop and bring me your answer sheets. Thank you for your cooperation during this 
+portion of the exam. 
+Collect all the lab materials. Make sure that the student has filled in their ID number on each page and other required information on the 
+answer sheets. At this point, you might wish to take a few minutes to discuss the lab practical with the students. They can learn about 
+possible observations and interpretations, and you can acquire feedback as to what they actually did and how they reacted to the 
+problems.  
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Page 3 
+Please remember to return the answer sheets from Part III, the Gradescope answer sheets from Part I, and the Part II booklets 
+in the UPS Next Day return envelope you were provided to this address: 
+American Chemical Society 
+U.S. National Chemistry Olympiad  
+1155 16th Street, NW – Room 834 
+Washington, DC 20036 
+The label on the UPS Express Pak envelope should have this address and your return address already. The cost of the shipping is billed 
+to ACS USNCO. You can keep a copy of the tracking number to allow you to track your shipment. 
+Tuesday, April 21, 2026 is the absolute deadline for receipt of the exam material. Materials received after this deadline CANNOT 
+be graded. Be sure to have your envelope sent no later than Monday, April 20, 2026 for it to arrive on time.  
+THERE WIL BE NO EXCEPTIONS TO THIS DEADLINE DUE TO THE TIGHT SCHEDULE FOR GRADING THIS 
+EXAMINATION. 
+NOTE THAT THE EXAMINER WILL NEED TO INITIAL EACH STUDENT’S EXPERIMENTAL PLAN. PLEASE DO 
+NOT COMMENT ON THE PLAN OTHER THAN LOOKING FOR ANY POTENTIAL UNSAFE PRACTICES. 
+ 
+Each student should have available the following: 
+Materials needed: 
+List of supplies and reagents: 
+ 
+*Disclaimer: Links to examples of supplies do not indicate a preference or requirement of supplier, they are merely a 
+reference point to the items necessary for testing.  Feel free to order any necessary items from the supplier of your choice. 
+ 
+• 
+Each student should have: 
+o Access to an electronic balance to the 0.01 or 0.001 g. Ideally you will have one balance available for 
+every 3-4 students to avoid students spending time waiting on balances.  
+o Wash bottle with deionized water. Access to more if needed. 
+o Access to a sink. 
+o A 100 mL graduated cylinder. 
+o A long-stemmed funnel.  
+o Spatula, scoopula, or plastic spoon appropriate for weighing solid samples. 
+o 6 quart sized slider storage bags with stand/fill bottoms.  Link 1, Link 2 (see pic/link) 
+o 3 binder clips or clothes pins. (see picture) 
+o 6 Plastic weigh boats and/or weighing paper. Have plenty of extra on hand if students need more. 
+o 300 mL white vinegar or 0.8 M acetic acid (approx. 5%) with additional 150 mL upon request. To be 
+labeled as 0.8 M acetic acid. 
+o 5 grams of unknown solid A with another 3 that can be requested. 
+o 5 grams of unknown solid B with another 3 that can be requested. 
+o 5 grams of unknown solid C with another 3 that can be requested. 
+o One square, roughly 2 cm x 2 cm, of fine to medium grit sandpaper. 
+o One watch glass large enough to hold the cotton pad with electrodes; as seen in pictures. 
+o 6 Disposable plastic pipets with extra available. Available from multiple sources; here is an example. 
+These do not need to be graduated as they are in the link, any available long-stemmed Beral or transfer 
+pipet will work. 
+
+ 
+Page 4 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+o Test tube rack to hold the four samples below. 
+o 10 mL of 1.00 M Cu(NO3)2. Extra 5 mL available upon request. 
+o 10 mL of 1.00 M KNO3. Extra 5 mL available upon request. 
+o 5 mL of Unknown Cu2+ solution A. Extra 5 mL available upon request. 
+o 5 mL of Unknown Cu2+ solution B. Extra 5 mL available upon request. 
+o A voltmeter/multimeter that can measure in dc voltage (represented on the device as ⎓ ) and measures to 
+the 0.001 V.  The multimeter should have a red (positive) and black (negative) test probe with a pointed 
+metal pin.  Alligator clips are not recommended as they will move the electrodes and disrupt the 
+makeshift electrochemical cell.  Check with your physics/electronics colleagues or local 
+college/university for borrowing.  There are many options available for purchase from multiple vendors; 
+example from Amazon. Similar item from Jameco. 
+▪ 
+Have extra batteries on hand. Or, an extra multimeter or two. 
+▪ 
+Lab coordinators should tape the multimeter in the appropriate measurement setting as seen in the 
+pictures. Tape should say “do not remove”. 
+▪ 
+Lab coordinators should include a note on the multimeter warning students that multimeters may 
+auto shutoff and if this happens to simply turn the power back on. Ironically, you may need to 
+move the multimeter dial to turn it back on, make sure to check with your specific model and give 
+your students instructions accordingly. You may assist any student with getting the multimeter 
+turned back on. 
+o 8-10 100% cotton pads (pre-cut with the slits) with extra available Any pure cotton pad approximately 5.5 
+cm in diameter (see pictures) will work.  These are an inexpensive purchase from many retailers 
+(Target/Walmart/dollar stores) or Amazon; here is an amazon search for “100% cotton round”.  
+o 2 copper strips that have been polished with sandpaper; do not use copper wire. The size is flexible but 
+should be of appropriate size for the apparatus; we recommend the rough dimensions of 4-8 mm x 25-30 
+mm with a thickness no greater than 1.1 mm.  Copper strips can be purchased through a variety of 
+vendors; here is an example through Amazon. 
+o Each student will be given the watch glass with one cotton pad that has 2 slits cut on opposite sides with 
+the two copper electrodes inserted between the two slits of the cotton pad; as seen in pictures. Addition 
+cotton pads should have the slits pre-cut for students. 
+ 
+ 
+
+ 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Page 5 
+Chemistry Olympiad Lab Coordinator Instructions 
+ 
+Thank you for coordinating the lab portion of the 2026 National Chemistry Olympiad. There are two separate 
+parts to this portion of the exam. Listed below are the chemicals and suggested equipment needed for each.  
+• 
+Feel free to substitute items that are not exact matches for what you have available if it does not affect your 
+students’ chances to successfully perform the labs. This would include such things as containers and bottles.  
+• 
+Do not substitute any chemicals or quantitative equipment. It is important that all students competing across 
+the U.S. have an equal chance at successfully completing the problems.  
+• 
+It is recommended that you use reagent grade chemicals throughout.  
+• 
+If you are having trouble obtaining any of the items needed, we recommend that you reach out to the chemistry 
+department of an area college or university; they are generally very willing to help with equipment and chemicals.  
+• 
+You should also reach out to your local ACS section president or board as many sections carry a budget line for 
+their educational programs.  
+• 
+All specific materials for problem one should be identified and grouped together separately from all specific 
+materials for part two. However, students are free to use all materials and chemicals recommended for problem 
+one in problem two and vice versa if they choose to do so.  
+• 
+Be aware that students may request one refill, for each solution/mixture, during Part III so be prepared for this. 
+We suspect that the most requested will be the acetic acid, but any of the chemicals used may be requested.  
+Please make a note on the test page of what refills you have given a student. 
+• 
+There are procedures for solution and sample preparation. If you use a different hydrate form that is shown, please 
+double-check your calculations. 
+• 
+If you have any questions or concerns, please feel free to reach out to Margaret Thatcher (USNCO Program 
+Manager, M_Thatcher@acs.org) or Chris Fowler (USNCO Lab Task Force Chair, cfowler@highpoint.edu).  
+ 
+ 
+Preparation of reagents for both problems: 
+ 
+Problem One (adjust amounts proportionately based on the number of students competing) 
+ 
+1. Acetic Acid solution. 
+• 
+Distilled white vinegar (approx. 0.8 M acetic acid) can be purchased from a variety of sources.  It is 
+recommended to purchase fresh vinegar. 
+• 
+Alternatively, prepare a 0.8 M acetic acid solution.  Add 48 mL of glacial acetic acid (17.4 M, 1.049 
+g/mL) to a 1.000 L volumetric flask half filled with deionized water, cap and mix, dilute with deionized 
+water to the 1L graduation mark, cap and mix. As the concentration does not need to be exact, the dilution 
+can be done using graduated cylinders; erroring on the side of slightly greater than 0.8 M. 
+• 
+Each student will receive 300 mL of the vinegar/solution in a bottle or beaker labeled as vinegar. 
+• 
+Will be labeled as 0.8 M acetic acid. 
+ 
+2. Preparation of unknown solid A. 
+• 
+Pure baking soda, sodium bicarbonate (NaHCO3, 84.007 g/mol). Can be purchased from any source.  
+• 
+Each student receives 5.0 g and can request an additional 3.0 g. The solid can be distributed in a weigh 
+boat, beaker, or other easy to use container. 
+• 
+It is best to keep solid unknowns sealed to prevent contamination or moisture absorption.  If you are not 
+providing students with containers that are capped or covered with parafilm, keep the stock mixtures 
+sealed until just before administering the lab exercise. 
+ 
+
+ 
+Page 6 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+3. Preparation of unknown solid B. 
+• 
+For the preparation of 100.0 g of mixture place 63.0 g of sodium carbonate (Na2CO3 105.99 g/mol) and 
+37.0 g of powdered sugar in a mortar, beaker, or other container to mix.  Mix thoroughly, breaking up all 
+chunks until you obtain a uniform consistency.  
+▪ 
+Sodium carbonate should be anhydrous and 98%+ purity.  Available from multiple sources.  
+▪ 
+Powdered sugar can be purchased from any source. 
+• 
+Each student receives 5.0 g and can request an additional 3.0 g. The solid can be distributed in a weigh 
+boat, beaker, or other easy to use container. 
+• 
+It is best to keep solid unknowns sealed to prevent contamination or moisture absorption.  If you are not 
+providing students with containers that are capped or covered with parafilm, keep the stock mixtures 
+sealed until just before administering the lab exercise. 
+ 
+4. Preparation of unknown solid C.   
+• 
+For the preparation of 100.0 g of mixture place 33.3 g of sodium bicarbonate (NaHCO3, 84.007 g/mol), 
+42.0 g of sodium carbonate (Na2CO3, 105.99 g/mol) and 24.7 g of powdered sugar in a mortar, beaker, or 
+other container to mix.  Mix thoroughly, breaking up all chunks until you obtain a uniform consistency. 
+• 
+Each student receives 5.0 g and can request an additional 3.0 g. The solid can be distributed in a weigh 
+boat, beaker, or other easy to use container.  
+• 
+It is best to keep solid unknowns sealed to prevent contamination or moisture absorption.  If you are not 
+providing students with containers that are capped or covered with parafilm, keep the stock mixtures 
+sealed until just before administering the lab exercise. 
+ 
+Problem Two (adjust amounts proportionately based on the number competing) 
+ 
+5. Preparation of 1.00 M Cu(NO3)2 
+• 
+Materials needed: for 100 mL of solution you will use a 100 mL volumetric flask, a balance with a 
+precision of .01 g, deionized water.  
+o To scale up to larger volumes of solutions as necessary for your number of students you can use 
+250 or 500 mL flasks. 
+• 
+Copper(II) nitrate hemi(pentahydrate), CuN2O6·2.5H2O, 98% (232.59 g/mol)  
+• 
+It is ok to substitute with other hydrate forms that are at least 95% purity. You may need to recalculate the 
+mass you will need for solution prep. 
+• 
+Do not substitute with sulfate or chloride salts. 
+• 
+The total volume of solution needed should be based on at least 15 mL per student, this will allow for the 
+10 mL initially provided and having at least an additional 5 mL per student on hand to cover unforeseen 
+events or extra sample requests. You will also use the 1.00 M copper (II) nitrate solution to make the 
+dilutions, so you should account for this in your preparations. 
+• 
+Using a tared balance, weigh out copper (II) nitrate 23.26 g (100 mL volumetric) 
+o 58.15 g (if using a 250 mL volumetric flask), or 116.30 g (if using a 500 mL volumetric flask) 
+• 
+Half-fill the volumetric flask with DI water, add the copper (II) nitrate, rinse the remaining solid into the 
+flask with DI water, dissolve the solute, dilute with DI water to the graduation mark, and mix the solution 
+thoroughly. 
+• 
+10 mL of the solution can be delivered to each student in a labeled test tube with a pipet. An extra 5 mL 
+may be requested. An appropriately sized beaker, vial, or container can be used for the solution if a test 
+tube and rack are not available. 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Page 7 
+6. Preparation of Unknown copper(II) solution A, 0.100 M Cu(NO3)2 
+• 
+Materials needed: for 100 mL of solution you will use a 100 mL volumetric flask, volumetric pipet (5 or 
+10 mL), any variety of blue food coloring, and deionized water. 
+o To scale up to larger volumes of solutions as necessary for your number of students you can use 
+250 or 500 mL flasks and 10 or 25 mL volumetric pipets. 
+• 
+Using a volumetric pipet (or appropriately sized graduated cylinder if necessary), transfer 10.0 mL of the 
+1.00 M copper (II) nitrate solution to the volumetric flask. 
+o 25.00 mL to a 250 mL flask, or 50 mL to a 500 mL flask. 
+• 
+Fill about halfway with DI water and add 1 drop of blue food coloring for every 100 mL of solution.  
+• 
+Dilute with DI water to the graduation mark and mix the solution thoroughly. 
+• 
+The total volume of solution needed should be based on at least 10 mL per student (5 mL given initially 
+and the potential they ask for 5 mL refill), however we recommend having some additional on hand to 
+cover unforeseen events. You will also use the 0.10 M copper (II) nitrate solution to make the following 
+dilution, so you should account for this in your preparations. 
+ 
+7. Preparation of Unknown copper (II) solution B 0.0100 M Cu(NO3)2 
+• 
+Materials needed: for 100 mL of solution you will use a 100 mL volumetric flask, volumetric pipet (5 or 
+10 mL), any variety of blue food coloring, and deionized water. 
+o To scale up to larger volumes of solutions as necessary for your number of students you can use 
+250 or 500 mL flasks and 10 or 25 mL volumetric pipets. 
+• 
+Using a volumetric pipet, transfer 10 mL of the 0.1000 M copper (II) nitrate solution to the volumetric 
+flask. 
+o 25.00 mL to a 250 mL flask or 50 mL to a 500 mL flask. 
+• 
+Fill about halfway with DI water and add 1 drop of blue food coloring for every 100 mL of solution. 
+• 
+Dilute with DI water to the graduation mark and mix the solution thoroughly. 
+• 
+The total volume of solution needed should be based on at least 10 mL per student (5 mL given initially 
+and the potential they ask for 5 mL refill), however we recommend having an additional 5 mL per student 
+on hand to cover unforeseen events. 
+ 
+8. Preparation of 1.00 M KNO3 
+• 
+Materials needed: for 100 mL of solution you will use a 100 mL volumetric flask, electronic balance with 
+a precision of .01 g, and deionized water. 
+o To scale up to larger volumes of solutions as necessary for your number of students you can use 
+250 or 500 mL flasks. 
+• 
+Potassium nitrate, KNO3, ACS Reagent Grade (101.10 g/mol)  
+• 
+It is ok to substitute with other hydrate forms that are at least 95% purity. You may need to recalculate the 
+mass you will need for solution prep. 
+• 
+OK, but not preferred, to substitute KCl. 
+• 
+The total volume of solution needed should be based on at least 15 mL per student (10 mL given initially 
+and the potential they ask for 5 mL refill), however we recommend having some additional on hand to 
+cover unforeseen events.  
+• 
+Using a tared balance, weigh out copper (II) nitrate 23.26 g. 
+o 58.15 g for 250 mL or 116.30 g for 500 mL. 
+• 
+Half-fill the volumetric flask with DI water, add the copper (II) nitrate, rinse the remaining solid into the 
+flask with DI water, dissolve the solute, dilute with DI water to the graduation mark, and mix the solution 
+thoroughly. 
+• 
+The total volume of solution needed should be based on at least 10 mL per student, however we 
+recommend having an additional 5-10 mL per student on hand to cover unforeseen events. 
+
+ 
+Page 8 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Setup on Test Day  
+ 
+1. Group the following materials together for problem one 
+• 
+Labeled container with acetic acid 
+• 
+Labeled containers of the unknown solid mixtures 
+ 
+2. Group the following materials together for problem two 
+• 
+Watch glass with cotton round and copper electrodes 
+• 
+Extra cotton rounds 
+• 
+Vials/test tubes with the 3 copper solutions and potassium nitrate solution; test tube rack if needed. 
+ 
+3. Group the following materials together that might be used for both problems 
+• 
+Wash bottle with DI water 
+• 
+Disposable pipets 
+• 
+Quart sized slider bags 
+• 
+100 mL graduated cylinder 
+• 
+Long-stemmed funnel 
+• 
+Multimeter 
+• 
+Piece of sandpaper 
+• 
+Spatula, scoopula, or plastic spoon 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Page 9 
+Suggested Set-up Photos 
+ 
+ 
+ 
+Question 2 solutions. Test tubes and a rack work well 
+but you can use any appropriately sized containers. 
+ 
+ 
+Question 2 acetic acid.  Use the best container option 
+you have available. 
+  
+Absorbent cotton pads. 
+ 
+   
+ 
+Cutting slits into the cotton pad. Fold in half, cut two 
+slits on each end of the semi-circle. 
+
+ 
+Page 10 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+ 
+A voltmeter/multimeter that can measure in dc voltage 
+(represented on the device as ⎓ ) and measures to the 
+0.001 V 
+ 
+ 
+If multimeter has an auto-shutoff the voltage 
+measurement setting may need to be moved to turn it 
+back on.  Please help your students if this happens to 
+ensure that they get back to the proper setting. 
+ 
+Watch glass has the cotton pad with copper strips placed 
+through the slits. Extra pre-slit cotton pads are provided. 
+ 
+ 
+ 
+Examples of clothes pin or binder clips options. 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – 2026 USNCO National Exam Part III Examiner’s Instructions 
+Page 11 
+ 
+ 
+Question 1 chemicals. Acetic acid (0.8 M) in a Nalgene, 
+beaker, or other appropriate container. Solids can be 
+distributed in a covered weigh boat or other container 
+that allows for the solid to be easily scooped out and 
+weighed. 
+ 
+ 
+        
+Copper(II) nitrate 
+ 
+ 
+ 
+Potassium nitrate 
+ 
+ 
+ 
+
+Page 4 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 19, 2026
+Answer Sheet for Laboratory Practical Problem 1 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+1.
+Give a brief description of your experimental plan.
+Sample plan, up to 5 pts
+1.
+Label slider plastic bag to identify sample
+2.
+Measure “mass” 1.0 g of sample, carefully transfer to the bag. Preferably in a corner opposite to the closing end
+of the slider. Push out as much air as possible and insert the funnel into the corner near where the slide fully
+closes.
+3.
+Measure enough 0.8M acetic acid solution to ensure complete reaction of the carbonate sample.
+4.
+Support volume choice with reaction equations and theoretic calculations in Q2
+5.
+Pour the acetic acid solution into the plastic bag using the funnel, immediately slide it close.
+6.
+Make sure the carbonate sample has completely reacted, and none of the gases produced leak out of the bag.
+7.
+Set aside to compare with next sample.
+8.
+Compare the relative sizes of the inflated bags.
+** Titration methods will not differentiate carbonate content. 
+** While it was not intended that students use electronic balances to weigh zipper bags of solutions, there were no instructions 
+indicating that they could not do this.  This was method that yielded accurate results. 
+2. Provide any balanced chemical reaction equation(s) and theoretical calculation(s) that support your experimental plan.
+4 total pts or 2 pts each for showing or indicating stoichiometry difference with carbonate and bicarbonate 
+(carbonate) X2CO3 (s) + 2 CH3CO2H (aq) → 2 CH3CO2X (aq) + H2O (l) + CO2 (g)  
+(bicarbonate) XHCO3 (s) + CH3CO2H (aq) → CH3CO2X (aq)+ H2O (l) + CO2 (g) 
+If using 1.00 g of solid that contains the carbonate ion, the amount of vinegar needed and CO2 produced can be shown using common 
+carbonates.  Showing variations, up to 6 pts. 
+1.00 𝑔 𝑁𝑎𝐻𝐶𝑂3 ∗ 1 𝑚𝑜𝑙
+84.007 𝑔∗
+1 𝑚𝑜𝑙 𝐻+
+1 𝑚𝑜𝑙 𝐻𝐶𝑂3
+−∗
+1 𝐿
+0.83 𝑚𝑜𝑙 𝐻+ = 0.014 𝐿, 14 𝑚𝐿 𝑎𝑐𝑖𝑑 
+1.0 𝑔 𝑁𝑎𝐻𝐶𝑂3 ∗ 
+1 𝑚𝑜𝑙
+84.007 𝑔∗
+1 𝑚𝑜𝑙 𝐶𝑂2
+1 𝑚𝑜𝑙 𝐻𝐶𝑂3
+−∗
+𝑅𝑇
+𝑃(
+0.08206 𝐿∗𝑎𝑡𝑚
+𝑚𝑜𝑙∗𝐾∗298𝐾
+1 𝑎𝑡𝑚
+) = 0.291 𝐿 𝐶𝑂2(g)
+(students may have asked for Temp and Pressure of the room, or assumed 273K and 1.00 atm.) 
+1.00 𝑔 𝑁𝑎2𝐶𝑂3 ∗ 1 𝑚𝑜𝑙
+105.99 𝑔∗
+2 𝑚𝑜𝑙 𝐻+
+1 𝑚𝑜𝑙 𝐻𝐶𝑂3
+−∗
+1 𝐿
+0.83 𝑚𝑜𝑙 𝐻+ = 0.023 𝐿, 23 𝑚𝐿 𝑎𝑐𝑖𝑑 
+1.00 𝑔 𝑁𝑎2𝐶𝑂3 ∗ 
+1 𝑚𝑜𝑙
+105.99 𝑔∗
+1 𝑚𝑜𝑙 𝐶𝑂2
+1 𝑚𝑜𝑙 𝐶𝑂3
+2−∗
+𝑅𝑇
+𝑃(
+0.08206 𝐿∗𝑎𝑡𝑚
+𝑚𝑜𝑙∗𝐾∗298𝐾
+1 𝑎𝑡𝑚
+) = 0.231 𝐿 𝐶𝑂2(g)
+1.00 𝑔 𝐿𝑖2𝐶𝑂3 ∗ 1 𝑚𝑜𝑙
+73.89 𝑔∗
+2 𝑚𝑜𝑙 𝐻+
+1 𝑚𝑜𝑙 𝐻𝐶𝑂3
+−∗
+1 𝐿
+0.83 𝑚𝑜𝑙 𝐻+ = 0.033 𝐿, 33 𝑚𝐿 𝑎𝑐𝑖𝑑 
+Probably unlikely that salt is pure lithium carbonate, should use excess acid to completely react all carbonates, therefor should use at 
+least 35 mL vinegar per gram of solid unknown. 
+STUDENT USNCO ID: 
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026 
+Page 5 
+3.Record your data/observations.
+Sample data table.  Masses of unknowns should be consistent within a set.  Volume of vinegar should be consistent and in excess. 
+More than one data set preferred. 6 total pts 
+Sample Data for qualitative observations of gas filling bags 
+Unknown Solid 
+Mass of Unknown 
+Solid 
+Volume of 
+Vinegar 
+Bag Inflation 
+Volume 
+A 
+1.009 g 
+40 mL 
+Mostly full 
+A 
+1.011 g 
+40 mL 
+Mostly full 
+B 
+0.995 g 
+40 mL 
+Minimally full 
+B 
+1.004 g 
+40 mL 
+Minimally full 
+C 
+1.011 g 
+40 mL 
+Moderately full 
+C 
+0.998 g 
+40 mL 
+Moderately full 
+Sample Data for quantitative observations of mass lost 
+Unknown 
+Solid 
+Mass of 
+Unknown Solid 
+Mass 
+Vinegar 
+Final 
+Mass 
+Mass CO2  
+(mass CO32-  mass CO2) 
+A 
+1.009 g 
+40.012 g 
+40.493 g 
+0.528 g 
+A 
+1.011 g 
+41.234 g 
+41.715 g 
+0.530 g 
+B 
+0.995 g 
+40.349 g 
+41.084 
+0.260 g 
+B 
+1.004 g 
+40.253 g 
+40.994 
+0.263 g 
+C 
+1.011 g 
+41.045 g 
+41.703 
+0.353 g 
+C 
+0.998 g 
+40.874 g 
+41.524 
+0.348 g 
+Might show a drawing or give a description of the inflated bag being rolled and clipped. This allows for better visualization of the 
+differences in the inflation volumes 
+If attempting to titrate, data for similar mass samples of A-C should give similar volume of vinegar.  Not able to differentiate. 
+4. Using the results from parts 2 and 3, rank the provided mixtures in terms of carbonate mass percent (from lowest to highest).
+Student answer may not be correct but should be based on their collected data/observations. Students should comment on sources of 
+error 4 total points. 
+ ___ 
+Mixture B (36%)  <  Mixture C (48%)  <  Mixture A (71%) 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 
+
+Page 6 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 19, 2026
+Answer Sheet for Laboratory Practical Problem 2 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+1. Give a brief description of your experimental plan.
+Sample plan, up to 5 pts 
+1)
+Use provided cotton pad as an electrochemical cell
+2)
+Polish copper strips with sandpaper.
+3)
+Pull cotton pads apart on opposite ends and insert the copper strips on either end so that about half of the strip is between the
+cotton and the remaining half is sticking out; just like the cotton pad with copper strips that was provided.
+4)
+Place pad with electrodes on watch glass.
+5)
+Carefully saturate the cotton around the copper electrodes. One side with the 1.0M Cu2+ solution, the other side with the
+unknown Cu2+ solution.
+6)
+Connect the two solutions using the 1.0 M KNO3 to serve as the salt bridge.
+7)
+Use the multimeter to record the cell potential.  The red (+) lead should go to the cathode and the black (-) lead should go to the
+anode. (students may reverse this not knowing if the unknown solution is higher or lower than 1.0 M, which will lead to a
+negative Ecell)
+8)
+Determine unknown concentration using the Nernst Equation.
+2. Using the provided template, complete a detailed illustration of your electrochemical setup that includes all relevant components
+properly labeled. 8 total points
+     Anode/Cathode may be flipped giving a negative voltage 
+  May show half reactions or cell notation 
+Anode/Oxidation Cu(s) → Cu2+ (aq, dilute) + 2 e- 
+Cathode/Reduction.  Cu2+ (aq, conc or 1.0M) + 2 e- → Cu(s) 
+ Cu(s)  Cu2+ (aq, dilute)   Cu2+ (aq, conc or 1.0M)   Cu(s)        
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 19, 2026 
+Page 7 
+3. Record your data/observations.
+6 total points 
+Cell by be run in reverse/flipped, giving a negative voltage. Multiple trials in table should be expected. Student may take average for 
+Ecell 
+Anode Cu2+ 
+Unknown 
+Cathode Cu2+ 
+Eocell (May be 
+measured non-zero 
+value or assumed 
+zero of a 
+1.0M/1.0M cell) 
+Ecell 
+A 
+1.0 M 
+0.000 V 
++0.030 V
+A 
+1.0 M 
+0.000 V 
++0.039 V
+A 
+1.0 M 
+0.000 V 
++0.029 V
+B 
+1.0 M 
+0.000 V 
++0.044 V
+B 
+1.0 M 
+0.000 V 
++0.043 V
+B 
+1.0 M 
+0.000 V 
++0.059 V
+4. Show all calculations for:  6 total points
+a)
+Concentration of Cu2+ in unknown solution A:  (0.100 M)
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+ 𝑄= 
+[𝐶𝑢2+]𝑎𝑛𝑜𝑑𝑒
+[𝐶𝑢2+]𝑐𝑎𝑡ℎ𝑜𝑑𝑒
+ −
+𝑅𝑇
+𝑛𝐹= 
+−1 (8.314
+𝐽
+𝑚𝑜𝑙 𝐾)(298 𝐾)
+(2 𝑚𝑜𝑙 𝑒−)(96500
+𝐽
+𝑉 𝑚𝑜𝑙) = −0.012837 𝑉 
+For a Concentration Cell, Eo = 0.00 V. 
+ ln 𝑄= 
+𝐸− 𝐸𝑜
+−0.012837 𝑉= 
+0.030𝑉−0.000 𝑉
+−0.012837 𝑉
+= −2.337 
+𝑄= 𝑒−2.337 = 0.0966    𝑄= 
+[𝐶𝑢2+ 𝑎𝑛𝑜𝑑𝑒]
+[𝐶𝑢2+  𝑐𝑎𝑡ℎ𝑜𝑑𝑒] →
+0.0966 =
+𝑋
+1.0 𝑀→𝑋= 0.0966 𝑀 =
+Triall 2: X = 0.0480 M. 
+ Trial 3: X = 0.104 M. 
+ Unknown A avg = 0.0830 M  students may have used avg Ecell 
+b)
+Concentration of Cu2+ in unknown solution B:  (0.0100 M) shown as if +/- voltmeter leads were flipped.
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+ 𝑄= 
+[𝐶𝑢2+]𝑎𝑛𝑜𝑑𝑒
+[𝐶𝑢2+]𝑐𝑎𝑡ℎ𝑜𝑑𝑒
+ −
+𝑅𝑇
+𝑛𝐹= 
+−1 (8.314
+𝐽
+𝑚𝑜𝑙 𝐾)(298 𝐾)
+(2 𝑚𝑜𝑙 𝑒−)(96500
+𝐽
+𝑉 𝑚𝑜𝑙) = −0.012837 𝑉 
+For a Concentration Cell, Eo = 0.00 V. 
+ ln 𝑄= 
+𝐸− 𝐸𝑜
+−0.012837 𝑉= 
+−0.044𝑉−0.000 𝑉
+−0.012837 𝑉
+= 3.428 
+𝑄= 𝑒3.428 = 30.801    𝑄= 
+[𝐶𝑢2+ 𝑎𝑛𝑜𝑑𝑒]
+[𝐶𝑢2+  𝑐𝑎𝑡ℎ𝑜𝑑𝑒] →
+30.801 = 
+1.0 𝑀
+𝑋
+→𝑋= 0.0325 𝑀 = students may have used avg Ecell
+Trial 2: X = 0.0351 M. 
+ Trial 3: X = 0.0101 M 
+ Unknown B avg = 0.0259 M. Should show lower concentration than A 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+Examiner’s Initials: ________ 

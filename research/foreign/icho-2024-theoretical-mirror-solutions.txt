@@ -1,0 +1,3293 @@
+Theory
+G0-1
+English (Official)
+General Instructions
+• This examination has 9 problems delivered in two booklets. This question booklet has 29 pages
+and contains the problems with numbered questions translated to the language of your choice.
+The answer booklet has 28 pages and contains numbered boxes corresponding to the questions.
+Only language-independent symbols and formulas are used in the answer booklet.
+• You may begin working as soon as the START command is given. You will then have 5 hours to
+complete the exam.
+• All results must be written with pen in the appropriate answer boxes of the answer booklet. If you
+must write outside of the designated box, make a note in the box. Keep your answer on the same
+page.
+• Only the answer booklet is collected. Do not separate the pages of the stapled answer booklet.
+• Do not write on the back sides of the answer booklet! Markers will only see the printed sides of the
+answer booklet. Use the back sides of the question booklet if you need scratch paper. Do not draw
+anything into or close to the QR codes.
+• Write relevant calculations in the appropriate boxes when necessary. Full marks will be given for
+correct answers only when your work is shown.
+• For the multiple choice questions, if you want to change your answer, fill the tick box completely
+and then make a new box next to it.
+• Use only the pen and calculator provided.
+• The official English version of this examination is available on request for clarification only.
+• If you need a toilet break or any assistance, or want to review the official English version, raise your
+hand.
+• The supervisors will announce a 30-minute warning before the STOP command. You must stop
+working when the STOP command is given. Failure to stop writing can lead to the nullification of
+your examination.
+• After the supervisor tells you to do so, put only your answer booklet back into the envelope. You
+can keep the question booklet. Do not seal the envelope.
+GOOD LUCK!
+
+Theory
+G0-2
+English (Official)
+Avogadro constant:
+𝘕𝘈= 𝟨.𝟢𝟤𝟤⋅𝟣𝟢𝟤𝟥mol
+−𝟣
+Gas constant:
+𝘙= 𝟪.𝟥𝟣𝟦J mol
+−𝟣K−𝟣
+Ionic product of water
+at 298.15 K:
+𝘒𝘸= 𝟣𝟢−𝟣𝟦
+Zero of the Celsius
+scale:
+𝟢∘C = 𝟤𝟩𝟥.𝟣𝟧K
+Faraday constant:
+𝘍= 𝟫𝟨𝟦𝟪𝟧C mol
+−𝟣
+Planck constant:
+𝘩= 𝟨.𝟨𝟤𝟨⋅𝟣𝟢−𝟥𝟦J s
+Speed of light:
+𝘤= 𝟤.𝟫𝟫𝟪⋅𝟣𝟢𝟪m s−𝟣
+Standard pressure:
+𝘱∘= 𝟣⋅𝟣𝟢𝟧Pa = 𝟣bar
+Ideal gas law:
+𝘱𝘝= 𝘯𝘙𝘛
+Beer-Lambert law:
+𝘈= log( 𝘐𝟢
+𝘐) = 𝜀⋅𝘭⋅𝘤
+Enthalpy:
+𝘏= 𝘜+ 𝘱𝘝
+Gibbs energy:
+𝘎= 𝘏−𝘛𝘚
+∆𝘳𝘎𝘰= −𝘙𝘛𝘭𝘯𝘒= −𝘯𝘍𝘌𝘰
+𝘤𝘦𝘭𝘭
+Henderson-
+Hasselbalch equation:
+pH = pKa + log( [𝘈−]
+[𝘏𝘈])
+Arrhenius equation:
+𝘬= 𝘈exp ( −𝘌𝘈
+𝘙𝘛)
+Zeroth order
+integrated rate law:
+[𝘈] = [𝘈]𝟢−𝘬𝘵
+Surface of a sphere:
+𝘈= 𝟦𝜋𝘙𝟤
+First order integrated
+rate law:
+ln[𝘈] = ln[𝘈]𝟢−𝘬𝘵
+Volume of a sphere:
+𝘝= 𝟦𝜋
+𝟥𝘙𝟥
+∑
+∞
+𝘬=𝟢𝘢𝘳𝘬=
+𝘢
+𝟣−𝘳
+for |𝘳| < 𝟣
+1H NMR chemical shifts (in ppm/TMS)
+Ar-OH 
+R-OH 
+alkenes
+Ar-H
+≡
+CH
+R-COOH 
+CH3—NR2
+CH3—
+SiR3
+R-CHO
+CH3—OR
+ketones
+CH3—CR3
+11.0
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+Translation for region names
+
+Theory
+G0-3
+English (Official)
+Periodic table
+1 
+18 
+1 
+H 
+1.008
+2 
+13 
+14 
+15 
+16 
+17 
+2 
+He
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01 
+5 
+B
+10.81
+6 
+C 
+12.01
+7 
+N 
+14.01
+8 
+O
+16.00
+9 
+F 
+19.00
+10 
+Ne
+20.18 
+11 
+Na
+22.99 
+12 
+Mg
+24.30 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Al 
+26.98
+14 
+Si 
+28.09
+15 
+P
+30.97
+16 
+S
+32.06
+17 
+Cl 
+35.45
+18 
+Ar
+ 
+39.95
+19 
+K
+39.10
+20 
+Ca
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87
+23 
+V
+50.94
+24 
+Cr
+52.00 
+25 
+Mn
+54.94 
+26 
+Fe
+55.85 
+27 
+Co
+58.93 
+28 
+Ni 
+58.69
+29 
+Cu
+63.55 
+30 
+Zn
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br
+ 
+79.90
+36 
+Kr 
+83.80
+37 
+Rb
+85.47 
+38 
+Sr 
+87.62
+39 
+Y
+88.91
+40 
+Zr
+ 
+91.22
+41 
+Nb
+92.91 
+42 
+Mo
+95.95 
+43 
+Tc
+-
+44 
+Ru
+101.1 
+45 
+Rh
+102.9 
+46 
+Pd
+ 
+106.4 
+47 
+Ag
+ 
+107.9 
+48 
+Cd
+112.4 
+49 
+In
+ 
+114.8
+50 
+Sn
+ 
+118.7 
+51 
+Sb
+121.8 
+52 
+Te
+127.6 
+53 
+I
+126.9
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57-71
+72 
+Hf
+178.5
+73 
+Ta
+180.9 
+74 
+W 
+183.8
+75 
+Re
+186.2 
+76 
+Os
+190.2 
+77 
+Ir 
+192.2
+78 
+Pt
+ 
+195.1
+79 
+Au
+ 
+197.0 
+80 
+Hg
+200.6 
+81 
+Tl 
+204.4
+82 
+Pb
+ 
+207.2 
+83 
+Bi 
+209.0
+84 
+Po 
+-
+85 
+At
+ 
+-
+86 
+Rn
+-
+87 
+Fr
+ 
+-
+88 
+Ra
+-
+89-
+103 
+104 
+Rf
+-
+105 
+Db
+-
+106 
+Sg
+ 
+-
+107 
+Bh
+ 
+-
+108 
+Hs 
+-
+109 
+Mt
+-
+110 
+Ds 
+-
+111 
+Rg
+-
+112 
+Cn
+-
+113 
+Nh
+-
+114 
+Fl 
+-
+115 
+Mc
+-
+116 
+Lv
+-
+117 
+Ts
+-
+118 
+Og
+ 
+-
+57 
+La 
+138.9 
+58 
+Ce
+140.1 
+59 
+Pr
+ 
+140.9
+60 
+Nd
+144.2 
+61 
+Pm
+ 
+-
+62 
+Sm
+ 
+150.4 
+63 
+Eu
+ 
+152.0 
+64 
+Gd
+ 
+157.3 
+65 
+Tb
+158.9 
+66 
+Dy
+ 
+162.5 
+67 
+Ho
+164.9 
+68 
+Er 
+167.3
+69 
+Tm
+ 
+168.9 
+70 
+Yb
+ 
+173.0 
+71 
+Lu
+ 
+175.0 
+89 
+Ac 
+-
+90 
+Th
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0
+93 
+Np
+-
+94 
+Pu
+ 
+-
+95 
+Am
+ 
+-
+96 
+Cm
+-
+97 
+Bk 
+-
+98 
+Cf
+-
+99 
+Es 
+-
+100 
+Fm
+ 
+-
+101 
+Md
+-
+102 
+No
+-
+103 
+Lr
+ 
+-
+
+Theory
+G0-4
+English (Official)
+Problems and Grading Information
+Title
+Question pages
+Answer pages
+Total score
+Percentage
+1
+Ammonia
+3
+5
+24
+7.5
+2
+Electronic nose
+3
+2
+12
+6
+3
+Tyrosinase
+4
+4
+31
+7.5
+4
+Potassium
+2
+3
+21
+6
+5
+Unknown
+2
+3
+44
+6
+6
+Penicillin
+3
+2
+38
+6
+7
+SABIC
+5
+3
+23
+7.5
+8
+Safflower
+3
+2
+38
+6
+9
+Porphyrin complexes
+4
+4
+35
+7.5
+Total
+60
+
+Theory
+Q1-1
+English (Official)
+Problem 1 Ammonia
+The Haber–Bosch process to produce ammonia from nitrogen and hydrogen is one of the most impactful
+industrial processes in history and estimated to sustain around half of today’s population. The process
+typically occurs at constant temperature and pressure, 400 ∘C and 100 bar, respectively. Equilibrium be-
+tween the reactants and the product is established over Fe-based catalysts in the reactor.
+The standard gas phase thermochemistry data of N2, H2, and NH3 are shown below. Assume the enthalpy
+and entropy of the reaction are temperature independent.
+N2(g)
+H2(g)
+NH3(g)
+Δ𝑓𝐻∘/(kJ mol−1)
+0
+0
+−45.9
+𝑆∘/(J mol−1 K−1)
+191.6
+130.7
+192.8
+
+Theory
+Q1-2
+English (Official)
+1.1
+Find the molar nitrogen conversion (in percent) to ammonia under the produc-
+tion conditions from a stoichiometric mixture of nitrogen and hydrogen. Show
+your calculations for partial credit. If you cannot find a result, use 66% in subse-
+quent calculations.
+SOLUTION:
+A balanced equation for the ammonia synthesis reaction: N2(g) + 3 H2(g) −
+−
+⇀
+↽
+−
+−
+2 NH3(g)
+Standard reaction enthalpy:
+Δ𝘏∘= 𝟤Δ𝘧𝘏∘(NH𝟥) −𝟥Δ𝘧𝘏∘(H𝟤) −Δ𝘧𝘏∘(N𝟤)
+Δ𝘏∘= 𝟤(−𝟦𝟧.𝟫kJ mol
+−𝟣) = −𝟫𝟣.𝟪kJ mol
+−𝟣
+Standard reaction entropy:
+Δ𝘚∘= 𝟤𝘚∘(NH𝟥) −𝟥𝘚∘(H𝟤) −𝘚∘(N𝟤)
+Δ𝘚∘= [𝟤(𝟣𝟫𝟤.𝟪) −𝟥(𝟣𝟥𝟢.𝟩) −(𝟣𝟫𝟣.𝟨)]( J mol
+−𝟣K−𝟣) = −𝟣𝟫𝟪.𝟣J mol
+−𝟣K−𝟣
+The change in Gibbs free energy at 400 ∘C
+Δ𝘎𝟦𝟢𝟢∘𝘊= Δ𝘏∘−𝘛Δ𝘚∘= (−𝟫𝟣.𝟪kJ mol
+−𝟣) −(𝟨𝟩𝟥.𝟣𝟧K)(−𝟣𝟫𝟪.𝟣J mol
+−𝟣K−𝟣)
+Δ𝘎𝟦𝟢𝟢∘𝘊= +𝟦𝟣.𝟨kJ/mol
+The equilibrium constant at 400 ∘C:
+𝘒𝟦𝟢𝟢∘𝘊= exp (−Δ𝘎
+𝘙𝘛) = exp (
+−𝟦𝟣, 𝟨𝟢𝟢
+𝟪.𝟥𝟣𝟦𝟧(𝟨𝟩𝟥.𝟣𝟧)) = 𝟧.𝟫𝟤⋅𝟣𝟢−𝟦
+For a stoichiometric mixture ( N2 ∶H2 = 1 ∶3), at equilibrium, the governing
+equation is:
+𝘒= ( 𝘱∘
+𝘱𝘵𝘰𝘵𝘢𝘭
+)
+𝟤
+(𝘺NH𝟥)
+𝟤
+(𝘺N𝟤) (𝘺H𝟤)
+𝟥= ( 𝘱∘
+𝘱𝘵𝘰𝘵𝘢𝘭
+)
+𝟤(𝟤𝘹)𝟤(𝟦−𝟤𝘹)𝟤
+(𝟣−𝘹)(𝟥−𝟥𝘹)𝟥
+√𝟤𝟩𝘒(𝘱𝘵𝘰𝘵𝘢𝘭/𝘱∘)𝟤(𝟣−𝘹)𝟤= (𝟤𝘹)(𝟦−𝟤𝘹)
+Solving for 𝘱𝘵𝘰𝘵𝘢𝘭= 𝟣𝟢𝟢bar and 𝘒= 𝟧.𝟫𝟤⋅𝟣𝟢−𝟦gives 𝘹= 𝟢.𝟧𝟣(51%N2conversion)
+7 pt
+One of the reactants in the Haber–Bosch process is hydrogen, mainly produced by steam reforming of
+methane. The two-step process starts with CH4 reacting with water to produce H2 and CO. In a subse-
+quent step, CO reacts with water to form CO2 and additional hydrogen.
+
+Theory
+Q1-3
+English (Official)
+1.2
+Write the overall reaction equation for the combined process. Give the mass
+of CO2 produced in the reaction per 1.0 kg of H2 (mCO2).
+SOLUTION:
+The overall reaction:
+CH4 + 2 H2O −
+−
+→CO2 + 4 H2
+For 1.0 kg of H2 produced in this process, 44/8 = 5.5 kg CO2 is coproduced.
+2 pt
+In reality, 7.0 kg of carbon dioxide is produced for each 1.0 kg of hydrogen in steam reforming. The
+generated ammonia is classified based on CO2 management. For "gray" ammonia, the CO2 is released in
+the atmosphere; for "blue" ammonia, it is captured and stored. "Green" ammonia is made from hydrogen
+produced without carbon emissions.
+1.3
+Calculate the mass of the carbon dioxide (mCO2, blue) that needs to be captured
+to produce 40,000 kg of “blue” ammonia. Assume that carbon dioxide only
+comes from a real steam reforming process. Assume further that the ammo-
+nia is produced at equilibrium from a stoichiometric mixture of nitrogen and
+hydrogen.
+SOLUTION:
+40,000 kg of ammonia are 40 × 106g ( 1mol
+17g ) = 2.4 × 106mol NH3
+The stoichiometric H2 is ( 𝟥
+𝟤)(𝟤.𝟦× 𝟣𝟢𝟨mol ) = 𝟥.𝟧× 𝟣𝟢𝟨mol H𝟤
+The required H2 needs to take into account the conversion of H2 (calculated in
+part 1.1):
+(
+𝟣
+𝟧𝟣%)(𝟥.𝟧× 𝟣𝟢𝟨mol ) = 𝟨.𝟫× 𝟣𝟢𝟨mol H𝟤, which is 13,800 kgH2
+The CO2 produced during steam reforming is ( 7kg CO2
+1kg H2 )( 13,800 kg H2)
+=
+96,600 kg CO2
+3 pt
+Using cheap renewable hydrogen, the prospect of converting it with captured CO2 into methanol appears
+promising. However, in this procedure, there is a competing reaction that produces CO:
+CO2(g) + 3 H2(g) −
+−
+⇀
+↽
+−
+−CH3OH(g) + H2O (g)
+CO2(g) + H2(g) −
+−
+⇀
+↽
+−
+−CO(g) + H2O(g)
+Into a reactor maintained at 250 ∘C and 50 bar, a mixture containing CO2 ∶H2 in a molar ratio of 𝟣∶𝟦is
+fed. It has been found that the CO2 conversion is 30% and the H2 conversion is 18.5% when these two
+reactions are at equilibrium. No other processes need to be considered.
+
+Theory
+Q1-4
+English (Official)
+1.4
+Calculate the thermodynamic equilibrium constants (at 250 ∘C) of the two re-
+actions.
+SOLUTION:
+Let the reaction extent of the first reaction be 𝜉𝟣and that of the second reaction
+be 𝜉𝟤.
+The CO2 conversion gives the following equation: 𝜉𝟣+ 𝜉𝟤= 𝟢.𝟥𝟢.
+The H2 conversion gives the following equation: 𝟥𝜉𝟣+ 𝜉𝟤= 𝟦(𝟢.𝟣𝟪𝟧) = 𝟢.𝟩𝟦.
+Solving the system of two equations gives 𝜉𝟣= 𝟢.𝟤𝟤and 𝜉𝟤= 𝟢.𝟢𝟪.
+The equilibrium constants are given by:
+𝘒𝟣(𝟤𝟧𝟢∘C) =
+𝘯CH𝟥OH𝘯H𝟤O(𝘯𝘵𝘰𝘵𝘢𝘭)𝟤
+𝘯CO𝟤(𝘯H𝟤)𝟥
+( 𝘱∘
+𝘱𝘵𝘰𝘵𝘢𝘭
+)
+𝟤
+⇒𝘒𝟣(𝟤𝟧𝟢∘C) =
+(𝜉𝟣)(𝜉𝟣+ 𝜉𝟤)(𝟧−𝟤𝜉𝟣)𝟤
+(𝟣−𝜉𝟣−𝜉𝟤)(𝟦−𝟥𝜉𝟣−𝜉𝟤)𝟥( 𝟣bar
+𝟧𝟢bar)
+𝟤
+= 𝟤.𝟥× 𝟣𝟢−𝟧
+𝘒𝟤(𝟤𝟧𝟢∘C) =
+𝘯CO𝘯H𝟤O
+𝘯CO𝟤𝘯H𝟤
+=
+(𝜉𝟤)(𝜉𝟣+ 𝜉𝟤)
+(𝟣−𝜉𝟣−𝜉𝟤)(𝟦−𝟥𝜉𝟣−𝜉𝟤) = 𝟢.𝟢𝟣𝟣
+5 pt
+Heterogeneous copper-containing catalysts are commonly used for CO2 hydrogenation. Two specific,
+Cu-containing catalysts (A and B) showed promise for converting CO2 to methanol. These catalysts differ
+not only in their catalytic rates, but also in surface area, Cu content, and Cu dispersion (the ratio of surface
+Cu to the total Cu in the catalyst).
+Cu dispersion is important, because only Cu species at the surface are active in CO2 hydrogenation.
+Under this assumption, 1 mole of active sites corresponds to 1 mole of surface Cu. The efficiency of
+these active sites is shown by their turnover frequencies (TOF, moles of product formed per moles of
+active site in a given time).
+
+Theory
+Q1-5
+English (Official)
+The table below reports the performance (reported as mass of produced methanol per total catalyst
+mass in a given time) and the specific surface areas of the two catalysts. The Cu content and dispersion
+of the catalysts was also measured and reported as follows:
+1. At the start, all the copper in the catalysts (oxidized beforehand) is present as Cu(II); that was fully
+reduced to Cu(0) with hydrogen. No other species in the catalysts reacted with hydrogen besides
+copper oxides.
+2. N2O was introduced to the reduced samples at room temperature. At this temperature, N2O only
+oxidizes active surface sites to Cu(I).
+3. The Cu(I) active surface sites were reduced again to Cu(0) with hydrogen.
+Catalyst
+performance
+(gMeOH g−1
+cat h−1)
+Specific surface area
+(m2 g−𝟣
+cat)
+H2 consumed in
+step 1 (mmol g−𝟣
+cat)
+H2 consumed in
+step 3 (mmol g−𝟣
+cat)
+Catalyst A
+0.80
+100
+5.0
+0.30
+Catalyst B
+0.90
+120
+4.0
+0.70
+1.5
+Find the methanol production rate per total mass of Cu (in gMeOH g−1
+Cu h−1) for
+catalysts A and B.
+SOLUTION:
+Step 1 of N2O titration: CuO + H2 −
+−
+→Cu + H2O , meaning 1 mol of H2 corre-
+sponds to 1 mol of Cu.
+Therefore, methanol production rate per mass of bulk Cu could be given by:
+(space time yield)/[(H2 consumption in step 1) × (atomic mass of Cu)]
+For catalyst A:
+𝟢.𝟪𝟢gMeOH
+gCat h
+(𝟧.𝟢mmol Cu
+gCat
+) (𝟨𝟥.𝟧𝟦𝟨
+gCu
+mol Cu)
+= 𝟤.𝟧gMeOH
+gCu h
+For catalyst B:
+𝟢.𝟫𝟢gMeOH
+gCat h
+(𝟦.𝟢mmol Cu
+gCat
+) (𝟨𝟥.𝟧𝟦𝟨
+gCu
+mol Cu)
+= 𝟥.𝟧gMeOH
+gCu h
+3 pt
+
+Theory
+Q1-6
+English (Official)
+1.6
+Find the TOF (in h−1) for catalysts 𝘈and 𝘉.
+If you cannot find results, use TOFCatalyst A = 𝟣𝟢𝟢h−1 and TOFCatalyst B = 𝟣h−1 in
+subsequent calculations.
+SOLUTION:
+The rates found in part (1.5) are normalized by the total mass of Cu. In order to
+normalize by only surface Cu, we need to find out how much of the Cu is on the
+surface. Step 3 of N2O titration: Cu2O (surface) + H2 −
+−
+→2 Cu (surface) + H2O ,
+meaning 1 mol of H2 corresponds to 2 mol of surface Cu. Therefore, the fraction
+of surface Cu is given by:
+(𝟤× (H𝟤consumption in step 3))/(H𝟤consumption in step 1)
+Finally,
+we need the ratio of molar masses to convert 𝑔MeOH/𝑔Cu
+to
+molМеОН/molCu.
+For catalyst A:
+(𝟤.𝟧gMeOH
+gCu h )
+( 𝟤(𝟢.𝟥) mol Cu(surface)
+𝟧.𝟢mol Cu
+)
+( 𝟣mol MeOH
+𝟥𝟤.𝟢𝟦g MeOH) (𝟨𝟥.𝟧𝟦𝟨g Cu
+𝟣mol Cu ) = 𝟦𝟣h
+−𝟣
+For catalyst B:
+(𝟥.𝟧gMeOH
+gCu h )
+( 𝟤(𝟢.𝟩) mol Cu(surface)
+𝟦.𝟢mol Cu
+)
+( 𝟣mol MeOH
+𝟥𝟤.𝟢𝟦g MeOH) (𝟨𝟥.𝟧𝟦𝟨g Cu
+𝟣mol Cu ) = 𝟤𝟢h
+−𝟣
+Alternative solution, the TOF can be calculated directly from the table as follows:
+(catalyst performance)/(𝟤× (H𝟤consumption in step 3) × 𝘔𝘔𝘦𝘖𝘏)
+3 pt
+1.7
+Indicate the correct statement on the answer sheet.
+a. Catalyst A has more efficient active sites.
+b. Catalyst B has more efficient active sites.
+c. The two catalysts have active sites with the same efficiency.
+SOLUTION:
+a.
+1 pt
+
+Theory
+A1-1
+English (Official)
+Problem 1 Ammonia
+1.1 (7 pt)
+%
+
+Theory
+A1-2
+English (Official)
+1.2 (2 pt)
+𝑚CO2 =
+kg
+
+Theory
+A1-3
+English (Official)
+1.3 (3 pt)
+𝑚CO2, blue =
+kg
+
+Theory
+A1-4
+English (Official)
+1.4 (5 pt)
+𝘒1 =
+𝘒2 =
+1.5 (3 pt)
+A ∶
+gMeOH g−1
+Cu h−1
+B ∶
+gMeOH g−1
+Cu h−1
+
+Theory
+A1-5
+English (Official)
+1.6 (3 pt)
+𝘈∶
+h
+−1
+𝘉∶
+h
+−1
+1.7 (1.0 pt)
+□a
+□b
+□c
+
+Theory
+Q2-1
+English (Official)
+Problem 2 Electronic nose
+Resistive gas sensors, especially those using semiconducting metal oxides (SMOX), are becoming increas-
+ingly popular. They can detect tiny amounts of impurities, are small and stable, and are easy to make
+and use. These features make SMOX sensors stand out among the many types of gas sensors that work
+on different physical and chemical principles.
+The mixed oxide X that has the normal spinel crystal structure, A2+B3+
+2O2−
+4, is an example of one of
+these SMOX materials. X can be obtained by decomposition of the crystalline hydrated metal oxalate
+ZC2O4 ⋅kH2O of metal Z on air. When heated to 140 ∘C, the crystalline hydrate loses 19.7% of its mass.
+Further heating in air leads to the formation of 2.407 g of black colored X at 500 ∘C and 3.8 dm3 of carbon
+dioxide at 101325 Pa.
+2.1
+Determine the formula of X and the value of k in ZC2O4 ⋅kH2O.
+SOLUTION:
+The mass loss under heating to 140 ∘C is the loss of H2O.
+Calculation the number of moles of CO2 released:
+𝘱𝘝
+𝘙𝘛= 𝟣𝟢𝟣𝟥𝟤𝟧⋅𝟥.𝟪⋅𝟣𝟢−𝟥
+𝟪.𝟥𝟣𝟦⋅𝟩𝟩𝟥
+= 𝟢.𝟢𝟨𝟢mol
+The general equation for the decomposition:
+3 ZC2O4 + 2 O2 −
+−
+→Z3O4 + 6 CO2 ↑
+Then M(Z3O4) =
+2.407 g
+0.010 mol = 240.7 g ⋅mol−1.
+M(Z) = (240.7−64)
+3
+g ⋅mol−1 = 58.9 g ⋅mol−1.
+Consequently, the semiconducting oxide X is Co3O4, An+ −Co2+, Bm+ −Co3+.
+Let's determine the composition of crystalline hydrate:
+𝟣𝟪𝘬g/mol
+(𝟣𝟦𝟨.𝟫+𝟣𝟪𝘬) g/mol = 𝟢.𝟣𝟫𝟩.
+We obtain that k−
+−2.
+4 pt
+In the spinel structures oxygen atoms form a face centered cubic (FCC) lattice. In normal spinels the A2+
+cations occupy part of the tetrahedral, and the B3+ cations occupy part of the octahedral lattice sites.
+2.2
+Calculate the percentage of the tetrahedral sites that is occupied in the case of
+a normal spinel A2+B3+
+2O2−
+4.
+SOLUTION:
+Number of tetrahedral voids per FCC unit cell is 𝟤⋅𝟦= 𝟪.
+According to the formula AB2O4 there is 1 A cation per FCC unit cell.
+Thus ( 𝟣
+𝟪) ⋅𝟣𝟢𝟢% = 𝟣𝟤.𝟧%.
+2 pt
+In addition to the normal spinels, the MM′
+2O4 general formula also describes the inverse and the mixed
+spinel structures. Here M are the tetrahedrally coordinated, M′ the octahedrally coordinated cations, but
+contrary to normal spinels, particular cations are not restricted to a single lattice site. A characteristic of
+the inverse spinel structures is that the electron configuration of the M′ site cations is d0, d5 or d10.
+
+Theory
+Q2-2
+English (Official)
+2.3
+Select on the answer sheet two of the given formulas, which correspond to the
+structure of inverse spinel: Fe3O4, NiFe2O4, Mn3O4, FeCr2O4.
+SOLUTION:
+Fe3O4 and NiFe2O4
+1 pt
+Semiconductors are materials whose orbitals contain a small excess or deficit of electrons, leading to
+negative or positive charges (holes), respectively. These charges can move through the semiconductor
+and allow it to conduct electricity. Chemical reactions can increase or decrease the charge on a semicon-
+ductor, altering its conductivity.
+X is an example of a semiconductor where electricity is carried by positive charges (holes). For a resistive
+gas sensor based on X, the resistance R is measured over time t, while passing a gas over the sensor.
+This allows redox reactions to occur between the gas and the semiconductor surface, which will change
+the resistance of the sensor depending on the donor/acceptor properties of the gas. Figure 1 shows the
+two different types of signal obtained this way.
+Figure 1: plot of resistance against time for two possible signal types, (a) and (b).
+Grey bars = air, white bars = air + analyte gas.
+2.4
+Correlate the signal type (a or b) obtained from the X based sensor with the
+analyte gases (H2S, O3, NO2, NH3) during their detection at low concentrations.
+SOLUTION:
+Based on the p-type conductivity of Co3O4 and the electronic structures of
+gases, the resistance of the sensor will decrease when the oxide surface inter-
+acts with electron-acceptor NO2 and O3(a) and increase in the case of electron-
+donor H2S and NH3 (b).
+2 pt
+
+Theory
+Q2-3
+English (Official)
+The dependence of the specific conductivity (𝜎) of X on temperature is described by the Arrhenius law:
+𝜎(𝘛) = 𝜎𝟢𝘦𝘹𝘱(−𝘌𝘢/(𝘙𝘛)), where 𝘌𝘢is the activation energy of conductivity. Three types of conductivity
+can be distinguished in different temperature ranges:
+Ionization (I): 444–570 K, Impurity (II): 585–765 K, and Intrinsic (III): 800–905 K.
+The sketch below illustrates the conductivity-temperature relation for the three temperature ranges.
+2.5
+Based on the sketch above, order the activation energies associated with the
+different conductivity types, 𝘌𝘢(𝘐), 𝘌𝘢(𝘐𝘐), and 𝘌𝘢(𝘐𝘐𝘐), from largest to smallest.
+SOLUTION:
+𝘌𝘢(𝘐𝘐𝘐) > 𝘌𝘢(𝘐) > 𝘌𝘢(𝘐𝘐)
+3 pt
+
+Theory
+A2-1
+English (Official)
+Problem 2 Electronic nose
+2.1 (4 pt)
+Formula of X:
+Value of 𝘬:
+2.2 (2 pt)
+%
+
+Theory
+A2-2
+English (Official)
+2.3 (1 pt)
+□Fe3O4
+□NiFe2O4
+□Mn3O4
+□FeCr2O4
+2.4 (2 pt)
+H2S :
+□a
+□b
+O3 :
+□a
+□b
+NO2 :
+□a
+□b
+NH3 :
+□a
+□b
+2.5 (3 pt)
+>
+>
+
+Theory
+Q3-1
+English (Official)
+Problem 3 Tyrosinase
+The enzyme tyrosine 3-monooxygenase has an important biological role because it catalyzes the initial
+and rate-limiting step in the biosynthesis of the neurotransmitter dopamine. In this first step, L-DOPA is
+produced from the amino acid L-tyrosine (Tyr) in the presence of dissolved oxygen, tetrahydrofolic acid
+and ferrous ions. In a subsequent step, another enzyme transforms L-DOPA into dopamine.
+HO
+OH
+O
+NH2
+L-Tyrosine
+HO
+OH
+O
+NH2
+L-DOPA
+HO
+HO
+NH2
+Dopamine
+HO
+The activity of the tyrosine 3-monooxygenase enzyme is described well by the simplest model of enzyme
+action, the Michaelis-Menten equation. This gives the rate of the formation (𝘳) of L-DOPA as a function
+of the enzyme (E) and substrate Tyr (S) concentrations as follows:
+𝘳=
+𝘬[E][S]
+𝘒M + [S]
+The following values of enzymatic turnover frequency (k = 250 min−𝟣) and Michaelis constant (KM = 0.49
+mmol dm−𝟥) can be used in this task when needed.
+Catechol (1,2-dihydroxybenzene) inactivates the enzyme tyrosine 3-monooxygenase irreversibly by turn-
+ing it into an inactive form. When a carefully purified sample of catechol is mixed with the enzyme with
+the exclusion of dissolved oxygen, no change is seen at all. So the reaction of catechol with dissolved
+oxygen, which produces o-quinone, must be important.
+HO
+HO
+Catechol
+O
+O
+o-Quinone
+This process can be studied in the absence of the enzyme. A test experiment in a reactor not in contact
+with ambient air at 37 ∘C and at pH 7.5 gave the following kinetic data:
+
+Theory
+Q3-2
+English (Official)
+time
+(min)
+catechol concentration
+(mmol dm−3)
+oxygen concentration
+(mmol dm−3)
+o-quinone concentration
+(μmol dm−3)
+0
+2.00
+0.200
+0
+20.0
+1.97
+0.170
+30
+40.0
+1.94
+0.140
+60
+60.0
+1.91
+0.111
+89
+80.0
+1.88
+0.083
+117
+100.0
+1.85
+0.054
+146
+3.1
+Identify the only by-product (which is not one of the molecules shown in the
+table above) and write the balanced equation of the process with molecular
+formulas based on the kinetic data.
+SOLUTION:
+From the data, it is seen that the stoichiometry is catechol:oxygen:quinone -1:-
+1:1. The molecular formula of catechol is C6H6O2, that of o-quinone is C6H4O2.
+So the stoichiometry with the formation of hydrogen peroxide is:
+1 C6H6O2 + 1 O2 →1 C6H4O2 + 1 H2O2
+(1 point for the -1:-1:1 stoichiometry, 2 ponts for recognizing H2O2/1 point for a
+not very unreasonable but incorrect by-product, 1 point for stating a chemical
+equation with the correct reactants, 1 point for balancing the equation)
+5.0 pt
+3.2
+Calculate the initial rate (𝘳𝟢) of o-quinone formation in this experiment with an
+appropriate unit.
+SOLUTION:
+In both the first and second 20 minutes of the reaction, the o-quinone concen-
+tration increases by 30 μmol dm−3. So, the intial rate is:
+𝑟0 = 30 μmol dm−3
+20 min
+= 1.5 μmol dm−3 min −1
+(1 point for calculation, 1 point for unit)
+2.0 pt
+The rate law of the process was determined by varying the initial concentrations of the reactants. Chang-
+ing the oxygen concentration did not influence the initial rate of the process. Using different catechol
+concentrations gave the following initial rates for o-quinone formation:
+
+Theory
+Q3-3
+English (Official)
+catechol concentration
+(mmol dm−3)
+initial rate of o-quinone formation
+(μmol dm−3 min−1)
+1.0
+0.75
+4.0
+3.0
+6.0
+4.5
+8.0
+6.0
+10.0
+7.5
+3.3
+Determine the rate law of the reaction between catechol and oxygen produc-
+ing o-quinone. Calculate the rate constant of this process (kcatechol) with an
+appropriate unit.
+SOLUTION:
+The text stated that the rate is independent of the concentration of dissolved
+oxygen, so the rate law is zeroth order with respect to oxygen. The data in the
+table show that the initial rate is directly proportional to the catechol concen-
+tration, so the order of reaction is 1.
+The rate law is: r = kcatechol[catechol]
+kcatechol can be calculated from any point in the table above:
+kcatechol = 7.5 μmol dm−3 min−1
+10 mmol
+= 7.5 × 10−4 min −1
+(1 point for each of the two orders of reaction, 1 point for stating the rate law,
+1 point for calculation, 1 point for unit)
+5.0 pt
+In separate experiments, it was confirmed that neither o-quinone, nor the by-product inactivates the
+enzyme alone, nor even in combination.
+An experiment in which the enzyme is reacted with catechol in the presence of dissolved oxygen did
+show inactivation, though.
+The experiment was done in an open vessel so that any oxygen consumed in the process could be con-
+tinuously replenished from air. The initial concentration of the enzyme was 4.2 nmol dm−3, the initial
+concentration of catechol was 2.00 mmol dm−3 at 37 ∘C and at pH 7.5.
+Samples were taken regularly from the enzyme-catechol reaction mixture, and the activity of the enzyme
+was assayed by adding L-tyrosine, tetrahydrofolic acid and ferrous ion. During the enzyme activity mea-
+surements, the concentration of added L-tyrosine was 10.0 mmol dm−3 and the concentration of L-DOPA
+in each assay sample was measured after 2.0 minutes. The following results were obtained:
+
+Theory
+Q3-4
+English (Official)
+inactivation reaction time
+𝘵(min)
+L-DOPA concentration after 2.0 minutes from the start of the assay
+[DOPA] (μmol dm
+−𝟥)
+0
+2.0
+20.0
+1.9
+40.0
+1.7
+60.0
+1.3
+70.0
+1.00
+80.0
+0.72
+90.0
+0.38
+3.4
+Derive a formula that allows you to calculate the actual concentration of active
+enzyme ([E]) from the data of these experiments in terms of k (= 250 min−𝟣),
+KM (= 0.49 mmol dm−𝟥), and/or reagent concentrations.
+SOLUTION:
+We already saw: 𝑟=
+𝑘[S][E]
+𝐾M+[S]
+The rate is calculated from the concentration of DOPA formed: 𝑟= [DOPA]
+2.0 min
+Therefore [DOPA]
+2.0 min =
+𝑘[S][E]
+𝐾M+[S] ⇒[E] = 𝐾M+[S]
+𝑘[S]
+[DOPA]
+2.0 min
+Using 𝘬= 𝟤𝟧𝟢min−1, KM = 𝟢.𝟦𝟫mmol dm
+−𝟥and [S] = 𝟣𝟢.𝟢mmol dm
+−𝟥gives:
+[E] = 0.0021[DOPA]
+(Correct formula without substituting the constants is still maximum points.)
+4.0 pt
+The change in the active enzyme concentration as a function of time is well described by a parabola ([E] =
+[E]0−𝑘obs𝑡2), where 𝘬obs is an observed rate constant (i.e. one that can be written later as a combination of
+
+Theory
+Q3-5
+English (Official)
+elementary rate constants and initial concentrations), and [E]0 is the initial concentration of the enzyme.
+3.5
+Give the value of kobs with an appropriate unit.
+SOLUTION:
+1. 𝑘obs = 1
+𝑡2 ([E]0 −[E])
+Any one of the data points can be used except t = 0.
+𝑘obs = 𝟦.𝟤× 𝟣𝟢−𝟦nmol dm−3 min−2 (Note the very unusual unit!!!)
+2. The active enzyme concentrations can be plotted as a function of squared
+time:
+(1 point for the calculation method, 1 point for the calculation, 1 point for the
+unit.)
+3.0 pt
+3.6
+Determine the first half-life of the enzyme inactivation reaction. Derive a for-
+mula that gives the first half-life as a function of the initial enzyme concentration
+and of kobs.
+SOLUTION:
+0.5[E]0 = [E]0 −𝑘obs𝑡1/2
+2
+𝑘obs𝑡1/2
+2 = 0.5[E]0
+Thus: 𝑡1/2 = √[E]0/2𝑘obs = 71 min
+Also, the first half-life can be directly read from the data as the concentration at
+70 min is exactly one half that of the initial one.
+(2 points for the formula, 1 point for the calculation including the unit)
+3.0 pt
+The first half-lives for enzyme inactivation were determined using other initial catechol concentrations.
+The dependences of active enzyme concentrations on time were very well described by parabolas in
+these cases as well.
+
+Theory
+Q3-6
+English (Official)
+catechol concentration
+(mmol dm−3)
+first half-life
+(min)
+1.0
+140
+4.0
+35
+6.0
+23
+8.0
+17.5
+10.0
+14
+
+Theory
+Q3-7
+English (Official)
+3.7
+Derive a rate equation of the enzyme inactivation process consistent with all
+the experimental observations.
+SOLUTION:
+It is seen that the first half-lives are inversely proportional to the catechol con-
+centration:
+𝑡1/2 = √[E]0
+2𝑘obs =
+1
+𝑘cat[catechol]0
+ 
+From this equation, kcat is calculated as 7.1 mol−1 dm3 min−1. The change in
+enzyme concentration is given as a function of time:
+[E](𝑡) = [E]0 −[E]0
+2 (𝑘cat[catechol]0)2𝑡2
+ 
+The rate of enzyme inactivation is:
+𝑟inact(𝑡) = −[E]0(𝑘cat[catechol]0)2𝑡
+One way to calculate this is based on the definition of reaction rate, i.e. change
+in concentration divided by change in time:
+𝑟inact( 𝑡1+𝑡2
+2
+)
+=
+−
+[E]𝑡2−[E]𝑡1
+𝑡2−𝑡1
+=
+−[E]0
+2 (𝑘cat[catechol]0)2 𝑡2
+1−𝑡2
+2
+𝑡2−𝑡1
+=
+[E]0
+2 (𝑘cat[catechol]0)2(𝑡1 + 𝑡2)
+Re-labeling with 𝘵= 𝘵𝟣+𝘵𝟤
+𝟤
+gives as a function of t.
+ 
+This cannot be a rate equation, as it contains time explicitly. However, from the
+independent experiments, it is known that the catechol reacts with the oxygen
+present to give o-quinone. As the initial enzyme concentration is much smaller
+than the catechol concentration, the latter can be considered constant within
+the time frame of the experiment ([catechol]−
+−[catechol]0 at any time instant). If
+this is true, the time dependence of the o-quinone formation can be described
+with a linear function:
+[𝑜-quinone] = 𝑘catechol[catechol]0𝑡
+ 
+As the first half-lives are inversely proportional to the catechol concentration the
+rate law can be written containing both the catechol and the o-quinone concen-
+tration without the appearance of time:
+𝘳inact = [E]𝟢
+(𝘬cat)𝟤
+𝘬catechol [catechol][𝘰-quinone] = 𝘬2nd[catechol][𝘰-quinone]
+ 
+Important elements in marking:
+Connection between catechol concentration and kobs (1 point)
+Calculating the rate from the parabolic concentration-time kinetic curve (1
+point)
+Recognizing that [catechol]2 is not a good option because it would imply deac-
+tivation without the presence of oxygen. (1 point)
+Recognizing the role of o-quinone. (1 point)
+Maximum points if the correct rate law is given without any derivation shown.
+ 
+6.0 pt
+
+Theory
+Q3-8
+English (Official)
+3.8
+What are the reactants of the rate determining step for the enzyme inactivation
+process? Select the ONLY correct option on the answer sheet.
+A) catechol + O2 →...
+B) catechol + o-quinone →...
+C) o-quinone + O2 →...
+D) enzyme + 2 catechol →...
+E) enzyme + O2 →...
+F) 2 catechol + O2 →...
+G) enzyme + catechol →...
+H) enzyme + by-product →...
+SOLUTION:
+B
+3.0 pt
+
+Theory
+A3-1
+English (Official)
+Problem 3 Tyrosinase
+3.1 (5.0 pt)
+3.2 (2.0 pt)
+r0 =
+3.3 (5.0 pt)
+r =
+ 
+kcatechol =
+
+Theory
+A3-2
+English (Official)
+3.4 (4.0 pt)
+[E] =
+3.5 (3.0 pt)
+kobs =
+
+Theory
+A3-3
+English (Official)
+3.6 (3.0 pt)
+t1/2 =
+
+Theory
+A3-4
+English (Official)
+3.7 (6.0 pt)
+ 
+ 
+3.8 (3.0 pt) □A
+□B
+□C
+□D
+□E
+□F
+□G
+□H
+
+Theory
+Q4-1
+English (Official)
+Problem 4 Potassium
+Elementary potassium was the first metal synthesized by electrolysis (𝟣𝟪𝟢𝟩). Humphry Davy used voltaic
+cells and electrodes immersed into molten KOH.
+4.1
+Give balanced equations for the processes taking place on the cathode (1) and
+the anode (2).
+SOLUTION:
+K+ + e−= K (1)
+4 OH−= O2 + 2H2O + 4e- (2)
+2 pt
+It is little known that only a year after Davy, French chemists have produced potassium in a chemical
+reduction. One of the methods involved a mixture of potassium carbonate and finely powdered carbon.
+This mixture was heated to very high temperatures in a gun barrel. Carbon monoxide and potassium
+vapors were leaving the end of the barrel, where the metal could be condensed to a solid.
+4.2
+Write down the balanced equation for the reaction giving only these two prod-
+ucts.
+SOLUTION:
+K2CO3 + 2 C = 2 K + 3 CO
+ 
+ 
+ 
+1 pt
+The chemical production of potassium had a low yield. Depending on the circumstances, a considerable
+amount of reddish paste was left behind in the gun barrel. Gmelin isolated an interesting compound
+(X) from this residue in 𝟣𝟪𝟤𝟧by recrystallization in water. The exact structure of the byproduct X was
+determined more than one and a half century later.
+X is a hydrated salt (𝟤mol water : 𝟣mol of salt) forming golden yellow crystals. Its anion has an excep-
+tionally symmetric (shown by vibrational spectra) and stable planar cyclic structure.
+The diprotic acid (Y) that can be formed from the salt X has surprisingly (at least to the superficial ob-
+server) low pK𝑎values: 𝟢.𝟪and 𝟤.𝟤.
+
+Theory
+Q4-2
+English (Official)
+4.3
+Give the pH where 𝟫𝟧% of all dissolved acid Y is in the neutral acid form.
+SOLUTION:
+Solution 1
+One can suppose that the second dissociation is negligible in such an acidic
+medium.Ka1 = 10 −0.8 = [H+][HA−]/[H2A] = [H+] 5
+95
+[H+] = 10 0.5 ,pH −
+−−0.5
+At this pH, the second dissociation is indeed almost completely shifted to the
+left.
+Solution 2
+Without neglecting the second dissociation:
+100
+95 = 𝑐/[𝐻2𝐴] = 1 + 𝐾1/[𝐻+] + 𝐾1𝐾2/[𝐻+]2
+Solving the second order equation gives [H+] = 10 0.5 and pH = -0.5.
+3 pt
+4.4
+Calculate the pH of a 𝟢.𝟢𝟣mol dm
+−𝟥solution of the salt X in pure water.
+SOLUTION:
+The hydrolysis constant of the anions is so low (11.8) that the dissociation of
+water also must be taken in account. Also, only the first step of the hydrolysis
+is important.
+Equations:
+1. Kw−
+−[H+][OH−]
+2. K𝑎2 = 10 −2.2−
+−[H+][A2−]/[HA−]
+3. [HA−] + [A2−] = c = 0.01M
+4. [K+] + [H+] = [OH−] + [HA−] + 2 [A2−]
+From eq. 2:
+c/[A2−] = 1 + [HA−]/[A2−] = 1 + [H+]/K𝑎2, which, between pH 6 and 8 is equal to
+1.
+From eqs. 3-4 ( and [K+] = 2 c):
+2 ([HA−] + [A2−]) + [H+] = [OH−] + [HA−] + 2 [A2−]
+thus
+[OH−] = [HA−] + [H+]
+Substituting all the equilibrium constants, neglecting the fully protonated acid
+concentration in the sum and rearranging gives:
+K𝑤/(c/K2 + 1) = [H+ ]2
+Solving the equations gives that pH is 7.21.
+4 pt
+The key step in the structure identification of X was the treatment of the anhydrous salt with methyl
+iodide. The salt reacted with two equivalents of methyl iodide. The somewhat volatile compound that
+was obtained had a molar mass of 𝟣𝟩𝟢.𝟣𝟤g/mol (measured in a mass spectrometer).
+A number of analogous salts were also identified in the mixture in smaller quantities. The appropri-
+ate potassium salts when treated with two equivalent of MeI gave derivatives with molar masses of:
+𝟣𝟦𝟤.𝟣𝟣g/mol, 𝟣𝟣𝟦.𝟣𝟢g/mol, 𝟣𝟫𝟪.𝟣𝟥g/mol.
+
+Theory
+Q4-3
+English (Official)
+4.5
+Give the empirical formula of Gmelin’s compound X.
+SOLUTION:
+The mass series has differences of 28 units, which in a system of C, O and K
+could only be CO. The methyl derivatives are probably an ester of an oxoacid.
+Based on the mass values:
+114.10 −(CH3)2(CO)3
+142.11 −(CH3)2(CO)4
+170.12 −(CH3)2(CO)5
+198.13 −(CH3)2(CO)6
+So the anions have the composition of [(CO)𝑛]2−
+Gmelin’s salt was K2(CO)5 ⋅2 H2O
+4 pt
+4.6
+Draw the structure of the free acid Y.
+SOLUTION:
+The anions being cyclic and very symmetric are the oxocarbon anions. When
+protonated, two adjacent oxygens will get protonated.
+3 pt
+The extraordinary stability of the series of anions in the salts analogous to X can be attributed to electron
+delocalization.
+4.7
+Draw one resonance structure with a significant contribution for the anion in
+each of the four salts.
+SOLUTION:
+4 pt
+
+Theory
+A4-1
+English (Official)
+Problem 4 Potassium
+4.1 (2 pt) 1:
+2:
+4.2 (1.0 pt)
+4.3 (3.0 pt) pH :
+
+Theory
+A4-2
+English (Official)
+4.4 (4 pt) pH :
+4.5 (4 pt) X :
+
+Theory
+A4-3
+English (Official)
+4.6 (3 pt)
+4.7 (4.0 pt)
+𝟣𝟣𝟦.𝟣𝟢g/mol
+𝟣𝟦𝟤.𝟣𝟣g/mol
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+𝟣𝟩𝟢.𝟣𝟤g/mol
+𝟣𝟫𝟪.𝟣𝟥g/mol
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+Q5-1
+English (Official)
+Problem 5 Unknown
+Metal containing salt A can be prepared in a simple exchange reaction when the cold, saturated aqueous
+solutions of the two distinctly colored compounds, B and C are mixed in stoichiometric ratio. 𝟣𝟢.𝟢𝟢g B in
+solution mixed with the solution of 𝟣𝟤.𝟪𝟨g C, and immediately cooled to 𝟤∘C will give 𝟦.𝟫𝟢g solid A. The
+yield of A is 32.6 %.
+To determine the composition of A, first iodometry is performed. A known mass of A is added to a
+titration flask, acidified with sulfuric acid, then KI is added in excess and there is a precipitate formation.
+After a few minutes, sodium citrate solution is added until the solution is free of precipitate. The citrate
+ions form a strong complex with a metal ion present in the mixture, reversing completely the reaction
+leading to the precipitate. The resulting mixture is titrated with sodium thiosulfate solution (Titration
+I via reaction 1). To the blue titrated solution another portion of sulfuric acid (significantly more than
+the initial amount) is added to protonate the citrate. The previous solid precipitate is formed once again
+[reaction 2]. The mixture is titrated with the same thiosulfate solution (titration II via reaction 1).
+The average volumes for 𝟣𝟢𝟢.𝟢mg A with 𝟧.𝟢𝟢𝟢⋅𝟣𝟢−𝟤mol dm
+−𝟥thiosulfate are 𝟧𝟦.𝟣𝟤cm𝟥in Titration I and
+5.41 cm3 in Titration II.
+When the aqueous solution of A is heated, the blue precipitate D can be observed [reaction 3]. Com-
+pound E can be crystallized from the liquid above D. The low temperature during the synthesis of A is
+important to avoid contamination by E.
+5.1
+Write balanced equations for reactions [1] and [2].
+SOLUTION:
+[1]: 2 S2O3
+2−+ I2 −
+−
+→S4O6
+2−+ 2 I−
+The blue precipitate and the iodometric titration suggests the presence of cop-
+per (II) so the precipitation reaction is:
+[2]: 2 Cu2+ + 4 I−−
+−
+→2 CuI + I2
+2 points for each equation (1 point equation and 1 point for the coefficients)
+4.0 pt
+The thermal decomposition of A was studied in detail. When pure A is slowly heated, already at around
+𝟩𝟧∘C it explodes. When the compound is dispersed in aluminium oxide and the mixture is heated, then
+the matrix absorbs the excess heat, and the explosion can be avoided. Two decomposition steps can
+be observed. In the first step (at 𝟨𝟧∘C) in addition to the 14.1 % mass decrease, a two-component solid
+residue forms [reaction 4]. The components of this residue can be easily separated, as F is well soluble in
+water, while G does not dissolve at all. The F:G mass ratio is 𝟣.𝟢𝟢∶𝟤.𝟫𝟩. On further heating, F decomposes
+without a solid residue [reaction 5]. That means pure G is the final solid decomposition product of A.
+G contains two other elements in addition to 27.0 wt% oxygen. One of the two components of the gas
+mixture forming in the first decomposition step can be easily quantitated if it is absorbed in acid solution.
+Some hints
+• Compound A decomposes without releasing oxygen.
+
+Theory
+Q5-2
+English (Official)
+• Compound A contains two different metals.
+• Compounds A and B both contain a complex ion.
+• C is a well-known compound for any chemistry student.
+• Compound F does not contain any metal.
+
+Theory
+Q5-3
+English (Official)
+5.2
+Give chemical formulae of A—G. You don’t have to show your calculations,
+but if your compounds are incorrect you may gain partial marks from correct
+calculations.
+SOLUTION:
+The blue precipitate and the iodometric titration suggests the presence of cop-
+per as it was mentioned in the previous question. In the first titration copper(II)
+precipitates iodine and copper(I)-iodide in acidic medium, but upon adding cit-
+rate the 2 Cu2+ + 4 I−−
+−
+→
+←
+−
+−2 CuI + I2 equilibrium is shifted to the left, as citrate
+forms a complex with copper(II) ions.
+In the second titration the citrate complex decomposes, so the iodine equiva-
+lent to copper is formed again. So, another oxidizing material is present that
+will form 10 times as much iodine. In the first titration, this oxidizer, in the sec-
+ond Cu(II) is measured.
+In 𝟣𝟢𝟢mg A there is 2.705 ⋅10−4 mol (17, 19 mg) Cu2+.
+(1 point)
+In the decomposition of 𝟣𝟢𝟢mg A 𝟣𝟢𝟢mg ⋅𝟢, 𝟪𝟧𝟫⋅𝟤, 𝟫𝟩
+𝟥, 𝟫𝟩= 𝟨𝟦.𝟤𝟨mg G forms
+containing 𝟣𝟩.𝟣𝟫mg copper, 𝟨𝟦.𝟤𝟨mg ⋅𝟢.𝟤𝟩𝟢= 𝟣𝟩.𝟥𝟧mg O and a third element.
+𝘯(Cu) ∶𝘯(O) = 𝟣∶𝟦
+(1 point)
+The unknown element will give a reasonable atomic mass if n(X)=2n(Cu). Then
+M(X) = 𝟧𝟦.𝟫𝟦g mol
+−𝟣and manganese. G is CuMn2O4. The 10 electron oxidation
+[2 MnO4
+−so Cu(MnO4)2] supports this.
+(1 point to find manganese and 1 point to give a correct molecular formula of
+G.)
+From the 10 electron oxidation we can assume A contains MnO4
+−.
+(1 point)
+In 𝟣𝟢𝟢mg A there is 2.705 ⋅10−4 mol Cu2+ and 2 ⋅2.705 ⋅10−4 mol MnO4
+−giving a
+total mass of 𝟪𝟣.𝟧𝟦mg . The mass of A containing 1 mol Cu2+ is 𝟥𝟨𝟫.𝟩g A.
+(1 point)
+𝟥𝟨𝟫.𝟩g of A contains 𝟥𝟢𝟣.𝟦g of copper and permanganate. The difference is
+𝟨𝟪.𝟥g.
+(1 point)
+That is equivalent to 4 mol NH3. (In accordance with a gas forming in the ther-
+mal decomposition and reacting with acid.)
+(1 point)
+The formula of A is: [Cu(NH3)4](MnO4)2.
+During thermal decomposition, permanganate is reduced to Mn(III) in G, need-
+ing 8 electrons. Thus 1 NH3 is oxidized to nitrate, so the F decomposition prod-
+uct is NH4NO3.
+(1 point to conclude that it is an ammonium salt, 2 points to conclude that the
+anion is nitrate.)
+This is also supported by the fact that starting from 𝟣mol of A the mass of the
+F produced is: 𝟥𝟨𝟫.𝟩g ⋅𝟢.𝟪𝟧𝟫⋅𝟣, 𝟢𝟢
+𝟥, 𝟫𝟩= 𝟪𝟢.𝟢g
+(1 point)
+28.0 pt
+SOLUTION:
+
+Theory
+Q5-4
+English (Official)
+Cu2+ + 2 MnO4
+−+ NH3 −
+−
+→CuMn2O4 + NO3
+−+ H2O + H+ The remaining 2 NH3leaves with water.
+The mass loss gives the same result: from 𝟣mol (𝟥𝟨𝟫.𝟧g) of starting A two component gas mixture
+is lost. This could be 2 mol NH3and 1 mol H2O.
+The full reaction:
+[Cu(NH3)4](MnO4)2 −
+−
+→CuMn2O4 + NH4NO3 + 2 NH3 + H2O
+(This is the first known permanganate salt that decomposes without releasing oxygen.)
+The starting materials are:
+a copper tetraammine salt and a permanganate.
+If the yield is
+100% 𝟥.𝟩𝟧g (𝟢.𝟢𝟣mol) A forms containing 0.01 mol (0.635 g) Cu2+, i.e.
+1.32 g [Cu(NH3)4]2+, and
+0.02 mol (2, 38 g) MnO4
+−. Supposing that C is the permanganate salt, 𝟢.𝟪𝟤g is the mass of the cation,
+which agrees with potassium. C is KMnO4.
+(3 points to find that C has permanganate anion and 1 point that the cation is potassium.)
+In B there is 𝟣.𝟣𝟪g of another component. that agrees well with [Cu(NH3)4]SO4 ⋅H2O.
+(2 points to find that there is a molecule of water in B. If B is given as [Cu(NH3)4]SO4 2 points are
+attributed. 1 point is given for CuSO4.)
+In the aqueous solution of [Cu(NH3)4](MnO4)2 the protolysis of ammonia causes the formation of
+Cu(OH)2. So an ammonium salts forms in the solution. [Cu(NH3)4](MnO4)2 + 2 H2O −
+−
+→Cu(OH)2 +
+2 NH4MnO4 + 2 NH3
+The unknown compounds are the following:
+A: [Cu(NH3)4](MnO4)2
+B: [Cu(NH3)4]SO4 ⋅H2O
+C: KMnO4
+D: Cu(OH)2
+E: NH4MnO4
+F: NH4NO3
+G: CuMn2O4
+4 points for each compound. No partial points awarded for Cu(OH)2 and NH4MnO4.
+Summary of the marking scheme:
+4 points are given for each correct compound. It is not necessary to provide calculations if the correct
+formula is provided. Calculations are only important to obtain partial points in case of incorrect
+formulae.
+28 points in total.
+Partial points are given as follows:
+A: 1 point for the molar mass of compound, 1 point for the compound containing MnO4
+−, 1 point to
+find a molar mass of ligands and 1 point for conclusion about 4 mol NH3
+B: 2 points for[Cu(NH3)4]SO4, 2 points for CuSO4 ⋅5 H2O or 1 point for CuSO4. Also, 1 point for the
+correct molar mass of B.
+C: 3 points are awarded for MnO4
+−salts other than KMnO4.
+D and E: No partial markings awarded.
+F: 1 point for the molar mass of the salt, 1 point for concluding the presence of NH4
++ions, 2 points
+for conclusion about nitrate anions.
+G: 1 point for the calculation of the mass or the mass fraction of copper, 1 point for the Cu to O ratio
+as 1:4 . Then 1 point for discovering manganese and 1 point for the correct ratio between the three
+correct elements.
+
+Theory
+Q5-5
+English (Official)
+5.3
+Write balanced equations for reactions [3]—[5].
+SOLUTION:
+[3]: [Cu(NH3)4](MnO4)2 + 2 H2O −
+−
+→Cu(OH)2 + 2 NH4MnO4 + 2 NH3
+[4]: [Cu(NH3)4](MnO4)2 −
+−
+→CuMn2O4 + NH4NO3 + 2 NH3 + H2O
+[5]: NH4NO3 −
+−
+→N2O + 2 H2O (or NH4NO3 −
+−
+→N2 + 1
+2 O2 + 2 H2O)
+4 points each reaction (2 points for the reaction and 2 points for the coefficients)
+12.0 pt
+
+Theory
+A5-1
+English (Official)
+Problem 5 Unknown
+5.1 (4.0 pt)
+[1]:
+[2]:
+5.2 (28.0 pt)
+
+Theory
+A5-2
+English (Official)
+5.2 (cont.)
+A:
+B:
+C:
+D:
+E:
+F:
+G:
+--
+
+Theory
+A5-3
+English (Official)
+5.3 (12.0 pt)
+[3]:
+[4]:
+[5]:
+
+Theory
+Q6-1
+English (Official)
+Problem 6 Penicillin
+Penicillins are a group of antibiotics that have played a crucial role in medicine since their discovery.
+N
+S
+COOK
+H
+O
+N
+H
+PhO
+O
+Penicillin VK
+6.1.
+Mark the stereogenic carbon centers on the structure of Penicillin VK on the an-
+swer sheet. Write the corresponding R/S stereodescriptors next to the centers
+on the answer sheet.
+SOLUTION:
+N
+S
+COOK
+H
+O
+N
+H
+PhO
+O
+Penicillin VK
+*
+*
+*
+R
+R
+S
+𝟣point for clearly identifying each stereocenter.
+𝟣point for each correct stereodescriptor.
+6 pt
+6.2.
+Give the total number of possible stereoisomers of Penicillin VK.
+ 
+SOLUTION:
+𝟤𝟥= 𝟪
+𝟤𝘱𝘰𝘪𝘯𝘵𝘴for the correct number of possible stereoisomers.
+2 pt
+One of the many synthetic methods to obtain Penicillin VK starts from the amino acid valine, as shown
+in the scheme on the next page of this problem.
+Hints:
+ 
+
+Theory
+Q6-2
+English (Official)
+• Among other signals, the 𝟣HNMR spectrum of compound A contains two signals that each integrate
+to 3H. Both of these signals are doublets.
+• Compounds A and D are open-chain compounds, while B and E each have a five membered ring
+(in addition to any rings in the PhthN-group).
+• Brucine is used for chiral resolution.
+
+Theory
+Q6-3
+English (Official)
+COOH
+NH2
+-Valine
+Cl
+Cl
+O
+A
+Ac2O
+Ac-
+O
+N
+O
+O
+2
+HS
+COOH
+HN
+O
+1. HCl(aq), D
+B
+S
+N
+COOH
+CHO
+-C
+1. Brucine, H2O
+3. 0.1 M HCl(aq)
+3
+D
+D
++
+O
+H
+PhthN
+OOC
+tBu
+PhthN-
+N
+O
+O
+AcONa
+E
+4
+HN
+S
+HCl . H2N
+OOC
+H
+COOH
+tBu
+Brucine
+H3CO
+H3CO
+N H
+O
+N
+O
+H
+H
+O
+Acetone
+N C N
+DCC
+PhO
+Cl
+O
+1.
+F
+1. KOH
+2. DCC
+N
+S
+COOK
+H
+O
+N
+H
+PhO
+O
+Ph-
+Pyridine
+N
+Penicillin VK
+HN
+S
+HCl . H2N
+OOC
+H
+COOH
+tBu
+1
+-C
+2. Separation*
+2. Acetone
+2. conc. HCl**
+3. Pyridine
+Et3N
+Base
+*Please note that in the formation of (+)-C, the word "Separation" means separation.
+**Conc. HCl means concentrated HCl.
+
+Theory
+Q6-4
+English (Official)
+6.3.
+Choose the suitable reagent for the numbered steps (𝟣−𝟦) on the answer sheet.
+ 
+a) 2 M HCl(aq)
+ 
+b) SO3, H2SO4
+ 
+c) NaOH(aq)
+ 
+d) HCO2H, Ac2O
+ 
+e) i) N2H4
+ii) HCl(aq), AcOH
+ 
+f) i) H2S, Na, CH3OH
+ii) H2O
+ 
+SOLUTION:
+1 - f
+2 - d
+3 - a
+4 - e
+ 
+𝟤points for each correct answer.
+𝟢points awarded if multiple answers are selected.
+8 pt
+
+Theory
+Q6-5
+English (Official)
+6.4.
+Draw the structures of A, B, (+)-C, D, E and F on the answer sheet. Show the
+stereostructure using wedge–dash notation (
+;
+) when relevant.
+ 
+SOLUTION:
+ 
+• Charge-neutral molecules as well as sensible zwitterions are accepted for
+all structures.
+• 𝟢points are awarded for A and D, if the structures contain a ring.
+• 𝟢points are awarded for B and E, if the structures do not contain a 5 mem-
+bered ring (not taking the PhthN- group into account).
+• 𝟣point will be deducted for each missing atom or group (i.e. -CH3).
+A:
+ 
+COOH
+HN
+O
+Cl
+𝟥points for the correct structure.
+𝟤points for the anhydride.
+𝟢points for N-alkylation or O-alkylation.
+𝟢points for structure not fitting the 𝟣𝘏
+NMR data.
+B:
+ 
+S
+N
+H
+COOH
+𝟥points for the correct structure.
+𝟣point for the structure containing an
+amide.
+C:
+ 
+S
+N
+COOH
+CHO
+𝟥points for the correct structure
+𝟣points for the structure with a defined
+stereo-center that is incorrect.
+𝟢points if stereochemistry is not indi-
+cated
+D:
+ 
+SH
+HOOC
+NH2 . HCl
+𝟥points for the correct structure.
+𝟣point for structure with an amide.
+E:
+ 
+HN
+S
+PhthN
+OOC
+H
+COOH
+tBu
+3 points for the correct structure
+F:
+ 
+HN
+S
+NH
+HOOC
+H
+COOH
+O
+PhO
+𝟥points for the correct structure.
+𝟣point for structure with amide forma-
+tion, but no tert-butyl ester deprotec-
+tion.
+18 pt
+
+Theory
+Q6-6
+English (Official)
+6.5.
+Select the role of acetone in the step leading to B on the answer sheet.
+ 
+a) solvent
+ 
+b) catalyst
+ 
+c) electrophile
+ 
+d) nucleophile
+ 
+SOLUTION:
+c
+2 points
+2 pt
+6.6.
+Select the role of DCC in the step leading from F to Penicillin VK on the answer
+sheet.
+ 
+a) oxidizing reagent
+ 
+b) catalyst
+ 
+c) coupling reagent
+ 
+d) radical initiator
+ 
+SOLUTION:
+c
+2 points
+2 pt
+
+Theory
+A6-1
+English (Official)
+Problem 6. Penicillin Answer Sheet
+6.1. (6 pt)
+N
+S
+COOK
+H
+O
+N
+H
+PhO
+O
+Penicillin VK
+6.2. (2 pt)
+6.3. (8 pt)
+1:
+□a
+□b
+□c
+□d
+□e
+□f
+2:
+□a
+□b
+□c
+□d
+□e
+□f
+3:
+□a
+□b
+□c
+□d
+□e
+□f
+4:
+□a
+□b
+□c
+□d
+□e
+□f
+
+Theory
+A6-2
+English (Official)
+6.4 (18 pt)
+A:
+B:
+(+)-C:
+D:
+E:
+F:
+6.5. (2 pt)
+□a
+□b
+□c
+□d
+6.6. (2 pt)
+□a
+□b
+□c
+□d
+
+Theory
+Q7-1
+English (Official)
+Problem 7 SABIC
+The Saudi Basic Industries Corporation (SABIC) was established in the mid-1970s as part of Saudi Arabia's
+plan to diversify its economy. Today, SABIC is a global chemical giant, producing 69 million tons of
+products annually.
+Part A
+SABIC's own unique ethene oligomerization technology (oligomers are polymers with few monomer
+units) produces linear alpha olefins (1-alkenes), which are used in numerous industrial applications.
+Linear alpha olefins are produced by catalytic oligomerization of ethene, resulting in a range of chain
+lengths with a distribution. Different catalysts can yield various distributions of products.
+In the geometric or Schulz–Flory distribution, each oligomer fraction is related to the previous fraction
+by the equation, 𝘛𝘯+𝟣= 𝛼𝘛𝘯, where 𝘛𝘯represents the molar amount of the oligomer with 𝘯ethene units,
+and 𝛼is a constant called the probability of chain propagation. Ethene, the monomer is not a member
+of the series (𝘯≥𝟤).
+One catalytic oligomerization process can be described by a relatively simple mechanism:
+Although this mechanism is not a classical chain reaction because the final product is not produced within
+the cycle, the usual kinetic treatment of chain reactions can be applied to it. The three processes shown
+(1–3) are all chain propagation steps. R is lengthened by each cycle.
+All three reactions are first order with respect to the chain carriers. For ethene, use an unknown order
+𝜌, to be determined later.
+
+Theory
+Q7-2
+English (Official)
+7.1
+Write the rate equations for reactions 1–3 using 𝘬𝟣, 𝘬𝟤, and 𝘬𝟥as the correspond-
+ing rate constants, which are independent of the carbon chain length.
+SOLUTION:
+(𝟣)
+𝘳𝟣= 𝘬𝟣[𝘡][=]𝜌
+0.5 pt
+(𝟤)
+𝘳𝟤= 𝘬𝟤[𝘟]
+0.25 pt
+(𝟥)
+𝘳𝟥= 𝘬𝟥[𝘠]
+0.25 pt
+1 pt
+Chain termination step, producing the oligomers, is a first order reaction competing with reaction 1.
+7.2
+Write i) the chemical equation and ii) rate equation of termination. Use 𝘬𝘵as
+the corresponding rate constant.
+SOLUTION:
+𝘡→𝘓𝘯𝘔+ 𝘙−𝘊𝘏𝟤−𝘊𝘏𝟤−𝘊𝘏= 𝘊𝘏𝟤
+1 pt
+𝘳𝘵= 𝘬𝘵[𝘡]
+1 pt
+2 pt
+7.3
+Find the value of 𝜌which ensures that the product mixture of olefins shows
+the required ratio of products in accordance with the Schulz–Flory distribution
+when the reaction is run in a closed system. Derive a formula for this case that
+gives 𝛼as the function of rate constants.
+SOLUTION:
+The final product alkene is produced in the termination step. In each cycle, 𝘡
+can either participate in the chain carrier step (𝟣), or the termination step (𝘵).
+The probability that a product molecule is formed from 𝘡is the ratio of the rate
+of termination and the sum of the rates of carrier step (𝟣) and termination step
+(𝘵):
+𝘱=
+𝘬𝘵[𝘡]
+𝘬𝘵[𝘡]+𝘬𝟣[𝘡][=]𝜌=
+𝘬𝘵
+𝘬𝘵+𝘬𝟣[=]𝜌
+In able to obtain the Flory distribution from the mechanism, this probability
+needs to be independent of the concentrations. This requires 𝜌= 𝟢, so ze-
+roth order dependence in chain carrying step (𝟣) on the concentration of free
+ethene.
+2 pt with explanation; only the final value is 0.5 p
+ 
+If this is the case, the Flory parameter 𝛼is the same as the probability of prop-
+agation.
+𝛼=
+𝘬𝟣
+𝘬𝘵+𝘬𝟣
+2 p
+4 pt
+Aluminum alkyls are used as co-catalysts in the ethene oligomerization process. It was found that they
+also catalyzed the Friedel–Crafts alkylation of the aromatic solvents used for the oligomerization.
+In a typical oligomerization reaction, an alkylated aromatic compound Q was isolated from the complex
+reaction mixture of ethene oligomerization in toluene as solvent. The alkylated aromatic compound Q
+has the molecular formula C11H16 and its 1H NMR spectrum contains the following peaks.
+
+Theory
+Q7-3
+English (Official)
+1H NMR of Q: 𝛿0.9 (t, 𝟥H); 1.35 (m, 𝟤H); 1.59 (m, 𝟤H); 2.34 (s, 𝟥H), 2.60 (t, 𝟤H); 7.18 (d, 𝟤H); 7.22 (d, 𝟤H).
+7.4
+Draw the structure of Q.
+SOLUTION:
+-1 pt if the multiplicity is not correct OR the alkyl chain length is not correct
+-1 pt if the substitution ring positions are not correct
+3 pt
+
+Theory
+Q7-4
+English (Official)
+Part B
+Vitrimers are adaptive polymers with "reversible" covalent bonds, allowing shape-changing and self-
+healing under specific conditions. This subtask explores the principles of vitrimer chemistry, an impor-
+tant topic in SABIC's polymer research.
+A recently elucidated fast and reversible reaction involving dioxaborolanes can serve as the chemical
+background for such an adaptable polymer network. The two dioxaborolanes below were prepared
+by the reaction of phenylboronic acid with 1,2-butanediol and 3,5-dimethylphenylboronic acid with 1,2-
+propanediol, respectively.
+They participate in a model metathesis (exchange) reaction. The two carefully purified compounds were
+mixed in the absence of solvent and the mixture was kept at 60 ∘C for two hours. Interestingly, the gas
+chromatograms of the mixture at the start and at the end of the incubation period showed only the peaks
+below, with equimolar quantities of the components. The peaks in this system separate in a way that
+correlates with molar mass: compounds with lower mass appear at earlier elution times.
+No catalyst, water, diol or acid was detectable in the mixture.
+
+Theory
+Q7-5
+English (Official)
+7.5
+Draw the compounds associated with peaks I–IV in the chromatogram.
+SOLUTION:
+I:
+II:
+III:
+IV:
+0.5 pt each
+2 pt
+Linking functional units to a polymer chain is known as grafting, and the functional units are referred to
+as grafting agents. In this case, the dioxaborolane units are linked to the polymer chains by maleimide
+groups via a radical process, in which one maleimide group is coupling to the polymer chain at a ran-
+dom carbon atom. The scheme below introduces a flexible synthesis route towards the dioxaborolane
+maleimide grafting agent used in the vitrimers.
+7.6
+Draw the structures of A–C.
+SOLUTION:
+A:
+B:
+C:
+1 pt each
+3 pt
+
+Theory
+Q7-6
+English (Official)
+7.7
+Select on the answer sheet which reagent(s) and/or condition is/are appropri-
+ate for linking the dioxaborolane maleimide units to polyethylene.
+SOLUTION:
+(a)
+1 pt for correct answer
+1 pt
+The vitrimer was prepared as follows:
+• Polyethylene is grafted with dioxaborolane maleimide. Assume no side reactions between the diox-
+aborolane maleimide compounds.
+• The reagents are removed from the macromolecules.
+• Propanediol functionalized bis-dioxaborolane is added to enable crosslinking.
+• The mixture is carefully heated for metathesis (exchange) reaction to take place.
+To determine the extent of grafting and crosslinking in the vitrimer, infrared (IR) spectroscopy was used
+at room temperature where the metathesis reaction is extremely slow. Assume a homogeneous vitrimer.
+• All of the small molecules are removed from the polymer.
+• The IR spectrum of a thin polymer film is measured.
+• IR spectrum contains absorption peaks that correspond to specific functional groups.
+• The Beer–Lambert law can be used to quantify the concentration of these functional groups.
+The provided data table gives the wavelengths, corresponding molar (related to the specified functional
+groups) absorption coefficients for relevant characteristic peaks together with the absorbances of the
+
+Theory
+Q7-7
+English (Official)
+vitrimer sample.
+Vibration wavenumber, with
+the functional group indicated
+Molar absorption coefficient, 𝜖
+(dm3 mol−1 μm−1)
+Sample absorbance at this
+wave number, 𝘈
+Imide group band at
+1710 cm−1
+2.67
+0.451
+Monosubstituted benzene ring
+band at 1600 cm−1
+0.28
+0.022
+Disubstituted benzene ring
+band at 1520 cm−1
+0.68
+0.042
+CH2 groups of polyethylene,
+band at 1470 cm−1
+0.021
+0.904
+7.8
+Calculate the grafting density (𝘟𝘨) of polyethylene based on the measure-
+ments. That is the ratio of the grafted groups over the ethylene units.
+SOLUTION:
+Given the absorption coefficient for the unique vibrating bonds, the Beer-
+Lambert law can be used to calculate the concentration as follow:
+𝘟𝘨=
+𝘯𝘨𝘳𝘢𝘧𝘵𝘦𝘥
+𝘯𝘦𝘵𝘩𝘺𝘭𝘦𝘯𝘦=
+𝘈𝟣𝟩𝟣𝟢
+𝜖𝟣𝟩𝟣𝟢
+𝟢.𝟧⋅𝘈𝟣𝟦𝟩𝟢
+𝜖𝟣𝟦𝟩𝟢
+= 𝟢.𝟢𝟢𝟩𝟪
+1 pt for correct application of the Beer-Lambert Law
+1 pt for correct
+ratio of imide over ethylene.
+1 pt for number of -CH2- halved The number
+of grafted methylene groups and the methylenes in the grafted groups can be
+neglected, but if it isn't, it will also be accepted, of course.
+3 pt
+
+Theory
+Q7-8
+English (Official)
+7.9
+Calculate the percentage of the grafted groups that are not part of a crosslink
+(𝘱𝘯𝘤).
+SOLUTION:
+Given the absorption coefficient for the unique vibrating bonds, the Beer-
+Lambert law can be used to calculate the concentration as follow:
+From the infrared data we can conclude that the number of all boronic acid
+moieties is proportional to:
+𝘯𝘣𝘰𝘳𝘰𝘯𝘪𝘤∼𝘈𝟣𝟨𝟢𝟢
+𝜀𝟣𝟨𝟢𝟢+ 𝟤𝘈𝟣𝟧𝟤𝟢
+𝜀𝟣𝟧𝟤𝟢
+The number of maleimide groups:
+𝘯𝘮𝘢𝘭𝘦𝘪𝘮𝘪𝘥𝘦= 𝘯𝘨𝘳𝘢𝘧𝘵𝘦𝘥∼𝘈𝟣𝟩𝟣𝟢
+𝜀𝟣𝟩𝟣𝟢
+So the number of bifunctional grafting agents grafting via only 1 group: 𝘯𝘣𝘪𝘧,𝘯𝘤=
+𝘯𝘣𝘰𝘳𝘰𝘯𝘪𝘤−𝘯𝘮𝘢𝘭𝘦𝘪𝘮𝘪𝘥𝘦.
+The non-crosslinking grafted groups are the monofunctional grafting agents
+and the bifunctional grafting agents grafting via only 1 group.
+Their ratio is:
+𝘱𝘯𝘤=
+𝘯𝘮𝘰𝘯𝘰+𝘯𝘣𝘪𝘧,𝘯𝘤
+𝘯𝘨𝘳𝘢𝘧𝘵𝘦𝘥
+=
+𝘈𝟣𝟨𝟢𝟢
+𝜖𝟣𝟨𝟢𝟢+ 𝘈𝟣𝟨𝟢𝟢
+𝜖𝟣𝟨𝟢𝟢+𝟤⋅𝘈𝟣𝟧𝟤𝟢
+𝜖𝟣𝟧𝟤𝟢−𝘈𝟣𝟩𝟣𝟢
+𝜖𝟣𝟩𝟣𝟢
+𝘈𝟣𝟩𝟣𝟢
+𝜖𝟣𝟩𝟣𝟢
+= 𝟤⋅𝟢.𝟢𝟤𝟤
+𝟢.𝟤𝟪+𝟤⋅𝟢.𝟢𝟦𝟤
+𝟢.𝟨𝟪−𝟢.𝟦𝟧𝟣
+𝟤.𝟨𝟩
+𝟢.𝟦𝟧𝟣
+𝟤.𝟨𝟩
+= 𝟢.𝟨𝟨
+ 
+0.5 pt for correct application of the Beer-Lambert Law
+0.5 pt denominator
+is correctly considered.
+1 pt monofunctional grafting agents are considered.
+2 pt bifunctional grafting agents with 1 connection are considered.
+4 pt
+
+Theory
+A7-1
+English (Official)
+Problem 7 SABIC
+7.1 (1 pt)
+𝘳𝟣=
+𝘳𝟤=
+𝘳𝟥=
+7.2 (2 pt)
+i)
+ 
+ 
+ii) 𝘳𝘵=
+7.3 (4 pt)
+𝜌=
+𝛼=
+
+Theory
+A7-2
+English (Official)
+7.4 (3 pt)
+Q:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.5 (2 pt)
+I:
+ 
+ 
+ 
+ 
+ 
+ 
+II:
+ 
+ 
+ 
+ 
+ 
+ 
+III:
+ 
+ 
+ 
+ 
+ 
+ 
+IV:
+ 
+ 
+ 
+ 
+ 
+ 
+7.6 (3 pt)
+A:
+ 
+ 
+ 
+ 
+ 
+ 
+B:
+ 
+ 
+ 
+ 
+ 
+ 
+C:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.7 (1 pt)
+□a
+□b
+□c
+□d
+
+Theory
+A7-3
+English (Official)
+7.8 (3 pt)
+𝘟𝘨=
+7.9 (4 pt)
+𝘱𝘯𝘤=
+
+Theory
+Q8-1
+English (Official)
+Problem 8 Safflower
+In Saudi culture, safflower drink is a traditional remedy used for its calming effects.
+One ingredient with health benefits is kaempferol. The following scheme shows its total synthesis.
+OMe
+MeO
+OMe
+Cl
+O
+ZnCl2
+A
+CHO
+OMe
+KOH
+B
+AlCl3
+I2
+C
+D
+E
+OH
+MeO
+OMe
+O
+OMe
+O
+OH
+O
+OH
+OH
+HO
+Me2SO4
+DMDO
+BBr3
+O
+O
+Kaempferol
+N
+DMDO
+C17H14O5
+Hints:
+• C has a tricyclic system. Also, it has the same number of hydroxyl groups as the compound preced-
+ing it.
+• The step C to D is necessary to avoid any unwanted reactivity with DMDO.
+• DMDO is a hydroxylating agent.
+
+Theory
+Q8-2
+English (Official)
+8.1.
+Draw the structures of compounds A–E.
+SOLUTION:
+A
+3 points for the correct structure
+B
+3 points for the correct struc-
+ture
+C
+3
+points
+for
+the
+correct
+structure
+(demethylation in any position is ac-
+cepted)
+0 point if -OH is not equal to 1 (as Hint
+is provided)
+D
+3 points for the correct struc-
+ture
+E
+3 points for the correct structure
+15 pt
+A unique pentacyclic indole alkaloid, serotobenine found in safflower has antimicrobial properties. Its
+total synthesis is shown below:
+
+Theory
+Q8-3
+English (Official)
+HO
+Me
+NO2
+F
+G
+I
+J
+Br
+K2CO3
+1. Me2NCH(OMe)2,
+2. Zn, AcOH
+H
+D, Et2NPh
+N
+Ts
+HO
+K
+O
+NH
+N
+H
+O
+H
+H
+HO
+OMe
+OsO4
+NMO
+1. Pb(OAc)4
+K2CO3
+2. NaClO2
+BnO
+OMe
+Br
+K2CO3
+CH3
+S
+O O
+Cl
+O
+N
+O
+CH3
+HN
+, D
+Serotobenine
+TsCl
+NaOH
+Me
+Ph
+Bn
+TsCl
+NMO
+O
+CH3
+Ac
+Et
+CH3
+Hints:
+• G is a bicyclic compound with one of the rings being a heterocycle.
+• H isomerizes upon heating in the presence of the amine base.
+• K is a product of an oxidative cleavage of the newly formed functional group in J. K has a 1H NMR
+signal at 12 ppm.
+
+Theory
+Q8-4
+English (Official)
+8.2.
+Draw the structures of compounds F–K.
+SOLUTION:
+F
+3 points for the correct structure
+G
+3 points for the correct struc-
+ture
+H
+3 points for the correct structure
+I
+3 points for the correct struc-
+ture
+J
+3 points for the correct structure
+K
+3 points for the correct struc-
+ture
+-1 for missing Ts group
+18 pt
+Carthamin gives safflower its red color.
+O
+O
+HO
+OH O
+O
+OH
+O
+HO
+OH
+Carthamin
+O
+OH
+HO
+HO
+HO
+O
+HO
+HO
+OH
+OH
+HO
+OH
+In the total synthesis of carthamin the assembly was tested on a model substrate L. Note that M resem-
+bles carthamin’s core structure.
+
+Theory
+Q8-5
+English (Official)
+Et
+AcO
+O
+MeO
+O
+OH
+OMe
+1. LiCl, 120 °C
+2. HC(OEt)3
+M
+(S)-L
+8.3.
+Draw the structure of compound M including its stereochemistry. (Hint: In
+methanol-d4 L has 11 and M has 10 distinct proton signals in their 1H NMR spec-
+tra).
+SOLUTION:
+O
+O
+HO
+OH O
+O
+OH
+O
+MeO
+OMe
+OAc
+Et
+Et
+AcO
+4 points for the correct structure (any form of resonance would be accepted)
+and 1 point for correct stereochemistry
+5 pt
+
+Theory
+A8-1
+English (Official)
+Problem 8 Safflower
+8.1. (15 pt)
+A:
+ 
+ 
+ 
+ 
+ 
+ 
+B:
+ 
+ 
+ 
+ 
+ 
+C:
+ 
+ 
+ 
+ 
+ 
+ 
+D:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory
+A8-2
+English (Official)
+8.2. (18 pt)
+F:
+ 
+ 
+ 
+ 
+ 
+ 
+G:
+ 
+ 
+ 
+ 
+ 
+ 
+H:
+ 
+ 
+ 
+ 
+ 
+ 
+I:
+ 
+ 
+ 
+ 
+ 
+ 
+J:
+ 
+ 
+ 
+ 
+ 
+ 
+K:
+ 
+ 
+ 
+ 
+ 
+ 
+8.3. (5 pt)  
+ 
+ 
+ 
+ 
+ 
+
+Theory
+Q9-1
+English (Official)
+Problem 9 Porphyrin complexes
+Part A. Metals in petroleum
+Saudi Arabian petroleum, primarily hydrocarbons, contains elements like vanadium in porphyrin com-
+plexes, hinting at its biological origins.
+Vanadium complex B is presumably formed in petroleum from chlorophyll according to the following
+scheme:
+N
+N
+N
+N
+O
+O
+O
+O
+O
+C20H39
+Mg
+1)
+I
+II
+(C32H32N4OV)
+(C33H36N4O2)
+2)
+3)
+III
+4)
+A
+5)
+IV
+6)
+V
+7)
+B
+Step
+Name
+1)
+Demetallization
+2)
+Hydrolysis
+3)
+Decarbomethoxylation
+4)
+Reduction
+5)
+Aromatization
+6)
+Decarboxylation
+7)
+Metal chelation
+9.1
+Assign the molecular formulae a–e (given in the answer sheet) to the interme-
+diates I–V.
+SOLUTION:
+All correct – 4 pt, 3 correct – 3 pt, 2 correct – 2 pt, 1 correct – 1 pt.
+4.0 pt
+
+Theory
+Q9-2
+English (Official)
+9.2
+Draw the structures of intermediate A and vanadium complex B using the pre-
+drawn framework of porphyrin. (If you need a new template to redraw your struc-
+ture(s), please ask the supervisor.)
+SOLUTION:
+A: N4Mg to N4H2 – 1 pt, COOC20H39 to COOH – 1 pt, COOMe to H – 1 pt, C−
+−O to
+CH2 – 1 pt.
+B: aromatization – 1 pt, COOH to H – 1 pt, N4H2 to N4VO – 1 pt.
+1 pt penalty for other modification(s) of the structure(s).
+7.0 pt
+9.3
+Indicate the oxidation state of vanadium in B.
+SOLUTION:
+If B is correct or not provided: +4. Otherwise, the answer must be consistent
+with the provided structure of B. (1 pt)
+1.0 pt
+Part B. Porphyrin non-metal complexes
+Porphyrins are known to form chelate-type complexes not only with metals but also with some non-
+metals, for example, with boron and phosphorus. Octaethylporphyrin (H2OEP) is often used to model
+natural porphyrins and to study porphyrin complexes. It has the following structure and can be repre-
+sented as:
+
+Theory
+Q9-3
+English (Official)
+N
+HN
+N
+NH
+N
+HN
+N
+NH
+To produce dicationic planar boron porphyrin complex [X3]2+, either BCl3 or another binary compound
+X1 can be used as a precursor:
+H2OEP
+LiHMDS
+Li2OEP
+2 eq. BCl3
+X1
+N
+N
+N
+N
+B
+B
+Cl
+Cl
+Na[BArF
+4]
+[X3]2+
+X2
+Na/K
+(LiHMDS = LiN(SiMe3)2; Na[BArF
+4] = Na[B{(3,5)−(CF3)2C6H3}4])
+9.4
+Draw the structures of X1, intermediate complex X2 and the product [X3]2+.
+SOLUTION:
+3.0 pt
+Phosphorus forms porphyrin cationic complexes [Y1]n+, [Y2]n+, and [Y3]n+. The complex [Y3]n+ has one
+less plane of symmetry compared to [Y1]n+ and [Y2]n+ (ignore ethyl substituents in OEP ligand when
+considering symmetry). Pyridine (Py) is used here as a basic solvent, “Hal” is one of the halogens: F, Cl,
+or Br:
+
+Theory
+Q9-4
+English (Official)
+H2OEP PCl3, Cl2
+1) Na2CO3, H2O
+2) HCl, H2O
+1) (COBr)2
+2) KF
+[Y1]n+
+N
+N
+N
+N
+P
+O
+Hal
+[Y2]n+
+[Y3]n+
+NaOH, H2O
+HCl, H2O
+Py
+9.5
+Indicate: a) the charge “𝘯+” of phosphorus porphyrin complexes; b) the num-
+ber of planes of symmetry 𝘕(𝜎) that complex [Y1]n+ has.
+SOLUTION:
+a) 𝘯+ = 1+ (1 pt)
+b) 𝘕(𝜎) = 5 (1 pt)
+2.0 pt
+9.6
+Draw the structures of [Y1]n+, [Y2]n+, and [Y3]n+.
+SOLUTION:
+If all are incorrect: +1 pt bonus for correct symmetry and/or the same charge
+of all structures.
+4.0 pt
+Part C. Porphyrin sandwiches
+Porphyrin sandwich-type complexes form when there are several porphyrin rings aligned relative to each
+other. Examples are Zr(OEP)2, Eu2(OEP)3, Bi2(OEP)2Cl2 that have at least 3 planes of symmetry each.
+Note that the hole size in the OEP ligand is ca. 4.0 Å, and the average metal–N distances in these com-
+plexes are 2.4, 2.5, 2.3 Å, respectively.
+
+Theory
+Q9-5
+English (Official)
+9.7
+Suggest the structures of Zr(OEP)2, Eu2(OEP)3, and Bi2(OEP)2Cl2. You may use
+a simplified representation of the OEP ligand.
+SOLUTION:
+3.0 pt
+Another type of porphyrin sandwich-type complex is metal–porphyrin dimers with single or multiple
+metal–metal bonds. For example, [Ru(OEP)]2 has a Ru−Ru double bond (considering only d-electrons).
+Below is the molecular orbital diagram for an eclipsed dimer of the type [M(porphyrin)]2 (interaction
+between d𝘹𝟤−𝘺𝟤is not considered as these orbitals lie high in energy):
+d xy
+d z2
+d xz d yz
+d xy
+d z2
+d xz d yz
+s
+p
+d
+d*
+p*
+s*
+M
+M
+M
+M
+z
+x
+y
+E
+
+Theory
+Q9-6
+English (Official)
+9.8
+Draw the 𝜎(d𝘻𝟤+d𝘻𝟤), 𝜋(d𝘹𝘻+d𝘹𝘻), 𝜋(d𝘺𝘻+d𝘺𝘻), and 𝛿(d𝘹𝘺+d𝘹𝘺) bonding orbitals
+according to the specified coordinate system.
+SOLUTION:
+If orbital phases are not indicated: 1 pt penalty (1–2 orbitals) or 2 pt penalty (3–4
+orbitals).
+4.0 pt
+9.9
+Calculate the metal–metal bond order in the following complexes in eclipsed
+conformation: [Mo(OEP)]2, [Ir(OEP)]2, [Re(OEP)]2
++.
+SOLUTION:
+3.0 pt
+The eclipsed conformation is generally preferred for metal–porphyrin dimers with 7, 8, and 9 d-electrons.
+Otherwise, these complexes are more stable in a staggered conformation, where the porphyrin rings are
+rotated relative to each other by 45∘.
+
+Theory
+Q9-7
+English (Official)
+9.10
+Select how the splitting (i.e., the energy between antibonding and bonding
+orbitals) changes for each type of orbital interaction during the conversion of
+eclipsed conformation into staggered:
+a) increases;
+b) remains unchanged;
+c) decreases (not to zero);
+d) decreases to zero.
+SOLUTION:
+d xy
+d z2
+d xz d yz
+d xy
+d z2
+d xz d yz
+s
+p
+d
+d*
+p*
+s*
+M
+M
+M
+M
+z
+x
+y
+E
+𝜎/𝜎∗: b (remains unchanged) – 1 pt.
+𝜋/𝜋∗: b (remains unchanged) – 2 pt.
+𝛿/𝛿∗: d (decreases to zero, i.e., d𝘹𝘺and d𝘹′𝘺′ are non-bonding) – 1 pt.
+4.0 pt
+
+Theory
+A9-1
+English (Official)
+Problem 9 Porphyrin complexes
+9.1 (4.0 pt)
+a
+b
+c
+d
+e
+C32H34N4
+C55H74N4O5
+C33H34N4O3
+C33H34N4O2
+C35H36N4O5
+9.2 (7.0 pt)
+N
+N
+N
+N
+N
+N
+N
+N
+A (C33H36N4O2)
+B (C32H32N4OV)
+9.3 (1.0 pt)
+
+Theory
+A9-2
+English (Official)
+9.4 (3.0 pt)
+N
+N
+N
+N
+N
+N
+N
+N
+2+
+X1
+X2
+[X3]2+
+9.5 (2.0 pt)
+a) 𝘯+ =
+b) 𝘕(𝜎) =
+9.6 (4.0 pt)
+N
+N
+N
+N
+n+
+N
+N
+N
+N
+n+
+N
+N
+N
+N
+n+
+[Y1]n+
+[Y2]n+
+[Y3]n+
+
+Theory
+A9-3
+English (Official)
+9.7 (3.0 pt)
+Zr(OEP)2
+Eu2(OEP)3
+Bi2(OEP)2Cl2
+9.8 (4.0 pt)
+9.9 (3.0 pt)
+[Mo(OEP)]2
+[Ir(OEP)]2
+[Re(OEP)]2
++
+
+Theory
+A9-4
+English (Official)
+9.10 (4.0 pt)
+𝜎/𝜎∗
+𝜋/𝜋∗
+𝛿/𝛿∗
+□a
+□b
+□c
+□d
+□a
+□b
+□c
+□d
+□a
+□b
+□c
+□d

@@ -1,0 +1,137 @@
+Theory
+Q8-1
+English (Official)
+T8. Recycling of Carbon Dioxide
+7%
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+8.8
+8.9
+8.10
+∑
+2
+16
+2
+29
+5
+10
+2
+4
+12
+2
+84
+Removing CO2 gas from the atmosphere is key to combat climate change. One promising solution is the
+photocatalytic reduction of CO2 to CO using molecular catalyst 1.
+8.1
+Write the half equation for the reduction of CO2 to CO in an acidic medium.
+2.0 pt
+The conjugate oxidation reaction occurs with sacrificial reductant 2 in aqueous solution with the following
+mechanism:
+Species 3, 4, and 5 are short-lived ionic and/or radical intermediates. 7 yields a silver mirror with the
+[Ag(NH3)2]OH test.
+8.2
+Draw the structures of 3-7.
+16.0 pt
+Catalyst 1 can be synthesised with the following reaction.
+8.3
+Tick the correct geometry for the structure of 1.
+2.0 pt
+
+Theory
+Q8-2
+English (Official)
+When 1 is loaded on crystalline carbon nitride (C3N4) support material, it can reduce CO2 via the following
+mechanism.
+8.4
+Draw the structures of 9-15. Use the cartoon structure for ligand 8 shown
+above. For 9-15, specify the oxidation state, 𝑂𝑆, coordination number, 𝐶𝑁,
+and number of valence electrons, 𝑉𝐸, of Fe, along with the total charge of cor-
+responding complex structures, 𝑍. Note: Some information is provided on the
+answer sheet.
+29.0 pt
+8.5
+Calculate the number of catalytic molecules per nm2, 𝑁𝑐𝑎𝑡, of C3N4 loaded with
+1, when the mass fraction of catalyst, 𝜔𝑐𝑎𝑡= 3.8%, if the specific surface area of
+C3N4 
+ is 17.8 m2 g−1. M𝑐𝑎𝑡= 557.21 g mol−1.
+5.0 pt
+The Turnover Frequency of a catalyst (TOF) is the number of product molecules formed per active catalyst
+molecule per hour. Under LED illumination (𝜆= 390 nm) with power of 50 mW, there was a TOF of 8 h−1
+for 10 mg of C3N4, loaded with 1 with 𝜔𝑐𝑎𝑡= 3.8%
+The formula for calculating the quantum yield is given below:
+𝜑= 𝑛𝑢𝑚𝑏𝑒𝑟𝑜𝑓𝑟𝑒𝑎𝑐𝑡𝑒𝑑𝑒𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑠
+𝑛𝑢𝑚𝑏𝑒𝑟𝑜𝑓𝑖𝑛𝑐𝑖𝑑𝑒𝑛𝑡𝑝ℎ𝑜𝑡𝑜𝑛𝑠⋅100%
+8.6
+Calculate the quantum yield, 𝜑(%), for CO formation.
+10.0 pt
+
+Theory
+Q8-3
+English (Official)
+The diagram below shows the change in the TOF of CO as 𝜔𝑐𝑎𝑡is varied.
+8.7
+How does the overall rate of CO formation per gram of C3N4 loaded with 1
+change with increasing 𝜔𝑐𝑎𝑡, within the range 0.1 ≤𝜔𝑐𝑎𝑡≤2.9? Tick the correct
+box.
+a) increases
+b) decreases
+c) doesn't change
+2.0 pt
+The reduction of CO2 can be accompanied by the reduction of additional protons. The changes in Gibbs
+energy during these two reactions are shown in the diagram.
+
+Theory
+Q8-4
+English (Official)
+The system was irradiated using different LEDs. The diagram below shows the mole percentages, 𝜒, of
+H2 and CO produced during the reduction of CO2 under four different conditions: no irradiation (N) and
+irradiation with red (R), green (G), and blue (B) light.
+
+Theory
+Q8-5
+English (Official)
+8.8
+Tick which of the four conditions, mentioned above, corresponds to a, b, c and
+d in the diagram.
+4.0 pt
+
+Theory
+Q8-6
+English (Official)
+Photosensitisers (PS) offer some advantages over C3N4 for the reduction of CO2. Mn(I)-containing com-
+plexes combined with PS can achieve ~23% quantum yield. In this system, reductive quenching of the
+singlet (S1) and triplet (T1) excited states of a PS by reductant (Red) forms PS•−, which donates electrons
+to CO2 through the Mn(I)-containing complex.
+PS(S1) + Red
+𝑘𝑆
+−
+−
+−
+→PS•−+ Red•+
+𝑘𝑆= 2.7 × 109 M−1 s−1
+PS(T1) + Red
+𝑘𝑇
+−
+−
+−
+→PS•−+ Red•+
+𝑘𝑇= 1.5 × 108 M−1 s−1
+The following Jablonski diagram describes the processes occurring in the PS:
+𝜏0(S1) = 2.9 ns and
+𝜏0(T1) = 84 𝜇s, where 𝜏0 is the emission lifetime in the absence of the quencher.
+8.9
+Calculate the percentage of quenching, 𝜂𝑞, (in %) of S1 and T1 states, when
+[Red] = 0.1 M. Note: here the values of 𝑘𝐼𝑆𝐶and 𝑘𝑅𝐼𝑆𝐶are negligible.
+12.0 pt
+8.10
+How do the emission lifetimes of S1 and T1 states change when [Red] increases?
+Tick the correct box.
+a) increases
+b) decreases
+c) doesn't change
+2.0 pt

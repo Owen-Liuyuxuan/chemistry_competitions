@@ -1,0 +1,3212 @@
+[
+  {
+    "resource_id": "usnco-2026-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 50.58,
+        "end_page": 4,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 5,
+        "y": 50.58,
+        "end_page": 6,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 7,
+        "y": 50.58,
+        "end_page": 8,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 9,
+        "y": 50.58,
+        "end_page": 10,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 11,
+        "y": 50.58,
+        "end_page": 12,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 13,
+        "y": 50.58,
+        "end_page": 14,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 15,
+        "y": 50.58,
+        "end_page": 16,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 17,
+        "y": 50.58,
+        "end_page": 18,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2026-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 19,
+        "y": 68.35,
+        "end_page": 19,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 20,
+        "y": 68.35,
+        "end_page": 21,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 22,
+        "y": 68.35,
+        "end_page": 22,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 23,
+        "y": 68.35,
+        "end_page": 23,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 24,
+        "y": 69.31,
+        "end_page": 24,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 25,
+        "y": 68.35,
+        "end_page": 25,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 26,
+        "y": 68.35,
+        "end_page": 26,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 27,
+        "y": 68.35,
+        "end_page": 27,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "usnco-2025-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 48.45,
+        "end_page": 4,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 5,
+        "y": 48.45,
+        "end_page": 6,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 7,
+        "y": 48.45,
+        "end_page": 8,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 9,
+        "y": 48.45,
+        "end_page": 10,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 11,
+        "y": 48.45,
+        "end_page": 12,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 13,
+        "y": 48.45,
+        "end_page": 14,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 15,
+        "y": 48.45,
+        "end_page": 16,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 17,
+        "y": 48.45,
+        "end_page": 18,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2025-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 21,
+        "y": 68.35,
+        "end_page": 21,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 22,
+        "y": 78.19,
+        "end_page": 23,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 24,
+        "y": 69.31,
+        "end_page": 24,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 25,
+        "y": 68.35,
+        "end_page": 25,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 26,
+        "y": 68.35,
+        "end_page": 26,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 27,
+        "y": 68.35,
+        "end_page": 27,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 28,
+        "y": 68.35,
+        "end_page": 28,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 29,
+        "y": 68.35,
+        "end_page": 29,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "usnco-2024-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 50.56,
+        "end_page": 4,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 5,
+        "y": 50.56,
+        "end_page": 6,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 7,
+        "y": 50.56,
+        "end_page": 8,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 9,
+        "y": 50.56,
+        "end_page": 11,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 12,
+        "y": 50.56,
+        "end_page": 12,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 13,
+        "y": 50.56,
+        "end_page": 14,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 15,
+        "y": 50.56,
+        "end_page": 16,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 17,
+        "y": 50.56,
+        "end_page": 18,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2024-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 21,
+        "y": 68.35,
+        "end_page": 21,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 22,
+        "y": 68.35,
+        "end_page": 22,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 23,
+        "y": 82.03,
+        "end_page": 23,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 24,
+        "y": 68.35,
+        "end_page": 25,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 26,
+        "y": 69.31,
+        "end_page": 26,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 27,
+        "y": 68.35,
+        "end_page": 27,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 28,
+        "y": 84.19,
+        "end_page": 28,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 29,
+        "y": 68.35,
+        "end_page": 30,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "usnco-2023-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 32.57,
+        "end_page": 4,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 5,
+        "y": 32.57,
+        "end_page": 6,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 7,
+        "y": 32.57,
+        "end_page": 8,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 9,
+        "y": 32.57,
+        "end_page": 10,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 11,
+        "y": 32.57,
+        "end_page": 12,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 13,
+        "y": 32.57,
+        "end_page": 14,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 15,
+        "y": 32.57,
+        "end_page": 16,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 17,
+        "y": 32.57,
+        "end_page": 18,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2023-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 19,
+        "y": 68.95,
+        "end_page": 19,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 20,
+        "y": 68.95,
+        "end_page": 21,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 22,
+        "y": 68.95,
+        "end_page": 22,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 23,
+        "y": 68.95,
+        "end_page": 23,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 24,
+        "y": 69.91,
+        "end_page": 24,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 25,
+        "y": 83.59,
+        "end_page": 25,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 26,
+        "y": 68.95,
+        "end_page": 26,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 27,
+        "y": 68.95,
+        "end_page": 27,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "usnco-2022-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 50.57,
+        "end_page": 3,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 4,
+        "y": 50.57,
+        "end_page": 5,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 6,
+        "y": 50.57,
+        "end_page": 7,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 8,
+        "y": 50.57,
+        "end_page": 10,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 11,
+        "y": 50.57,
+        "end_page": 11,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 12,
+        "y": 50.57,
+        "end_page": 13,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 14,
+        "y": 50.57,
+        "end_page": 14,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 15,
+        "y": 50.57,
+        "end_page": 16,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2022-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 17,
+        "y": 68.47,
+        "end_page": 17,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 18,
+        "y": 68.47,
+        "end_page": 19,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 20,
+        "y": 69.43,
+        "end_page": 20,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 21,
+        "y": 68.47,
+        "end_page": 21,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 22,
+        "y": 69.43,
+        "end_page": 22,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 23,
+        "y": 82.27,
+        "end_page": 23,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 24,
+        "y": 68.47,
+        "end_page": 24,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 25,
+        "y": 68.47,
+        "end_page": 25,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "usnco-2021-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 59.99,
+        "end_page": 3,
+        "end_y": 248.51
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 3,
+        "y": 251.51,
+        "end_page": 3,
+        "end_y": 394.66
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 3,
+        "y": 397.66,
+        "end_page": 4,
+        "end_y": 305.62
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 4,
+        "y": 308.62,
+        "end_page": 4,
+        "end_y": 626.51
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 4,
+        "y": 629.51,
+        "end_page": 5,
+        "end_y": 132.94
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 5,
+        "y": 135.94,
+        "end_page": 5,
+        "end_y": 237.94
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 5,
+        "y": 240.94,
+        "end_page": 5,
+        "end_y": 419.99
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 5,
+        "y": 422.99,
+        "end_page": 5,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2021-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 6,
+        "y": 66.63,
+        "end_page": 6,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 7,
+        "y": 66.63,
+        "end_page": 7,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 8,
+        "y": 67.35,
+        "end_page": 8,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 9,
+        "y": 66.63,
+        "end_page": 9,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 10,
+        "y": 67.35,
+        "end_page": 10,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 11,
+        "y": 66.63,
+        "end_page": 11,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 12,
+        "y": 66.63,
+        "end_page": 12,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 13,
+        "y": 84.51,
+        "end_page": 13,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "usnco-2020-national-ii-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1",
+        "page": 3,
+        "y": 49.98,
+        "end_page": 3,
+        "end_y": 278.34
+      },
+      {
+        "number": 2,
+        "title": "National II Q2",
+        "page": 3,
+        "y": 281.34,
+        "end_page": 3,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3",
+        "page": 4,
+        "y": 49.98,
+        "end_page": 4,
+        "end_y": 361.87
+      },
+      {
+        "number": 4,
+        "title": "National II Q4",
+        "page": 4,
+        "y": 364.87,
+        "end_page": 5,
+        "end_y": 221.58
+      },
+      {
+        "number": 5,
+        "title": "National II Q5",
+        "page": 5,
+        "y": 224.58,
+        "end_page": 5,
+        "end_y": 407.2
+      },
+      {
+        "number": 6,
+        "title": "National II Q6",
+        "page": 5,
+        "y": 410.2,
+        "end_page": 5,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7",
+        "page": 6,
+        "y": 96.54,
+        "end_page": 6,
+        "end_y": 301.02
+      },
+      {
+        "number": 8,
+        "title": "National II Q8",
+        "page": 6,
+        "y": 304.02,
+        "end_page": 6,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Single-column free-response problems. Shared reference page remains in full exam."
+  },
+  {
+    "resource_id": "usnco-2020-national-ii-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "National II Q1 — official solution",
+        "page": 7,
+        "y": 68.23,
+        "end_page": 7,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "National II Q2 — official solution",
+        "page": 8,
+        "y": 67.82,
+        "end_page": 8,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "National II Q3 — official solution",
+        "page": 9,
+        "y": 68.23,
+        "end_page": 9,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "National II Q4 — official solution",
+        "page": 10,
+        "y": 68.23,
+        "end_page": 10,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "National II Q5 — official solution",
+        "page": 11,
+        "y": 69.19,
+        "end_page": 11,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "National II Q6 — official solution",
+        "page": 12,
+        "y": 69.19,
+        "end_page": 12,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "National II Q7 — official solution",
+        "page": 13,
+        "y": 69.19,
+        "end_page": 13,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "National II Q8 — official solution",
+        "page": 14,
+        "y": 112.99,
+        "end_page": 14,
+        "end_y": 792.0
+      }
+    ],
+    "notes": "Scoring solution section, independent of preceding question paper."
+  },
+  {
+    "resource_id": "ukcho-2026-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "pee in the pool",
+        "page": 2,
+        "y": 64.75,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "isocyanides",
+        "page": 3,
+        "y": 64.75,
+        "end_page": 5,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "compounds in henna tattoos",
+        "page": 6,
+        "y": 64.75,
+        "end_page": 8,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "rice, spice, and mice",
+        "page": 9,
+        "y": 64.75,
+        "end_page": 12,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "minerals",
+        "page": 13,
+        "y": 64.75,
+        "end_page": 14,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2026-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "pee in the pool",
+        "page": 2,
+        "y": 39.13,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "isocyanides",
+        "page": 3,
+        "y": 39.13,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "compounds in henna tattoos",
+        "page": 5,
+        "y": 39.13,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "rice, spice, and mice",
+        "page": 8,
+        "y": 39.13,
+        "end_page": 11,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "minerals",
+        "page": 12,
+        "y": 39.13,
+        "end_page": 15,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2025-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "clay pigeon shooting",
+        "page": 2,
+        "y": 64.72,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "BrAt",
+        "page": 3,
+        "y": 64.72,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "epoxides",
+        "page": 4,
+        "y": 64.72,
+        "end_page": 6,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "carbon nanotubes and Raman spectroscopy",
+        "page": 7,
+        "y": 64.72,
+        "end_page": 8,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "agarwood",
+        "page": 9,
+        "y": 64.72,
+        "end_page": 10,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "the iodination of ketones",
+        "page": 11,
+        "y": 64.72,
+        "end_page": 13,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2025-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "clay pigeon shooting",
+        "page": 2,
+        "y": 37.31,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "BrAt",
+        "page": 3,
+        "y": 37.31,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "epoxides",
+        "page": 4,
+        "y": 37.31,
+        "end_page": 6,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "Raman spectroscopy",
+        "page": 7,
+        "y": 36.95,
+        "end_page": 8,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "agarwood",
+        "page": 9,
+        "y": 37.31,
+        "end_page": 11,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "the iodination of ketones",
+        "page": 12,
+        "y": 37.31,
+        "end_page": 13,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2024-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Bronze",
+        "page": 2,
+        "y": 62.93,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "iodate salts",
+        "page": 4,
+        "y": 62.93,
+        "end_page": 5,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "fuel-producing bacteria",
+        "page": 6,
+        "y": 62.93,
+        "end_page": 8,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "the MRI contrast agent gadopiclenol",
+        "page": 9,
+        "y": 62.93,
+        "end_page": 12,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "sulfur-containing molecules in the atmosphere",
+        "page": 13,
+        "y": 62.93,
+        "end_page": 15,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2024-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Bronze",
+        "page": 2,
+        "y": 37.31,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "iodate salts",
+        "page": 4,
+        "y": 37.31,
+        "end_page": 6,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "fuel-producing bacteria.",
+        "page": 7,
+        "y": 37.31,
+        "end_page": 8,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "the MRI contrast agent gadopiclenol",
+        "page": 9,
+        "y": 37.31,
+        "end_page": 13,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "sulfur-containing molecules in the atmosphere",
+        "page": 14,
+        "y": 37.31,
+        "end_page": 15,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2023-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "rocket fuels",
+        "page": 2,
+        "y": 62.93,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "electronegativity, bonding and structure",
+        "page": 3,
+        "y": 62.93,
+        "end_page": 6,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "amino acid complexes",
+        "page": 7,
+        "y": 62.93,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "vaping",
+        "page": 10,
+        "y": 62.93,
+        "end_page": 12,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "cheese",
+        "page": 13,
+        "y": 62.93,
+        "end_page": 16,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2023-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "rocket fuel",
+        "page": 2,
+        "y": 37.31,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "electronegativity, bonding and structure",
+        "page": 3,
+        "y": 37.31,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "amino acid complexes",
+        "page": 5,
+        "y": 37.31,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "vaping",
+        "page": 8,
+        "y": 37.31,
+        "end_page": 10,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "cheese",
+        "page": 11,
+        "y": 37.31,
+        "end_page": 13,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2022-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "E10 petrol",
+        "page": 2,
+        "y": 64.72,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "the chemistry of nitrous oxide",
+        "page": 4,
+        "y": 64.72,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "cubane",
+        "page": 5,
+        "y": 64.73,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "coronavirus testing",
+        "page": 8,
+        "y": 64.72,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "making the smallest Chinese knot",
+        "page": 10,
+        "y": 64.72,
+        "end_page": 12,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "storing vaccines",
+        "page": 13,
+        "y": 64.72,
+        "end_page": 15,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2022-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "E10 petrol",
+        "page": 2,
+        "y": 39.12,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "the chemistry of nitrous oxide",
+        "page": 4,
+        "y": 39.12,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "cubane",
+        "page": 5,
+        "y": 39.12,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "coronavirus testing",
+        "page": 8,
+        "y": 39.12,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "making the smallest Chinese knot",
+        "page": 10,
+        "y": 39.12,
+        "end_page": 11,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "storing vaccines",
+        "page": 12,
+        "y": 39.12,
+        "end_page": 13,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2021-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "life on Venus",
+        "page": 2,
+        "y": 62.91,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "capturing carbon",
+        "page": 3,
+        "y": 62.91,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "levulinic acid",
+        "page": 5,
+        "y": 62.91,
+        "end_page": 6,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "‘social distancing’ within molecules",
+        "page": 7,
+        "y": 62.85,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "Donald Trump and the coronavirus",
+        "page": 10,
+        "y": 62.91,
+        "end_page": 11,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "fluorides of xenon",
+        "page": 12,
+        "y": 62.91,
+        "end_page": 14,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2021-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "life on Venus",
+        "page": 2,
+        "y": 37.31,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "capturing carbon",
+        "page": 3,
+        "y": 37.31,
+        "end_page": 3,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "levulinic acid",
+        "page": 4,
+        "y": 35.51,
+        "end_page": 5,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "‘social distancing’ within molecules",
+        "page": 6,
+        "y": 37.31,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "Donald Trump and the coronavirus",
+        "page": 8,
+        "y": 37.31,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "fluorides of xenon",
+        "page": 10,
+        "y": 37.31,
+        "end_page": 11,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2020-round-1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "calcium carbide",
+        "page": 2,
+        "y": 62.91,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "hydrogen as a fuel",
+        "page": 3,
+        "y": 62.85,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "sun cream",
+        "page": 5,
+        "y": 62.91,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "silicon oxides",
+        "page": 8,
+        "y": 62.85,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "colourful compounds",
+        "page": 10,
+        "y": 62.91,
+        "end_page": 11,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "anammox and ladderanes",
+        "page": 12,
+        "y": 62.91,
+        "end_page": 14,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "ukcho-2020-round-1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "calcium carbide",
+        "page": 2,
+        "y": 37.43,
+        "end_page": 2,
+        "end_y": 841.92
+      },
+      {
+        "number": 2,
+        "title": "hydrogen as a fuel",
+        "page": 3,
+        "y": 37.43,
+        "end_page": 4,
+        "end_y": 841.92
+      },
+      {
+        "number": 3,
+        "title": "sun cream",
+        "page": 5,
+        "y": 35.57,
+        "end_page": 7,
+        "end_y": 841.92
+      },
+      {
+        "number": 4,
+        "title": "silicon oxides",
+        "page": 8,
+        "y": 35.57,
+        "end_page": 9,
+        "end_y": 841.92
+      },
+      {
+        "number": 5,
+        "title": "colourful compounds",
+        "page": 10,
+        "y": 35.57,
+        "end_page": 12,
+        "end_y": 841.92
+      },
+      {
+        "number": 6,
+        "title": "anammox and ladderanes.",
+        "page": 13,
+        "y": 35.57,
+        "end_page": 15,
+        "end_y": 841.92
+      }
+    ],
+    "notes": "Excludes cover, constants/periodic table and acknowledgements; full exam retains shared reference material."
+  },
+  {
+    "resource_id": "icho-2022-theoretical-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Rapid and Visual Nucleic Acid Testing for COVID-19",
+        "page": 10,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Chromium in Ancient and Modern Times",
+        "page": 14,
+        "y": 0.0,
+        "end_page": 17,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Capture and Transformation of Carbon Dioxide",
+        "page": 21,
+        "y": 0.0,
+        "end_page": 26,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "A New Journey for Ancient Sulfur",
+        "page": 31,
+        "y": 0.0,
+        "end_page": 34,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Interconversion among Nitrogen Oxides",
+        "page": 40,
+        "y": 0.0,
+        "end_page": 44,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "Enabling Phosphines",
+        "page": 50,
+        "y": 0.0,
+        "end_page": 54,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Organic Molecules in Life",
+        "page": 58,
+        "y": 0.0,
+        "end_page": 61,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Amazing Chiral Spiro Catalyst",
+        "page": 64,
+        "y": 0.0,
+        "end_page": 68,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Total Synthesis of Capitulactone",
+        "page": 71,
+        "y": 0.0,
+        "end_page": 74,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2022-theoretical-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "[Marking Scheme] Rapid and Visual Nucleic Acid Testing for COVID-19 1.1 (1.0 pt)",
+        "page": 78,
+        "y": 0.0,
+        "end_page": 80,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "[Marking Scheme] Chromium in Ancient and Modern Times 2.1 (2.0 pt) A: 8 B: 16",
+        "page": 81,
+        "y": 0.0,
+        "end_page": 83,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "[Marking Scheme] Capture and Transformation of Carbon Dioxide 3.1 (2.0 pt)",
+        "page": 84,
+        "y": 0.0,
+        "end_page": 87,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "[Marking Scheme] A New Journey for Ancient Sulfur 4.1 (2.0 pt) 3 FeS2 + 2 O2",
+        "page": 88,
+        "y": 0.0,
+        "end_page": 95,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "[Marking Scheme] Interconversion among Nitrogen Oxides",
+        "page": 96,
+        "y": 0.0,
+        "end_page": 99,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "[Marking Scheme] Enabling Phosphines 6.1 (3.0 pt) R",
+        "page": 100,
+        "y": 0.0,
+        "end_page": 102,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Organic Molecules in Life 7.1 (12.0 pt) 12 points in total.",
+        "page": 103,
+        "y": 0.0,
+        "end_page": 105,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "[Marking Scheme] Amazing Chiral Spiro Catalyst 8.1 (16.0 pt) 16 points in total.",
+        "page": 106,
+        "y": 0.0,
+        "end_page": 107,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "[Marking Scheme] Total Synthesis of Capitulactone",
+        "page": 108,
+        "y": 0.0,
+        "end_page": 109,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2020-theoretical-combined",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Problem 1",
+        "page": 12,
+        "y": 73.69,
+        "end_page": 14,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "Problem 2",
+        "page": 15,
+        "y": 73.69,
+        "end_page": 18,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "Problem 3",
+        "page": 19,
+        "y": 68.41,
+        "end_page": 21,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "Problem 4",
+        "page": 22,
+        "y": 68.17,
+        "end_page": 25,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "Problem 5",
+        "page": 26,
+        "y": 68.41,
+        "end_page": 29,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "Problem 6",
+        "page": 30,
+        "y": 81.61,
+        "end_page": 33,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "Problem 7",
+        "page": 34,
+        "y": 84.25,
+        "end_page": 37,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "Problem 8",
+        "page": 38,
+        "y": 94.69,
+        "end_page": 41,
+        "end_y": 792.0
+      },
+      {
+        "number": 9,
+        "title": "Problem 9",
+        "page": 42,
+        "y": 68.41,
+        "end_page": 45,
+        "end_y": 792.0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "resource_id": "icho-2021-theoretical-host-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Hydrogen at a Metal Surface 11 % of the total",
+        "page": 8,
+        "y": 0.0,
+        "end_page": 12,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Isotope Time Capsule 11 % of the total",
+        "page": 13,
+        "y": 0.0,
+        "end_page": 16,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Lambert–Beer Law? 8 % of the total",
+        "page": 17,
+        "y": 0.0,
+        "end_page": 18,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "The Redox Chemistry of Zinc 11 % of the total",
+        "page": 19,
+        "y": 0.0,
+        "end_page": 21,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Mysterious Silicon 12 % of the total",
+        "page": 22,
+        "y": 0.0,
+        "end_page": 25,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "The Solid-State Chemistry of Transition Metals 13 % of the total",
+        "page": 26,
+        "y": 0.0,
+        "end_page": 31,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Playing with Non-benzenoid Aromaticity 13 % of the total",
+        "page": 32,
+        "y": 0.0,
+        "end_page": 36,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Dynamic Organic Molecules and Their Chirality 11 % of the total",
+        "page": 37,
+        "y": 0.0,
+        "end_page": 41,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Likes and Dislikes of Capsule 10 % of the total",
+        "page": 42,
+        "y": 0.0,
+        "end_page": 46,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2021-theoretical-host-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Hydrogen at a Metal Surface 11 % of the total",
+        "page": 8,
+        "y": 0.0,
+        "end_page": 14,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Isotope Time Capsule 11 % of the total",
+        "page": 15,
+        "y": 0.0,
+        "end_page": 21,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Lambert–Beer Law? 8 % of the total",
+        "page": 22,
+        "y": 0.0,
+        "end_page": 26,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "The Redox Chemistry of Zinc 11 % of the total",
+        "page": 27,
+        "y": 0.0,
+        "end_page": 33,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Mysterious Silicon 12 % of the total",
+        "page": 34,
+        "y": 0.0,
+        "end_page": 41,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "The Solid-State Chemistry of Transition Metals 13 % of the total",
+        "page": 42,
+        "y": 0.0,
+        "end_page": 51,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Playing with Non-benzenoid Aromaticity 13 % of the total",
+        "page": 52,
+        "y": 0.0,
+        "end_page": 60,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Dynamic Organic Molecules and Their Chirality 11 % of the total",
+        "page": 61,
+        "y": 0.0,
+        "end_page": 69,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Likes and Dislikes of Capsule 10 % of the total",
+        "page": 70,
+        "y": 0.0,
+        "end_page": 76,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets. Solutions are embedded in the question text; this slice is an annotated original, not answer-only."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "T1. A journey through time: The secrets of Avicenna",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 4,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q2-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 2,
+        "title": "T2. Kinetics of the Belousov-Zhabotinsky reaction",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 4,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q3-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 3,
+        "title": "T3. Into Reticular Chemistry",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 7,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q4-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 4,
+        "title": "T4. The nuclear past of Uzbekistan",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 3,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q5-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 5,
+        "title": "T5. Cardiolipins",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 3,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q6-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 6,
+        "title": "T6. Carbon Nanorings",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 5,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q7-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 7,
+        "title": "T7. Nitrogen Fixation",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 4,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q8-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 8,
+        "title": "T8. Recycling of Carbon Dioxide",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 6,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q9-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 9,
+        "title": "T9. Cyclodextrin Chemistry",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 5,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-practical-q1-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "P1. Synthesise and analyse (A new complex problem)",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 6,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-practical-q2-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 2,
+        "title": "P2. Atlas of Enzymes",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 7,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-practical-q3-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 3,
+        "title": "P3. The Adventures of Hodja Nasreddin",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 6,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-practical-q1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "P1. Synthesise and analyse (A new complex problem)",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-practical-q2-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 2,
+        "title": "P2. Atlas of Enzymes",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-practical-q3-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 3,
+        "title": "P3. The Adventures of Hodja Nasreddin",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 10,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q1-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "T1. A journey through time: The secrets of Avicenna",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 8,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q2-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 2,
+        "title": "T2. Kinetics of the Belousov-Zhabotinsky reaction",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 8,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q3-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 3,
+        "title": "T3. Into Reticular Chemistry",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 10,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q4-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 4,
+        "title": "T4. The nuclear past of Uzbekistan",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 6,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q5-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 5,
+        "title": "T5. Cardiolipins",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 10,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q6-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 6,
+        "title": "T6. Carbon Nanorings",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q7-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 7,
+        "title": "T7. Nitrogen Fixation",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 9,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q8-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 8,
+        "title": "T8. Recycling of Carbon Dioxide",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 12,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2026-theoretical-q9-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 9,
+        "title": "T9. Cyclodextrin Chemistry",
+        "page": 1,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Organizer-supplied individual question PDF; all original pages retained."
+  },
+  {
+    "resource_id": "icho-2025-theoretical-mirror-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Isocaryophyllene, clovene, and humulene",
+        "page": 9,
+        "y": 123.36,
+        "end_page": 14,
+        "end_y": 120.36
+      },
+      {
+        "number": 2,
+        "title": "Rapamycin - A molecular glue",
+        "page": 14,
+        "y": 123.36,
+        "end_page": 20,
+        "end_y": 120.36
+      },
+      {
+        "number": 3,
+        "title": "Lanterns and the Burj Khalifa",
+        "page": 20,
+        "y": 123.36,
+        "end_page": 28,
+        "end_y": 120.36
+      },
+      {
+        "number": 4,
+        "title": "The life of tennis balls",
+        "page": 28,
+        "y": 123.36,
+        "end_page": 31,
+        "end_y": 120.36
+      },
+      {
+        "number": 5,
+        "title": "Solar-powered multi-stage flash desalination",
+        "page": 31,
+        "y": 123.36,
+        "end_page": 33,
+        "end_y": 120.36
+      },
+      {
+        "number": 6,
+        "title": "Solar energy conversion by CO 2  reduction",
+        "page": 33,
+        "y": 123.36,
+        "end_page": 36,
+        "end_y": 120.36
+      },
+      {
+        "number": 7,
+        "title": "Dubai crude oil",
+        "page": 36,
+        "y": 123.36,
+        "end_page": 42,
+        "end_y": 120.36
+      },
+      {
+        "number": 8,
+        "title": "Carbon monoxide: deadly poison or promising",
+        "page": 42,
+        "y": 123.36,
+        "end_page": 47,
+        "end_y": 120.36
+      },
+      {
+        "number": 9,
+        "title": "Enzymes and cofactors",
+        "page": 47,
+        "y": 123.36,
+        "end_page": 51,
+        "end_y": 841.92
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "resource_id": "icho-2025-theoretical-mirror-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Isocaryophyllene, clovene, and humulene",
+        "page": 1,
+        "y": 150.85,
+        "end_page": 5,
+        "end_y": 118.82
+      },
+      {
+        "number": 2,
+        "title": "Rapamycin - A molecular glue",
+        "page": 5,
+        "y": 121.82,
+        "end_page": 11,
+        "end_y": 118.82
+      },
+      {
+        "number": 3,
+        "title": "Lanterns and the Burj Khalifa",
+        "page": 11,
+        "y": 121.82,
+        "end_page": 18,
+        "end_y": 118.82
+      },
+      {
+        "number": 4,
+        "title": "The life of tennis balls",
+        "page": 18,
+        "y": 121.82,
+        "end_page": 22,
+        "end_y": 118.82
+      },
+      {
+        "number": 5,
+        "title": "Solar-powered multi-stage flash desalination",
+        "page": 22,
+        "y": 121.82,
+        "end_page": 25,
+        "end_y": 118.82
+      },
+      {
+        "number": 6,
+        "title": "Solar energy conversion by CO 2  reduction",
+        "page": 25,
+        "y": 121.82,
+        "end_page": 29,
+        "end_y": 118.82
+      },
+      {
+        "number": 7,
+        "title": "Dubai crude oil",
+        "page": 29,
+        "y": 121.82,
+        "end_page": 33,
+        "end_y": 118.82
+      },
+      {
+        "number": 8,
+        "title": "Carbon monoxide: deadly poison or promising therapeutic agent?",
+        "page": 33,
+        "y": 121.82,
+        "end_page": 39,
+        "end_y": 118.82
+      },
+      {
+        "number": 9,
+        "title": "Enzymes and cofactors",
+        "page": 39,
+        "y": 121.82,
+        "end_page": 45,
+        "end_y": 841.92
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "resource_id": "icho-2025-practical-mirror-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "A complex problem",
+        "page": 11,
+        "y": 155.25,
+        "end_page": 18,
+        "end_y": 152.25
+      },
+      {
+        "number": 2,
+        "title": "Exploring the AminOasis",
+        "page": 18,
+        "y": 155.25,
+        "end_page": 29,
+        "end_y": 152.25
+      },
+      {
+        "number": 3,
+        "title": "R f  you ready to spot the answers?",
+        "page": 29,
+        "y": 155.25,
+        "end_page": 39,
+        "end_y": 841.92
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "resource_id": "icho-2025-practical-mirror-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "A complex problem",
+        "page": 1,
+        "y": 167.33,
+        "end_page": 5,
+        "end_y": 152.32
+      },
+      {
+        "number": 2,
+        "title": "Exploring the AminOasis",
+        "page": 5,
+        "y": 155.32,
+        "end_page": 12,
+        "end_y": 152.32
+      },
+      {
+        "number": 3,
+        "title": "R f  you ready to spot the answers?",
+        "page": 12,
+        "y": 155.32,
+        "end_page": 18,
+        "end_y": 841.92
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "resource_id": "icho-2024-theoretical-mirror-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Problem 1 Ammonia The Haber–Bosch process to produce ammonia from nitrogen and hydrogen is one of the most impactful industrial processes in history and estimated to sustain around half of today’s population. The process",
+        "page": 5,
+        "y": 0.0,
+        "end_page": 7,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Problem 2 Electronic nose Resistive gas sensors, especially those using semiconducting metal oxides (SMOX), are becoming increas- ingly popular. They can detect tiny amounts of impurities, are small and stable, and are easy to make",
+        "page": 13,
+        "y": 0.0,
+        "end_page": 15,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Problem 3 Tyrosinase The enzyme tyrosine 3-monooxygenase has an important biological role because it catalyzes the initial and rate-limiting step in the biosynthesis of the neurotransmitter dopamine. In this first step, L-DOPA is",
+        "page": 18,
+        "y": 0.0,
+        "end_page": 22,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "Problem 4 Potassium Elementary potassium was the first metal synthesized by electrolysis (𝟣𝟪𝟢𝟩). Humphry Davy used voltaic cells and electrodes immersed into molten KOH.",
+        "page": 27,
+        "y": 0.0,
+        "end_page": 28,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Problem 5 Unknown Metal containing salt A can be prepared in a simple exchange reaction when the cold, saturated aqueous solutions of the two distinctly colored compounds, B and C are mixed in stoichiometric ratio. 𝟣𝟢.𝟢𝟢g B in",
+        "page": 32,
+        "y": 0.0,
+        "end_page": 33,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "Problem 6 Penicillin Penicillins are a group of antibiotics that have played a crucial role in medicine since their discovery. N",
+        "page": 37,
+        "y": 0.0,
+        "end_page": 39,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Problem 7 SABIC The Saudi Basic Industries Corporation (SABIC) was established in the mid-1970s as part of Saudi Arabia's plan to diversify its economy. Today, SABIC is a global chemical giant, producing 69 million tons of",
+        "page": 42,
+        "y": 0.0,
+        "end_page": 46,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Problem 8 Safflower In Saudi culture, safflower drink is a traditional remedy used for its calming effects. One ingredient with health benefits is kaempferol. The following scheme shows its total synthesis.",
+        "page": 50,
+        "y": 0.0,
+        "end_page": 52,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Problem 9 Porphyrin complexes Part A. Metals in petroleum Saudi Arabian petroleum, primarily hydrocarbons, contains elements like vanadium in porphyrin com-",
+        "page": 55,
+        "y": 0.0,
+        "end_page": 58,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2024-theoretical-mirror-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Problem 1 Ammonia The Haber–Bosch process to produce ammonia from nitrogen and hydrogen is one of the most impactful industrial processes in history and estimated to sustain around half of today’s population. The process",
+        "page": 5,
+        "y": 0.0,
+        "end_page": 10,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Problem 2 Electronic nose Resistive gas sensors, especially those using semiconducting metal oxides (SMOX), are becoming increas- ingly popular. They can detect tiny amounts of impurities, are small and stable, and are easy to make",
+        "page": 16,
+        "y": 0.0,
+        "end_page": 18,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Problem 3 Tyrosinase The enzyme tyrosine 3-monooxygenase has an important biological role because it catalyzes the initial and rate-limiting step in the biosynthesis of the neurotransmitter dopamine. In this first step, L-DOPA is",
+        "page": 21,
+        "y": 0.0,
+        "end_page": 28,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "Problem 4 Potassium Elementary potassium was the first metal synthesized by electrolysis (𝟣𝟪𝟢𝟩). Humphry Davy used voltaic cells and electrodes immersed into molten KOH.",
+        "page": 33,
+        "y": 0.0,
+        "end_page": 35,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Problem 5 Unknown Metal containing salt A can be prepared in a simple exchange reaction when the cold, saturated aqueous solutions of the two distinctly colored compounds, B and C are mixed in stoichiometric ratio. 𝟣𝟢.𝟢𝟢g B in",
+        "page": 39,
+        "y": 0.0,
+        "end_page": 43,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "Problem 6 Penicillin Penicillins are a group of antibiotics that have played a crucial role in medicine since their discovery. N",
+        "page": 47,
+        "y": 0.0,
+        "end_page": 52,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Problem 7 SABIC The Saudi Basic Industries Corporation (SABIC) was established in the mid-1970s as part of Saudi Arabia's plan to diversify its economy. Today, SABIC is a global chemical giant, producing 69 million tons of",
+        "page": 55,
+        "y": 0.0,
+        "end_page": 62,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Problem 8 Safflower In Saudi culture, safflower drink is a traditional remedy used for its calming effects. One ingredient with health benefits is kaempferol. The following scheme shows its total synthesis.",
+        "page": 66,
+        "y": 0.0,
+        "end_page": 70,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Problem 9 Porphyrin complexes Part A. Metals in petroleum Saudi Arabian petroleum, primarily hydrocarbons, contains elements like vanadium in porphyrin com-",
+        "page": 73,
+        "y": 0.0,
+        "end_page": 79,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets. Solutions are embedded in the question text; this slice is an annotated original, not answer-only."
+  },
+  {
+    "resource_id": "icho-2024-practical-mirror-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Task 1 Indicators (time 1 h 45 min) Equipment and materials Item",
+        "page": 6,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Task 2 Titration on a balance (time 3 h 15 min) Equipment and materials Item",
+        "page": 17,
+        "y": 0.0,
+        "end_page": 27,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2024-practical-mirror-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Task 1 Indicators (time 1 h 45 min) Equipment and materials Item",
+        "page": 6,
+        "y": 0.0,
+        "end_page": 20,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Task 2 Titration on a balance (time 3 h 15 min) Equipment and materials Item",
+        "page": 26,
+        "y": 0.0,
+        "end_page": 38,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets. Solutions are embedded in the question text; this slice is an annotated original, not answer-only."
+  },
+  {
+    "resource_id": "icho-2023-theoretical-mirror-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Molecular Imaging",
+        "page": 9,
+        "y": 0.0,
+        "end_page": 11,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Electrochemical CO2 Reduction",
+        "page": 16,
+        "y": 0.0,
+        "end_page": 19,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Artificial Photosynthesis",
+        "page": 25,
+        "y": 0.0,
+        "end_page": 28,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "Fluorinated and Hypervalent Compounds",
+        "page": 35,
+        "y": 0.0,
+        "end_page": 40,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Hydrodesulfurization",
+        "page": 45,
+        "y": 0.0,
+        "end_page": 47,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "Direct conversion of methane to methanol",
+        "page": 52,
+        "y": 0.0,
+        "end_page": 54,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Enzyme Kinetics",
+        "page": 60,
+        "y": 0.0,
+        "end_page": 62,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Nazarov Reaction",
+        "page": 68,
+        "y": 0.0,
+        "end_page": 70,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Electrolysis in Organic Synthesis",
+        "page": 74,
+        "y": 0.0,
+        "end_page": 79,
+        "end_y": 841.89
+      },
+      {
+        "number": 10,
+        "title": "Switzerland - The Country of Pharmaceuticals",
+        "page": 85,
+        "y": 0.0,
+        "end_page": 90,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2023-theoretical-mirror-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Molecular Imaging - Solutions",
+        "page": 9,
+        "y": 0.0,
+        "end_page": 14,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Electrochemical CO2 Reduction - Solutions",
+        "page": 15,
+        "y": 0.0,
+        "end_page": 19,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Artificial Photosynthesis - Solutions",
+        "page": 20,
+        "y": 0.0,
+        "end_page": 25,
+        "end_y": 841.89
+      },
+      {
+        "number": 4,
+        "title": "Fluorinated and Hypervalent Compounds",
+        "page": 26,
+        "y": 0.0,
+        "end_page": 34,
+        "end_y": 841.89
+      },
+      {
+        "number": 5,
+        "title": "Hydrodesulfurization",
+        "page": 35,
+        "y": 0.0,
+        "end_page": 40,
+        "end_y": 841.89
+      },
+      {
+        "number": 6,
+        "title": "Direct conversion of methane to methanol - Solutions",
+        "page": 41,
+        "y": 0.0,
+        "end_page": 48,
+        "end_y": 841.89
+      },
+      {
+        "number": 7,
+        "title": "Enzyme Kinetics - Solutions",
+        "page": 49,
+        "y": 0.0,
+        "end_page": 56,
+        "end_y": 841.89
+      },
+      {
+        "number": 8,
+        "title": "Nazarov Reaction - Solutions",
+        "page": 57,
+        "y": 0.0,
+        "end_page": 61,
+        "end_y": 841.89
+      },
+      {
+        "number": 9,
+        "title": "Electrolysis in Organic Synthesis - Solutions",
+        "page": 62,
+        "y": 0.0,
+        "end_page": 71,
+        "end_y": 841.89
+      },
+      {
+        "number": 10,
+        "title": "Switzerland - The Country of Pharmaceuticals - Solutions",
+        "page": 72,
+        "y": 0.0,
+        "end_page": 80,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2023-practical-mirror-problems",
+    "role": "problems",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Bleach, a Chameleonic Reagent",
+        "page": 22,
+        "y": 0.0,
+        "end_page": 32,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Titration Tango",
+        "page": 38,
+        "y": 0.0,
+        "end_page": 42,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Beauty in simplicity",
+        "page": 48,
+        "y": 0.0,
+        "end_page": 49,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2023-practical-mirror-solutions",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Bleach, a Chameleonic Reagent - Solutions",
+        "page": 22,
+        "y": 0.0,
+        "end_page": 35,
+        "end_y": 841.89
+      },
+      {
+        "number": 2,
+        "title": "Titration Tango - Solutions",
+        "page": 36,
+        "y": 0.0,
+        "end_page": 43,
+        "end_y": 841.89
+      },
+      {
+        "number": 3,
+        "title": "Beauty in simplicity - Solutions",
+        "page": 44,
+        "y": 0.0,
+        "end_page": 50,
+        "end_y": 841.89
+      }
+    ],
+    "notes": "Printed section headers; excludes interleaved blank answer booklets."
+  },
+  {
+    "resource_id": "icho-2020-theoretical-mirror-combined",
+    "role": "solutions",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Problem 1 — official solution",
+        "page": 15,
+        "y": 66.96,
+        "end_page": 18,
+        "end_y": 792.0
+      },
+      {
+        "number": 2,
+        "title": "Problem 2 — official solution",
+        "page": 23,
+        "y": 66.96,
+        "end_page": 28,
+        "end_y": 792.0
+      },
+      {
+        "number": 3,
+        "title": "Problem 3 — official solution",
+        "page": 32,
+        "y": 66.96,
+        "end_page": 36,
+        "end_y": 792.0
+      },
+      {
+        "number": 4,
+        "title": "Problem 4 — official solution",
+        "page": 41,
+        "y": 66.96,
+        "end_page": 44,
+        "end_y": 792.0
+      },
+      {
+        "number": 5,
+        "title": "Problem 5 — official solution",
+        "page": 49,
+        "y": 66.96,
+        "end_page": 52,
+        "end_y": 792.0
+      },
+      {
+        "number": 6,
+        "title": "Problem 6 — official solution",
+        "page": 57,
+        "y": 66.96,
+        "end_page": 65,
+        "end_y": 792.0
+      },
+      {
+        "number": 7,
+        "title": "Problem 7 — official solution",
+        "page": 70,
+        "y": 66.96,
+        "end_page": 74,
+        "end_y": 792.0
+      },
+      {
+        "number": 8,
+        "title": "Problem 8 — official solution",
+        "page": 79,
+        "y": 66.96,
+        "end_page": 84,
+        "end_y": 792.0
+      },
+      {
+        "number": 9,
+        "title": "Problem 9 — official solution",
+        "page": 89,
+        "y": 66.96,
+        "end_page": 92,
+        "end_y": 792.0
+      }
+    ],
+    "notes": ""
+  }
+]

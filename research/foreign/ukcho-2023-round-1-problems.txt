@@ -1,0 +1,1197 @@
+1 
+ 
+ 
+ 
+ 
+55th INTERNATIONAL  
+CHEMISTRY OLYMPIAD  
+2023 
+UK Round One  
+ 
+STUDENT QUESTION BOOKLET  
+ 
+* * * * *  
+■ 
+The time allowed is two hours. 
+■ 
+Attempt all five questions.  
+■ 
+Write your answers in the student answer booklet.  
+■ 
+Write only the essential steps of your calculations in the answer booklet. 
+■ 
+Always give the appropriate unit and number of significant figures.  
+■ 
+The final pages of this question booklet include a copy of the periodic table and 
+some useful physical constants and formulae.  
+■ 
+Do NOT write anything in the right-hand margin of the answer booklet. 
+■ 
+The marks available for each question are shown below. These may be helpful 
+when dividing your time between questions. 
+ 
+Question 
+1 
+2 
+3 
+4 
+5 
+Total 
+Marks 
+Available 
+7 
+20 
+18 
+21 
+20 
+86 
+ 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward. 
+ 
+ 
+
+2 
+ 
+Q1 This question is about rocket fuels 
+The NASA Artemis uses liquid oxygen (LOX) 
+and liquid hydrogen fuel sources. These fuels 
+ensure the rocket mass is low and alongside 
+their large enthalpy change of combustion 
+enable a rocket to overcome gravity. 
+In 2022 there were a number of failed launch 
+attempts due to a leak in the hydrogen fuel. 
+ 
+In the rocket engine the fuel components are first vaporised before reacting to form water. 
+(a) 
+Write an equation for the reaction between gaseous hydrogen and oxygen. 
+The bond enthalpy of H–H is 432 kJ mol−1 and the average bond enthalpy of O–H is 
+460 kJ mol−1. Assume the enthalpy change for the reaction in part (a) is −241 kJ per mole of 
+hydrogen gas. 
+(b) 
+Calculate the bond enthalpy of the O=O bond in kJ mol−1. 
+The density of liquid hydrogen is 0.071 g cm−3. 
+(c) 
+(i) 
+Calculate the number of moles of hydrogen molecules in 1 dm3 of liquid 
+hydrogen. 
+ 
+(ii) 
+Calculate the energy released when the gas formed from 1 dm3 of liquid hydrogen 
+is combusted. 
+SpaceX's aim to colonise Mars leads to the choice of methane as an alternative to hydrogen.  
+Methane can be formed using Mars’ natural resources via the Sabatier process as the 
+atmosphere of the planet is made up of 95.3% carbon dioxide by volume. In the Sabatier 
+process methane and water are formed from the reaction of carbon dioxide and hydrogen 
+gas. 
+(d) 
+(i) 
+Write an equation for the Sabatier process. 
+ 
+(ii) 
+State the oxidation number of carbon and hydrogen in the reactants and 
+products. 
+SpaceX has recently developed a new engine, the Raptor, that uses liquid methane and 
+LOX. Energy is required to turn them into the gaseous phase before they react. The enthalpy 
+change of vaporisation of methane is +8.2 kJ mol−1 and the enthalpy change of vaporisation 
+of oxygen is +6.8 kJ mol−1. The enthalpy change of combustion of methane, shown below, is 
+−890.8 kJ mol−1. 
+CH4(g) + 2O2(g)  →  CO2(g) +  2H2O(g) 
+(e) 
+Calculate the enthalpy change of reaction, in kJ, when one mole of liquid methane 
+reacts with liquid oxygen to form gaseous carbon dioxide and gaseous water. 
+ 
+ 
+
+3 
+ 
+Q2 This question is about electronegativity, bonding and structure 
+2022 was the 90th anniversary of Linus Pauling 
+proposing the concept of electronegativity. His book 
+The nature of the chemical bond is considered the most 
+influential chemistry book of 20th century, and he was 
+awarded the 1954 Nobel prize in chemistry for his work. 
+Electronegativity, 𝜒, is a measure of the ability of an 
+atom to attract a pair of electrons in a covalent bond. 
+ 
+Pauling used thermodynamic data to calculate the difference in electronegativity between two 
+atoms A and B. All electronegativity values are positive with no units, and atom A has a 
+higher electronegativity than atom B. 
+𝜒𝐴−𝜒𝐵= 0.102√B𝑑(𝐴𝐵) −B𝑑(𝐴𝐴) + B𝑑(𝐵𝐵)
+2
+ 
+B𝑑 represents the bond dissociation energies, in kJ mol−1, of the A–A, B–B and A–B bonds. 
+(a) 
+Calculate the difference in electronegativity between Cl and H, given that 
+ B𝑑(H2) = 432 kJ mol−1, B𝑑(Cl2) = 244 kJ mol−1 and B𝑑(HCl) = 427 kJ mol−1. 
+As this method gives a difference in electronegativity it is necesssary to choose a reference 
+point in order to gain values for individual elements. Pauling originally chose hydrogen as the 
+reference, with a value of 2.20. 
+(b) 
+Using this reference and your knowledge of trends in electronegativity in the periodic 
+table, calculate the electronegativity value for chlorine. 
+Other scientists suggested other methods to determine the electronegativity of an element, 
+which can be adjusted to be consistent with those determined by Pauling. Robert Mulliken 
+calculated the value from the first ionisation energy (E𝑖) and first electron affinity (E𝑒𝑎) of an 
+atom. 
+𝜒𝐴= 0.00197(E𝑖+ E𝑒𝑎) + 0.19 
+In this equation E𝑖 and E𝑒𝑎 are in kJ mol−1, although E𝑖 is often measured in electronvolts (eV). 
+1 eV = 96.49 kJ mol−1. 
+(c) 
+Calculate the adjusted Mulliken electronegativity of nitrogen given that E𝑖(N) = 14.5 eV 
+and E𝑒𝑎(N) = 6.80 kJ mol−1. 
+ 
+
+4 
+ 
+Electronegativity has been used by scientists to 
+rationalise differences in bonding.  
+Van Arkel-Ketelaar triangles allow a simple 
+visualisation of the degrees of ionic, metallic, and 
+covalent bonding found in a binary compound (AB).  
+In the triangle the average electronegativity of A and B, 
+𝜒̅ , is plotted against the difference in electronegativity, 
+𝜒𝐴−𝜒𝐵. 
+ 
+The electronegativities of ten elements are given in the table below. 
+Element 
+H 
+C 
+O 
+F 
+Al 
+P 
+Si 
+Cs 
+Hg 
+Br 
+Electronegativity 
+2.20 
+2.55 
+3.44 
+3.98 
+1.61 
+2.19 
+1.90 
+0.79 
+2.00 
+2.96 
+Consider the van Arkel-Ketelaar plot below.  
+ 
+(d)  Identify the letter in the answer booklet which represents the position of the following 
+substances. 
+ 
+(i) 
+AlP 
+(iv) 
+HgO 
+ 
+(ii) 
+CsH 
+(v) 
+SiC 
+ 
+(iii) 
+BrF 
+(e) 
+Identify which of the five substances in part (d) displays the greatest degree of metallic 
+character in its bonding.  
+ 
+ 
+ 
+
+5 
+ 
+(f) 
+Three substances, Cs, CsBr, and CO have been marked on the van Arkel-Ketelaar plot 
+below. Based on your knowledge of trends in electronegativity in the periodic table, 
+identify which point A-P describes where the following substances would be located.  
+ 
+(i) 
+CsCl 
+(iii) 
+GaN 
+ 
+(ii) 
+NaK  
+ 
+ 
+ 
+Boron nitride sits in a central position within 
+the van Arkel-Ketelaar triangle exhibiting 
+elements of all three bonding types.  
+It can be formed by reaction (1) of boric acid 
+(H3BO3) and ammonia. 
+It can also be formed by reaction (2) of boron 
+trioxide (B2O3), nitrogen, and calcium 
+hexaboride (CaB6), which produces calcium 
+oxide as a by-product. 
+ 
+(g) 
+(i) 
+Write the equation of reaction (1). 
+ 
+(ii) 
+Write the equation of reaction (2). 
+ 
+ 
+ 
+
+6 
+ 
+Boron nitride has several crystalline forms. This includes a cubic form (c-BN), a hexagonal 
+layered structure similar to graphite (h-BN), and a wurtzite structure (w-BN). The different 
+forms can be interconverted by changing the pressure and temperature. Diagrams of the 
+three different structures are shown below.  
+ 
+ 
+ 
+Unit cell of c-BN 
+Layer structure of h-BN 
+Unit cell of w-BN 
+The unit cell of c-BN is cubic, with cell 
+parameters of a = 3.63 Å. 
+ 
+The unit cell of h-BN is a right regular 
+hexagonal prism, with cell parameters of  
+b = 1.47 Å and c = 6.66 Å. 
+ 
+The unit cell of w-BN is a right rhombic prism, 
+with cell parameters of d = 2.54 Å and 
+e = 3.63 Å and interior angles of 60° and 
+120°.  
+ 
+Unit cell of h-BN 
+You may find it helpful to refer to the physical constants and formulae page for useful 
+equations for the next part of this question. 
+(h) 
+(i) 
+Calculate the volume of the c-BN unit cell in cm3. 
+ 
+(ii) 
+Calculate the density of c-BN in g cm−3. 
+ 
+(iii) 
+Calculate the volume of the h-BN unit cell in cm3. 
+ 
+(iv) 
+Calculate the density of h-BN in g cm−3. 
+ 
+(v) 
+Calculate the number of B atoms and N atoms in the unit cell of w-BN. 
+ 
+ 
+ 
+ 
+
+7 
+ 
+Q3 This question is about amino acid complexes 
+Copper bisglycinate (or copper(II) glycinate) is used as a 
+dietary supplement for copper. It is one of many metal 
+coordination complexes of amino acids.  
+ 
+Amino acids have the general 
+structure shown here, and contain 
+an acidic carboxyl group and a 
+basic amino group. The R 
+substituent can contain a range of 
+different functional groups. 
+ 
+The essential amino acid isoleucine (R = CH(CH3)CH2CH3) has a pKa value of 9.60, and its 
+hydrochloride salt has a pKa value of 2.36. 
+(a) 
+(i) 
+Draw the skeletal structure of isoleucine in an aqueous solution at pH = 2. 
+ 
+(ii) 
+Draw the skeletal structure of isoleucine in an aqueous solution at pH = 11. 
+The isoelectric point is the pH at which the overall charge in a molecule is zero. 
+(b) 
+(i) 
+Draw the skeletal structure of isoleucine at the isoelectric point. 
+ 
+(ii) 
+Calculate the isoelectric point of isoleucine. 
+To confirm the pKa values, a 50 cm3 sample of a 0.025 mol dm–3 solution of isoleucine 
+hydrochloride is titrated with 40 cm3 of a 0.1 mol dm–3 solution of NaOH. 
+(c) 
+Identify in the answer booklet which of the following titration curves best describes the 
+titration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8 
+ 
+When the amino acid is fully 
+deprotonated, the carboxylate ion 
+of the amino acid, 
+RCH(NH2)COO−, is able to 
+coordinate to metal ions as a 
+bidentate ligand through the 
+nitrogen and carboxylate oxygen 
+as shown on the right.  
+ 
+(Other ligands on metal ion M and charges not shown) 
+Copper(II) glycinate is formed when the amino acid glycine (R = H) is added to an aqueous 
+solution of copper(II) ethanoate. A blue precipitate of the square pyramidal copper(II) 
+glycinate (C4H10CuN2O5) is formed which contains one coordinated water molecule. 
+When heated, this precipitate undergoes isomerism between different stereoisomers, 
+however the water molecule remains in the axial position as shown. 
+ 
+(d) 
+Complete the structures of the 
+stereoisomers of copper(II) glycinate in 
+the answer booklet, representing the 
+bidentate ligand as shown on the right.  
+If the stereoisomer is chiral, you should 
+only draw one enantiomer. 
+ 
+The amino acid methionine (R = CH2CH2SCH3) forms a methionine anion (Mt−) when 
+deprotonated. In octahedral metal complexes (MMt3), assume the methionine anion (Mt−), 
+acts as a bidentate ligand through the nitrogen and carboxylate oxygen. 
+(e) 
+Complete the structures of the 
+stereoisomers of MMt3 in the answer 
+booklet, representing the bidentate ligand 
+as shown on the right.  
+If the stereoisomer is chiral, you should 
+only draw one enantiomer.  
+ 
+In an octahedral transition metal complex, the d-orbitals are not degenerate (of equal energy) 
+but split into two levels.  
+ 
+ 
+ 
+
+9 
+ 
+When d-electrons fill the orbitals they can take one of two arrangements, described as high 
+spin or low spin, depending on the number of d-electrons. 
+In the high spin arrangement, all the d-orbitals are filled singularly with electrons of parallel 
+spin before any electrons are paired. 
+In the low spin arrangement, the lower energy d-orbitals are filled completely before any 
+electrons fill the higher energy d-orbitals. 
+FeMt3 is an Fe(III) compound. The iron ion has a charge of +3 and there are five d-electrons 
+to fill the diagram, leading to the high spin and low spin arrangements below. 
+ 
+ 
+High spin arrangement for Fe(III) 
+Low spin arrangement for Fe(III) 
+The high and low spin arrangements can be differentiated between by calculating the 
+theoretical spin magnetic moment (µ) of the complex (measured in units of Bohr magnetons, 
+BM) and comparing it to experimental values. 
+𝜇= √𝑛(𝑛+ 2) 
+where n = number of unpaired electrons 
+RhMt3 is an octahedral Rh(III) complex where each Mt− ligand makes two bonds to the metal. 
+CuMt2 is an octahedral Cu(II) complex where each Mt− ligand makes three bonds to the 
+metal. 
+(f) 
+Complete in the answer booklet the following information for both RhMt3 and CuMt2: 
+• 
+The number of d-electrons in the outer shell of the metal ion.  
+• 
+Fill in the electrons in the d-orbital diagrams. If there is the possibility of high and low 
+spin arrangements draw them both. Otherwise just fill in the one possible 
+arrangement.  
+• 
+For each electronic arrangement drawn calculate the spin magnetic moment of that 
+complex. 
+The spin magnetic moment observed experimentally for Fe(III) complex FeMt3 is 5.63 BM. 
+(g) 
+Determine whether the metal ion in FeMt3 is high spin or low spin. 
+ 
+ 
+
+10 
+ 
+Q4 This question is about vaping 
+From April 2019 to February 2020 
+there were 68 deaths from Vaping 
+Associated Lung Injury (VALI) in the 
+USA. The majority of the vape liquids 
+linked to VALI cases at the time 
+contained vitamin E acetate. When 
+ingested, vitamin E acetate is 
+harmless. When heated to high 
+temperatures, however, it can break 
+down into a highly toxic compound. 
+ 
+ 
+(a) 
+(i) 
+Which functional group(s) does vitamin E acetate contain? Tick the correct 
+answer(s) in the answer booklet. 
+Nitrile 
+Alcohol 
+Ester 
+Ketone 
+Ether 
+Carboxylic 
+Acid 
+ 
+(ii) 
+Vitamin E acetate has a molecular formula of CxH52O3. Determine x. 
+A variety of analytical techniques were used to investigate the toxic product.  
+In the mass spectrum of vitamin E acetate, the peak at m/z = 165.2 comes from the ion 
+resulting from the loss of the toxic product from the ion that gives the peak at m/z = 207.2. 
+The 1H NMR spectrum in CDCl3 of the toxic product has 1 signal.  
+The 13C NMR spectrum in D2O of the toxic product has 2 signals. 
+Four possible structures for the toxic product are shown below. Only one of these is correct. 
+ 
+(b) 
+In the table in the answer booklet, indicate (with ✓ or ) whether each structure is 
+consistent with the data from each analytical technique.  
+ 
+ 
+ 
+
+11 
+ 
+A synthesis of vitamin E acetate involves the Wittig reaction. In this reaction an aldehyde (or 
+ketone) reacts with a phosphonium ylide to produce an alkene. 
+ 
+If there is a C=O or C=C bond adjacent to the negatively charged carbon on the phosphonium 
+ylide, the major alkene product is the E-isomer. Otherwise, the major alkene product is the Z-
+isomer. Two examples of the reactants and major product from the Wittig reaction are shown 
+in the table below. 
+ 
+aldehyde/ketone 
+phosphonium ylide 
+major alkene product 
+ 
+ 
+ 
+Z-isomer 
+ 
+ 
+ 
+E-isomer 
+(c) 
+Complete the following table of Wittig reactions in the answer booklet. 
+aldehyde/ketone 
+phosphonium ylide 
+major alkene product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+
+12 
+ 
+The first part of the synthesis of vitamin E acetate is shown below. 
+ 
+(d) 
+Draw the structures of A, B, C and D. 
+Upon the addition of HCl(aq), D reacts intramolecularly to form a ring and a molecule of water. 
+This reaction occurs via an intermediate tertiary carbocation. 
+(e) 
+Draw the structure of this carbocation. 
+The second part of the synthesis of vitamin E acetate is shown below. 
+ 
+The reaction which transforms molecule W into molecule X and by-product Y is called 
+ozonolysis. The general reaction scheme for ozonolysis, using ozone gas (O3) and Zn, is 
+shown below. 
+ 
+(f) 
+Draw the structures of W, X, by-product Y, and reagent Z. 
+ 
+ 
+
+13 
+ 
+Q5 This question is about cheese 
+Former Prime Minister Liz Truss once said that “We 
+import two thirds of our cheese. That is a disgrace.”  
+When we started writing this paper in summer 2022, 
+we thought a question on cheese would be timely, 
+given that the 2023 International Chemistry 
+Olympiad is being held in Switzerland (a country with 
+many famous cheeses) and that Liz Truss would be 
+the Prime Minister at the time of Round 1.  
+While there are many differences in the process of 
+cheese manufacture, the conversion of lactose to 
+lactic acid during fermentation is a key chemical 
+process wherever the cheese is from. 
+ 
+ 
+(a) 
+Lactic acid has an acid dissociation constant, Ka = 1.38  10−4. 
+ 
+(i) 
+Draw the conjugate base of lactic acid. 
+ 
+(ii) 
+Calculate the pKa of lactic acid. 
+Lactic acid is more acidic than propanoic acid. This is due to a hydrogen bond which 
+stabilises its conjugate base.  
+(b) 
+Draw out the structure of the conjugate base of lactic acid showing this hydrogen bond. 
+Lactose, the starting sugar in milk, is a disaccharide with formula C12H22O11. In the first step 
+of the conversion to lactic acid, lactose is converted into two monosaccharides.  
+ 
+
+14 
+ 
+(c) 
+(i) 
+How would you classify the reaction of lactose to form the two monosaccharides. 
+Tick the correct answer(s) in the answer booklet. 
+Oxidation 
+Reduction 
+Condensation 
+Hydrolysis 
+Isomerisation 
+Elimination 
+ 
+(ii) 
+Write the names of monosaccharide sugars (A and B) that make up lactose.  
+The conversion of lactose to lactic acid is accomplished by bacteria in a complex biochemical 
+process, however lactic acid is often the sole product.  
+(d) 
+Write an equation for the conversion of lactose to lactic acid.  
+Many varities of Swiss cheese, such as 
+Emmental, are famous for the holes or 
+‘eyes’ that appear in the cheese. To 
+produce the holes another species of 
+bacteria, Propionibacterium freudenreichii 
+is important. This bacterium carries out 
+the reaction of lactic acid to propanoic 
+acid, ethanoic acid, carbon dioxide and 
+water. The production of carbon dioxide 
+causes the bubbles to appear.  
+ 
+(e) 
+Write an equation for the production of carbon dioxide carried out by this bacterium. In 
+the net reaction, lactic acid is the sole reagent, and ethanoic acid and carbon dioxide 
+are produced in equal amounts. 
+Assume during fermentation at 21 °C, a spherical bubble of diameter 1.5 cm appears in the 
+cheese.  
+(f) 
+(i) 
+Calculate the volume of this bubble in m3.  
+ 
+(ii) 
+Assuming the bubble is pure CO2 at atmospheric pressure, patm = 101 325 Pa, 
+calculate the mass of lactic acid which was fermented by the bacteria to produce 
+this bubble. For the calculation assume that CO2 obeys the ideal gas law, 
+𝑝𝑉= 𝑛𝑅𝑇 
+Note: the state symbol for cheese is (ch). 
+Carbon dioxide dissolved in cheese can exist in two forms: dissolved gaseous carbon dioxide, 
+CO2(ch), or dissolved hydrogen carbonate, HCO3−(ch). 
+CO2(ch) + H2O ⇌ HCO3−(ch) + H+(ch),     K =  
+[H(ch)
++
+][HCO3(ch)
+−
+ ]
+[CO2(ch)]
+  = 4.47 × 10−7 mol dm−3,  
+At the end of the fermentation, [CO2(ch)] + [HCO3−(ch)] = 3.70 × 10−2 mol dm−3, and pH = 5.20 
+(g) 
+Calculate the equilibrium concentration of carbon dioxide dissolved in cheese, [CO2(ch)]. 
+ 
+ 
+ 
+
+15 
+ 
+We now examine how CO2 bubbles (“eyes”) of a certain size are formed 
+in the early stages of fermentation. Suppose a bubble of radius r is in 
+contact with a fixed volume of cheese Vch at temperature T. The pressure 
+of CO2 inside the bubble, p b, is related to the concentration of dissolved 
+CO2 by Henry’s law, 
+[CO2(ch)] = kH p b 
+ 
+(h) 
+In the table in the answer booklet, tick which expression gives the molar amounts of 
+CO2(g), CO2(ch) and HCO3−(ch), in terms of p b, r, kH, Vch, T, pH, and relevant constants. 
+𝒌𝐇𝑽𝐜𝐡𝒑𝐛 
+𝟒𝝅𝒓𝟑𝒑𝐛
+𝟑𝑹𝑻 
+𝟒𝝅𝒓𝟑𝒑𝐛
+𝟑𝑹𝑻
+𝑲⋅𝟏𝟎𝐩𝐇 
+𝑲⋅𝟏𝟎𝐩𝐇𝒌𝐇𝑽𝐜𝐡𝒑𝐛 
+𝑽𝐜𝐡𝒑𝐛
+𝟑𝑹𝑻 
+𝑲⋅𝟏𝟎−𝐩𝐇𝒌𝐇𝑽𝐜𝐡𝒑𝐛 
+The sum of molar amounts in part (h) is a constant, labelled η, and the pressure inside the 
+bubble is modelled by the equation 
+𝑝𝑏= 𝑝𝑎𝑡𝑚+ 𝛾
+𝑟 
+where 𝛾 is a constant.  
+(i) 
+Substituting this expression for p b, express the sum of molar amounts as 
+(𝑎+ 𝑏𝑟3) (𝑝𝑎𝑡𝑚+ 𝛾
+𝑟) = 𝜂  
+giving a and b in terms of kH,Vch, K, T, pH, and relevant constants. 
+This equation gives the bubble size, r, but is too complicated to solve by hand. Instead, we 
+use the smallness of  
+𝜸
+𝒓 compared to patm to approximate it with the simpler equation 
+𝑟= (
+d
+b )
+1
+3 (1 −
+γη
+3patm
+2
+d ⋅
+1
+r)   , where 𝑑=
+𝜂
+𝑝𝑎𝑡𝑚−𝑎   
+At this stage of the fermentation: 
+a = 1.70 × 10−9 mol Pa−1 
+b = 1.75 × 10−3 mol Pa−1 m−3  
+η = 2.35 × 10−4 mol 
+γ = 9.28 Pa m 
+(j) 
+Calculate the two possible values of r that satisfy the simplified equation and state 
+which is the correct physical solution consistent with 
+𝜸
+𝒓 being small compared to patm. 
+ 
+ 
+
+16 
+ 
+Acknowledgements & References  
+ 
+Q1 The image is © 3Dsculptor/Shutterstock. 
+ 
+Q2 The image is © PhotoQuest/Getty Images. 
+ 
+Q3 The image is © Dr Ben Pilgrim. 
+The isomers of α-amino-acids with copper(II). Part 5. The cis and trans isomers of 
+bis(glycinato)copper(II), and their novel thermal isomerization Journal of the Chemical Society, 
+Dalton Transactions, 1979, 1301-1305. 
+https://pubs.rsc.org/en/content/articlelanding/1979/DT/DT9790001301 
+Metal Complexes of the Amino Acid DL-Methionine Inorganic Chemistry, 1966, 5, 1996-2003. 
+https://pubs.acs.org/doi/10.1021/ic50045a034 
+ 
+Q4 The image is © LezinAV/Shutterstock. 
+Potential for release of pulmonary toxic ketene from vaping pyrolysis of vitamin E acetate 
+Proceedings of the National Academy of Sciences, U.S.A. 2020, 117, 6349-6355. 
+https://www.pnas.org/doi/full/10.1073/pnas.1920925117 
+Über die Chemie des Vitamins E. 3. Mitteilung. Die Totalsynthese von (2R, 4′R, 8′R)- und (2S, 
+4′R, 8′R)-α-Tocopherol Helvetica, 1963, 46, 650-671. 
+https://onlinelibrary.wiley.com/doi/10.1002/hlca.19630460225 
+ 
+Q5 The image of Liz Truss and the cheese is © Dr Ben Pilgrim, with the original image of Liz Truss  
+© Shutterstock. The image of cheese is © Getty Images. 
+Swiss Cheese (Fröhlich-Wyder, M.-T. and Bachmann, H.-P.) in Cheese Problems Solved, P.L.H. 
+McSweeney (Ed.), 2007, 246-267. Woodhead Publishing Series in Food Science, Technology and 
+Nutrition. 
+https://www.elsevier.com/books/cheese-problems-solved/mcsweeney/978-1-84569-060-1 
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as they 
+credit you and license their new creations under the identical terms. 
+ 
+Authors of 2023 UK Round One Paper (listed alphabetically) 
+Dr Helen Alonzi (St Bartholomew’s School)  
+Dr Ryan Beattie (Bradley Stoke Community School, Olympus Academy Trust) 
+Dr Peter Bolgar (University College London) 
+Chloe Francis (Royal Society of Chemistry) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (University College London) 
+Dr Ben Pilgrim (University of Nottingham) 
+Rebecca Plant (Royal Society of Chemistry) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Dr Alex Thom (University of Cambridge) 
+Dr George Trenins (ETH Zürich)  
+ 
+
+17 
+ 
+ 
+Physical Constants and Formulae 
+ 
+ 
+ 
+Avogadro’s constant 
+NA 
+6.02  1023 mol−1 
+molar gas constant 
+R 
+8.314 J K−1 mol−1 
+Faraday constant 
+F 
+96485 C mol−1 
+Planck constant 
+H 
+6.626  10−34 m2 kg s−1 
+speed of light in vacuum 
+C 
+2.998  108 m s−1 
+mass of electron 
+me 
+9.109  10−31 kg 
+ 
+ 
+ 
+1 nm = 1  10−9 m 
+1 Å = 1  10−10 m 
+0 C = 273 K 
+ 
+ 
+ 
+ΔG
+⦵ = ΔH
+⦵ −TΔS
+⦵ 
+ΔG
+⦵ = −nFE
+⦵   
+ 
+𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑐𝑢𝑏𝑒= (𝑠𝑖𝑑𝑒 𝑙𝑒𝑛𝑔𝑡ℎ)3 
+𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑠𝑝ℎ𝑒𝑟𝑒= 4
+3 𝜋× (𝑟𝑎𝑑𝑖𝑢𝑠)3 
+𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑟𝑖𝑔ℎ𝑡 𝑝𝑟𝑖𝑠𝑚= (𝑎𝑟𝑒𝑎 𝑜𝑓 𝑏𝑎𝑠𝑒) × (ℎ𝑒𝑖𝑔ℎ𝑡) 
+𝑎𝑟𝑒𝑎 𝑜𝑓 𝑒𝑞𝑢𝑖𝑙𝑎𝑡𝑒𝑟𝑎𝑙 𝑡𝑟𝑖𝑎𝑛𝑔𝑙𝑒= √3
+4 × (𝑠𝑖𝑑𝑒 𝑙𝑒𝑛𝑔𝑡ℎ)2 
+𝑎𝑟𝑒𝑎 𝑜𝑓 𝑟𝑒𝑔𝑢𝑙𝑎𝑟 ℎ𝑒𝑥𝑎𝑔𝑜𝑛= 3√3
+2
+× (𝑠𝑖𝑑𝑒 𝑙𝑒𝑛𝑔𝑡ℎ)2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+18 
+ 
+1 
+H 
+1.008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+He 
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.06 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.102 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.904 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+ 
+44 
+Ru 
+101.07 
+45 
+Rh 
+102.91 
+46 
+Pd 
+106.42 
+47 
+Ag 
+107.87 
+48 
+Cd 
+112.41 
+49 
+In 
+114.82 
+50 
+Sn 
+118.71 
+51 
+Sb 
+121.76 
+52 
+Te 
+127.60 
+53 
+I 
+126.90 
+54 
+Xe 
+131.29 
+55 
+Cs 
+132.91 
+56 
+Ba 
+137.33 
+57 
+La 
+138.91 
+72 
+Hf 
+178.49 
+73 
+Ta 
+180.95 
+74 
+W 
+183.84 
+75 
+Re 
+186.21 
+76 
+Os 
+190.23 
+77 
+Ir 
+192.22 
+78 
+Pt 
+195.08 
+79 
+Au 
+196.97 
+80 
+Hg 
+200.59 
+81 
+Tl 
+204.38 
+82 
+Pb 
+207.2 
+83 
+Bi 
+208.98 
+84 
+Po 
+ 
+85 
+At 
+ 
+86 
+Rn 
+ 
+87 
+Fr 
+ 
+88 
+Ra 
+ 
+89 
+Ac 
+ 
+104 
+Rf 
+ 
+105 
+Db 
+ 
+106 
+Sg 
+ 
+107 
+Bh 
+ 
+108 
+Hs 
+ 
+109 
+Mt 
+ 
+110 
+Ds 
+ 
+111 
+Rg 
+ 
+112 
+Cn 
+ 
+113 
+Nh 
+ 
+114 
+Fl 
+ 
+115 
+Mc 
+ 
+116 
+Lv 
+ 
+117 
+Ts 
+ 
+118 
+Og 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lanthanides 
+58 
+Ce 
+140.12 
+59 
+Pr 
+140.91 
+60 
+Nd 
+144.24 
+61 
+Pm 
+ 
+62 
+Sm 
+150.4 
+63 
+Eu 
+151.96 
+64 
+Gd 
+157.25 
+65 
+Tb 
+158.93 
+66 
+Dy 
+162.50 
+67 
+Ho 
+164.93 
+68 
+Er 
+167.26 
+69 
+Tm 
+168.93 
+70 
+Yb 
+173.05 
+71 
+Lu 
+174.97 
+Actinides 
+90 
+Th 
+232.04 
+91 
+Pa 
+231.04 
+92 
+U 
+238.03 
+93 
+Np 
+ 
+94 
+Pu 
+ 
+95 
+Am 
+ 
+96 
+Cm 
+ 
+97 
+Bk 
+ 
+98 
+Cf 
+ 
+99 
+Es 
+ 
+100 
+Fm 
+ 
+101 
+Md 
+ 
+102 
+No 
+ 
+103 
+Lr 
+ 

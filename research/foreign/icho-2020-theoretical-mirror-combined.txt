@@ -1,0 +1,4974 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Problems & Solutions 
+ 
+ 
+ 
+ 
+CHEMISTRY FOR A BETTER TOMORROW 
+ 
+ 
+July 25, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+1 
+ 
+ 
+ 
+Instructions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Only write with pen. Your calculator should be non-programmable. 
+ This examination has 9 problems. 
+ You will have 5 hours to solve the exam. 
+ Begin only when the START command is given. 
+ All results must be written in the appropriate boxes in pen in the designated areas on the 
+answer sheets. Use the back of the exam sheets if you need scratch paper. Remember 
+that answers written outside the answer boxes will not be graded. 
+ Write relevant calculations in the appropriate boxes when necessary. Full marks will be 
+given for correct answers only when your work is shown. 
+ The invigilator will announce a 30-minute warning before the Stop command. 
+ You must stop working when the STOP command is given. Failure to stop writing will 
+lead to the nullification of your exam. 
+ The official English version of this examination is available on request only for 
+clarification. 
+ 
+ 
+ You are not allowed to leave your working place without permission. If you need any 
+assistance (broken calculator, need to visit a restroom, etc), raise hand and wait until an 
+invigilator arrives. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GOOD LUCK! 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+2 
+ 
+ 
+Problems & Grading Information 
+ 
+Problem  
+Title 
+Total 
+Score 
+% of 
+Total 
+Score 
+1 
+Two Beauties of Turkey: the Van Cat and 
+the Ankara Cat 
+24 
+8 
+2 
+A Tale of a Reactive Intermediate 
+77 
+10 
+3 
+(±)-Coerulescine 
+51 
+8 
+4 
+Symmetry Does Matter! 
+66 
+10 
+5 
+Konya, Carrot, Beta-Carotene, Vitamin-A, 
+Immune System, Vision 
+100 
+14 
+6 
+Thermodynamics through an Interstellar 
+Journey 
+80 
+12 
+7 
+Phthalocyanines 
+85 
+12 
+8 
+Boron Compounds and Hydrogen Storage 
+58 
+14 
+9 
+Quantification of Heavy Metal Ions 
+100 
+12 
+ 
+TOTAL 
+641 
+100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+3 
+ 
+Table of Contents 
+ 
+Authors ....................................................................................................................................... 4 
+Physical Constants and Equations .............................................................................................. 5 
+Periodic Table of Elements ........................................................................................................ 6 
+1H-NMR Chemical Shifts 
+........................................................................................................... 7 
+Typical Coupling Constants ....................................................................................................... 7 
+13C-NMR Chemical Shifts 
+.......................................................................................................... 8 
+IR Absorption Frequency Table ................................................................................................. 8 
+Problem 1. Two Beauties of Turkey: the Van Cat and the Ankara Cat ................................... 10 
+Problem 2. A Tale of a Reactive Intermediate ......................................................................... 17 
+Problem 3. (±)-Coerulescine..................................................................................................... 27 
+Problem 4. Symmetry Does Matter! 
+......................................................................................... 35 
+Problem 5. Konya, Carrot, Beta-Carotene, Vitamin-A, Immune System, Vision.................... 43 
+Problem 6. Thermodynamics through an Interstellar Journey ................................................. 51 
+Problem 7. Phthalocyanines ..................................................................................................... 64 
+Problem 8.  Boron Compounds and Hydrogen Storage ........................................................... 73 
+Problem 9. Quantification of Heavy Metal Ions ...................................................................... 83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+4 
+ 
+ 
+Authors 
+ 
+ALANYALIOĞLU, Murat, Atatürk University 
+AYDOĞAN, Abdullah, İstanbul Technical University 
+BURAT, Ayfer Kalkan, İstanbul Technical University 
+DAĞ, Ömer, Bilkent University 
+DAŞTAN, Arif, Atatürk University  
+KILIÇ, Hamdullah, Atatürk University 
+METİN, Önder, Koç University 
+ÖZTÜRK, Turan, İstanbul Technical University 
+SARAÇOĞLU, Nurullah, Atatürk University 
+TÜRKMEN, Yunus Emre, Bilkent University 
+ÜNLÜ, Caner, İstanbul Technical University 
+YILMAZ, İsmail, İstanbul Technical University 
+YURTSEVER, Mine, İstanbul Technical University 
+ 
+ 
+ 
+ 
+ 
+Editor: SARAÇOĞLU, Nurullah, Atatürk University  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+5 
+ 
+Physical Constants and Equations 
+ 
+Avogadro's number, 𝑁
+𝐴= 6.0221 × 1023𝑚𝑜𝑙−1 
+Boltzmann constant, 𝑘𝐵= 1.3807 × 10−23𝐽𝐾−1 
+Universal gas constant, 𝑅= 8.3145 𝐽𝐾−1𝑚𝑜𝑙−1 = 0.08205 𝑎𝑡𝑚 𝐿 𝐾−1𝑚𝑜𝑙−1 
+Speed of light, 𝑐= 2.9979 × 108𝑚𝑠−1 
+ 
+Planck's constant, ℎ= 6.6261 × 10−34 𝐽 𝑠 
+Faraday’s constant, 𝐹= 9.6485 × 104 𝐶 𝑚𝑜𝑙−1  
+Mass of electron, 𝑚𝑒= 9.1093 × 10−31 𝑘𝑔 
+Standard pressure, 𝑃= 1 𝑏𝑎𝑟= 105 𝑃𝑎 
+Atmospheric pressure, 𝑃
+𝑎𝑡𝑚= 1.01325 × 105 𝑃𝑎= 760 𝑚𝑚𝐻𝑔= 760 𝑡𝑜𝑟𝑟 
+Zero of the Celsius scale, 273.15 𝐾  
+1 picometer (pm) = 10−12 𝑚; 1Å = 10−10 𝑚; 1 nanometer (nm) = 10−9 𝑚 
+1 𝑒𝑉= 1.6 × 10−19 𝐽 
+1 𝑐𝑎𝑙= 4.184 𝐽 
+1 𝑎𝑚𝑢= 1.6605 × 10−27 𝑘𝑔 
+Charge of an electron: 1.6 × 10−19 𝐶  
+Ideal gas equation: 
+𝑃𝑉= 𝑛𝑅𝑇 
+Enthalpy: 
+ 
+𝐻= 𝑈+ 𝑃𝑉 
+Gibbs free energy: 
+𝐺= 𝐻−𝑇𝑆  
+𝛥𝐺= ∆𝐺0 + 𝑅𝑇𝑙𝑛𝑄 
+∆𝒓𝑮𝟎= −𝑅𝑇𝑙𝑛𝐾= −𝑛𝐹𝐸𝑐𝑒𝑙𝑙
+0
+ 
+Entropy change: 
+ 
+∆𝑆=
+𝑞𝑟𝑒𝑣
+𝑇, where qrev is heat for the reversible process 
+ 
+∆𝑆= 𝑛𝑅𝑙𝑛
+𝑉
+2
+𝑉
+1 (for isothermal expansion of an ideal gas) 
+Nernst equation: 
+𝐸= 𝐸0 +
+𝑅𝑇
+𝑛𝐹𝑙𝑛
+𝐶𝑜𝑥𝑖𝑑𝑎𝑡𝑖𝑜𝑛
+𝐶𝑟𝑒𝑑𝑢𝑐𝑡𝑖𝑜𝑛 
+Energy of a photon:  𝐸=
+ℎ𝑐
+𝜆  
+ 
+Integrated rate law 
+Zeroth-order:   
+[𝐴] = [𝐴]0 −𝑘𝑡 
+ 
+ 
+First-order: 
+ 
+𝑙𝑛[𝐴] = 𝑙𝑛[𝐴]0 −𝑘𝑡 
+Second order:  
+1
+[𝐴] =
+1
+[𝐴]0 + 𝑘𝑡 
+Arrhenius equation: 𝑘= 𝐴𝑒−𝐸𝑎/𝑅𝑇  
+Equation of linear calibration curve: 𝑦= 𝑚𝑥+ 𝑛 
+Lambert–Beer equation: 𝐴=  𝜀𝑙𝑐 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+ 
+ 
+ 
+6 
+ 
+Periodic Table of Elements 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2018 International Union of Pure and Applied Chemistry 
+ 
+Reproduced by permission of the International Union of Pure and Applied Chemistry 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+18 
+1 
+H 
+1.008 
+2  
+atomic number 
+Symbol 
+atomic weight 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+14 
+15 
+16 
+17 
+2 
+He 
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.06 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+- 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57-71 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+- 
+85 
+At 
+- 
+86 
+Rn 
+- 
+87 
+Fr 
+- 
+88 
+Ra 
+- 
+89-103 
+104 
+Rf 
+- 
+105 
+Db 
+- 
+106 
+Sg 
+- 
+107 
+Bh 
+- 
+108 
+Hs 
+- 
+109 
+Mt 
+- 
+110 
+Ds 
+- 
+111 
+Rg 
+- 
+112 
+Cn 
+- 
+113 
+Nh 
+- 
+114 
+Fl 
+- 
+115 
+Mc 
+- 
+116 
+Lv 
+- 
+117 
+Ts 
+- 
+118 
+Og 
+- 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+57 
+La 
+138.9 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+- 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+89 
+Ac 
+- 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+- 
+94 
+Pu 
+- 
+95 
+Am 
+- 
+96 
+Cm 
+- 
+97 
+Bk 
+- 
+98 
+Cf 
+- 
+99 
+Es 
+- 
+100 
+Fm 
+- 
+101 
+Md 
+- 
+102 
+No 
+- 
+103 
+Lr 
+- 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+ 
+ 
+ 
+7 
+ 
+1H-NMR Chemical Shifts 
+ 
+ 
+ 
+Typical Coupling Constants 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+ 
+ 
+ 
+8 
+ 
+13C-NMR Chemical Shifts 
+ 
+ 
+ 
+IR Absorption Frequency Table 
+ 
+Functional 
+Group 
+Type of Vibration 
+Absorption Frequency 
+Region (cm–1) 
+Intensity 
+Alcohol 
+O–H 
+(stretch, H-bonded) 
+3600–3200 
+strong, broad 
+(stretch, free) 
+3700–3500 
+strong, sharp 
+C–O 
+(stretch) 
+1150–1050 
+strong 
+Alkane 
+C–H 
+stretch 
+3000–2850 
+strong 
+bending 
+1480–1350 
+variable 
+Alkene 
+=C–H 
+stretch 
+3100–3010 
+medium 
+bending 
+1000–675 
+strong 
+C=C 
+stretch 
+1680–1620 
+variable 
+Alkyl Halide 
+C–F 
+stretch 
+1400–1000 
+strong 
+C–Cl 
+stretch 
+800–600 
+strong 
+C–Br 
+stretch 
+600–500 
+strong 
+C–I 
+stretch 
+500 
+strong 
+Alkyne 
+C–H 
+stretch 
+3300 
+strong, sharp 
+CC 
+stretch 
+2260–2100 
+variable, not present in 
+symmetrical 
+alkynes 
+Amine 
+N–H 
+stretch 
+3500–3300 
+medium (primary amines have 
+two bands; secondary amines 
+have one band, often very 
+weak) 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+ 
+ 
+ 
+9 
+ 
+C–N 
+stretch 
+1360–1080 
+medium-weak 
+N–H 
+bending 
+1600 
+medium 
+Aromatic 
+C–H 
+stretch 
+3100–3000 
+medium 
+C=C 
+stretch 
+1600–1400 
+medium-weak, multiple bands 
+Carbonyl 
+C=O 
+stretch 
+1820–1670 
+strong 
+Acid 
+C=O 
+stretch 
+1725–1700 
+strong 
+O–H 
+stretch 
+3300–2500 
+strong, very broad 
+C–O 
+stretch 
+1320–1210 
+strong 
+Aldehyde 
+C=O 
+stretch 
+1740–1720 
+strong 
+C–H 
+stretch 
+2850–2820 & 2750–2720 
+medium, two peaks 
+Amide 
+C=O 
+stretch 
+1690–1640 
+strong 
+N–H 
+stretch 
+3500–3100 
+unsubstituted have two bands 
+bending 
+1640–1550 
+ 
+Anhydride 
+C=O 
+stretch 
+1830–1800 &1775–1740 
+two bands 
+Ester 
+C=O 
+stretch 
+1750–1735 
+strong 
+C–O 
+stretch 
+1300–1000 
+two bands or more 
+Ketone 
+acyclic 
+stretch 
+1725–1705 
+strong 
+cyclic 
+stretch 
+3-membered - 1850 
+strong 
+stretch 
+4-membered - 1780 
+strong 
+stretch 
+5-membered - 1745 
+strong 
+stretch 
+6-membered - 1715 
+strong 
+stretch 
+7-membered - 1705 
+strong 
+,-
+unsaturated 
+stretch 
+1685–1665 
+strong 
+conjugation moves absorptions to lower wavenumbers 
+aryl ketone 
+stretch 
+1700–1680 
+strong 
+Ether 
+C–O 
+stretch 
+1300–1000 (1150–1070) 
+strong 
+Nitrile 
+CN 
+stretch 
+2260–2210 
+medium 
+Nitro 
+N–O 
+stretch 
+1560–1515 &  
+1385–1345 
+strong, two bands 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+10 
+ 
+Problem 1 
+8% of the total 
+Question 
+1.1 
+1.2 
+1.3 
+Total 
+Points 
+14 
+4 
+6 
+24 
+ 
+Problem 1. Two Beauties of Turkey: the Van Cat and the 
+Ankara Cat 
+ 
+ 
+ 
+The most beautiful of cats, the Van cat is a pure breed living only in Lake Van basin. Another 
+endemic cat breed is the Ankara cat. They are called Angora cats. Their most important feature 
+is their two different eye colors. 
+ 
+Van cat 
+Ankara cat 
+Nepeta cataria (catnip) 
+ 
+ 
+ 
+ 
+Just like people, cats can sometimes be stressed and angry. Just as people are made happy by 
+melatonin, the stress of cats can be reduced and they can be made happy thanks to a natural 
+product. Nepetalactone is an organic compound isolated from the plant catnip (Nepeta cataria), 
+which acts as a cat attractant. Nepetalactone is a ten-carbon bicyclic monoterpenoid compound 
+derived from isoprene with two fused rings: a cyclopentane and a lactone. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+11 
+ 
+Cat eating catnip in the garden 
+Cat's dream 
+ 
+Nepetalactone 
+ 
+ 
+ 
+Total synthesis of nepetalactone: 
+ 
+ 
+1.1. The above scheme describes the total synthesis of nepetalactone. Draw structures of A–G, 
+without stereochemical details.  
+ 
+Hints: 
+ Compound A has strong and sharp band at 3300 cm−1 in the IR spectrum. 
+ A, B, and F are monocyclic, while C, D, E, and G are bicyclic compounds. 
+ F has one doublet at ~ 9.8 ppm in the 1H-NMR spectrum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+12 
+ 
+Reactions of nepetalactone:  
+ 
+ 
+The above scheme includes a few reactions of one of the enantiopure nepetalactone 1 isomers. 
+Three of the reaction products (5, 6, and J) are used as insect repellents in industry.  
+ 
+1.2. For the relationship between 5 and 6, which of the following is/are true? Tick the box next 
+to the correct answer(s) on your answer sheets. 
+ 
+☐ Enantiomers 
+☐ Diastereomers 
+☐ Identical 
+☐ Stereoisomers 
+ 
+Reaction of 1 with DDQ gives highly conjugated compound H. Also, thermal reaction of 
+compound H with p-quinone gives I with molar mass of 226.28 g/mol. 
+ 
+1.3. Draw the structures of H, I, and J indicating stereochemistry. 
+ 
+Hints: 
+ During the formation of I, sequential pericyclic reactions and an oxidation reaction 
+(due to the presence of O2) take place, and a well-known gas forms during the reaction. 
+ J has a strong and very broad band between 3300 and 2500 cm–1 in the IR spectrum.   
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+13 
+ 
+Solution: 
+ 
+Total synthesis of nepetalactone: 
+ 
+ 
+ 
+1.1. Draw the structures of A–G without stereochemical details.  
+ 
+A 
+ 
+ 
+2 points for correct answer. 
+ 
+1 point if propargylation position is not correct. 
+Zero points for allene structure as it is not 
+consistent with hints given. 
+B 
+ 
+ 
+2 points for correct answer. 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+14 
+ 
+C 
+ 
+ 
+2 points for correct answer. 
+1 point for unconjugated enone. 
+ 
+D 
+ 
+ 
+2 points for correct answer. 
+Both E and Z isomers will receive full points 
+1 point if condensation position is not correct. 
+E 
+ 
+ 
+2 points for correct answer. 
+ 
+ 
+1 point for a product via 1,4-reduction. 
+ 
+F 
+ 
+ 
+2 points for correct answer. 
+ 
+G 
+ 
+ 
+2 points for correct answer. 
+1 point for enol form of F. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+15 
+ 
+Reactions of nepetalactone: 
+  
+ 
+ 
+1.2. For the relationship between 5 and 6, which of the following is/are true? Tick the box next 
+to the correct answer(s). 
+ 
+☐ Enantiomers 
+4 points (total) for the two correct answers (2 
+points for each correct answer). 
+2 points (total) if there is one mistake.  
+0 points if there are more than one mistakes. 
+☒ Diastereomers 
+☐ Same compounds 
+☒ Stereoisomers 
+ 
+1.3. Draw the structures of H, I, and J indicating stereochemistry. 
+ 
+H 
+ 
+ 
+ 
+2 points for correct answer. 
+ 
+I 
+ 
+ 
+ 
+2 points for correct answer. 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+16 
+ 
+ 
+1 point for a conjugated oxidation product via a 
+five-membered ring. 
+ 
+J 
+ 
+ 
+ 
+2 points for correct answer. 
+1 point without stereochemical detail. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+17 
+ 
+Problem 2 
+10% of the total 
+Question 
+2.1 
+2.2 
+2.3 
+2.4 
+2.5 
+2.6 
+2.7 
+Total 
+Points 
+7 
+9 
+8 
+16 
+5 
+4 
+28 
+77 
+ 
+Problem 2. A Tale of a Reactive Intermediate 
+ 
+Arynes constitute a special class of reactive intermediates. The first experimental evidence for 
+the structure of an aryne (benzyne) was demonstrated in 1953 via the elegant labeling 
+experiments by John D. Roberts and coworkers.  
+ 
+In one such experiment, chlorobenzene, whose carbon at position 1 was labeled with radioactive 
+14C, was reacted with KNH2 in liquid NH3 to give nearly equal amounts of isotopic isomers A 
+and B along with the inorganic salt C. This reaction proceeds via the formation of aryne 
+intermediate D.  
+ 
+ 
+ 
+2.1. Draw the structure of A, B and D, and provide the formula of C. Indicate the position(s) of 
+14C-labeled carbon(s) with an asterisk (*) whenever applicable.” 
+ 
+Analysis of the 14C-labeled product(s) was achieved via degradation experiments (the 14C-
+labeled carbons are not shown on the structures). Radioactivities of the intermediates and final 
+products were examined.  
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+2.2. Tick the appropriate boxes on the answer sheet for the intermediates and products that 
+you expect to exhibit radioactivity.  
+ 
+Considering only A: 
+ 
+☐ Compound 1 
+☐ BaCO3 (Batch 1) 
+☐ Compound 2 
+☐ BaCO3 (Batch 2) 
+Considering only B: 
+ 
+☐ Compound 1 
+☐ BaCO3 (Batch 1) 
+☐ Compound 2 
+☐ BaCO3 (Batch 2) 
+ 
+ 
+With the aim of facilitating aryne formation, Kobayashi and co-workers developed a fluoride-
+induced aryne generation protocol. Using this method, benzene derivative 3 is reacted with 
+furan (4) in the presence of CsF, resulting in the formation of E, F, and G.  
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+19 
+ 
+ Combustion analysis of E revealed the following atom content: 75.8% carbon, 5.8% 
+hydrogen, and 18.4% oxygen. 
+ E does not have a proton that is exchangeable with D2O in 1H-NMR spectroscopy. 
+ F is an ionic compound.  
+ 
+2.3. Determine the structures of E, F, and G (without stereochemical details).   
+ 
+In the absence of a nucleophile or a trapping agent, arynes can undergo [2+2]-type 
+cyclodimerization or [2+2+2]-type cyclotrimerization reactions under suitable conditions. The 
+aryne derivative that is obtained when 3 is treated with one equivalent of CsF in MeCN can 
+give, in principle, four different dimerization and trimerization products (H–K).  
+ 
+ H has two planes of symmetry. 
+ I is expected to exhibit 21 signals in its 13C-NMR spectrum. 
+ I and J both exhibit an m/z value of 318.1 in their mass spectra. 
+ 
+2.4. Determine the structures of H–K. 
+ 
+When 5 is reacted with -ketoester 6 in the presence of 2 equivalents of CsF at 80 °C, L is 
+obtained as the major product. The 1H-NMR and 13C-NMR data for L, in CDCl3, are as follows:  
+ 
+ 
+1H-NMR: δ 7.79 (dd, J = 7.6, 1.5 Hz, 1H), 7.47–7.33 (m, 2H), 7.25–7.20 (m, 1H), 3.91 
+(s, 2H), 3.66 (s, 3H), 2.56 (s, 3H) ppm.  
+ 
+ 
+13C-NMR: δ 201.3, 172.0, 137.1, 134.4, 132.8, 132.1, 130.1, 127.5, 51.9, 40.2, 28.8 
+ppm. 
+ 
+ 
+ 
+2.5. Determine the structure of L.  
+ 
+2.6. In the reaction shown in task 2.5, which of the statement(s) in the answer sheet describe(s) 
+the function of CsF?  
+ 
+ The pKa values of HF and -ketoester 6 in dimethyl sulfoxide (DMSO) are about 15 and 
+14, respectively.  
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+20 
+ 
+ 
+☐ F– hydrolyzes the trifluoromethanesulfonate (O3SCF3) group of 5.  
+☐ F– attacks the –SiMe3 group of 5. 
+☐ F– acts as a base to deprotonate 6.  
+☐ F– acts as a nucleophile and attacks the ester group of 6.  
+ 
+Diazapyrone derivative 8 was shown to be a useful reactant for the construction of a variety of 
+cyclic frameworks. Its preparation from phenylglyoxylic acid (7) and its use in two different 
+reactions are described below. 
+ 
+ Q and T are gases under ambient conditions.  
+ O and P are constitutional isomers. 
+ Q does not have any signals in its IR spectrum.  
+ Heating 1 mol of R at 85 °C generates 1 mol of reactive intermediate S.  
+ Reaction of 8 with two equivalents of S gives U, Q, and T.  
+ 
+ 
+Note: 
+equiv= equivalent 
+cat= catalyst 
+ 
+2.7. Determine the structures of M–U. 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+21 
+ 
+Solution: 
+ 
+ 
+ 
+2.1. Draw the structures of AD. Indicate the position(s) of 14C-labeled carbon(s) with an 
+asterisk (*) whenever applicable. 
+ 
+A 
+ 
+ 
+ 
+ 
+2 points. 
+1 point if labeled carbon is not shown or if its 
+position is incorrect. 
+B 
+ 
+ 
+ 
+ 
+2 points. 
+1 point if labeled carbon is not shown or if its 
+position is incorrect. 
+If unlabeled aniline is given as an answer for 
+both A and B, then only 1 point will be given in 
+total for A and B. 
+C 
+ 
+ 
+ 
+1 point. 
+0 points if only cation or anion is written. 
+D 
+ 
+ 
+ 
+ 
+2 points. 
+2 points for different resonance forms of A 
+including the circle representation for 
+aromaticity. 
+1 point if labeled carbon is not shown or if its 
+position is incorrect. 
+ 
+2.2. Tick the appropriate boxes on the answer sheet for the intermediates and products that 
+you expect to exhibit radioactivity.  
+ 
+Considering only A: 
+ 
+☐ Compound 1 
+☒ BaCO3 (Batch 1) 
+☐ Compound 2 
+Considering only B: 
+ 
+☒ Compound 1 
+☐ BaCO3 (Batch 1) 
+☐ Compound 2 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+22 
+ 
+☐ BaCO3 (Batch 2) 
+ 
+Solution: only BaCO3 (Batch 1) 
+ 
+3 points for the correct answer. 
+0 points for one or more mistakes.  
+ 
+☒ BaCO3 (Batch 2) 
+ 
+Solution: Compound 1 and BaCO3 (Batch 2) 
+ 
+6 points (total) for the two correct answers (3 
+points for each correct answer). 
+3 points (total) if there is one mistake.  
+0 points if there are more than one mistakes. 
+Note: The answer to this task will depend on the student’s structural assignment of compounds A and 
+B in task 2.1 
+ 
+ 
+ 
+2.3. Determine the structures of E, F, and G (without stereochemical details).  
+ 
+E 
+ 
+ 
+ 
+4 points. 
+2 points if the product of [2+2] reaction 
+between aryne and furan is written. 
+0 points if ring-opened naphthol product is 
+written. 
+F 
+ 
+CsO3SCF3 or Cs+ CF3SO3– or CsOTf 
+ 
+ 
+2 points. 
+G 
+ 
+(CH3)3SiF or Me3SiF  
+ 
+2 points. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+23 
+ 
+2.4. Determine the structures of H–K. 
+ 
+H 
+ 
+ 
+ 
+4 points. 
+I 
+ 
+ 
+ 
+4 points. 
+J 
+ 
+ 
+ 
+4 points. 
+K 
+ 
+ 
+ 
+4 points. 
+ 
+2.5. Determine the structure of L.  
+ 
+L 
+ 
+ 
+ 
+5 points 
+ 
+The following isomer will also receive full points: 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+24 
+ 
+ 
+ 
+2 points for the following structures: 
+ 
+  
+ 
+or 
+ 
+ 
+ 
+2.6. In the reaction shown in task 2.5, which of the statement(s) in the answer sheet describe(s) 
+the function of CsF?  
+ 
+ 
+☐ F– hydrolyzes the trifluoromethanesulfonate (O3SCF3) group of 5.  
+☒ F– attacks the –SiMe3 group of 5. 
+☒ F– acts as a base to deprotonate 6.  
+☐ F– acts as a nucleophile and attacks the ester group of 6. 
+ 
+The correct statements are the 2nd and 3rd statements. 
+ 
+4 points (total) for the two correct answers (2 points for each correct answer).  
+2 points (total) if there is one mistake.  
+0 points if there are more than one mistakes. 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+25 
+ 
+ 
+ 
+ 
+2.7. Determine the structures of M–U. 
+ 
+M 
+ 
+ 
+ 
+4 points. 
+ 
+The following tautomer will receive full points: 
+ 
+ 
+N 
+ 
+ 
+ 
+4 points. 
+ 
+The following tautomer will receive full points: 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+26 
+ 
+O and P 
+ 
+and   
+   
+ 
+6 points (3 points for each isomer) 
+Q 
+ 
+ 
+ 
+2 points. 
+ 
+R 
+ 
+ 
+ 
+3 points. 
+ 
+3 points will be given for the following answers: 
+ 
+ 
+ 
+ 
+S 
+ 
+ 
+ 
+3 points. 
+ 
+T 
+ 
+ 
+ 
+2 points. 
+ 
+U 
+ 
+4 points. 
+ 
+2 points for the following answer: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+27 
+ 
+Problem 3 
+8% of the total 
+Question 
+3.1 
+3.2 
+3.3 
+3.4 
+3.5 
+3.6 
+3.7 
+Total 
+Points 
+8 
+16 
+4 
+8 
+5 
+5 
+5 
+51 
+ 
+Problem 3. (±)-Coerulescine 
+ 
+A spiro compound is typically an organic compound containing rings linked together by one 
+common atom (spiroatom) as carbon atom with bold in figure below. The spiro[pyrrolidin-3,3′-
+oxindole] ring system is a structural framework incorporated in several cytostatic alkaloids and 
+unnatural compounds. Coerulescine (1) and horsfiline are the simplest prototype members of 
+this subfamily that can be synthesized by the route shown below. 
+ 
+ 
+ 
+Claisen rearrangement, which is a [3,3]-sigmatropic rearrangement, is a powerful carbon–
+carbon bond-forming reaction in which an allyl vinyl ether is converted thermally to an 
+unsaturated carbonyl compound as shown in the Scheme below. When compound A is heated, 
+it undergoes Claisen rearrangement to give carbonyl compound B. 
+ 
+For this entire task, your answers can be given without any stereochemical details. 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+28 
+ 
+ 
+ 
+ 
+3.1. Draw the structures of A and B. 
+ 
+ A is an inseparable mixture of cis/trans isomers.  
+ B has IR absorption at 1726 cm–1.  
+ 
+3.2. Draw structures for C, D, E, and F.   
+ 
+ D–F have a bicyclic structure.  
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+29 
+ 
+3.3. Choose the correct order of steps for the transformation of F to G. 
+ 
+ 
+☐ Imine formation, then reduction, then amidation 
+☐ Amidation, then imine formation, then reduction  
+☐ Reduction, then amidation, then imine formation 
+ 
+ 
+3.4. Draw structures for G and H (both spiro compounds). 
+ 
+3.5. Draw the structure of the intermediate produced by treatment with n-BuLi in the step H 
+→ coerulescine (1). 
+ 
+Coerulescine (1), on treatment with N-bromosuccinimide (NBS), gives the bromo derivative, 
+which upon heating with sodium methoxide in the presence of cuprous iodide gives horsfiline 
+(I) in 60% yield. 
+ 
+3.6. Choose the correct structure for compound I consistent with the following selected 1H-
+NMR data: δ  7.05 (d, J = 1.4 Hz, 1H), 6.78 (d, J = 8.0 Hz, 1H), 6.72 (dd, J = 8.0, 1.4 Hz, 1H) 
+ppm.  
+ 
+ 
+ 
+ 
+ 
+☐ 
+☐ 
+☐ 
+☐ 
+ 
+ 
+ 
+3.7. When the allyl ether of 2 naphthol is heated a sigmatropic rearrangement is initiated. Write 
+the structure of major product isolated from this reaction. 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+30 
+ 
+Solution: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+31 
+ 
+3.1. Draw the structures of A and B.  
+ 
+A 
+ 
+ 
+ 
+4 points. 
+B 
+ 
+ 
+ 
+ 
+4 points. 
+ 
+3.2. Draw structures for C, D, E, and F. 
+ 
+C 
+ 
+ 
+ 
+4 points. 
+D 
+ 
+ 
+ 
+4 points. 
+E 
+ 
+ 
+ 
+4 points. 
+ 
+3 points will be given for the following answer: 
+ 
+ 
+ 
+F 
+ 
+ 
+ 
+4 points. 
+ 
+The following tautomer will receive full points: 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+32 
+ 
+3.3. Choose the correct reaction order for the transformation of F to G.  
+ 
+☒ Imine formation, then reduction, then amidation 
+☐ Amidation, then imine formation, then reduction  
+☐ Reduction, then amidation, then imine formation 
+ 
+4 points for correct answer. 
+0 points for incorrect answer. 
+ 
+3.4. Draw structures for G and H. 
+ 
+G 
+ 
+ 
+ 
+4 points. 
+H 
+ 
+ 
+ 
+4 points. 
+ 
+3.5. Draw the structure of the intermediate for the reaction with n-BuLi in the step H → 
+coerulescine. 
+ 
+ 
+ 
+ 
+5 points for the correct structure. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+33 
+ 
+3.6. Choose the correct structure for compound I consistent with the following selected 1H-
+NMR data: δ 7.05 (d, J = 1.4 Hz, 1H), 6.78 (d, J = 8.0 Hz, 1H), 6.72 (dd, J = 8.0, 1.4 Hz, 1H) 
+ppm.  
+ 
+ 
+5 points. 
+ 
+ 
+ 
+ 
+ 
+ 
+☐ 
+☒ 
+☐ 
+☐ 
+5 points for correct (second structure) answer. 
+2 points for third structure. 
+0 points for incorrect answer. 
+ 
+3.7. When the allyl ether of 2 naphthol is heated a sigmatropic rearrangement is initiated. Write 
+the structure of major product isolated from this reaction. 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+34 
+ 
+ 
+5 points for the correct identification of major product. 
+3 points for keto-form (enone) of major product structure. 
+2 points for minor product structure. 
+1 points for keto-form (enone) of minor product structure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+35 
+ 
+Problem 4 
+10% of the 
+total 
+Question 
+4.1 
+4.2 
+4.3 
+4.4 
+4.5 
+4.6 
+4.7 
+Total 
+Points 
+12 
+6 
+6 
+16 
+9 
+9 
+8 
+64 
+ 
+Problem 4. Symmetry Does Matter! 
+ 
+There are numerous reactions in organic chemistry that proceed through cyclic transition states 
+and these are classified as pericyclic reactions. Woodward–Hoffmann rules, developed by 
+Robert B. Woodward and Roald Hoffmann, are used to rationalize stereochemical aspects and 
+the activation energy of pericyclic reactions.  
+ 
+ 
+Woodward–Hoffmann rules 
+ 
+Electrocyclic reactions 
+Cycloadditions 
+Number of 
+electrons 
+Thermal () 
+Photochemical 
+(h 
+Thermal () 
+Photochemical 
+(h 
+4n 
+(n = 1, 2, ..) 
+Conrotatory (con) 
+Disrotatory  
+Disfavored 
+Favored 
+4n+2 
+(n = 1, 2, ..) 
+Disrotatory (dis) 
+Conrotatory  
+Favored 
+Disfavored 
+4.1. Fill in the table for reactions (i)–(iii) or products 2–5: 
+Reaction 
+Product 
+[? + ?] cycloaddition 
+ or h 
+i 
+2 
+ 
+ 
+ii 
+3 
+ 
+ 
+iii 
+4 
+ 
+ 
+5 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+36 
+ 
+There are three possible benzotropone isomers. Although two of the benzotropone isomers were 
+isolated, 3,4-benzotropone (1) has not been isolated. Its instability is attributed to the o-
+quinoidal structure of 1 because it has no sextet electron system in the benzene ring. 
+ 
+4.2. Draw the structures of stable benzotropone isomers A (with 6 signals in its 13C-NMR) and 
+B (with 11 signals in its 13C-NMR). 
+4.3. When the following tetraene is reacted under photochemical conditions, symmetry-allowed 
+product(s) of three different ring sizes can form according to the Woodward–Hoffmann rules. 
+Tick the correct answer in each row. 
+ 
+☐ 
+ 
+☐ 
+ 
+☐ 
+ 
+☐ 
+ 
+☐ 
+ 
+☐ 
+ 
+ 
+ 
+ 
+Prof. Dr. Aziz Sancar 
+ 
+ 
+ 
+The Nobel Prize in Chemistry 2015 was awarded jointly to the Turkish scientist Aziz Sancar, 
+Swedish scientist Tomas Lindahl, and American scientist Paul Modrich for their “mechanistic 
+studies of DNA repair”. Pyrimidine bases found in DNA may undergo a photochemical [2+2]-
+cycloaddition reaction (see above figure) with UV light that reaches a person’s skin, causing 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+37 
+ 
+damage to DNA, which may ultimately lead to skin cancer. The research by Professor Aziz 
+Sancar focused on the DNA repair mechanism for this type of damage.  
+ 
+Thymine (T) is one of the nucleobases that can undergo such a photochemical reaction with UV 
+light. Let us assume that we have a solution of free thymine that was subjected to UV irradiation.  
+ 
+ 
+ 
+4.4. Considering stereochemistry, draw the structures of all possible products of this reaction 
+between two free thymine (T) molecules. Circle the compound(s) which is/are chiral. Drawing 
+only one enantiomer of an enantiomeric pair is sufficient. Please note that only C=C bonds 
+participate in this reaction.  
+ 
+A broad range of halogenated derivatives of norbornadiene (N) are known in the literature. 
+Tribromo-norbornadiene (C7H5Br3) has six achiral isomers. Three of these isomers (6, 7, and 8) 
+are given below. 
+ 
+4.5. How many signals do you expect from the 13C-NMR spectra of 6, 7, and 8? Fill in the 
+following boxes. 
+6 
+ 
+7 
+ 
+8 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+38 
+ 
+4.6. Draw structures of the remaining achiral tribromo-norbornadiene (C7H5Br3) isomers (C, 
+D, and E) in addition to 6–8 over the given figures in the boxes. 
+  
+C 
+ 
+D 
+ 
+E 
+ 
+ 
+The NMR spectrum of ether 9 is complex. Two MeO– groups are different as are all the 
+hydrogen atoms on the rings. However, diphenol 10 has a very simple NMR spectrum and there 
+are only three types of protons (marked as a, b, and c). A reasonable average structure 
+responsible for all resonance structures and its symmetry is shown as 11.  
+ 
+4.7. How many signals do you expect from the 13C- and 1H-NMR spectra of 12 and 13? 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+39 
+ 
+Solution: 
+ 
+ 
+4.1. Fill in the table for reactions (i)–(iii) or products 2–5: 
+Reaction 
+Product 
+[? + ?] cycloaddition 
+ or h 
+i 
+2 
+[10 + 10] ([6 + 6] is also 
+acceptable). 
+2 points. 
+h 
+1 point. 
+ii 
+3 
+[8 + 2] ([4 + 2] is also 
+acceptable). 
+2 points. 
+
+1 point. 
+iii 
+4 
+[10 + 8] ([6 + 4] is also 
+acceptable). 
+2 points. 
+
+1 point. 
+5 
+[10 + 8] ([6 + 4] is also 
+acceptable). 
+2 points. 
+
+1 point. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+40 
+ 
+4.2. Draw the structures of stable benzotropone isomers A (with 6 signals in its 13C-NMR) and 
+B (with 11 signals in its 13C-NMR). 
+ 
+A 
+ 
+ 
+ 
+3 points. 
+B 
+ 
+ 
+ 
+3 points. 
+4.3. When the following tetraene is reacted under photochemical conditions, symmetry-allowed 
+product(s) can form according to the Woodward–Hoffmann rules. Tick the correct answer(s). 
+ 
+☐ 
+ 
+☒ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+41 
+ 
+☒ 
+ 
+☐ 
+ 
+☒ 
+ 
+☐ 
+ 
+6 points if all the answers are correct. 
+2 points if there is one mistake. 
+0 points if there is more than one mistake. 
+ 
+4.4. Considering stereochemistry, draw the structures of all possible products of this reaction. 
+Circle the compound(s) which is/are chiral. Drawing only one enantiomer of an enantiomeric 
+pair is sufficient. Please note that only C=C bonds participate in this reaction. 
+ 
+ 
+ 
+3 points for each correct structure (12 points in total). 
+0 points for each structure when there is missing stereochemical information. 
+ 
+4 points (in total) for the correct determination of chirality for the two chiral compounds (2 points 
+each). 
+2 points if there is one mistake in the determination of chirality. 
+0 points if there is more than one mistake in the determination of chirality. 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+42 
+ 
+4.5. How many signals do you expect from the 13C-NMR spectra of 6, 7, and 8? Fill in the 
+following boxes. 
+6 
+ 
+ 
+5 signals in 13C-NMR 
+3 points. 
+ 
+7 
+ 
+ 
+4 signals in 13C-NMR 
+3 points. 
+8 
+ 
+ 
+4 signals in 13C-NMR 
+3 points. 
+ 
+4.6. Draw open structures of the remaining achiral (meso) tribromo-norbornadiene (C7H5Br3) 
+isomers (C, D, and E) in addition to 6–8 over the given figures in the boxes. 
+ 
+C 
+ 
+ 
+3 points. 
+D 
+ 
+ 
+3 points. 
+E 
+ 
+ 
+3 points. 
+4.7. How many signals do you expect from the 13C- and 1H-NMR spectra of 12 and 13? 
+12 
+ 
+ 
+4 signals in 13C-NMR (2 points). 
+2 signals in 1H-NMR (2 points). 
+13 
+ 
+ 
+10 signals in 13C-NMR (2 points). 
+5 signals in 1H-NMR (2 points). 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+43 
+ 
+Problem 5 
+14% of the total 
+Question 
+5.1 
+5.2 
+5.3 
+5.4 
+5.5 
+5.6 
+5.7 
+5.8 
+Total 
+Points 
+13 
+13 
+15 
+8 
+12 
+10 
+17 
+12 
+100 
+ 
+Problem 5. Konya, Carrot, Beta-Carotene, Vitamin-A, Immune 
+System, Vision 
+ 
+ 
+ 
+ 
+ 
+Mevlana (Rumi) was a great mystic and Sufi poet who lived out his days in Konya in the 13th 
+century. The indirect relevance of Konya to chemistry is that the city provides 65% of the 
+country’s carrot production, from which one of the essential vitamins (vitamin A) is obtained. 
+ 
+Carrot is an important source of β-carotene, which gives the vegetable its orange color. This 
+molecule is a red-orange pigment naturally found in plants and fruits and is a provitamin A 
+carotenoid. It is converted to vitamin A, which is essential for normal growth and development, 
+the immune system, and vision function. 
+ 
+ 
+Figure 1. Ball and stick representation of the structure of β-carotene. The gray and white 
+spheres represent the carbon and hydrogen atoms, respectively. The numbered carbon atoms 
+belong to the linear conjugated π-segment of the molecule. 
+ 
+β-Carotene has an extended polyene chain of 22 carbon atoms. It is a conjugated π-system, 
+having alternating single and double bonds. Its experimental maximum absorption wavelength 
+(λmax) is 455 nm. We assume that all the bonds between C1 and C22 are conjugated bonds. There 
+are 22 π-electrons in the molecule (Figure 1). 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+44 
+ 
+To a crude approximation, the electrons in the C-2pz orbitals, which are perpendicular to the 
+molecular plane, are assumed to move along the entire molecule, without interacting with each 
+other. They are like independent particles confined in a molecule moving along the x-axis in 
+one dimension. These characteristics of π-electrons make them eligible for being treated by the 
+simplest model called the particle in one-dimensional box model.  
+ 
+The wave function and the energies of the quantized levels for an electron moving in a one-
+dimensional box with infinite potential walls are given as follows: 
+𝛹
+𝑛(𝑥) = √
+2
+𝐿sin
+𝑛𝜋𝑥
+𝐿    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eq.1 
+where n is the quantum number, n=1,2,3,4,…. ∞, and L is the box length.  
+𝐸𝑛=
+𝑛2ℎ2
+8𝑚𝑒𝐿2 
+ 
+ 
+ 
+     
+ 
+ 
+Eq.2 
+ 
+In two dimension, within the framework of independent particle approximation, the 
+wavefunction is expressed as a product of one-dimensional wavefunctions, and the energy is 
+expressed as a sum of one-dimensional energies. The energy levels of the two dimensional 
+rectangular box is given as follows: 
+𝐸𝑛𝑥,𝑛𝑦= [
+𝑛𝑥2
+𝐿𝑥2 +
+𝑛𝑦2
+𝐿𝑦2] {
+ℎ2
+8𝑚𝑒}   
+ 
+ 
+ 
+ 
+ 
+ 
+Eq. 3 
+where nx, ny are the quantum numbers and they are positive integers. Lx, Ly are the dimensions 
+of the box in the 2D model. They are positive numbers. 
+ 
+5.1. Which two of the sentences given below are correct? Tick only one answer which includes 
+correct sentences in your answer sheet. 
+ 
+The β-carotene molecule is orange in color because 
+ 
+i)  
+it absorbs in the visible region of the electromagnetic spectrum. 
+ii)   HOMO →LUMO transition occurs by absorption of IR photon. 
+iii) 
+the spacing between the 22nd and the 23rd energy levels is equal to the energy of the IR 
+photon at the orange wavelength. 
+iv)  it absorbs green/blue light and it transmits red/yellow color. 
+v)  
+it absorbs in the UV-Vis region since the molecule has no net dipole moment. 
+ 
+ 
+Although it is highly unrealistic, let us assume that the conjugated segment of the molecule is 
+linear and treated with the particle in a one-dimensional box model as shown in figure 2. In 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+45 
+ 
+this case, the length of the box can be approximated as L=1.40×nC (in Å), where nC is the 
+number of carbon atoms in the conjugated segment.  
+Use this information to answer the questions 5.2–5.6. 
+ 
+ 
+Figure 2. Schematic representation of the conjugated line segment made up carbon atoms of β-
+carotene in a one-dimensional box of length L.  
+ 
+5.2. Calculate the energies (in J) of the lowest two energy levels 
+5.3. Draw the wavefunctions of the lowest two energy levels with proper labelling the x-axis. 
+5.4. Sketch the energy level diagram up to n = 4 showing the relative spacing. 
+5.5. What is the total π-energy (in J) of the molecule? 
+5.6. Calculate the wavelength (in nm) at which the transition between the highest occupied 
+and lowest unoccupied energy levels occurs. 
+Use the particle in a two-dimensional box model to answer questions 5.7–5.8. 
+ 
+ 
+Figure 3. Schematic representation of the conjugated carbon atoms of β-carotene in a two-
+dimensional box.  
+ 
+Assume that the conjugated segment is made up of conjugated bonds that are all-trans to each 
+other. The motion of the π-electrons is studied in the two-dimensional rectangular box with the 
+dimensions Lx = 26.0 Å, Ly = 3.0 Å (Figure 3).  
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+46 
+ 
+ 
+5.7. Calculate the energies (in J) of the highest occupied and the lowest unoccupied energy 
+levels and the wavelength (in nm) at which the transition between these energy levels occurs. 
+ 
+ 
+5.8. What should be the Lx value (in Å) in order for the molecule to absorb light at the 
+experimental λmax=455 nm if Ly is kept constant at 3.0 Å. (Assume that the quantum numbers 
+for homo and lumo are the same as in the question 5.7.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+47 
+ 
+Solution: 
+ 
+5.1. Which two of the sentences given below are correct? Tick only one answer which 
+includes correct sentences in your answer sheet. 
+☐ a) i and ii  
+☐ b) i and iii  
+☒ c) i and iv  
+☐ d) i and v 
+☐ e) ii and iii 
+ 
+☐ f) ii and iv   
+☐ g) ii and v  
+☐ h) iii and iv 
+ 
+☐ j) iii and v  
+☐ k) iv and v 
+13 points for the correct answer.  
+  
+5.2. Calculate the energies (in J) of the lowest two levels.  
+Calculation:  
+𝐿= 1.40 ×  22 = 30.8 Å 
+ 
+𝐸𝑛=
+𝑛2ℎ2
+8𝑚𝑒𝐿2 = 𝑛2 (6.351 × 10–21) J  E1 = 6.351 × 10–21 J    E2 = 2.540 × 10–20 J 
+ 
+13 points. 3 points for correct box length, 5 points for each correct energy value.  
+No partial credit will be given. 
+ 
+5.3. Draw the wavefunctions of the lowest two energy levels with proper labelling the x-axis. 
+ 
+15 points. 3 points for labelling the x-axis and 6 points for the correct drawing of the wavefunctions. 
+No partial credit will be given. 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+48 
+ 
+5.4. Sketch the energy level diagram up to n = 4  showing the relative spacing. 
+ 
+8 points. The lowest 4 energy levels, the energy scale and the relative spacing between the 
+energy levels must be shown. 
+ 
+5.5. Calculate the total π-energy (in J) of the molecule? 
+Calculation: 
+𝑬𝝅(𝒕𝒐𝒕𝒂𝒍) = 𝟐
+∑
+𝑬𝒊
+𝒐𝒄𝒄𝒖𝒑𝒊𝒆𝒅 𝒍𝒆𝒗𝒆𝒍𝒔
+𝒊=𝟏
+ 
+Eπ (total) = 2 × (E1+E2+E3+E4+E5+E6+E7+E8+E9+E10+E11) = 6.427 × 10–18 J 
+ 
+12 points for the correct answer. 4 points if the multiplication by 2 is forgotten. 
+No partial credit will be given. 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+49 
+ 
+5.6. Calculate the wavelength (in nm) at which the transition between the highest occupied 
+and lowest unoccupied energy levels occurs. 
+Calculation: 
+The quantum numbers for the highest occupied and lowest unoccupied energy levels are 11 
+and 12, respectively. 
+∆𝑬= 𝑬𝟏𝟐−𝑬𝟏𝟏= 𝑬𝒏=
+𝟏𝟐𝟐𝒉𝟐
+𝟖𝒎𝒆𝑳𝟐−
+𝟏𝟏𝟐𝒉𝟐
+𝟖𝒎𝒆𝑳𝟐=
+𝟐𝟑𝒉𝟐
+𝟖𝒎𝒆𝑳𝟐=
+𝒉𝒄
+𝝀   then, 
+ 
+𝝀=
+𝟖𝒎𝒆𝒄𝑳𝟐
+𝟐𝟑𝒉
+=1360 nm 
+ 
+10 points for the correct answer. 
+If wavelength expression is written correctly but the result is calculated wrongly then 3 points will be 
+deducted.  
+1 point will be deducted for incorrect unit. 
+ 
+5.7. Calculate the energies (in J) of the highest occupied and the lowest unoccupied energy 
+levels and the wavelength (in nm) at which the transition between these energy levels occurs. 
+ 
+Calculation: 
+ 
+𝑬𝒏𝒙,𝒏𝒚= [
+𝒏𝒙𝟐
+𝑳𝒙𝟐+
+𝒏𝒚𝟐
+𝑳𝒚𝟐] {
+𝒉𝟐
+𝟖𝒎𝒆} = [
+𝒏𝒙𝟐
+𝟐𝟔𝟐+
+𝒏𝒚𝟐
+𝟑𝟐] 6.025 × 10–18 J, where Lx and Ly should be in Å. 
+ 
+The quantum numbers and the energies of the highest occupied and the lowest 
+unoccupied energy levels are:  
+ 
+nx = 11, ny = 1 and nx = 12, ny = 1 
+ 
+E11,1 = [
+𝟏𝟏𝟐
+𝟐𝟔𝟐+
+𝟏𝟐
+𝟑𝟐] 6.025 × 10–18 J = 17.48 × 10–19 J  
+ 
+E12,1 = [
+𝟏𝟐𝟐
+𝟐𝟔𝟐+
+𝟏𝟐
+𝟑𝟐] 6.025 × 10–18 J =  19.53× 10–19 J 
+ 
+The transition wavelength is: 
+ 
+ΔE = E12,1 – E11,1= (19.53 – 17.48) × 10–19 J = 2.050 × 10–19 J 
+ΔE = Ephoton = (hc)/λ    and    λ = (hc)/ΔE = 9.69 × 10–7 m,       λ = 969 nm 
+ 
+17 points for the correct answer.  
+12 points for correct energies   
+5 points for the correct wavelength 
+1 point will be deducted for incorrect unit. 
+No partial credit will be given. 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+50 
+ 
+ 
+5.8. What should be the Lx value (in Å) in order for the molecule to absorb light at the 
+experimental λmax if Ly is kept constant at 3.0 Å. (Assume that the quantum numbers for homo 
+and lumo are the same as in the question 5.7.) 
+Calculation: 
+ 
+𝜟𝑬= [
+𝟏𝟐𝟐
+𝑳𝒙𝟐+
+𝟏𝟐
+𝑳𝒚𝟐−
+𝟏𝟏𝟐
+𝑳𝒙𝟐−
+𝟏𝟐
+𝑳𝒚𝟐] {
+𝒉𝟐
+𝟖𝒎𝒆} = [
+𝟐𝟑
+𝑳𝒙𝟐] 6.025 × 10–18 = 
+𝟏.𝟑𝟖𝟔 × 𝟏𝟎−𝟏𝟖 
+𝑳𝒙𝟐
+  (Lx is in Å) 
+ 
+ΔE = Ephoton = (hc)/λ → 
+𝟏.𝟑𝟖𝟔 × 𝟏𝟎−𝟏𝟖
+𝑳𝒙𝟐
+=
+𝟔.𝟔𝟐𝟔 × 𝟏𝟎−𝟑𝟒 × 𝟐.𝟗𝟗𝟖 × 𝟏𝟎𝟖
+𝟒𝟓𝟓 × 𝟏𝟎−𝟗
+  
+ 
+Lx = 1.782 × 10–9 m    Lx = 17.82 Å 
+ 
+12 points for the correct answer.  
+No partial credit will be given.  
+1 point will be deducted for incorrect unit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+51 
+ 
+Problem 6 
+12% of the total 
+Question 
+6.1 
+6.2 
+6.3 
+6.4 
+6.5 
+6.6 
+6.7 
+6.8 
+Total 
+Points 
+5 
+12 
+6 
+3 
+6 
+6 
+5 
+3 
+80 
+Question 
+6.9 
+6.10 
+6.11 
+6.12 
+6.13 
+ 
+ 
+ 
+Points 
+8 
+6 
+6 
+8 
+6 
+ 
+ 
+ 
+ 
+Problem 6. Thermodynamics through an Interstellar Journey 
+ 
+Part 1 
+In a hypothetical universe, an unknown amount of diborane participates in the following 
+reaction: 
+ 
+B2H6(g) + 6 H2O(l) → 2 H3BO3(s) + 6 H2(g) 
+ 
+Assume that in this hypothetical universe, H3BO3(s) obtained from this reaction was completely 
+sublimed at 300 K. The necessary energy for sublimation was obtained through work released 
+by one cycle of an ideal heat engine in which one mole of monoatomic perfect gas flows through 
+the cycle described in the pressure (p) – volume (V) diagram below:  
+ A→B; isothermal reversible expansion receiving 250 J by heat transfer (qH) at a 
+temperature of 1000 K (TH) from a hot source.  
+ B→D; reversible adiabatic expansion.  
+ D→C; isothermal reversible compression at a temperature of 300 K (TC) releasing some 
+amount of heat (qC) to a cold sink. 
+ C→A; reversible adiabatic compression. 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+52 
+ 
+After heat transfers, the remaining energy is released as work (w). Also, qH and qC are related 
+to TC and TH as follows: 
+ 
+|𝑞𝐻|
+|𝑞𝐶| = 𝑇𝐻
+𝑇𝐶
+ 
+ 
+The efficiency of the cycle can be found by work released by cycle (w) divided by heat absorbed 
+by cycle (qH). 
+ 
+You are provided with the change in enthalpies of the following reactions at 300 K. 
+ 
+(1) B2H6(g) + 6 Cl2(g) → 2 BCl3(g) + 6 HCl(g) 
+ 
+𝚫𝐫𝐇(𝟏) = −𝟏𝟑𝟐𝟔 𝐤𝐉 𝐦𝐨𝐥−𝟏 
+(2) BCl3(g) + 3 H2O(l) → H3BO3(g) + 3 HCl(g) 
+ 
+𝚫𝐫𝐇(𝟐) = −𝟏𝟏𝟐. 𝟓 𝐤𝐉 𝐦𝐨𝐥−𝟏 
+ 
+(3) B2H6(g) + 6 H2O(l) → 2 H3BO3(s) + 6 H2(g) 
+ 
+𝚫𝐫𝐇(𝟑) = −𝟒𝟗𝟑. 𝟒 𝐤𝐉 𝐦𝐨𝐥−𝟏 
+ 
+(4) 
+1
+2 H2(g) + 
+1
+2  Cl2(g) → HCl(g) 
+ 
+ 
+ 
+𝚫𝐫𝐇(𝟒) = −𝟗𝟐. 𝟑 𝐤𝐉 𝐦𝐨𝐥−𝟏 
+ 
+ 
+6.1. Calculate the molar enthalpy of sublimation (in kJ mol-1) for H3BO3 at 300 K. 
+ 
+6.2. Calculate the ΔrU (internal energy) in terms of kJ mol-1 at 300 K for the reactions (2) and 
+(4) given above (assume ideal gas behavior for each gaseous species in each reaction).   
+ 
+6.3. Calculate the amount of overall work produced by a heat engine (|w|) in terms of J and the 
+amount of overall heat released to the cold sink (|qC|) in terms of J.  
+ 
+6.4. Calculate the efficiency of the heat engine described above. 
+6.5. Calculate the entropy change (ΔS) for A→B and D→C processes in the heat engine in 
+terms of J K−1. 
+ 
+6.6. Calculate the Gibbs energy change (ΔG) in terms of J for A→B and D→C processes in 
+the heat engine.  
+ 
+6.7. Calculate the ratio of pressure at point A to the pressure at point B in the cycle (standard 
+pressure: 1 bar). 
+  
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+53 
+ 
+6.8. Calculate the amount of H2(g) (in moles) produced according to the reaction given at the 
+beginning of the task for one cycle of the engine. 
+ 
+Part 2  
+Interstellar journeys can be done by using diborane as rocket fuel. Combustion of diborane is 
+shown below: 
+ 
+B2H6 (g)+ 3O2 (g) →  B2O3 (s) + 3H2O (g) 
+ 
+Combustion of diborane is experimented in a 100 L closed container at different temperatures 
+and the equilibrium amounts were recorded.  
+ 
+ 
+8930 K 
+9005 K 
+B2H6(g) 
+0.38 mol 
+0.49 mol 
+H2O(g) 
+0.20 mol 
+0.20 mol 
+ 
+Partial pressure of O2 (g) was stabilized to 1 bar and kept constant at all conditions. Assume 
+that in this hypothetical universe; ΔrS° and ΔrH° are independent of temperature, the standard 
+molar entropy (S°) of B2O3(s) does not change with pressure, all the gas species behave as an 
+ideal gas, and all species remain in the same phase, without any further decomposition before 
+or after reaction, at all temperatures then: 
+ 
+6.9. Calculate Kp (pressure based equilibrium constant) at 8930 K and 9005 K. 
+ 
+6.10. Calculate ΔrG° of the reaction in terms of kJ mol-1 at 8930 K and 9005 K. (If you failed 
+to find Kp, please use Kp (8930 K) =2, Kp (9005 K) = 0.5) 
+ 
+6.11. Calculate ΔrG°(in terms of kJ mol−1), ΔrH° (in terms of kJ mol−1), and ΔrS° 
+(in terms of J mol−1K−1)of the combustion reaction at 298 K. (If you failed to find Kp, please 
+use Kp (8930 K) =2, Kp (9005 K) = 0.5) 
+6.12. Tick the correct answer in the table by determining whether combustion reactions are 
+favored or not at given T below under standard pressure (1 bar). 
+ 
+favored 
+Unfavored 
+298 K 
+☐ 
+☐ 
+8930 K 
+☐ 
+☐ 
+9005 K 
+☐ 
+☐ 
+9100 K 
+☐ 
+☐ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+54 
+ 
+6.13. Calculate the ΔfH  ( kJ mol–1) and S°( kJ mol–1 K–1) of H2O(g) using the values given in 
+the table below. (ΔfH = enthalpy of formation, S° = standard entropy) 
+ 
+(If you fail to find ΔrH° and ΔrS° of the combustion, please use ΔH° = 1000 kJ mol-1, ΔS°= 150 
+J K-1 mol-1) 
+ 
+ 
+ΔHf (298 K) 
+S° (298 K) 
+B2H6 (g) 
+36.40 kJ mol–1 
+0.23 kJ mol–1 K–1 
+O2 (g) 
+0.00 kJ mol–1 
+0.16 kJ mol–1 K–1 
+B2O3 (s) 
+–1273 kJ mol–1 
+0.05 kJ mol–1 K–1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+55 
+ 
+Solution: 
+ 
+6.1. Calculate the molar enthalpy of sublimation (in kJ mol-1) for H3BO3 at 300 K. 
+ 
+Calculation: 
+Hess rule: 
+𝜟𝑯(𝟑) –  𝟐× 𝜟𝑯(𝟐) +  𝟏𝟐× 𝜟𝑯(𝟒)–  𝜟𝑯(𝟏) = − 𝟐× 𝜟𝑯𝒔𝒖𝒃 (𝑯𝟑𝑩𝑶𝟑) 
+𝜟𝑯𝒔𝒖𝒃 (𝑯𝟑𝑩𝑶𝟑) = 𝟐𝟓 𝒌𝑱 𝒎𝒐𝒍−𝟏 
+ 
+5 points. 
+ 
+2 points will be deducted if student forgets to divide by 2 in last step 
+3 points will be deducted if Hess rule is applied correctly, but the answer is incorrect due to 
+miscalculation. 
+If the answer is incorrect due to any other reason, Zero point will be given 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+6.2. Calculate the ΔrU (internal energy) in terms of kJ mol-1 at 300 K for the reactions (2) and 
+(4) given above (assume ideal gas behavior for each gaseous species in each reaction).   
+ 
+Calculation: 
+ 
+𝛥𝑈 =  𝛥𝐻 –  𝛥(𝑃𝑉) =  𝛥𝐻 – (𝛥𝑛𝑔𝑎𝑠)𝑅𝑇 
+𝑅𝑇 =  8.3145 𝐽 𝑚𝑜𝑙−1 𝐾−1 ×  300 𝐾 =  2.494 𝑘𝐽 𝑚𝑜𝑙−1 
+𝛥𝑈 =   𝛥𝐻 – (𝛥𝑛𝑔𝑎𝑠) × 2.494 𝑘𝐽 𝑚𝑜𝑙−1 
+𝛥𝑈(2) = −112.5 𝑘𝐽 – (3 𝑚𝑜𝑙) × 2.494 𝑘𝐽 𝑚𝑜𝑙−1 = −120.0 𝑘𝐽 
+𝛥𝑈(4) = −92.3 𝑘𝐽 – (0) × 2.494 𝑘𝐽 𝑚𝑜𝑙−1 = −92.3 𝑘𝐽 
+ 
+6x2=12 points. 
+For each calculation considering that the logic for solving this question is correctly established; 
+1 point will be deducted if the answer is not correct in due to miscalculation. 
+If the logic for solving this question is not established correctly, no points will be given. 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+56 
+ 
+6.3. Calculate the amount of work produced by a heat engine (w) in terms of J and the amount 
+of heat released to the cold sink (qC) in terms of J. 
+ 
+Calculation: 
+ 
+|𝑞𝐻|
+|𝑞𝐶| = 𝑇𝐻
+𝑇𝐶
+→ 250 𝐽
+𝑞𝐶
+= 1000 𝐾
+300 𝐾 →|𝑞𝐶| = 75 𝐽 
+|𝑤| = 𝑞𝐻− |𝑞𝐶| = 250 𝐽−75 𝐽= 175 𝐽  
+  
+For w= 3 points, for 3 qc=3 points, in total 6 points. 
+If qc is incorrect due to miscalculation, 1 point will be deducted. 
+If w is incorrect due to miscalculation, 1 point will be deducted. 
+If w is incorrect due to incorrect qc calculated in this section, zero point will be deducted. 
+If w is incorrect due to incorrect qc calculated in this section and there are miscalculations, 1 point 
+will be deducted. 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+ 
+6.4. Calculate the efficiency of the heat engine described above. 
+Calculation: 
+ 
+𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚= |𝑤|
+|𝑞𝐻| = 175 𝐽
+250 𝐽= 𝟎. 𝟕𝟎 
+ 
+3 points. 
+If efficiency is in correct due to miscalculation, 1 point will be deducted. 
+If efficiency is incorrect due to incorrect w obtained in 6.3, zero point will be deducted. 
+If efficiency is incorrect due to incorrect w obtained in 6.3 and there are miscalculations, 1 
+point will be deducted. 
+If any unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+57 
+ 
+6.5. Calculate the entropy change (ΔS) for A→B and D→C processes in the heat engine in 
+terms of J K−1. 
+ 
+Calculation: 
+ 
+𝛥𝑆= 𝑑𝑞𝑟𝑒𝑣𝑒𝑟𝑠𝑖𝑏𝑙𝑒
+𝑇
+ 
+ 
+For A→B 
+𝜟𝑺𝑨→𝑩= 250 𝐽
+1000 𝐾= 𝟎. 𝟐𝟓 𝑱 𝑲−𝟏 
+ 
+For D→C 
+𝜟𝑺𝑫→𝑪= −75 𝐽
+300 𝐾= − 𝟎. 𝟐𝟓 𝑱 𝑲−𝟏 
+ 
+3 points for A→B, 3 points for D→C, in total 6 points. 
+If 𝜟𝑺𝑨→𝑩 is incorrect due to miscalculation, 1 points will be deducted. 
+Since qH is provided in the question, If 𝜟𝑺𝑨→𝑩 is incorrect due to any other reason, no points 
+will be given 
+If 𝜟𝑺𝑫→𝑪 is incorrect due to miscalculation, 1 points will be deducted. 
+If 𝜟𝑺𝑫→𝑪 is incorrect due to incorrect qc obtained in 6.3, Zero point will be deducted. 
+However, if there are miscalculations, 1 points will be deducted. 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+6.6. Calculate the Gibbs energy change (ΔG) in terms of J for A→B and D→C processes in 
+the heat engine. 
+ 
+Calculation: 
+ 
+𝛥𝐺 =  𝛥𝐻 –  𝑇𝛥𝑆, 𝑓𝑜𝑟 𝑖𝑠𝑜𝑡ℎ𝑒𝑟𝑚𝑎𝑙 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑒𝑠 𝛥𝐻 =  0, 𝑡ℎ𝑒𝑛 𝛥𝐺 = –  𝑇𝛥𝑆 
+ 
+∆𝑮𝑨→𝑩= − 0.25 𝐽 𝐾−1 × 1000 𝐾= − 𝟐𝟓𝟎 𝑱 
+ 
+∆𝑮𝑫→𝑪= −(−0.25 𝐽 𝐾−1) × 300 𝐾= 𝟕𝟓 𝑱 
+ 
+3 points for A→B, 3 points for D→C, in total 6 points. 
+If ∆𝑮𝑨→𝑩 is incorrect due to miscalculation, 1 points will be deducted. 
+If ∆𝑮𝑫→𝑪 is incorrect due to miscalculation, 1 points will be deducted. 
+If ∆𝑮𝑨→𝑩 is incorrect due to incorrect ∆𝑺𝑨→𝑩 obtained in 6.5, zero point will be deducted. 
+But if there are miscalculations, 1 points will be deducted. 
+If ∆𝑮𝑫→𝑪 is incorrect due to incorrect ∆𝑺𝑫→𝑪 obtained in 6.5, zero point will be deducted. 
+But if there are miscalculations, 1 points will be deducted. 
+If 𝛥𝐻 is not considered to be zero, no points will be given. 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+58 
+ 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+6.7. Calculate the ratio of pressure at point A to the pressure at point B in the cycle. 
+ 
+Calculation: 
+ 
+∆𝑆= 𝑑𝑞𝑟𝑒𝑣𝑒𝑟𝑠𝑖𝑏𝑙𝑒
+𝑇
+= 𝑛𝑅𝑙𝑛𝑉
+𝐵
+𝑉
+𝐴
+ 
+0.25 𝐽 𝐾−1 = 1 𝑚𝑜𝑙× 8.314 𝐽 𝑚𝑜𝑙−1𝐾−1𝑙𝑛
+𝑉𝐵
+𝑉𝐴  
+𝑙𝑛𝑉
+𝐵
+𝑉
+𝐴
+= 0.03007 → 𝑉
+𝐵
+𝑉
+𝐴
+= 1.03 
+𝑉
+𝐵
+𝑉
+𝐴
+= 𝑃
+𝐴
+𝑃
+𝐵
+ → 𝑷𝑨
+𝑷𝑩
+= 𝟏. 𝟎𝟑 
+ 
+5 points. 
+If student can find up to 𝑙𝑛
+𝑉𝐵
+𝑉𝐴 with correct value and calculate no further, 3 points will be 
+deducted 
+If student can find up to 𝑙𝑛
+𝑉𝐵
+𝑉𝐴 with incorrect value and calculate no further, 3.5 points will be 
+deducted 
+If student can find up to 
+𝑉𝐵
+𝑉𝐴 with correct value and calculate no further, 2 points will be 
+deducted 
+If student can find up to 
+𝑉𝐵
+𝑉𝐴 with incorrect value and calculate no further, 2.5 points will be 
+deducted 
+If student gets incorrect 
+𝑃𝐴
+𝑃𝐵 due to miscalculation, 1.5 points will be deducted. 
+If student uses incorrect ∆𝑆 obtained from 6.5 or given in the question, no points will be 
+deducted. 
+If any unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+59 
+ 
+6.8. Calculate the amount of H2(g) (in moles) produced during the formation of boric acid. 
+ 
+Calculation: 
+ 
+𝟎. 𝟏𝟕𝟓 𝒌𝑱
+𝟐𝟓 𝒌𝑱 𝒎𝒐𝒍−𝟏= 𝟕 × 𝟏𝟎−𝟑𝒎𝒐𝒍𝒆𝒔 𝒐𝒇 𝑯𝟑𝑩𝑶𝟑 𝒊𝒔 𝒔𝒖𝒃𝒍𝒊𝒎𝒂𝒕𝒆𝒅 
+(𝟕× 𝟏𝟎−𝟑) × 𝟑= 𝟐𝟏× 𝟏𝟎−𝟑 𝒎𝒐𝒍𝒆𝒔 𝒐𝒇 𝑯𝟐 𝒊𝒔 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒆𝒅 
+ 
+3 points. 
+If student gives incorrect answer due to miscalculation in any step, no points will be given. 
+If student gives incorrect answer due to incorrect w obtained in 6.3, no points will be deducted. If 
+there are miscalculations, the grading scheme given above will be applied. 
+If student gives incorrect answer due to incorrect sublimation enthalpy obtained in 6.1, no points 
+will be deducted. If there are miscalculations, the grading scheme given above will be applied. 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+6.9. Calculate Kp (pressure based equilibrium constant) at 8930 K and 9005. 
+ 
+Calculation: 
+ 
+𝑃𝑉= 𝑛𝑅𝑇→𝑃= 𝑛𝑅𝑇
+𝑉
+→𝑃= 𝑛× 0.08205 𝐿 𝑎𝑡𝑚 𝑚𝑜𝑙−1𝐾−1 × 𝑇
+100 𝐿
+ 
+ 
+At 8930 K, 
+𝐹𝑜𝑟 𝐵2𝐻6(𝑔) →𝑃𝐵2𝐻6(𝑔) = 0.38 𝑚𝑜𝑙× 0.08205 𝐿 𝑎𝑡𝑚 𝑚𝑜𝑙−1𝐾−1 × 8930 𝐾
+100 𝐿
+= 2.784 𝑎𝑡𝑚= 2.821 𝑏𝑎𝑟 
+𝐹𝑜𝑟 𝐻2𝑂(𝑔) →𝑃𝐻2𝑂(𝑔) = 0.20 𝑚𝑜𝑙× 0.08205 𝐿 𝑎𝑡𝑚 𝑚𝑜𝑙−1𝐾−1 × 8930 𝐾
+100 𝐿
+= 1.465 𝑎𝑡𝑚
+= 1.484 𝑏𝑎𝑟 
+ 
+At 9005 K, 
+𝐹𝑜𝑟 𝐵2𝐻6(𝑔) →𝑃𝐵2𝐻6(𝑔) = 0.49 𝑚𝑜𝑙× 0.08205 𝐿 𝑎𝑡𝑚 𝑚𝑜𝑙−1𝐾−1 × 9005 𝐾
+100 𝐿
+= 3.618 𝑎𝑡𝑚= 3.666 𝑏𝑎𝑟 
+ 
+𝐹𝑜𝑟 𝐻2𝑂(𝑔) →𝑃𝐻2𝑂(𝑔) = 0.20 𝑚𝑜𝑙× 0.08205 𝐿 𝑎𝑡𝑚 𝑚𝑜𝑙−1𝐾−1 × 9005 𝐾
+100 𝐿
+= 1.478 𝑎𝑡𝑚
+= 1.498 𝑏𝑎𝑟 
+𝑲𝒑 𝒂𝒕 𝟖𝟗𝟑𝟎 𝑲= 
+(𝑃𝐻2𝑂(𝑔))3
+(𝑃𝑂2(𝑔))3 × 𝑃𝐵2𝐻6(𝑔)
+=
+(1.484)3
+(1)3 × 2.821 = 𝟏. 𝟏𝟓𝟗 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+60 
+ 
+𝑲𝒑 𝒂𝒕 𝟗𝟎𝟎𝟓 𝑲= 
+(𝑃𝐻2𝑂(𝑔))3
+(𝑃𝑂2(𝑔))3 × 𝑃𝐵2𝐻6(𝑔)
+=
+(1.498)3
+(1)3 × 3.666 = 𝟎. 𝟗𝟏𝟕 
+ 
+2x4 points for Kp. 
+For each calculation of Kp, 
+If answer is incorrect due to miscalculation, 1 point will be deducted. 
+If answer is incorrect due to incorrect 𝑃𝐵2𝐻6(𝑔) calculated in this part, no points will be deducted. 
+However, if there are miscalculation, 1 point will be deducted. 
+If answer is incorrect due to incorrect Kp calculated in this part, no points will be deducted. 
+If answer is incorrect due to miscalculation and incorrect Kp, 1 point will be deducted. 
+ 
+6.10. Calculate ΔrG° of the reaction in terms of kJ mol-1 at 8930 K and 9005 K (use three 
+decimal places for your result). 
+(If you failed to find Kp, please use Kp (8930 K) =2, Kp (9005 K) = 0.5) 
+ 
+Calculation: 
+ 
+The equilibrium constant is determined by gaseous species, Kp is going to be used to 
+calculate ΔG°: 
+ 
+𝛥𝐺° = −𝑅𝑇𝑙𝑛𝐾𝑝 
+ 
+𝚫𝐆° 𝐚𝐭 𝟖𝟗𝟑𝟎 𝐊 = −8.3145 J mol−1 K−1 × 8930 𝐾 𝑙𝑛1.159 = −𝟏𝟎. 𝟗𝟓𝟔   𝒌𝐉 𝐦𝐨𝐥−𝟏   
+ 
+𝚫𝐆° 𝐚𝐭 𝟗𝟎𝟎𝟓 𝐊 = −8.3145 J mol−1 K−1 × 9005 𝐾 𝑙𝑛0.917 = 𝟔. 𝟒𝟖𝟖   𝒌𝐉 𝐦𝐨𝐥−𝟏   
+ 
+3 points for each ΔG°, in total 6 points. 
+For each ΔG°; 
+If ΔG° is incorrect due to miscalculation, 1 points will be deducted. 
+If student uses incorrect value for Kp obtained from 6.9 or provided in this question, no points 
+will be deducted. If there are miscalculations, if there are miscalculations, 1 point will be 
+deducted. 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+61 
+ 
+6.11. Calculate ΔrG°(in terms of kJ mol−1), ΔrH° (in terms of kJ mol−1), and ΔrS° 
+(in terms of J mol−1K−1)of the combustion reaction at 298 K. 
+ 
+(If you failed to find Kp, please use Kp (8930 K) =2, Kp (9005 K) = 0.5) 
+ 
+Calculation: 
+ 
+𝛥𝐺° = 𝛥𝐻° −𝑇𝛥𝑆° 
+ 
+𝛥𝐺°(8930 𝐾) = −10956 𝐽 𝑚𝑜𝑙−1 = 𝛥𝐻° −8930 𝐾× 𝛥𝑆° 
+ 
+𝛥𝐺°(9005 𝐾) = 6488 𝐽 𝑚𝑜𝑙−1 = 𝛥𝐻° −9005 𝐾× 𝛥𝑆° 
+ 
+𝜟𝑺° = −𝟐𝟒𝟗. 𝟏 𝑱 𝒎𝒐𝒍−𝟏𝑲−𝟏 
+ 
+𝜟𝑯° = −𝟐𝟐𝟑𝟕. 𝟏 𝒌𝑱 𝒎𝒐𝒍−𝟏 
+ 
+𝜟𝑮°(𝟐𝟗𝟖 𝑲) = −2237.1 𝑘𝐽 𝑚𝑜𝑙−1 −298 𝐾× (−0.2491 𝑘𝐽 𝑚𝑜𝑙−1𝐾−1)
+= −𝟐𝟏𝟔𝟐. 𝟗 𝒌𝑱 𝒎𝒐𝒍−𝟏 
+ 
+2 points for ° , 2 points for 𝜟𝑯°, 2 points for 𝜟𝑮°(𝟐𝟗𝟖 𝑲) , in total 6 points. 
+For ΔS° and ΔH°, if student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+******************************************************************************** 
+Students may calculate ΔS° after finding ΔH° by using; 
+𝑙𝑛𝐾= −∆𝑟𝐻°
+𝑅𝑇+ ∆𝑟𝑆°
+𝑅 
+If student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+If student gives incorrect answer due incorrect ΔH° obtained by in this part, zero point will be 
+deducted. If there are miscalculations, 1 point will be deducted. 
+******************************************************************************** 
+For ΔG°, if student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+For ΔG°, if student gives incorrect answer due to incorrect ΔS° obtained in this part, zero point will 
+be deducted. If there are miscalculations, 1 point will be deducted. 
+For ΔG°, if student gives incorrect answer due to incorrect ΔH° obtained in this part, zero point will 
+be deducted. If there are miscalculations, 1 point will be deducted. 
+For ΔG°, if student gives incorrect answer due to incorrect ΔS° and ΔH° obtained in this part, zero 
+point will be deducted. If there are miscalculations, 1 point will be deducted. 
+ 
+If student uses any incorrect value for 𝛥𝐺° and/or Kp obtained from 6.9 and 6.10 or given in this 
+question, no points will be deducted. If there are miscalculations, If there are miscalculations, 
+1 point will be deducted. 
+ 
+Students who solved this problem by using; 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+62 
+ 
+𝑙𝑛𝐾2
+𝐾1
+= −∆𝑟𝐻°
+𝑅
+( 1
+𝑇2
+−1
+𝑇
+1
+) 
+Correct answers obtained by using this equation will be graded over 6 points with 2 points for 𝜟𝑺° , 
+2 points for 𝜟𝑯°, 2 points for 𝜟𝑮°(𝟐𝟗𝟖 𝑲) 
+However; 
+For ΔH°, if student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+For ΔS°, if student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+For ΔS°, if student gives incorrect answer due incorrect ΔH° obtained by using equation above, zero 
+point will be deducted. If there are miscalculations, 1 point will be deducted. 
+******************************************************************************** 
+Students may calculate ΔS° after finding ΔH° by using; 
+𝑙𝑛𝐾= −∆𝑟𝐻°
+𝑅𝑇+ ∆𝑟𝑆°
+𝑅 
+If student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+If student gives incorrect answer due incorrect ΔH° obtained by in this part, zero point will be 
+deducted. If there are miscalculations, 1 point will be deducted. 
+******************************************************************************** 
+For ΔG°, if student gives incorrect answer due to miscalculation, 1 point will be deducted. 
+For ΔG°, if student gives incorrect answer due to incorrect ΔH° obtained in this part, zero point will 
+be deducted. If there are miscalculations, 1 point will be deducted. 
+For ΔG°, if student gives incorrect answer due to incorrect ΔS° obtained in this part, zero point will 
+be deducted. If there are miscalculations, 1 point will be deducted. 
+For ΔG°, if student gives incorrect answer due to incorrect ΔS° and ΔH° obtained in this part, zero 
+point will be deducted. If there are miscalculations, 1 point will be deducted. 
+If student uses any incorrect value for 𝛥𝐺° and/or Kp obtained from 6.9 and 6.10 or given in this 
+question, no points will be deducted. If there are miscalculations, the grading scheme above 
+will be applied 
+ 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+6.12. Tick the correct answer on the table by determining whether combustion reactions are 
+favored or not at given T below under standard pressure (1 bar). 
+ 
+Favored 
+Unfavored 
+298 K 
+☒ 
+☐ 
+8930 K 
+☒ 
+☐ 
+9005 K 
+☐ 
+☒ 
+9100 K 
+☐ 
+☒ 
+8 points. Each correct answer is 2 points. 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+63 
+ 
+6.13. Calculate the ΔfH  ( kJ mol–1) and S°( kJ mol–1 K–1) of H2O(g) using the values given in 
+the table below. (ΔfH = enthalpy of formation, S° = standard entropy) 
+ 
+(If you fail to find ΔrH° and ΔrS° of the combustion, please use ΔH° = 1000 kJ mol-1, ΔS°= 150 
+J K-1 mol-1) 
+ 
+Calculation: 
+ 
+B2H6 (g)+ 3O2 (g) →  B2O3 (s) + 3H2O (g) 
+ 
+∆𝐻° = [∆𝐻
+𝑓(𝐵2𝑂3(𝑠)) + 3 × ∆𝐻
+𝑓(𝐻2𝑂(𝑔))] −[∆𝐻
+𝑓(𝐵2𝐻6(𝑔)) + 3 × ∆𝐻
+𝑓(𝑂2(𝑔))] 
+ 
+∆𝑆° = [𝑆°(𝐵2𝑂3(𝑠)) + 3 × 𝑆°(𝐻2𝑂(𝑔))] −[𝑆°(𝐵2𝐻6(𝑔)) + 3 × 𝑆°(𝑂2(𝑔))] 
+ 
+∆𝑯𝒇(𝑯𝟐𝑶(𝒈)) = −𝟑𝟎𝟗. 𝟐 𝒌𝑱 𝒎𝒐𝒍−𝟏 
+ 
+𝑺°(𝑯𝟐𝑶(𝒈)) = 𝟎. 𝟏𝟑𝟕 𝐤𝐉 𝐦𝐨𝐥−𝟏 𝐊−𝟏  
+ 
+3 points for ∆𝑯𝒇(𝑯𝟐𝑶(𝒈)), 3 points for 𝑺°(𝑯𝟐𝑶(𝒈)), in total 6 points. 
+If ∆𝑯𝒇(𝑯𝟐𝑶(𝒈)) is in correct due to miscalculation, 2 points will be deducted. 
+If 𝑺°(𝑯𝟐𝑶(𝒈)) is in correct due to miscalculation, 2 points will be deducted. 
+No points will be deducted if wrong values are obtained for ∆𝐻° and ∆𝑆° from 6.11 or the 
+values provided here. If there are miscalculations, 2 points will be deducted for each. 
+ 
+If any other unit than asked unit is used in the answer, 0.5 points will be deducted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+64 
+ 
+Problem 7 
+12% of the 
+total 
+Question 
+7.1 
+7.2 
+7.3 
+7.4 
+7.5 
+7.6 
+7.7 
+7.8 
+7.9 
+Total 
+Points 
+4 
+8 
+6 
+8 
+8 
+ 14 
+19 
+12 
+6 
+85 
+ 
+ 
+Problem 7. Phthalocyanines 
+ 
+ 
+ 
+Emeritus Professor Özer 
+Bekaroğlu 
+ 
+The term phthalocyanine (Pc) takes its origin from the Greek “naphtha”, which means rock oil, 
+and “cyanine”, which means dark blue. Turkish scientist Özer Bekaroğlu can be regarded as the 
+pioneer of Pc chemistry in Turkey.  
+ 
+Metal-free phthalocyanine (1, H2Pc) is a large planar macrocyclic compound with the formula 
+(C8H4N2)4H2.  
+ 
+7.1. How many π-electrons are there in the bold region of the H2Pc molecule in compound 1 
+shown above? 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+65 
+ 
+Pcs containing one or two metal ions are called metallo-phthalocyanines (MPcs) and they 
+exhibit different geometries as given above. 
+7.2. Complete the table in your answer sheet by determining the coordination number of central 
+ions in 2–5. 
+Central ion 
+Copper ion 
+Titanium 
+ion 
+Silicon ion 
+Cerium ion 
+Coordination number 
+ 
+ 
+ 
+ 
+ 
+7.3. Complete the table in your answer sheet by determining the oxidation number of each 
+metal (Cu, Ti, and Ce) in 2, 3, and 5. 
+Metal in compounds 
+2 
+3 
+5 
+Oxidation number 
+ 
+ 
+ 
+ 
+7.4. Complete the table in your answer sheet by determining the geometry of compounds 2–5. 
+Geometry 
+Compound 
+Octahedral  
+ 
+Square prism 
+ 
+Square pyramidal 
+ 
+Square planar 
+ 
+ 
+7.5. Complete the table in your answer sheet by determining the magnetic property of 
+compounds 2–5. 
+ Use the letter "p" for paramagnetic property and letter "d" for a diamagnetic property. 
+ 
+Compound 
+Magnetic property 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+66 
+ 
+7.6. Write the ground-state electron configuration of the silicon (Si) ion in the compound 4 and 
+find all the quantum numbers for the 2p electrons in its ground state.  
+Electron configuration:  
+ 
+Quantum numbers for 2p electrons:  
+n 
+l 
+m1 
+ms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Metal-free phthalocyanine (1, H2Pc) is commonly formed through the cyclotetramerization of 
+phthalonitriles. On the other hand, Pcs having different substituents are called asymmetric, 
+which can be prepared by the statistical cyclization of two different phthalonitriles. This method 
+has no selectivity and the product is a mixture of all possible isomers. 
+7.7. Draw the possible products that may occur in the statistical cyclization method by using F 
+and G. If there are any stereoisomers label as cis- or trans-. 
+ F and G represent two different symmetrical phthalonitriles. 
+ One of the products is F4 as given below.  
+ Draw other products similar to the format of F4. 
+ 
+ 
+Pcs are used as photosensitizers in the photodynamic therapy (PDT) of cancer due to their strong 
+absorption in the visible spectrum and high molar absorption coefficients. PDT consists of three 
+essential components: photosensitizer, light, and oxygen. None of these is individually toxic, 
+but together they initiate a photochemical reaction resulting in the generation of cytotoxic 
+singlet oxygen (1O2) that can destroy cancer cells.   
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+67 
+ 
+ 
+ 
+ The multiplicity of an energy level is defined as 2S+1 
+ If the two spins are parallel (↑↑), S = 1, and if the two spins are antiparallel (↑↓), S = 0.  
+ 
+7.8. Draw the molecule orbital (MO) diagram of the lowest energy singlet state of dioxygen 
+(1O2) and calculate bond order. 
+ There are no unpaired electrons in that state! 
+ 
+ 
+7.9. If the wavelength of the light needed to excite triplet oxygen into singlet oxygen is 1270 
+nm, calculate the energy (in kJ/mol) needed for this transition process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+68 
+ 
+Solution: 
+ 
+7.1. How many π-electrons are there in the bold region of the H2Pc molecule in compound 1 
+shown above? 
+The number of π-electrons in an H2Pc: 18 π-electrons     
+ 
+4 points for correct answer. 
+0 points if the number of electrons is not correct. 
+ 
+7.2. Complete the table in your answer sheet by determining the coordination number of central 
+ions in 2–5. 
+Central ion  
+Copper ion 
+Titanium 
+ion 
+Silicon ion 
+Cerium ion 
+Coordination number 
+4 
+5 
+6 
+8 
+2 points for each correct answer (8 points in total). 
+0 points if the answer is not correct. 
+ 
+7.3. Complete the table in your answer sheet by determining the oxidation number of each 
+metal (Cu, Ti, and Ce) in 2, 3, and 5. 
+Metal in compounds 
+2 
+3 
+5 
+Oxidation number 
++2 
++4 
++4 
+2 points for each correct answer (6 points in total). 
+0 points if the answer is not correct. 
+ 
+7.4. Complete the table in your answer sheet by determining the geometry of compounds 2–5. 
+Geometry 
+Compound 
+Octahedral  
+4 
+Square prism  
+5 
+Square pyramidal 
+3 
+Square planar 
+2 
+2 points for each correct answer (8 points in total). 
+0 points if the answer is not correct. 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+69 
+ 
+7.5. Complete the table in your answer sheet by determining the magnetic property of 
+compounds 2–5. 
+Compound 
+Magnetic property 
+2 
+p 
+3 
+d 
+4 
+d 
+5 
+d 
+2 points for each correct answer (8 points in total). 
+0 points if the answer is not correct. 
+7.6. Write the ground-state electron configuration of the silicon (Si) ion in the compound 4 and 
+find all the quantum numbers for the 3p electrons in its ground state.  
+Electron configuration: Si4+: [He] 2s22p6 
+2 points for writing electron configuration. (0 points if the electron configuration is not correct.) 
+Quantum numbers for 2p electrons:  
+n 
+l 
+m1 
+ms 
+2 
+1 
++1 
++1/2 
+2 
+1 
+0 
++1/2 
+2 
+1 
+-1 
++1/2 
+2 
+1 
++1 
+-1/2 
+2 
+1 
+0 
+-1/2 
+2 
+1 
+-1 
+-1/2 
+2 points for each correct quantum set (12 points in total). 
+0 points if one of the quantum number is not correct in 
+the set. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+70 
+ 
+7.7. Draw the possible products that may occur in the statistical cyclization method by using F 
+and G. If there are any stereoisomers label as cis- or trans-. 
+ 
+Products: 
+ 
+ 
+ 
+3 points for each of the structures (15 points in total). 
+2 point for each of the streoisomers (4 points in total). 
+0 points if the products or isomers are not correct. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+71 
+ 
+7.8. Draw the molecule orbital (MO) diagram of the lowest energy singlet state of dioxygen 
+(1O2) and calculate bond order. 
+ 
+MO diagram:  
+ 
+ 
+ 
+ 
+9 points for one of the correct MO diagrams (correct number of electrons 3 points, correct number 
+and ordering of energy level of the MOs 3 points, correct arrangement of electrons 3 points). 
+ 
+Bond order: (8 – 4)/2 = 2   
+3 points. 
+0 points if the bond order is not correct. 
+ 
+7.9. If the wavelength of the light needed to excite triplet oxygen into singlet oxygen is 1270 
+nm, calculate the energy (in kJ/mole) needed for this transition process. 
+ 
+Calculation: 
+ 
+1 nm = 1 × 10–9 m and 1270 nm = 1.270 × 10–6 m 
+𝑬= 𝒉× 𝒄÷ 𝝀 
+ 
+E = (6.6261 × 10–34 J s) (2.9979 × 108 ms–1) ÷ 1.270 × 10–6 m = 1.564 × 10–19 J and  
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+72 
+ 
+ 
+1.564 × 10–22 kJ   
+ 
+4 points. 
+ 
+For 1 mol, multiply by Avogadro’s constant = (1.564 × 10–22 kJ) (6.0221 × 1023 mol–1)  
+ 
+= 94.19 kJ/mol    
+ 
+2 points. 
+0 points if the calculation is not correct. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+73 
+ 
+Problem 8 
+14% of the total 
+Question 
+8.1 
+8.2 
+8.3 
+8.4 
+8.5 
+8.6 
+8.7 
+8.8 
+Total 
+Points 
+3 
+3 
+4 
+4 
+4 
+4 
+6 
+3 
+ 
+ 
+58 
+Question 
+8.9 
+8.10 
+8.11 
+8.12 
+8.13 
+8.14 
+8.15 
+8.16 
+Points 
+2 
+3 
+2 
+4 
+4 
+4 
+2 
+2 
+Question 
+8.17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Points 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Problem 8.  Boron Compounds and Hydrogen Storage 
+ 
+ 
+Sodium borohydride (NaBH4) and ammonia borane (BNH6) are the most studied chemical 
+hydrogen storage materials. In this question, you will explore the chemistry of boron and the 
+use of boron compounds as hydrogen storage materials.  
+ 
+Borax (Na2B4O7 ∙nH2O) is a boron mineral that is produced by ETI Mining Company in 
+Turkey. NaBH4 can be synthesized by the reduction of anhydrous borax with metallic sodium 
+under high-pressure hydrogen gas in the presence of silicon dioxide (silica) at 700 oC, namely 
+the Bayer process. In this process, all hydrogen is stored in NaBH4. On the other hand, it has 
+been shown that ammonia borane (BNH6) can be synthesized by the reaction of NaBH4 and 
+ammonium sulfate in dry tetrahydrofuran (THF) at 40 C (Hint: BNH6 synthesis must be 
+conducted in a well-ventilated fume-hood because flammable gas is generated as one of the by-
+products). While NaBH4 is an ionic compound, ammonia borane is a Lewis acid–base adduct.  
+ 
+8.1. Write a balanced chemical equation for the synthesis of NaBH4 from anhydrous borax. 
+ 
+8.2. Write a balanced chemical equation for the synthesis of ammonia borane from NaBH4. 
+ 
+8.3. Draw the molecular geometry of the BH4
+− ion and BNH6 molecule.  
+ 
+8.4. Calculate the hydrogen content of NaBH4
+  and BNH6 as a percentage by mass (wt%). 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+74 
+ 
+ 
+The hydrogen stored in both compounds can be released via hydrolysis reactions in the presence 
+of a suitable catalyst at room temperature. Upon the hydrolysis reactions, 4 and 3 moles of H2 
+gas are released from the hydrolysis of 1 mole of NaBH4 and BNH6, respectively, along with 
+metaborate  anion including B-O bonds. 
+ 
+8.5. Write the balanced chemical equations for the hydrolysis of NaBH4
+ and BNH6.  
+ 
+One of the simplest stable borates is diboron trioxide (B2O3). Higher borates such as B3O6
+3− 
+having cyclic structures containing B-O-bonds can be formed. Since B2O3 is an acidic 
+compound, it is easily reacted with water to produce boric acid (H3BO3). On the other hand, the 
+high temperature and high-pressure reaction of B2O3 with ammonia yields two-dimensional 
+boron nitride, which consists of planar graphite-like sheets of alternating B and N atoms. 
+ 
+8.6. Write the balanced chemical equations for the synthesis of boric acid and boron nitride. 
+ 
+8.7. Draw the molecular structures of the B3O6
+3− ion, boric acid, and a single two-dimensional 
+boron nitride sheet. Hint: show at least 10 B atoms in the boron nitride structure.  
+ 
+Furthermore, B-H compounds, called boranes, are an important class of boron compounds. The 
+simplest stable borane is diborane (B2H6) and many of the higher boranes can be prepared by 
+the pyrolysis of diborane. Diborane can be synthesized via metathesis of a boron halide and a 
+hydride source.  
+ 
+8.8. Write a balanced chemical equation for the synthesis of diborane from the reaction of BF3 
+and LiBH4. Hint: both products are boron compounds. 
+ 
+8.9. Draw the molecular geometry of the diborane molecule. Hint: there is no B-B bond in 
+the structure. 
+ 
+BH3 (borane) is an unstable and highly reactive molecule. Therefore, it is not possible to isolate 
+it as BH3 under ordinary conditions. However, it can be stabilized via its reaction with carbon 
+monoxide to yield borane carbonyl (BH3CO) compound, which is an adduct of borane. The 
+preparation of BH3CO plays an important role in exploring the chemistry of boranes as it 
+indicates the likely existence of the borane molecule. 
+ 
+8.10. Sketch the Lewis dot structure of BH3 −CO molecule by showing the formal charges.     
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+75 
+ 
+8.11. Which of the statements given in your answer sheet is observed in the C −O bond of a CO 
+molecule upon the bond formation between BH3 and CO? Tick the correct box. 
+ 
+ 
+☐ It gets longer because there will be -back donation from BH3 to CO. 
+☐ It gets longer because CO donates -bonding electrons to BH3. 
+☐ No or slight change on it because CO donates its mainly non-bonding electrons to BH3. 
+☐ It gets shorter because CO donates * anti-bonding electrons to BH3. 
+ 
+ 
+Borazine consists of single and double bonded cyclic B −N units and hydrogen atoms attached 
+to these atoms with the molecular formula B3N3H6 and is isostructural to benzene. Borazine 
+can be synthesized by using a two-step procedure including the synthesis of symmetrically 
+trisubstituted chlorine derivatives of borazine (B3N3H3Cl3) from the reaction of ammonium 
+chloride and boron trichloride, and then reduction of B3N3H3Cl3with LiBH4 in THF.  
+ 
+8.12. Write the balanced chemical equations for the two-step synthesis of borazine starting from 
+ammonium chloride in THF (tetrahydrofuran). Hint: THF stabilizes one of the products by 
+forming a Lewis acid-base adduct. 
+ 
+8.13. Draw the molecular structures of borazine and its symmetrically trisubstituted chlorine 
+derivative. 
+ 
+Catalysts are substances that accelerate the rate of reactions by allowing them to proceed in a 
+lower energy pathway. The catalytic activity of the catalysts is generally determined by the 
+turnover frequency (TOF), which is calculated by dividing the molar amount of the product to 
+the mole of active catalyst and the time (TOF = mole product/(mole catalyst x time)). A typical 
+hydrolysis of BNH6 was carried out in 10.0 mL of water by using 100.0 mM BNH6 and 5.0 mg 
+of  CuPt/C catalyst (CuPt alloy nanoparticles supported on carbon black containing 8.2 wt% Pt 
+atom). 67.25 mL of hydrogen gas was generated in 5 minutes.  
+ 
+8.14. Assuming the catalytic reaction is performed under standard conditions (1 atm and 273.15 
+K), calculate the TOF (𝑚𝑖𝑛−1) of the CuPt/C catalyst in terms of only Pt atoms in the 
+hydrolysis of BNH6 by considering the volume of the hydrogen gas generated. 
+ 
+As a result of detailed crystal analysis of a synthesized CuxPty alloy nanoparticles (the 
+subscripts indicate molar percentages of the atoms in the alloy structure), it was determined that 
+the face centered cubic (fcc) unit cell was formed by Pt atoms and the Pt atoms on the face of 
+the fcc unit cell are supposed to be replaced with Cu atoms to form CuxPty displacement alloy 
+nanoparticles. According to this information, answer the following questions. 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+76 
+ 
+ 
+8.15. Determine the composition of the alloy nanoparticles by finding x and y in the CuxPty. 
+ 
+8.16. Sketch the shape of the described crystal unit cell of CuxPty alloy nanoparticles by 
+showing the position of all atoms on the unit cell. 
+ 
+8.17. Another alloy has a Cu2Pt1 composition. Assume that this alloy also has a fcc unit cell 
+with an edge length of 380 pm, but the Cu and Pt atoms are randomly distributed in the atomic 
+positions. Calculate the density of this alloy in g/cm3. 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+77 
+ 
+Solution: 
+ 
+8.1. Write a balanced chemical equation for the synthesis of NaBH4 from anhydrous borax. 
+ 
+𝑁𝑎2𝐵4𝑂7 + 16𝑁𝑎+ 8𝐻2 + 7𝑆𝑖𝑂2  →4𝑁𝑎𝐵𝐻4 + 7𝑁𝑎2𝑆𝑖𝑂3 (3 points)  
+ 
+No partial point will be given if the stoichiometry is incorrect  
+No penalty will be given for writing another silicate product if the balanced chemical equation is 
+correct. 
+ 
+8.2. Write a balanced chemical equation for the synthesis of ammonia borane (BNH6) from 
+NaBH4. 
+ 
+2𝑁𝑎𝐵𝐻4 +  (𝑁𝐻4)2𝑆𝑂4  →2𝐵𝑁𝐻6 + 2𝐻2  + 𝑁𝑎2𝑆𝑂4  (3 points) 
+ 
+No partial point will be given if the stoichiometry is incorrect.  
+-1 point if molecular formula of the side product (Na2SO4) is written incorrectly. 
+-1 points if the hydrogen gas is not written in the product side 
+ 
+8.3. Draw the molecular geometry of the BH4
+− ion and BNH6 molecule  
+ 
+ 
+             (2 points)                                                                     (2 points) 
+-1 point if the molecular geometry is not shown                   
+ 
+8.4. Calculate the hydrogen content of NaBH4
+  and BNH6 as a percentage by mass (wt%). 
+ 
+𝑤𝑡% 𝐻 (𝑁𝑎𝐵𝐻4) =
+4×(𝐴𝑤(𝐻))
+𝑀𝑤(𝑁𝑎𝐵𝐻4) ×  100 = 
+4.032
+37.83 = 10.65%   (2 points)  
+ 
+𝑤𝑡% 𝐻 (𝐵𝑁𝐻6) =
+6×(𝐴𝑤(𝐻))
+𝑀𝑤(𝐵𝑁𝐻6)  ×  100 = 
+6.048
+30.87 = 19.59%   (2 points) 
+ 
+No partial point given if any mistake occurs.  
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+78 
+ 
+8.5. Write the balanced chemical equations for the hydrolysis of NaBH4
+ and BNH6.  
+ 
+𝑁𝑎𝐵𝐻4 + 2𝐻2𝑂 →  𝑁𝑎𝐵𝑂2 + 4𝐻2    (2 points)  
+𝐵𝑁𝐻6 + 2𝐻2𝑂 →  𝑁𝐻4𝐵𝑂2 + 3𝐻2    (2 points) 
+ 
+No partial points will be given if the total stoichiometry is incorrect 
+No penalty for writing NaBO2 as Na+ + BO2- or NH4BO2 as NH4+ + BO2- 
+No penalty for writing other borates if the stoichiometry is correct 
+8.6. Write the balanced chemical equations for the synthesis of boric acid and boron nitride. 
+ 
+𝐵2𝑂3 + 3𝐻2𝑂 →  2𝐻3𝐵𝑂3 (2 points) 
+𝐵2𝑂3 + 2𝑁𝐻3  
+ℎ𝑖𝑔ℎ 𝑇/ℎ𝑖𝑔ℎ 𝑃
+→            2𝐵𝑁 +  3𝐻2𝑂 (2 points) 
+ 
+No partial points will be given if the total stoichiometry is incorrect. 
+No penalty if the high T/high P on the reaction arrow is missed.  
+ 
+8.7. Draw the molecular structures of the B3O6
+3− ion, boric acid, and a single two-dimensional 
+boron nitride sheet (Hint: show at least 10 B atoms).  
+ 
+ 
+ 
+(2 points) 
+ 
+No point if the cyclic structure is 
+not shown 
+-1 point if the charges on oxygen 
+atoms are missed                
+ 
+ 
+(2 points) 
+ 
+ 
+-1 point if the trigonal 
+planar geometry is not 
+shown   
+                 
+ 
+(2 points) 
+ 
+-No point if less than 10 B atoms 
+are represented in the structure 
+-1 point if the continuing part is 
+not shown 
+𝐁𝟑𝐎𝟔
+𝟑− 
+Boric acid 
+Boron nitride 
+ 
+8.8. Write a balanced chemical equation for the synthesis of diborane from the reaction of BF3 
+and LiBH4. (Hint: both products are boron compounds) 
+ 
+3𝐿𝑖𝐵𝐻4 + 4𝐵𝐹
+3 →  2𝐵2𝐻6 +   3𝐿𝑖𝐵𝐹
+4  (3 points) 
+ 
+No partial point will be given if the stoichiometry is incorrect  
+-1 point if molecular formula of the side product (LiBF4) is written incorrectly. 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+79 
+ 
+8.9. Draw the VSEPR molecular geometry of the diborane molecule (Hint: there is no B-B 
+bond in the structure). 
+ 
+ 
+                                                                             (2 points)  
+-1 point if the 3D structure is not shown 
+No point if a B-B bond is presented in the structure                    
+ 
+8.10. Sketch the Lewis dot structure of BH3CO molecule by showing the formal charges.     
+ 
+ 
+(3 points) 
+ -1 point if the formal charges are not represented or represented incorrectly.  
+No penalty will be given if the arrow is not represented. 
+ 
+8.11. Which of the following statements is observed in the C −O bond of a CO molecule upon 
+the bond formation between BH3 and CO? 
+ 
+ 
+☐ It gets longer because there will be -back donation from BH3 to CO. 
+☐ It gets longer because CO donates -bonding electrons to BH3. 
+☒ No or slight change on it because CO donates its mainly non-bonding electrons to BH3. 
+☐ It gets shorter because CO donates * anti-bonding electrons to BH3. 
+ 
+(2 points) 
+No point if more than one box is clicked. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+80 
+ 
+8.12. Write the balanced chemical equations for the two-step synthesis of borazine starting from 
+ammonium chloride in THF. (Hint: THF stabilizes one of the products). 
+ 
+3𝑁𝐻4𝐶𝑙 + 3𝐵𝐶𝑙3  →  𝐵3𝑁3𝐻3𝐶𝑙3 +  9𝐻𝐶𝑙 (2 points) 
+𝐵3𝑁3𝐻3𝐶𝑙3 +   3𝐿𝑖𝐵𝐻4 
+𝑇𝐻𝐹
+→
+ 
+   𝐵3𝑁3𝐻6 + 3𝐿𝑖𝐶𝑙 + 3𝑇𝐻𝐹∙𝐵𝐻3 (2 points) 
+ 
+No partial point will be given if the total stoichiometry is wrong.  
+-1 point for each if molecular formula of the side products is written incorrectly.  
+ 
+8.13. Draw the molecular structures of borazine and its symmetrically trisubstituted chlorine 
+derivative. 
+ 
+ 
+                                        (2 points)                                         (2 points) 
+ 
+No point will be given if the cyclic structure is not shown 
+No point will be given if the Cl atoms are bonded to N atoms in B3N3H3Cl3 molecule 
+-1 point for each molecule if the cyclic structure is shown but the double bonds are not  
+Mesomeric structures will also be accepted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+81 
+ 
+8.14. Assuming the catalytic reaction is performed under standard conditions, calculate the 
+TOF of the CuPt/C catalyst in terms of only Pt atoms in the hydrolysis of BNH6 by considering 
+the volume of the hydrogen gas generated. 
+ 
+𝑚𝑜𝑙𝑒𝑠 𝑜𝑓 𝐻2 𝑔𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑= 
+67.25 𝑚𝐿
+22.41 𝑚𝐿= 3.0 𝑚𝑚𝑜𝑙= 3 × 10−3 𝑚𝑜𝑙   (1 point) 
+ 
+𝑚𝑜𝑙𝑒𝑠 𝑜𝑓 𝑃𝑡= [(
+0.005×8.2
+100
+)/195.1] = 2.1 × 10−6 𝑚𝑜𝑙  (1 point) 
+ 
+𝑇𝑂𝐹= 
+3×10−3𝑚𝑜𝑙 𝐻2
+(2.1×10−6𝑚𝑜𝑙 𝑃𝑡)×5.0 𝑚𝑖𝑛= 286 𝑚𝑖𝑛−1  (2 points) 
+ 
+(4 points in total) 
+ 
+No partial point given if any mistake occurs in the calculation of TOF.  
+ 
+8.15. Determine the composition of the alloy nanoparticles by finding x and y in the CuxPty   
+ 
+In a regular fcc unit cell, 
+𝐶𝑜𝑟𝑛𝑒𝑟𝑠=
+8×1
+8 = 1 𝑃𝑡 𝑎𝑡𝑜𝑚  
+𝐹𝑎𝑐𝑒𝑠= 6 × 1
+2
+= 3 𝑃𝑡 𝑎𝑡𝑜𝑚𝑠 
+After the replacement surface Pt atoms with Cu atoms, 
+ 
+𝐶𝑜𝑟𝑛𝑒𝑟𝑠=
+8×1
+8 = 1 𝑃𝑡 𝑎𝑡𝑜𝑚 (1 point) 
+𝐹𝑎𝑐𝑒𝑠=
+6×1
+2 = 3 𝐶𝑢 𝑎𝑡𝑜𝑚𝑠 (1 point) 
+ 
+Alloy composition = 𝐶𝑢3𝑃𝑡 (2 points), Cu75Pt25 is also accepted 
+ 
+(4 points in total) 
+ 
+No penalty will be given if the calculation of Pt atoms in a regular fcc unit cell or after 
+replacements is not shown. 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+82 
+ 
+8.16. Sketch the shape of the described crystal unit cell of CuxPty alloy nanoparticles by 
+showing the position of all atoms on the unit cell. 
+ 
+ 
+(2 points) 
+ 
+–1 point if the number of atoms represented in the crystal unit is written incorrectly. 
+No point if the crystal unit cell structure is wrong 
+ 
+8.17. Another alloy has a Cu2Pt1 composition. Assume that this alloy also has a fcc unit cell 
+with an edge length of 380 pm, but the Cu and Pt atoms are randomly distributed in the atomic 
+positions. Calculate the density of this alloy in g/cm3. 
+ 
+Actual unit cell composition: Cu2.66Pt1.33 (1 point) 
+ 
+𝑉= 𝐴3 
+𝑎= 380 𝑝𝑚= 3.80 × 10−8𝑐𝑚  
+𝑉= (3.80 × 10−8)3 = 54.87 × 10−24 𝑐𝑚3 (1 point) 
+ 
+𝑑= 𝑚
+𝑉= [(2.66 × (𝐴𝑤(𝐶𝑢)) + 1.33(𝐴𝑤(𝑃𝑡)]/𝑁
+𝐴
+54.87 × 10−24𝑐𝑚3
+= [(2.66 × (63.54) + (195.1)𝑥1.33]/6.02 × 1023
+54.87 × 10−24
+=  12.97 𝑔/𝑐𝑚3 
+(2 points) 
+(4 points in total) 
+1 point will be given if the density is calculated by not considering the actual alloy composition of 
+Cu2.66Pt1.33 in the given fcc unit cell. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+83 
+ 
+Problem 9 
+12% of the total 
+Question 
+9.1 
+9.2 
+9.3 
+9.4 
+9.5 
+9.6 
+9.7 
+9.8 
+Total 
+Points 
+5 
+5 
+8 
+16 
+5 
+6 
+25 
+30 
+100 
+ 
+Problem 9. Quantification of Heavy Metal Ions 
+ 
+For the quantitative analysis of heavy metal ions in a factory’s wastewater pool, the following 
+steps have been applied by an analyzer at 298 K: 
+Step 1) 10-mL samples of each were obtained from five different regions in a wastewater pool, 
+mixed in a 100-mL beaker, and then stirred for 5 minutes using a magnetic stirrer. 
+Step 2) 10-mL of sample solution was taken from the 100-mL beaker and 142 mg of Na2SO4 
+was added while stirring, followed by transfer to a three-electrode cell as seen in Figure 1a. In 
+this electrochemical cell, Pt wire, Ag/AgCl (3 M KCl), and Pt foil served as the working, 
+reference, and counter electrodes, respectively. 
+Step 3) These electrodes were connected to a potentiostat and a constant potential of –0.50 V 
+vs. Ag/AgCl for 14 minutes was applied as seen in Figure 1b (horizontal line). It is assumed 
+that 14 min. is sufficient to complete the expected electrochemical reactions. 
+(a) 
+(b) 
+ 
+ 
+Figure 1. a) Electrochemical cell design; 1) Working electrode (Pt wire), 2) reference electrode 
+(Ag/AgCl, 3M KCl), 3) counter electrode (Pt foil), 4) cell tap, 5) electrochemical cell, 6) 10-
+mL of sample solution.  b) Potential change of working electrode as a function of time. y-axis: 
+potential/V vs Ag/AgCl, x-axis: time/min. 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+84 
+ 
+Step 4) The electrodes were rinsed with distilled water, placed into another electrochemical cell 
+including 10-mL of 0.1 M H2SO4 solution, and potential was scanned between –0.50 and +0.50 
+V as seen in Figure 1b (downward sloping line in 2 min.). Current vs. potential data for this step 
+are presented in Figure 2a, which is like an excellent view of Mount Ararat (Ağrı Dağı), the 
+highest mountain in Turkey (Figure 2b).  
+ 
+(a) 
+ 
+(b) 
+ 
+ 
+Figure 2. a) Potential scan of the working electrode as a function of current in 0.1 M H2SO4 
+solution after keeping it constant at a potential of –0.50 V in 10-mL of wastewater sample as 
+seen in Figure 1b (horizontal line). y-axis: current/A, x-axis: potential/V vs Ag/AgCl, b) A 
+view of Great and Little Ararat peaks. 
+ 
+Step 5) Another 10-mL of the sample solution prepared in step 1 was taken and the processes 
+explained in steps 2 and 3 were applied in that order. The electrodes were rinsed with distilled 
+water and placed into 10-mL of 0.1 M H2SO4 solution. Then the potential of the working 
+electrode was kept constant at +0.05 V for 14 minutes. It is assumed that 14 min. is sufficient 
+to complete the expected electrochemical reactions. 
+Step 6) After step 5 was performed, the solution in the electrochemical cell was placed in a 
+suitable oven to evaporate at 150 °C until dry solid was obtained.  
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+85 
+ 
+Step 7) 5-mL of ethylenediaminetetraacetic acid (EDTA, H4Y) (Figure 3) solution was added 
+to the solid obtained in step 6 and it was shaken to dissolve. It is known that 1-mL of EDTA 
+solution is equivalent to 3.85 mg/mL BaCO3. Then, pH of the solution was adjusted to 10.0. 
+Excess EDTA was titrated with standard 0.0010 M Ni(NO3)2 solution and it was observed that 
+95.60 mL of Ni(NO3)2 solution was consumed up to the endpoint. 
+ 
+Figure 3. Chemical structure of EDTA (H4Y). 
+ 
+ In water saturated with H2S, equilibrium concentration of [H2S] is 0.1 M.  
+ Ksp(NiS) = 4.0 × 10–20; Ksp(CuS) = 1.0 × 10–36  
+ Ka1(H2S) = 9.6 × 10–8; Ka2(H2S) = 1.3 × 10–14 
+  
+Reaction 
+E˚/V (at 298 K) 
+2𝐻2𝑂(𝑙) + 2𝑒−→𝐻2(𝑔) + 2𝑂𝐻−(𝑎𝑞) 
+−0.83 
+𝑁𝑖2+(𝑎𝑞) + 2𝑒−→𝑁𝑖(𝑠) 
+−0.24 
+2𝐻+(𝑎𝑞) + 2𝑒−→𝐻2(𝑔)      
+   0.00 
+𝐶𝑢2+(𝑎𝑞) + 2𝑒−→𝐶𝑢(𝑠) 
++0.34 
+𝐴𝑔+(𝑎𝑞) + 𝑒−→𝐴𝑔(𝑠) 
++0.80 
+𝑂2(𝑔) + 4𝐻+(𝑎𝑞) + 4𝑒−→2𝐻2𝑂(𝑙) 
++1.23 
+ 
+9.1. Which of the following can be considered for peak 1 and peak 2 in Figure 2a, respectively? 
+Tick the correct box on the answer sheet.  
+ 
+9.2. Which of the statements is expected, if the potential is applied as –1.2 V instead of –0.5 V 
+at the first step (horizontal line) in Figure 1b? Tick the correct box on the answer sheet. 
+ 
+9.3. Calculate the scan rate of data presented in Figure 2a as mV/s at 298 K.  
+ 
+The potential of the following cell is measured as 0.437 V.  
+𝑃𝑡, 𝐻2(0.92 𝑏𝑎𝑟)|𝐻𝐶𝑙(1.50 × 10−2 𝑀), 𝐴𝑔𝐶𝑙(𝑠𝑎𝑡)|𝐴𝑔 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+86 
+ 
+9.4. Calculate the standard electrode potential value (V) of half-cell of 𝐴𝑔𝐶𝑙(𝑠) + 𝑒−→
+𝐴𝑔(𝑠) + 𝐶𝑙−(𝑎𝑞) at 298 K. Note: You must show all works. 
+ 
+9.5. Which of the statements is the main purpose of step 5 in this analysis? Tick the correct box 
+on the answer sheet. 
+ 
+9.6. Write net ionic equations for the complexation and the back titration reaction of step 7 on 
+the answer sheet 
+ 
+9.7. Calculate Ni2+ concentration as mg/L in the wastewater of the factory. Note: You must 
+show all works. 
+9.8. Calculate the minimum pH value for starting the precipitation of Ni2+ ions in the solution 
+obtained in step 5 by passing H2S gas into the solution until saturation. If you cannot solve 
+question 9.7, use 20 mg/L Ni2+ sample for this question. Note: You must show all works. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+87 
+ 
+Solution: 
+ 
+9.1. Which of the following can be considered for peak 1 and peak 2 in Figure 2a, respectively? 
+Tick the correct box on the answer sheet.  
+☐ Peak 1: electrochemical reduction of Ni / Peak 2: electrochemical reduction of Cu 
+☐ Peak 1: electrochemical reduction of Cu / Peak 2: electrochemical reduction of Ni 
+☐ Peak 1: electrochemical reduction of Ni / Peak 2: electrochemical oxidation of Cu 
+☒ Peak 1: electrochemical oxidation of Ni / Peak 2: electrochemical oxidation of Cu 
+☐ Peak 1: electrochemical oxidation of Cu / Peak 2: electrochemical oxidation of Ni 
+5 points for correct answer. 
+ 
+9.2. Which of the statement is expected, if the potential is applied as –1.2 V instead of -0.5 V at 
+the first step (horizontal line) in Figure 1b? Tick the correct box on the answer sheet. 
+☐ NO evolution 
+☐ NO2 evolution 
+☐ Nitrogen evolution 
+☐ Oxygen evolution 
+☒ Hydrogen evolution 
+5 points for correct answer. 
+ 
+9.3. Calculate the scan rate of data presented in Figure 2a as mV/s.  
+Calculation:  
+We can calculate the scan rate using the slope of Figure 1b (downward sloping line) 
+ 
+Scan rate = 1000 mV/120 s = 8.33 mV/s 
+8 points. 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+88 
+ 
+9.4. Calculate the standard electrode potential value of half-cell of 𝐴𝑔𝐶𝑙(𝑠) + 𝑒−→𝐴𝑔(𝑠) +
+𝐶𝑙−(𝑎𝑞). Note: You must show all works. 
+Calculation:  
+𝐸𝑐𝑒𝑙𝑙= 𝐸𝑟𝑖𝑔ℎ𝑡−𝐸𝑙𝑒𝑓𝑡 (3 point) 
+𝐻𝑎𝑙𝑓−𝑟𝑒𝑎𝑐𝑡𝑖𝑜𝑛𝑠; 
+𝐴𝑔𝐶𝑙(𝑠) + 𝑒−→𝐴𝑔(𝑠) + 𝐶𝑙−(aq) 
+2𝐻+(𝑎𝑞) + 2𝑒−→𝐻2(𝑔) 
+𝐸𝑐𝑒𝑙𝑙= (𝐸𝐴𝑔𝐶𝑙/𝐴𝑔
+𝑜
+−0.0592 log[𝐶𝑙−]) −(𝐸𝐻+/𝐻2
+𝑜
+−
+0.0592
+2
+𝑙𝑜𝑔
+𝑃𝐻2
+[𝐻+]2) (7 points) 
+ 
+0.437 = (𝐸𝐴𝑔𝐶𝑙/𝐴𝑔
+𝑜
+−0.0592 log 1.5 × 10−2) −(0.00 −
+0.0592
+2
+𝑙𝑜𝑔
+0.92
+(1.5×10−2)2) (4 points) 
+ 
+𝐸𝐴𝑔𝐶𝑙/𝐴𝑔
+𝑜
+=0.22 V (2 point) 
+ 
+–2 points for each calculation error. 
+–2 points for each wrong unit. 
+ 
+9.5. Which of the statements is the main purpose of step 5 in this analysis? Tick the correct box 
+on the answer sheet. 
+☐ Modification of Pt wire with Ni–Cu alloy film 
+☐ Modification of Pt wire with Ni film 
+☐ Electrochemical stripping of both Cu and Ni from Cu–Ni-modified Pt wire to the solution 
+☐ Electrochemical stripping of Cu from Cu–Ni-modified Pt wire to the solution  
+☒ Electrochemical stripping of Ni from Cu–Ni-modified Pt wire to the solution  
+5 points for correct answer. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+89 
+ 
+9.6. Write net ionic equations for the complexation and the back titration reaction of step 7 in 
+your answer sheet.  
+Complexation: 𝑁𝑖2+(𝑎𝑞) + 𝑌4−(𝑎𝑞) →𝑁𝑖𝑌2−(𝑎𝑞) or  
+                         𝑁𝑖2+(𝑎𝑞) + 𝐻𝑌3−(𝑎𝑞) →𝑁𝑖𝐻𝑌−(𝑎𝑞) 
+Back titration: 𝑁𝑖2+(𝑎𝑞) + 𝑌4−(𝑎𝑞) →𝑁𝑖𝑌2−(𝑎𝑞) or 
+                        𝑁𝑖2+(𝑎𝑞) + 𝐻𝑌3−(𝑎𝑞) →𝑁𝑖𝐻𝑌−(𝑎𝑞) 
+3 points for each correct answer. 
+ 
+9.7. Calculate Ni2+ concentration as mg/L in the wastewater of the factory. Note: You must 
+show all works. 
+Calculation:  
+5 pieces of 10-mL samples were collected and the total sample volume is 50-mL. 10-mL of 
+the part was taken from this 50-mL sample. (2 point) 
+ 
+EDTA titration; 3.85 mg BaCO3/mL EDTA 
+𝐵𝑎2+(𝑎𝑞) + 𝑌4−(𝑎𝑞) →𝐵𝑎𝑌2−(𝑎𝑞) 
+ 
+[𝐸𝐷𝑇𝐴] =
+3.85 𝑚𝑔 𝐵𝑎𝐶𝑂3
+197 𝑚𝑔 𝐵𝑎𝐶𝑂3
+1 𝑚𝑚𝑜𝑙 𝐵𝑎𝐶𝑂3 
+× 1 𝑚𝑚𝑜𝑙 𝐸𝐷𝑇𝐴
+1 𝑚𝑚𝑜𝑙 𝐵𝑎𝐶𝑂3
+1 𝑚𝐿 𝐸𝐷𝑇𝐴
+= 0.01954 𝑀 𝐸𝐷𝑇𝐴 (8 points) 
+ 
+𝑁𝑖+2(𝑎𝑞) + 𝑌−4(𝑎𝑞) →𝑁𝑖𝑌−2(𝑎𝑞) 
+𝑚𝑚𝑜𝑙𝑁𝑖+2 = [(
+0.01954 𝑚𝑚𝑜𝑙 𝐸𝐷𝑇𝐴
+1 𝑚𝐿 𝐸𝐷𝑇𝐴
+× 5.00 𝑚𝐿 𝐸𝐷𝑇𝐴) −(
+0.0010 𝑚𝑚𝑜𝑙 𝑁𝑖2+
+1 𝑚𝐿 𝑁𝑖2+
+×
+95.60 𝑚𝐿 𝑁𝑖2+ ×
+1 𝑚𝑚𝑜𝑙 𝐸𝐷𝑇𝐴
+1 𝑚𝑚𝑜𝑙 𝑁𝑖2+  )] ×
+1 𝑚𝑚𝑜𝑙 𝑁𝑖2+
+1 𝑚𝑚𝑜𝑙 𝐸𝐷𝑇𝐴= 0.0021 𝑚𝑚𝑜𝑙 𝑁𝑖2+  (12 points) 
+ 
+𝐶𝑁𝑖2+ =
+(0.0021 𝑚𝑚𝑜𝑙 𝑁𝑖2+×58.7 𝑚𝑔 𝑁𝑖2+
+1 𝑚𝑚𝑜𝑙 𝑁𝑖2+)×50 𝑚𝐿
+10 𝑚𝐿
+0.05 𝐿 𝑠𝑎𝑚𝑝𝑙𝑒
+= 12.33 𝑚𝑔/𝐿 (3 points) 
+–3 points for each calculation error.  
+–3 points for each wrong unit.  
+–3 points for each wrong conversion factor. 
+ 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+90 
+ 
+9.8. Calculate the minimum pH value for starting the precipitation of Ni2+ ions in the solution 
+obtained in step 5 by passing H2S gas into the solution until saturation. If you cannot solve 
+question 9.7, use 20 mg/L Ni2+ sample for this question. Note: You must show all works. 
+ 
+Calculation:  
+ 
+[𝑁𝑖2+] =
+0.0021 𝑚𝑚𝑜𝑙 𝑁𝑖2+
+10 𝑚𝐿 𝑠𝑎𝑚𝑝𝑙𝑒
+= 2.1 × 10−4𝑀 or [𝑁𝑖2+] =
+0.01233 𝑔 𝑁𝑖2+
+58.7 𝑔/𝑚𝑜𝑙
+1 𝐿 𝑠𝑎𝑚𝑝𝑙𝑒= 2.1 × 10−4𝑀  
+(6 points) 
+ 
+𝑁𝑖𝑆⇄𝑁𝑖2+(𝑎𝑞) + 𝑆2−(𝑎𝑞) 
+4.0 × 10−20 = 2.1 × 10−4 × [𝑆2−] 
+[𝑆2−] = 1.905 × 10−16 𝑀 (6 points) 
+ 
+𝐻2𝑆+ 𝐻2𝑂⇄𝐻𝑆−+ 𝐻3𝑂+  𝐾𝑎1 = 9.6 × 10−8 =
+[𝐻𝑆−][𝐻3𝑂+]
+[𝐻2𝑆]
+ (1 point) 
+ 
+𝐻𝑆−+ 𝐻2𝑂⇄𝑆2−+ 𝐻3𝑂+  𝐾𝑎2 = 1.3 × 10−14 =
+[𝑆2−][𝐻3𝑂+]
+[𝐻𝑆−]
+ (1 point) 
+ 
+0.1=[𝐻2𝑆] + [𝐻𝑆−] + [𝑆2−] (1 points) 
+ 
+[𝐻2𝑆] ≫[𝐻𝑆−] + [𝑆−2] and [𝐻2𝑆] = 0.1 𝑀 (1 points) 
+ 
+𝐾𝑎1 × 𝐾𝑎2 = 1.25 × 10−21 =
+[𝑆2−][𝐻3𝑂+]2
+[𝐻2𝑆]
+ (7 points) 
+ 
+1.25 × 10−21 =
+1.905×10−16[𝐻3𝑂+]2
+0.1
+ (4 points) 
+ 
+[𝐻3𝑂+] = 8.1 × 10−4 𝑀  
+𝑝𝐻= 3.09 (3 points) 
+ 
+If Ni2+ concentration is taken 20 mg/L, the result is pH = 2.99 
+ 
+–3 points for each calculation error.  
+–3 points for each wrong unit.  
+–3 points for each wrong conversion factor. 
+ 
+ 
+ 
+
+52nd International Chemistry Olympiad, Istanbul, TURKEY  
+                          Problems & Solutions 
+ 
+ 
+ 
+91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The End 

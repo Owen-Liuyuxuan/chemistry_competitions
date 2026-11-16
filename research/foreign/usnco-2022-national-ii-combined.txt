@@ -1,0 +1,1681 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+ 
+2022 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART II 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Jesse Bernstein, Miami Country Day School, Miami, FL (retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+Joshua de Groot, College of Southern Idaho, Twin Falls, ID 
+James Dohm, ExxonMobil, Houston, TX 
+Xu Duan, Holton-Arms School, Bethesda, MD 
+ 
+Valerie Ferguson, Moore HS, Moore, OK (retired) 
+Kimberly Gardner, United States Air Force Academy, CO 
+Paul Groves, South Pasadena HS, South Pasadena, CA (retired) 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Sarah Leite, Hopkins School, New Haven CT 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los Angeles, CA 
+Jane Nagurney, Scranton Preparatory School, Scranton, PA (retired) 
+DIRECTIONS TO THE EXAMINER 
+All testing materials including scratch paper should be turned in and kept secure until May 14, 2022, after which tests can be returned 
+to students and their teachers for further study. 
+When the student has completed Part II, or after one hour and forty-five minutes have elapsed, the student must turn in the Part II 
+testing materials, and all scratch paper. Be sure that the student has supplied all of the information requested and that the same 
+identification number used for Part I has been used again for Part II. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page two for student reference. 
+ 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, or any 
+other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+ 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO.  
+Part II requires complete responses to questions involving problem-solving and explanations. One hour and forty-five minutes are 
+allowed to complete this part. Be sure to print your name, the name of your school, and your identification number in the spaces provided. 
+(Be sure to use the same identification number you used for Part I.). Use separate sheets for scratch paper and do not attach your scratch 
+paper to this examination. When you complete Part II (or at the end of one hour and forty-five minutes) you must turn in all testing 
+materials and scratch paper. 
+ 
+Do not forget to turn in your U.S. citizenship/Green Card Holder statement before leaving the testing site today.  
+ 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022 × 1023 mol–1 
+h = 6.626 × 10–34 J s 
+c = 2.998 × 108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−∆
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 3 
+Question 1  (page 1 of 1) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+1. [11%] Compound A contains only carbon, fluorine, and chlorine. 
+a. 
+The vapor density of A at 1.00 bar and 25.0 °C is 6.895 g L-1.  What is the molar mass of A? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Chlorofluorocarbons such as A react with sodium metal to convert all the chlorine present into sodium chloride.  
+The products from the reaction of sodium with 100.0 mL of gaseous A (at 1.00 bar and 25.0 °C) are dissolved 
+in water and a few drops of sodium chromate solution are added.  This solution is then titrated with 0.3540 M 
+AgNO3 solution until a bright red precipitate appears, which requires 22.79 mL of the titrant.  How many 
+chlorine atoms are there in a molecule of A? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+What is the molecular formula of A?  Justify your answer. 
+ 
+ 
+ 
+ 
+ 
+ 
+d. There is only one known isomer of A, compound B.  The two compounds have nearly identical boiling points, 
+but can be distinguished by 19F NMR spectroscopy, a technique that is sensitive to small differences in the 
+chemical environments of fluorine atoms in compounds.  When analyzed by this method, compound A exhibits 
+only a single type of chemical environment for fluorine, while compound B shows two distinct environments 
+for its fluorine atoms.  Draw structural formulas for compounds A and B that are consistent with these 
+observations. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 4  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 2 (page 1 of 2) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+2. [13%] A chemist prepares an ammonia/ammonium chloride buffer from solid ammonium chloride, 0.80 M NH3, and 
+distilled water. 
+a. 
+What is the pH of the 0.80 M NH3 solution?  (The Ka of NH4+ is 5.6 × 10-10.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. What mole ratio of ammonia to ammonium chloride is required for the buffer to have pH = 9.20? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Calculate the volume of ammonia solution and mass of ammonium chloride needed to make up 500 mL of the 
+pH = 9.20 buffer with a total concentration of nitrogen-containing species (NH3 or NH4+) of 0.50 mol L-1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 5 
+Question 2 (page 2 of 2) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+d. To the solution described in (c) is added 10.0 mL of 0.10 M AgNO3. 
+i. Some AgCl precipitates from this mixture.  Justify that this is the case.  The Ksp of AgCl is 1.8 × 10-10 
+and the Kf of Ag(NH3)2+ is 1.6 × 107. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii. What is the final concentration of free Ag+ in solution after this mixture achieves equilibrium? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii. What is the mass of AgCl that precipitates from solution? 
+ 
+ 
+ 
+
+ 
+Page 6  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 3 (page 1 of 2) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+3. [14%] Gaseous molecular and atomic bromine have the following thermodynamic properties: 
+Species 
+ΔH°f (kJ mol-1) 
+S° (J mol-1 K-1) 
+Br2(g) 
+30.9 
+245.4 
+Br(g) 
+111.9 
+175.0 
+ 
+a. 
+What is the bond dissociation enthalpy (BDE) of the bromine-bromine bond in Br2(g)? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. How many atoms of Br(g) will be present at equilibrium in a 1.00-L container with 0.100 bar of Br2(g) at 298 
+K? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+The ionization energy of Br(g) is 1145.9 kJ mol-1, while the ionization energy of Br2(g) is 1025.1 kJ mol-1.  
+What is the bond dissociation enthalpy of Br2+(g) (defined as the enthalpy of reaction of Br2+(g) to form Br+(g) 
+and Br(g))? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 7 
+Question 3 (page 2 of 2) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+d. Propose an explanation for the difference in BDE between Br2(g) and Br2+(g) in terms of the bonding in these 
+two species. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+The vapor pressure of liquid bromine at 298 K is 0.283 bar.  What is the absolute entropy S° of Br2(l)? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+The absolute entropies of the gas-phase atoms of the fourth period given in the table exhibit a non-monotonic 
+pattern.  Explain why the absolute entropies of Se(g) and Br(g) are larger than the absolute entropies of either 
+As(g) or Kr(g). 
+ 
+As(g) 
+Se(g) 
+Br(g) 
+Kr(g) 
+S°, J mol-1 K-1 
+163.2 
+176.7 
+175.0 
+164.1 
+ 
+ 
+ 
+
+ 
+Page 8  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 4 (page 1 of 3) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+4. [14%] Iodide ion reacts with hydrogen peroxide in acidic solution according to the following equation: 
+2 I–(aq) + H2O2(aq) + 2 H+(aq) → I2(aq) + 2 H2O(l) 
+(4) 
+The reaction is carried out at 18.8 °C in the presence of a mixture of CH3COOH and NaOH to regulate the pH, sodium 
+thiosulfate (which reacts very rapidly with I2 to form tetrathionate ions), and starch.  All the components except the 
+hydrogen peroxide are premixed, and then the hydrogen peroxide solution is added and a stopwatch is started.  The 
+solution remains colorless until it suddenly turns blue, at which point the time t is recorded.  The following data are 
+obtained: 
+Run 
+1.0 M 
+CH3COOH, 
+mL 
+1.0 M NaOH, 
+mL 
+0.20 M 
+KI, mL 
+0.20 M 
+H2O2, mL 
+0.020 M 
+Na2S2O3, 
+mL 
+Distilled 
+H2O, mL 
+t, s 
+A 
+2.0 
+1.0 
+2.0 
+2.0 
+1.0 
+2.0 
+68.2 
+B 
+4.0 
+1.0 
+2.0 
+2.0 
+1.0 
+0.0 
+68.9 
+C 
+2.0 
+1.0 
+4.0 
+2.0 
+1.0 
+0.0 
+33.2 
+D 
+2.0 
+1.0 
+2.0 
+4.0 
+1.0 
+0.0 
+32.9 
+ 
+a. 
+Give a qualitative explanation for why the solution suddenly turns blue after a certain amount of time has 
+elapsed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Calculate the initial [H+] in runs A and B and explain why [H+] will not change significantly over the course of 
+the respective reactions.  (The Ka of CH3COOH is 1.8 × 10-5.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 9 
+Question 4 (page 2 of 3) 
+USNCO ID Number: 
+c.
+The rate law for reaction (4) has the form Rate = k4[I–]m[H2O2]n[H+]p, where m, n, and p are integers.  What are
+the values of m, n, and p under these experimental conditions?  Briefly explain your reasoning.
+d.
+What is the value of the rate constant k4 for this reaction?
+e.
+The following mechanism for reaction (4) has been proposed:
+H2O2(aq) + H+(aq) ⇄  H3O2+(aq) 
+(fast, unfavorable) 
+H3O2+(aq) + I–(aq) → HOI(aq) + H2O(l) 
+(slow) 
+HOI(aq) + H+(aq) ⇄ H2OI+(aq) 
+(fast, unfavorable) 
+H2OI+(aq) + I–(aq) → I2(aq) + H2O(l) 
+(fast) 
+Is this mechanism consistent with the given data?  Justify your answer. 
+
+ 
+Page 10  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 4 (page 3 of 3) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+f. 
+The experiments are repeated under the same conditions as Runs A and B above, except that phosphoric acid 
+(H3PO4, Ka = 7.6 × 10-3) is substituted for acetic acid.  The observed times for the solutions to turn blue with 
+this substitution are 46.7 s and 31.5 s, respectively.  Propose an interpretation for these observations. 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 11 
+Question 5 (page 1 of 1) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+     
+ 
+ 
+ 
+5. [12%] Write net equations for each of the reactions below.  Use appropriate ionic and molecular formulas and omit 
+formulas for all ions or molecules that do not take part in a reaction.  Write structural formulas for all organic substances.  
+You need not balance the equations. 
+a. 
+Diiodine pentoxide is added to a barium hydroxide solution. 
+ 
+ 
+ 
+ 
+b. Sulfur dioxide is bubbled through an acidified solution of potassium permanganate. 
+ 
+ 
+ 
+ 
+c. 
+Iron(III) oxide is heated with carbon monoxide gas at 1200 °C. 
+ 
+ 
+ 
+ 
+d. Aqueous hydrobromic acid is electrolyzed at platinum electrodes. 
+ 
+ 
+ 
+ 
+e. 
+1-Butanol reacts with an acidified solution of potassium dichromate. 
+ 
+ 
+ 
+ 
+f. 
+Oganesson-294 undergoes alpha decay. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 12  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 6 (page 1 of 2) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+     
+ 
+ 
+ 
+6. [12%] A galvanic cell is constructed at 298 K with one half-cell consisting of a 10.00 g silver wire immersed in 1.00 L of 
+a 0.100 M solution of silver nitrate and the second half-cell consisting of a 20.00 g copper plate immersed in 1.00 L of a 
+0.200 M solution of copper(II) sulfate. 
+Half-reaction 
+E°, V 
+Ag+(aq) + e– → Ag(s) 
+0.800 
+Cu2+(aq) + 2e– → Cu(s) 
+0.337 
+ 
+a. 
+What voltage is measured for this galvanic cell? 
+ 
+ 
+ 
+ 
+ 
+b. The cell is discharged at a constant current of 0.150 A until the mass of the silver electrode is equal to the mass 
+of the copper electrode.  How much time does this take? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+A chemist wishes to add sodium oxalate to one of the half-cells in the original cell to decrease the measured 
+voltage.  To which cell should the sodium oxalate be added, and why? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 13 
+Question 6 (page 2 of 2) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+     
+ 
+ 
+ 
+d. What mass of sodium oxalate would need to be added to the appropriate half-cell to cause the voltage in the 
+original cell to become 0.200 V?  You may assume that there is no change in the volume of the solution.  The 
+Ksp of Ag2C2O4 is 3.5 × 10-11 and the Ksp of CuC2O4 is 3.0 × 10-8. 
+ 
+ 
+ 
+
+ 
+Page 14  
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 7 (page 1 of 1) 
+ 
+ 
+ 
+ 
+USNCO ID Number: 
+     
+ 
+ 
+ 
+7. [12%] Formamide and glyoxal are six-atom molecules with essentially planar structures as depicted below (these are 
+NOT Lewis structures). 
+ 
+a. 
+Draw complete Lewis structures for these two molecules, including all bonds, lone pairs, and nonzero formal 
+charges. 
+ 
+ 
+ 
+ 
+ 
+ 
+b. One of these compounds has a normal boiling point of 51 °C, while the other has a normal boiling point of 210 
+°C.  Assign which compound has which boiling point, and propose an explanation for the large difference. 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+The H–N–H bond angle in formamide (122°) is much larger than the H–N–H angle in ammonia (107°).  
+Explain this difference. 
+ 
+ 
+ 
+ 
+ 
+d. Rotation of the central bond in the two molecules (the C-N bond in formamide or the C-C bond in glyoxal) 
+occurs at very different rates, with the barrier to rotation in formamide being much larger (74 kJ mol-1 vs. 25 kJ 
+mol-1).  Explain why rotation is much more difficult in formamide than in glyoxal. 
+ 
+ 
+ 
+
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Page 15 
+Question 8 (page 1 of 2) 
+USNCO ID Number: 
+8.
+[12%] Consider the following isomers with the formula C3H6O2.
+a.
+Rank the three compounds in order of increasing normal boiling point, and justify your ordering.
+b.
+Compounds A–C are all optically inactive.  Draw the structure of an optically active isomer of C3H6O2.
+c.
+Compounds A and B react reversibly with water in the presence of a suitable catalyst as shown below:
+Which reaction has the larger equilibrium constant?  Explain your answer in terms of the structure or bonding of 
+the species in the reactions. 
+
+Page 16 
+Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022 
+Question 8 (page 2 of 2) 
+USNCO ID Number: 
+d.
+Compound C reacts with water in the presence of a strong acid to form two new organic compounds.  Write a
+balanced equation for this reaction, including structural formulas for the two organic products.
+e.
+In the presence of excess strong base, compound C reacts with water irreversibly.  Explain why this reaction is
+irreversible while the reaction in the presence of acid is reversible.
+
+2022 USNCO Part 2 Solutions 
+ 
+1 
+1. a. 
+PV = nRT, so n = PV/RT.  1.000 L of gas will have  
+n = (1.000 bar)(1.000 L)/(298.15 K)(0.08314 L bar mol-1 K-1) 
+n = 0.04034 mol 
+molar mass = (6.895 g L-1)/(0.04034 mol L-1) = 170.9 g mol-1 
+ 
+ 
+b. 
+0.02279 L titrant × 0.3540 mol L-1 = 8.068 × 10-3 mol chloride 
+ 
+100.0 mL gas has n = (1.000 bar)(0.1000 L)/(298.15 K)(0.08314 L bar mol-1 K-1) 
+ 
+ 
+ 
+= 4.034 × 10-3 mol A 
+ 
+(8.068 × 10-3 mol chloride)/(4.034 × 10-3 mol A) = 2.000 mol Cl/mol A 
+ 
+c. 
+Since the molar mass of A is 170.9 and there are 2 mol Cl per mol A, the carbons and 
+fluorines in A must have a combined mass of 170.9 – 2(35.45) = 100.0 amu.  If A has 
+only one carbon, it must have (100.0 – 12.01)/19.00 = 4.63 F atoms, which is impossible 
+(it must have an integer number of each type of atom per formula unit, plus over six 
+halogens per carbon atom is not chemically reasonable).  Two carbons in A would imply 
+(100.0 – 2×12.01)/19.00 = 4.00 atoms of F, which is possible.  Each additional carbon in 
+the formula would result in 0.63 fewer F atoms, which will not be especially close to an 
+integer from 3-7 carbon atoms, at which point there would need to be fewer than one F 
+atom.  Thus the only possibility is C2F4Cl2. 
+ 
+d.
+   
+ 
+ 
+ 
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+2 
+2. a. 
+The major reaction is: 
+ 
+NH3(aq) + H2O(l) 
+ NH4+(aq) + OH–(aq)     Keq = (Kw/Ka of NH4+)  
+Keq = (1 × 10-14)/(5.6 × 10-10) 
+Keq = 1.8 × 10-5 
+ 
+Since this is the major reaction, [NH4+] ≈ [OH–], and since it is not very favorable, 
+[NH3] ≈ 0.80 M. 
+[NH4
++][OH−]
+[NH3]
+  =  
+[OH−]2
+[0.80]   = 1.8 × 10-5 
+[OH–]2 = 1.44 × 10-5 
+[OH–] = 3.8 × 10-3 M 
+pH = 14 + log[OH–] = 11.60 
+ 
+b. 
+pH = pKa of NH4+ + log([NH3]/[NH4+]) 
+ 
+9.20 = 9.25 + log([NH3]/[NH4+]) 
+ 
+log([NH3]/[NH4+]) = –0.05 
+ 
+[NH3]/[NH4+] = 0.89 
+ 
+ 
+c. 
+There are two constraints on the number of moles of NH3 and of NH4+.  From the fact 
+that the total concentration of nitrogen species is 0.500 M in 0.500 L, 
+(mol NH3) + (mol NH4+) = 0.250 mol 
+ 
+From the calculation in (b),  
+(mol NH3) = 0.89(mol NH4+) 
+ 
+Solving the two simultaneous equations gives: 
+0.89(mol NH4+) + (mol NH4+) = 0.250 mol 
+(mol NH4+) = 0.132 mol 
+0.132 mol NH4+ × (53.49 g NH4Cl/mol) = 7.06 g NH4Cl 
+ 
+(mol NH3) = 0.89(mol NH4+) = 0.89(0.132 mol) = 0.117 mol NH3 
+0.117 mol NH3/(0.80 M NH3) = 0.147 L of the 0.80 M NH3 solution 
+ 
+d. i. 
+mol Ag+ = (0.0100 L)×(0.10 mol/L) = 0.0010 mol Ag+.  Since the amounts of both 
+chloride and ammonia are over 100 times this amount, we can neglect the changes of 
+these latter two species as AgCl(s) and Ag(NH3)2+ form.  So [Cl–] = 0.132 mol/(0.510 L) 
+= 0.259 M and [NH3] = 0.117 mol/(0.510 L) = 0.229 M. 
+ 
+ 
+There are a number of ways to approach the analysis of whether a precipitate 
+forms.  Let us assume that no precipitate forms, so all of the Ag+ (initial concentration = 
+0.0010 mol/0.51 L = 1.96 × 10-3 M) remains in solution.  Of course, much of it will be in 
+the form of the complex ion: 
+[Ag(NH3)2
++]
+[Ag+][NH3]2 = 
+[Ag(NH3)2
++]
+[Ag+][0.229]2 = Kf = 1.6 × 107 
+[Ag(NH3)2
++]
+[Ag+]
+ = 8.4 × 105 
+ 
+ 
+This means that almost all the silver ion in solution is in the form of the complex 
+ion, so [Ag+] = [Ag(NH3)2+]/(8.4 × 105) = (1.96 × 10-3)/(8.4 × 105) = 2.3 × 10-9 M. 
+
+2022 USNCO Part 2 Solutions 
+ 
+3 
+ 
+Qsp = [Ag+][Cl–] = [2.3 × 10-9][0.259] = 6.0 × 10-10 > Ksp.  This means that there will be a 
+precipitate of AgCl. 
+ 
+ii. 
+Since there is a precipitate, [Ag+][Cl–] = Ksp 
+[Ag+][0.259] = 1.8 × 10-10 
+[Ag+] = 6.95 × 10-10 M 
+ 
+iii. From the complexation equilibrium,  
+[Ag(NH3)2
++]
+[Ag+][NH3]2 = 
+[Ag(NH3)2
++]
+[6.95×10−10][0.229]2 = Kf = 1.6 × 107 
+[Ag(NH3)2+] = 5.8 × 10-4 M 
+ 
+This accounts for (5.8 × 10-4 mol/L)×(0.510 L) = 3.0 × 10-4 mol of silver.  The amount of 
+free Ag+ is negligible, so the amount of silver that must have precipitated as AgCl is 
+(1.00 × 10-3 mol total Ag) – (3.0 × 10-4 mol complexed Ag) = 7.0 × 10-4 mol AgCl.   
+(7.0 × 10-4 mol AgCl)×(143.4 g mol-1) = 0.100 g AgCl 
+ 
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+4 
+3. a.  
+ 
+Br2(g) → 2 Br(g) 
+∆H°rxn = BDE of Br–Br bond 
+∆H°rxn = 2(111.9 kJ mol-1) – 30.9 kJ mol-1 = 192.9 kJ mol-1 
+ 
+b. 
+For Br2(g) → 2 Br(g), ∆S° = 2(175.0 J mol-1 K-1) – 245.4 J mol-1 K-1 = 104.6 J mol-1 K-1 
+∆G° = ∆H° – T∆S° = (192.9 kJ mol-1) – (298 K)(0.1046 kJ mol-1 K-1) = 161.7 kJ mol-1 
+∆G° = –RTln(Keq) 
+161700 J mol-1 = –(8.314 J mol-1 K-1)(298 K)ln(Keq) 
+Keq = 4.5 × 10-29 
+ 
+At equilibrium: 
+𝑝𝑝Br2
+𝑝𝑝Br2
+ = 
+𝑝𝑝Br2
+0.100 = 4.5 × 10-29 
+pBr = 2.1 × 10-15 bar 
+ 
+In a 1.00 L container, PV = nRT: 
+(2.1 × 10-15 bar)(1.00 L) = n(0.08314 L bar mol-1 K-1)(298 K) 
+n = 8.6 × 10-17 mol 
+(8.6 × 10-17 mol)×(6.022 × 1023 mol-1) = 5.2 × 107 Br atoms 
+ 
+c. 
+Using Hess’s Law (all species are gas-phase): 
+ 
+ 
+Br2 → 2 Br 
+∆H° = 192.9 kJ mol-1 
+ 
+ 
+Br → Br+ + e– 
+∆H° = 1145.9 kJ mol-1 
+ 
+ 
+Br2+ + e– → Br2 
+∆H° = –1025.1 kJ mol-1 
+ 
+ 
+Br2+ → Br + Br+ 
+∆H° = BDE = 313.7 kJ mol-1 
+ 
+ 
+d. 
+The electron that is removed from Br2 is π* in character, so the bond order of Br2+ is 1.5 
+compared to 1.0 for Br2.  The higher bond order results in a greater bond strength. 
+ 
+e. 
+∆G°vap, 298K = –RTln(Keq) = –(8.314 J mol-1 K-1)(298 K)ln(0.283) = 3.13 kJ mol-1 
+∆G°vap, 298K = ∆H°vap – T∆S°vap 
+3.13 kJ mol-1 = 30.9 kJ mol-1 – (298 K)(∆S°vap) 
+∆S°vap = 93.2 J mol-1 K-1 
+∆S°vap = (S° of Br2(g)) – (S° of Br2(l)) 
+93.2 J mol-1 K-1 = 245.4 J mol-1 K-1 – (S° of Br2(l)) 
+S° of Br2(l) = 152.2 J mol-1 K-1 
+ 
+f. 
+As and Kr have only one way of arranging their valence electrons (for As, each valence p 
+orbital is half-filled, while Kr has each valence p orbital completely filled).  In contrast, 
+Se and Br have orbitally degenerate ground states, which gives them more ways of 
+arranging their electrons.  This increase in the number of possible arrangements 
+corresponds to a higher entropy (S = kBlnΩ). 
+ 
+ 
+ 
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+5 
+4. a. 
+I2 is produced in the reaction between H2O2 and I–.  Initially, the I2 does not accumulate 
+to a significant extent because it immediately reacts with the thiosulfate ion.  Once the 
+small amount of thiosulfate is consumed, then I2 begins to accumulate, and the solution 
+turns blue because of the intensely blue complex formed between starch and iodine. 
+ 
+b. 
+The NaOH will immediately react with the CH3COOH to form CH3COO–.  Taking into 
+account the 10-fold dilution, this means that in run A, [CH3COOH] = [CH3COO–] = 0.1 
+M.  Since  
+Ka = 1.8 × 10-5 = 
+[H+][CH3COO-]
+[CH3COOH]  
+[H+] = 1.8 × 10-5 M 
+ 
+In run B, with [CH3COOH] = 0.3 M and [CH3COO–] = 0.1 M, [H+] = 5.4 × 10-5 M. 
+ 
+ 
+These solutions are buffers, with the H+ consumed in reaction 4 being replenished by the 
+CH3COOH.  Thus, at the point where the initially 0.0020 M S2O32- is consumed, the 
+concentration of CH3COOH will fall to 0.098 M while [CH3COO–] rises to 0.102 M, and 
+[H+] = 1.73 × 10-5 M, a change of only 4%. 
+ 
+ 
+c. 
+In each case, [S2O32-]0 = 0.0020 M, so at the point where the blue color appears, ∆[H2O2] 
+= –0.0010 M (since two moles of thiosulfate react per mole of I2 produced).  Since rate = 
+–∆[H2O2]/∆t, the time recorded is inversely proportional to the initial rate of the reaction.   
+ 
+ 
+Comparing run B to run A, [H+] increases by a factor of 3 while all other 
+concentrations are the same.  The rate is essentially unchanged, so p = 0. 
+ 
+ 
+Comparing run C to run A, [I–] increases by a factor of 2 while all other 
+concentrations are the same.  The rate roughly doubles, so m = 1. 
+ 
+ 
+Comparing run D to run A, [H2O2] increases by a factor of 2 while all other 
+concentrations are the same.  The rate roughly doubles, so n = 1. 
+Rate = k4[I–][H2O2] 
+d. 
+k4 = (–∆[H2O2]/∆t)/([I–][H2O2]).  So:   
+ 
+ 
+Run A, k4 = (0.0010 M/68.2 s)/([0.040 M][0.040 M]) = 9.1 × 10-3 M-1 s-1 
+ 
+ 
+Run B, k4 = (0.0010 M/68.9 s)/([0.040 M][0.040 M]) = 9.2 × 10-3 M-1 s-1 
+ 
+ 
+Run C, k4 = (0.0010 M/33.2 s)/([0.080 M][0.040 M]) = 9.4 × 10-3 M-1 s-1 
+ 
+ 
+Run D, k4 = (0.0010 M/32.9 s)/([0.040 M][0.080 M]) = 9.5 × 10-3 M-1 s-1 
+ 
+ 
+Average = 9.3 × 10-3 M-1 s-1 
+e. 
+This mechanism predicts Rate = k2[I–][H3O2+] = k2K1[I–][H2O2][H+].  This is inconsistent 
+with the observed data under these conditions, since it predicts first-order dependence on 
+[H+] while a zero-order dependence is actually observed. 
+ 
+f. 
+H3PO4 is a much stronger acid than CH3COOH, with [H+] = 7.6 × 10-3 M and 2.3 × 10-2 
+M in the two new reactions.  Even though there was no effect on the rate of reaction in 
+the reactions run with acetic acid, now increasing [H+] increases the rate!  This indicates 
+that there is an acid-catalyzed pathway for the reaction (perhaps by the mechanism 
+proposed in (e)) that has become significant at the lower pH of the reactions run in the 
+presence of phosphoric acid.   
+ 
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+6 
+5. a. 
+Ba2+(aq) + OH–(aq) + I2O5(s) → Ba(IO3)2(s) + H2O(l) 
+b. 
+MnO4–(aq) + SO2(g) + H2O(l) → Mn2+(aq) + SO42–(aq) + H+(aq) 
+     or MnO4–(aq) + SO2(g) + H2O(l)  + H+(aq) → Mn2+(aq) + HSO4–(aq) 
+c. 
+Fe2O3(s) + CO(g) → Fe(s) + CO2(g) 
+d. 
+H+(aq) + Br–(aq) → H2(g) + Br2(l) 
+e. 
+  +  Cr2O72-(aq) + H+(aq) → 
+ + Cr3+(aq) + H2O(l) 
+f. 
+294Og  →  290Lv + 4He 
+ 
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+7 
+ 
+6. a.  
+The net cell reaction is 
+2 Ag+(aq) + Cu(s) → 2 Ag(s) + Cu2+(aq) 
+ 
+with E° = 0.800 V – 0.337 V = 0.463 V.  The cell is not under standard conditions, so 
+applying the Nernst equation gives: 
+E = E° – (RT/nF)ln([Cu2+]/[Ag+]2) 
+E = (0.463 V) – ((8.314 J mol-1 K-1)(298 K)/2(96500 J V-1 mol-1)ln([0.200]/[0.100]2) 
+E = 0.425 V 
+ 
+b. 
+Ag deposition will take place with (107.9 g mol-1)/(96500 C mol-1) =  1.118 × 10-3 g C-1.  
+Cu dissolution will require (63.55 g mol-1)/2(96500 C mol-1) = 3.293 × 10-4 g C-1. 
+ 
+ 
+So if x =  the amount of charge passed in the discharge, then 
+10.00 g + (1.118 × 10-3 g C-1)x = 20.00 g – (3.293 × 10-4 g C-1)x 
+10.00 g = (1.447 × 10-3 g C-1)x 
+x = 6909 C 
+ 
+Since q = it,  
+6909 C = (0.150 A)t 
+t = 46100 s = 12.8 h 
+ 
+c. 
+Decreasing the voltage means making the net reaction less favorable, which would 
+involve either decreasing the concentration of the reactants or increasing the 
+concentration of the products.  Adding oxalate would cause precipitation of the insoluble 
+oxalate salt, so one would need to do that to the silver-containing half-cell to decrease the 
+voltage. 
+ 
+d. 
+Using the Nernst equation, 
+0.200 V = (0.463 V) – ((8.314 J mol-1 K-1)(298 K)/2(96500 J V-1 mol-1)ln([0.200]/[Ag+]2) 
+–0.263 V = 0.021 V + 0.02567ln[Ag+] 
+[Ag+] = 1.567 × 10-5 M 
+ 
+From the Ksp expression, [Ag+]2[C2O42-] = [1.567 × 10-5]2[C2O42-] = 3.5 × 10-11 
+[C2O42-] = 0.143 M 
+ 
+This requires the addition of 0.143 mol Na2C2O4 (to achieve this concentration in 1.00 L 
+of solution) + 0.0500 mol Na2C2O4 (to precipitate 0.0500 mol Ag2C2O4) = 0.193 mol 
+Na2C2O4.  The molar mass of Na2C2O4 is 134.00 g mol-1, so this is 0.193 mol × 134.00 g 
+mol-1 = 25.9 g Na2C2O4.  
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+8 
+7. a.  
+(Either resonance structure of formamide would be acceptable.) 
+ 
+b. 
+Formamide has the higher normal boiling point because it is capable of forming strong 
+intermolecular N–H•••O hydrogen bonds. 
+ 
+c. 
+In order to form a partial C–N π bond, as indicated by the minor resonance structure 
+shown above, the nitrogen must have an unhybridized p orbital and thus must be sp2-
+hybridized.  The bond angles will be close to 120°.  In NH3, the nitrogen is sp3-
+hybridized and has bond angles close to 109.5°. 
+ 
+d. 
+The partial π bond in formamide requires the unhybridized p orbital on nitrogen to be 
+parallel to the p orbital on carbon.  Rotating about the carbon-nitrogen bond causes the 
+two p orbitals to lose overlap and thus diminishes the bonding, leading to a large 
+energetic cost.  No such cost is incurred in glyoxal, where the carbon-carbon bond is 
+purely σ in character. 
+ 
+ 
+ 
+ 
+
+2022 USNCO Part 2 Solutions 
+ 
+9 
+8. a. 
+C (bp 57 °C) < A (bp 92 °C) < B (bp 141 °C) 
+ 
+ 
+Only B is capable of forming hydrogen bonds, so it has by far the highest boiling 
+point.  C has a more compact structure than A, which leads to weaker London dispersion 
+forces and a lower boiling point.  (The ester is also less polarizable than the ketone + 
+ether.) 
+ 
+b. 
+Examples include  
+ 
+ 
+c. 
+The equilibrium constant is much larger for compound A.  Aldehydes are more 
+electrophilic than carboxylic acids, because the carboxylic acid is stabilized by donation 
+from the OH oxygen into the C=O π* orbital, as illustrated by the resonance structures 
+shown below.  This resonance stabilization is lost when the carbonyl carbon goes from 
+sp2 to sp3 hybridization: 
+ 
+d.
+ 
+ 
+ 
+e. 
+Keq for the reaction in (d) is close to 1.  A strong base will react with the carboxylic acid 
+to form the carboxylate anion.  This reaction is so favorable (Keq > 109) that it renders the 
+overall reaction essentially irreversible. 
+ 

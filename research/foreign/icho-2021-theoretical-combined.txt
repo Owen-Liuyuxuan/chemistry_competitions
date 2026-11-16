@@ -1,0 +1,2383 @@
+IChO
+G0-1
+English (Official)
+International Chemistry Olympiad 2021 Japan
+53rd IChO2021 Japan
+25th July – 2nd August, 2021
+https://www.icho2021.org
+
+IChO
+G0-2
+English (Official)
+General Instruction
+• You are allowed to use only pen to write the answer.
+• Your calculator must be non-programmable.
+• This examination has 9 problems.
+• You can solve the problems in any order.
+• You will have 5 hours to solve all problems.
+• You can begin working only after the START command is given.
+• All results must be written in the appropriate answer boxes with pen on the answer sheets. Use
+the back of the question sheets if you need scratch paper. Remember that answers written outside
+the answer boxes will not be graded.
+• Write relevant calculations in the appropriate boxes when necessary. Full marks will be given for
+correct answers only when your work is shown.
+• The invigilator will announce a 30-minute warning before the STOP command.
+• You must stop working when the STOP command is given. Failure to stop writing will lead to the
+nullification of your examination.
+• The official English version of this examination is available on request only for clarification.
+• You are not allowed to leave your working place without permission. If you need any assistance
+(broken calculator, need to visit a restroom, etc), raise your hand and wait until an invigilator arrives.
+GOOD LUCK!
+Problems and Grading Information
+Title
+Total Score
+Percentage
+1
+Hydrogen at a Metal Surface
+24
+11
+2
+Isotope Time Capsule
+35
+11
+3
+Lambert–Beer Law?
+22
+8
+4
+The Redox Chemistry of Zinc
+32
+11
+5
+Mysterious Silicon
+60
+12
+6
+The Solid-State Chemistry of Transition Metals
+45
+13
+7
+Playing with Non-benzenoid Aromaticity
+36
+13
+8
+Dynamic Organic Molecules and Their Chirality
+26
+11
+9
+Likes and Dislikes of Capsules
+23
+10
+Total
+100
+
+IChO
+G0-3
+English (Official)
+Physical Constants and Equations
+Constants
+Speed of light in vacuum
+𝑐= 2.99792458 × 108 m s−1
+Planck constant
+ℎ= 6.62607015 × 10−34 J s
+Elementary charge
+𝑒= 1.602176634 × 10−19 C
+Electron mass
+𝑚e = 9.10938370 × 10−31 kg
+Electric constant
+(permittivity of vacuum)
+𝜀0 = 8.85418781 × 10−12 F m−1
+Avogadro constant
+𝑁A = 6.02214076 × 1023 mol−1
+Boltzmann constant
+𝑘B = 1.380649 × 10−23 J K−1
+Faraday constant
+𝐹= 𝑁A × 𝑒= 9.64853321233100184 × 104 C mol−1
+Gas constant
+𝑅= 𝑁A × 𝑘B = 8.31446261815324 J K−1 mol−1
+= 8.2057366081 × 10−2 L atm K−1 mol−1
+Unified atomic mass unit
+𝑢= 1 Da = 1.66053907 × 10−27 kg
+Standard pressure
+𝑝= 1 bar = 105 Pa
+Atmospheric pressure
+𝑝atm = 1.01325 × 105 Pa
+Zero degree Celsius
+0 ∘C = 273.15 K
+Ångstrom
+1 Å = 10−10 m
+Picometer
+1 pm = 10−12 m
+Electronvolt
+1 eV = 1.602176634 × 10−19 J
+Part-per-million
+1 ppm = 10−6
+Part-per-billion
+1 ppb = 10−9
+Part-per-trillion
+1 ppt = 10−12
+pi
+𝜋= 3.141592653589793
+The base of the natural logarithm
+(Euler's number)
+𝑒= 2.718281828459045
+
+IChO
+G0-4
+English (Official)
+Equations
+The ideal gas law
+𝑃𝑉= 𝑛𝑅𝑇
+, where 𝑃is the pressure, 𝑉is the volume, 𝑛is the amount of substance,
+𝑇is the absolute temperature of ideal gas.
+Coulomb's law
+𝐹= 𝑘e
+𝑞1𝑞2
+𝑟2
+, where 𝐹is the electrostatic force, 𝑘e(≃9.0 × 109 N m2 C−2) is Coulomb's
+constant, 𝑞1 and 𝑞2 are the magnitudes of the charges, and 𝑟is the distance
+between the charges.
+The first law of thermo-
+dynamics
+Δ𝑈= 𝑞+ 𝑤
+, where Δ𝑈is the change in the internal energy, 𝑞is the heat supplied, 𝑤
+is the work done.
+Enthalpy 𝐻
+𝐻= 𝑈+ 𝑃𝑉
+Entropy based on Boltz-
+mann's principle 𝑆
+𝑆= 𝑘B ln 𝑊
+, where 𝑊is the number of microstates.
+The change of entropy
+Δ𝑆
+Δ𝑆= 𝑞rev
+𝑇
+, where 𝑞rev is the heat for the reversible process.
+Gibbs free energy 𝐺
+𝐺= 𝐻−𝑇𝑆
+Δr𝐺∘= −𝑅𝑇ln 𝐾= −𝑧𝐹𝐸∘
+, where 𝐾is the equilibrium constant, 𝑧is the number of electrons, 𝐸∘is
+the standard electrode potential.
+Reaction quotient 𝑄
+Δr𝐺= Δr𝐺∘+ 𝑅𝑇ln 𝑄
+For a reaction
+𝑎A + 𝑏B ⇌𝑐C + 𝑑D
+𝑄= [C]
+𝑐[D]
+𝑑
+[A]
+𝑎[B]
+𝑏
+, where [A] is the concentration of A.
+
+IChO
+G0-5
+English (Official)
+Heat change Δ𝑞
+Δ𝑞= 𝑛𝑐mΔ𝑇
+, where 𝑐m is the temperature-independent molar heat capacity.
+Nernst equation for re-
+dox reaction
+𝐸= 𝐸∘+ 𝑅𝑇
+𝑧𝐹ln 𝐶ox
+𝐶red
+, where 𝐶ox is the concentration of oxidized substance, 𝐶red is the concen-
+tration of reduced substance.
+Arrhenius equation
+𝑘= 𝐴exp (−𝐸𝑎
+𝑅𝑇)
+, where 𝑘is the rate constant, 𝐴is the pre-exponential factor, 𝐸𝑎is the
+activation energy.
+exp(𝑥) = 𝑒𝑥
+Lambert–Beer equation
+𝐴= 𝜀𝑙𝑐
+, where 𝐴is the absorbance, 𝜀is the molar absorption coefficient, 𝑙is the
+optical path length, 𝑐is the concentration of the solution.
+Henderson–Hasselbalch
+equation
+For an equilibrium
+HA ⇌H+ + A−
+, where equilibrium constant is 𝐾a,
+pH = p𝐾a + log ( [A−]
+[HA])
+Energy of a photon
+𝐸= ℎ𝜈= ℎ𝑐
+𝜆
+, where 𝜈is the frequency, 𝜆is the wavelength of the light.
+The sum of a geometric
+series
+When 𝑥≠1,
+1 + 𝑥+ 𝑥2 + ⋯+ 𝑥𝑛= ∑
+𝑛
+𝑖=0 𝑥𝑖= 1 −𝑥𝑛+1
+1 −𝑥
+Approximation equation
+that can be used to solve
+problems
+When 𝑥≪1,
+1
+1 −𝑥≃1 + 𝑥
+
+IChO
+G0-6
+English (Official)
+Periodic Table
+
+IChO
+G0-7
+English (Official)
+1H NMR Chemical Shifts
+Δ𝛿for one alkyl group-substitution: ca. +0.4 ppm
+
+IChO
+Q1-1
+English (Official)
+Hydrogen at a Metal Surface
+11 % of the total
+Question
+A.1
+A.2
+B.1
+B.2
+B.3
+B.4
+Total
+Points
+6
+4
+5
+3
+3
+3
+24
+ 
+Score
+ 
+ 
+ 
+ 
+Hydrogen is expected to be a future energy source that does not depend on fossil fuels. Here, we will
+consider the hydrogen-storage process in a metal, which is related to hydrogen-transport and -storage
+technology.
+Part A
+As hydrogen is absorbed into the bulk of a metal via its surface, let us first consider the adsorption
+process of hydrogen at the metal surface, H2(g) →2H(ad), where the gaseous and adsorbed states of
+hydrogen are represented as (g) and (ad), respectively. Hydrogen molecules (H2) that reach the metal
+surface (M) dissociate at the surface and are adsorbed as H atoms (Fig. 1). Here, the potential energy
+of H2 is represented by two variables: the interatomic distance, 𝑑, and the height relative to the surface
+metal atom, 𝑧. It is assumed that the axis along the two H atoms is parallel to the surface and that the
+center of gravity is always on the vertical dotted line in Fig. 1. Fig. 2 shows the potential energy contour
+plot for the dissociation at the surface. The numerical values represent the potential energy in units of
+kJ per mole of H2. The solid line spacing is 20 kJ mol−1, the dashed line spacing is 100 kJ mol−1, and the
+spacing between solid and dashed lines is 80 kJ mol−1. The zero-point vibration energy is ignored.
+ 
+
+IChO
+Q1-2
+English (Official)
+Fig.1 Definition of variables. Drawing is not in scale.
+Fig.2
+
+IChO
+Q1-3
+English (Official)
+A.1
+For each of the following items (i)–(iii), select the closest value from A–G.
+(i) The interatomic distance for a gaseous H2 molecule
+(ii) The interatomic distance between metal atoms (𝑑M in Fig. 1)
+(iii) The distance of adsorbed H atoms from the surface (ℎad in Fig. 1)
+A. 0.03 nm
+B. 0.07 nm
+C. 0.11 nm
+D. 0.15 nm
+E. 0.19 nm
+F. 0.23 nm
+G. 0.27 nm
+6pt
+(i) B (ii) F (iii) A
+6 points in total:
+2 point for (i), (ii) and (iii)
+A.2
+For each of the following items (i)–(ii), select the closest value from A–H.
+(i) the energy required for the dissociation of gaseous H2 to gaseous H
+[H2(g) →2H(g)]
+(ii) the energy released during the adsorption of a gaseous H2 [H2(g) →2H(ad)]
+A. 20 kJ mol−1
+B. 40 kJ mol−1
+C. 60 kJ mol−1
+D. 100 kJ mol−1
+E. 150 kJ mol−1
+F. 200 kJ mol−1
+G. 300 kJ mol−1
+H. 400 kJ mol−1
+4pt
+(i) H (ii) D
+4 points in total:
+2 points for (i) and (ii)
+Part B
+The adsorbed hydrogen atoms are then either absorbed into the bulk, or recombine and desorb back
+into the gas phase, as shown in the reactions (1a) and (1b). H(ab) represents a hydrogen atom absorbed
+in the bulk.
+The reaction rates per surface site for adsorption, desorption, and absorption are 𝑟1[s−1], 𝑟2[s−1] and
+𝑟3[s−1] , respectively. They are expressed as:
+
+IChO
+Q1-4
+English (Official)
+where 𝑘1 [s−1 Pa−1], 𝑘2 [s−1] and 𝑘3 [s−1] are the reaction rate constants and 𝑃H2 is the pressure of H2.
+Among the sites available on the surface, 𝜃(0 ≤𝜃≤1) is the fraction occupied by H atoms. It is assumed
+that adsorption and desorption are fast compared to absorption (𝑟1, 𝑟2 ≫𝑟3) and that 𝜃remains constant.
+B.1
+𝑟3 can be expressed as:
+Express 𝐶using 𝑘1 and 𝑘2.
+5pt
+From 𝑟1, 𝑟2 ≫𝑟3 and 𝑟1 = 𝑟2 + 𝑟3,
+𝑟1 = 𝑟2.
+Then 𝑘1𝑃H2(1 −𝜃)2 = 𝑘2𝜃2 (1')
+Solve for 𝜃:
+𝜃=
+1
+1 + √
+𝑘2
+𝑃H2𝑘1
+(2')
+From 𝑟3 = 𝑘3𝜃∶
+𝑟3 =
+𝑘3
+1 + √
+𝑘2
+𝑃H2𝑘1
+Thus, 𝐶= 𝑘1
+𝑘2
+ 
+5 points in total:
+5 points for the final correct answer.
+partial points:
+(1′) and (2′): 2 points each.
+A metal sample with a surface area of 𝑆= 1.0 × 10−3 m2 was placed in a container (1L = 1.0 × 10−3 m3)
+with H2 (𝑃H2 = 1.0 × 102 Pa ). The density of hydrogen-atom adsorption sites on the surface was 𝑁=
+1.3 × 1018 m−2. The surface temperature was kept at 𝑇= 400 K. As the reaction (1) proceeded, 𝑃H2
+decreased at a constant rate of 𝑣= 4.0 × 10−4 Pa s−1. Assume that H2 is an ideal gas and that the volume
+of the metal sample is negligible.
+ 
+
+IChO
+Q1-5
+English (Official)
+B.2
+Calculate the amount of H atoms in moles absorbed per unit area of the surface
+per unit time, 𝐴[mol s−1 m−2].
+3pt
+The change in the amount of hydrogen atoms per unit time in the gas phase is 𝐴× 𝑆. Thus,
+𝐴× 𝑆= 2𝑣𝑉
+𝑅𝑇(1')
+= 2 × 4.0 × 10−4 × 1.0 × 10−3
+8.31 × 400 = 2.4 × 10−10 mol s−1
+Therefore,
+𝐴= 2.4 × 10−7 mol s−1 m−2
+ 
+3 points in total:
+2 points for (1'), and 1 point for the final answer.
+-1 point if 𝐴× 𝑆= 𝑣𝑉
+𝑅𝑇(missing the factor 2).
+B.3
+At 𝑇= 400 K, 𝐶equals 1.0 × 102 Pa−1. Calculate the value of 𝑘3 at 400 K. If you
+did not obtain the answer to B.2, use 𝐴= 3.6 × 10−7 mol s−1 m−2.
+3pt
+
+IChO
+Q1-6
+English (Official)
+The relationship between 𝑟3 and 𝐴is:
+𝐴= 𝑟3 × 𝑁
+𝑁A
+Thus,
+𝑟3 = 𝐴× 𝑁A
+𝑁= 1.1 × 10−1 s−1 (1')
+ 
+ 
+Solution 1
+𝑟3 =
+𝑘3
+1 + √
+𝑘2
+𝑃H2𝑘1
+=
+𝑘3
+1 + √
+1
+10000
+=
+𝑘3
+1.01 (2')
+Thus,
+𝑘3 = 1.01 × 𝑟3 = 1.1 × 10−1 s−1
+ 
+ 
+Solution 2
+Under the condition 𝑃H2𝐶≫1, it follows that:
+𝑟3 =
+𝑘3
+1 + √
+𝑘2
+𝑃H2𝑘1
+≈𝑘3
+1 = 𝑘3 (3')
+Thus,
+𝑘3 = 𝑟3 = 1.1 × 10−1 s−1
+ 
+ 
+(1.7 × 10−1 s−1 with 𝐴= 3.6 × 10−7 mol s−1 m−2)
+ 
+3 points in total:
+2 points for the correct value (1').
+(if correct formulation (1'), 1 point).
+1 point for the final correct answer.
+It does not affect the score whether the approximation of (3′) is used or not.
+B.4
+At a different 𝑇, 𝐶= 2.5 × 103 Pa−1 and 𝑘3 = 4.8 × 10−2 s−1are given. For 𝑟3 as a
+function of 𝑃H2at this temperature, select the correct plot from (a)–(h).
+3pt
+
+IChO
+Q1-7
+English (Official)
+The figures show the region in which 𝑃H2𝐶≪1. Therefore,
+𝑟3 =
+𝑘3
+1 + √
+1
+𝑃H2𝐶
+(1')
+≈
+𝑘3
+√
+1
+𝑃H2𝐶
+= 𝑘3√𝑃H2𝐶= 2.4√𝑃H2
+ 
+Thus, (b)
+ 
+3 points in total:
+3 points for selecting (b).
+
+IChO
+Q2-1
+English (Official)
+Isotope Time Capsule
+11 % of the total
+Question
+A.1
+A.2
+A.3
+A.4
+Total
+Points
+8
+8
+10
+9
+35
+ 
+Score
+ 
+ 
+ 
+ 
+Molecular entities that differ only in isotopic composition, such as CH4 and CH3D, are called isotopo-
+logues. Isotopologues are considered to have the same chemical characteristics. In nature, however,
+there exists a slight difference.
+Assume that all of the substances shown in this Question are in a gas phase.
+Let us consider the following equilibrium:
+The entropy, 𝑆, increases with increasing the number of possible microscopic states of a system, 𝑊:
+𝑊= 1 for 12C16O2 and 12C18O2. In contrast, 𝑊= 2 for a 12C16O18O molecule because the oxygen atoms
+are distinguishable in this molecule. As the right-hand side of the equilibrium shown in eq. 1 has two
+12C16O18O molecules, 𝑊= 22 = 4.
+
+IChO
+Q2-2
+English (Official)
+A.1
+The enthalpy change, Δ𝐻, of eq. 3 is positive regardless of the temperature.
+Calculate the equilibrium constants, 𝐾, for eq. 3 at very low (think of 𝑇→0) and
+very high (think of 𝑇→+∞) temperatures. Assume that the reaction remains
+unchanged at these temperatures and that Δ𝐻converges to a constant value
+for high temperatures.
+8pt
+Δ𝐺∘= Δ𝐻∘−𝑇Δ𝑆∘= −𝑅𝑇ln 𝐾→ln 𝐾= −Δ𝐻∘
+𝑅𝑇+ Δ𝑆∘
+𝑅
+(𝐾= exp [−Δ𝐻∘
+𝑅𝑇] exp [Δ𝑆∘
+𝑅])
+ 
+𝑇→0: As Δ𝐻∘> 0, ln 𝐾converges to −∞and therefore 𝐾= 0.
+𝑇→+∞: ln 𝐾→Δ𝑆∘
+𝑅
+Given that Δ𝑆∘per 1 mole is 𝑁A𝑘B ln 𝑊= 𝑅ln 2, 𝐾= 2.
+8 points in total:
+3 points for the correct answer for 𝑇→0,
+5 points for the correct answer for 𝑇→+∞.
+Partial points:
+If neither the correct answer for 𝑇→0 nor that for 𝑇→+∞is obtained: 2 points for showing that
+ln 𝐾= −Δ𝐻∘
+𝑅𝑇+ Δ𝑆∘
+𝑅.
+If the correct answer for 𝑇→+∞is not obtained: 2 points for showing that 𝑊= 2.
+The ΔH of the following process can be explained by molecular vibrations.
+At 𝑇= 0 K, the vibrational energy of a diatomic molecule whose vibration frequency is 𝜈[s−1] is expressed
+as:
+Wherein 𝑘is the force constant and 𝜇the reduced mass, which is expressed in terms of the mass of the
+two atoms in the diatomic molecule, 𝑚1 and 𝑚2, according to:
+
+IChO
+Q2-3
+English (Official)
+A.2
+The vibration of H2 is at 4161.0 cm−1 when reported as a wavenumber.
+Calculate the Δ𝐻of the following equation at 𝑇= 0 K in units of J mol−1.
+Assume that:
+• only the vibrational energy contributes to the Δ𝐻.
+• the 𝑘values for H2, HD, and D2 are identical.
+• the mass of H to be 1 Da and the mass of D to be 2 Da.
+8pt
+𝜇H2 = 1/2 Da, 𝜇HD = 2/3 Da, 𝜇D2 = 1 Da.
+Using 𝜈= 1
+2𝜋√𝑘
+𝜇, 𝜈HD
+𝜈H2
+= √
+𝜇H2
+𝜇HD
+and
+𝜈D2
+𝜈H2
+= √
+𝜇H2
+𝜇D2
+are obtained.
+The frequency of the H2 vibration is 4161.0 cm−1 in units of wavenumbers.
+Therefore, the frequencies of the molecular vibration for HD and D2 are calculated to be 3603.5 cm−1
+and 2942.3 cm−1, respectively.
+The difference of the zero-point energies of eq. 4 is calculated to be
+(4161.0 + 2942.3)/2 −3603.5 = −51.9 cm–1.
+𝐸= 𝑁Aℎ𝜈= 𝑁Aℎ𝑐̃
+𝜈( ̃
+𝜈: frequency in wavenumbers), and therefore 𝐸= Δ𝐻∘= −621 J mol−1.
+8 points in total:
+2 points for the correct vibrational frequency of HD
+(1 point for the correct 𝜇value of HD,
+1 point for the correct formulation (𝜈HD
+𝜈H2
+= √
+𝜇H2
+𝜇HD
+) to calculate the vibrational frequency of HD),
+2 points for the correct vibrational frequency of D2
+(1 point for the correct 𝜇value of D2,
+1 point for the correct formulation (
+𝜈D2
+𝜈H2
+= √
+𝜇H2
+𝜇D2
+) to calculate the vibrational frequency of D2),
+2 points for the correct conversion from cm−1 to J mol−1
+(partial points: 1 point for the correct conversion from cm−1 to J (𝑁A is missing)),
+2 points for the correct energy difference
+(partial points: -1 point when the value is not divided by 2, -1 point when the sign is wrong).
+
+IChO
+Q2-4
+English (Official)
+The molar ratio of H2, HD, and D2 depends on the temperature in a system in equilibrium. Here, ΔD2 is
+defined as the change of the molar ratio of D2.
+Here, 𝑅D2 refers to [D2]
+[H2] in the sample and 𝑅∗
+D2 to [D2]
+[H2] at 𝑇→+∞. It should be noted here that the
+distribution of isotopes becomes random at 𝑇→+∞.
+A.3
+Calculate ΔD2 with natural D abundance when the isotopic exchange is in equi-
+librium at the temperature where 𝐾in eq. 4 is 0.300. Assume that the natural
+abundance ratios of D and H are 1.5576×10–4 and 1−1.5576×10–4, respectively.
+10pt
+
+IChO
+Q2-5
+English (Official)
+Let the sum of the concentrations of H2, HD, and D2 be 𝐶.
+ 
+Solution 1:
+𝑇→+∞(𝐾= 1/4) ∶
+[H2]0 = (1 −1.5576 × 10−4)2𝐶= 9.9969 × 10−1𝐶
+[D2]0 = (1.5576 × 10−4)2𝐶= 2.4261 × 10−8𝐶
+ 
+𝐾= 0.300 ∶
+Let the amount of change in the molar ratio be 𝑥.
+[H2][D2]
+[HD]
+2
+=
+( [H2]0
+𝐶
++ 𝑥) ( [D2]0
+𝐶
++ 𝑥)
+( [HD]0
+𝐶
+−2𝑥)
+2
+= 𝐾
+Solve the equation for 𝑥when 𝐾= 0.300:
+(1 −4𝐾)𝑥2 + ([H2]0
+𝐶
++ [D2]0
+𝐶
++ 4𝐾[HD]0
+𝐶
+) 𝑥+ ([H2]0[D2]0
+𝐶2
+−𝐾[HD]2
+0
+𝐶2 ) = 0,
+𝑥= 4.8504 × 10−9.
+From this value, we obtain [H2] = 9.9969 × 10−1𝐶and [D2] = 2.9112 × 10−8𝐶.
+ΔD2 =
+𝑅D2
+𝑅∗
+D2
+−1 =
+2.9112×10−8
+9.9969×10−1
+2.4261×10−8
+9.9969×10−1
+−1 = 0.200
+ 
+Solution 2:
+By using an appropriate approximation, we can obtain the answer without calculating the concen-
+tration of each species.
+Let the increase of [D2] be 𝛿.
+𝐾= [H2][D2]
+[HD]
+2
+= ([H2]0 + 𝛿)([D2]0 + 𝛿)
+([HD]0 −2𝛿)2
+≃[H2]0([D2]0 + 𝛿)
+[HD]
+2
+0
+= [H2]0[D2]
+[HD]
+2
+0
+ΔD2 =
+𝑅D2
+𝑅∗
+D2
+−1 =
+[D2]
+[H2]
+[D2]0
+[H2]0
+−1 ≃[D2]
+[D2]0
+−1 =
+[H2]0[D2]
+[HD]
+2
+0
+[H2]0[D2]0
+[HD]
+2
+0
+−1 ≃0.300
+0.250 −1 = 0.200
+10 points in total:
+1 point for the correct [H2]0,
+1 point for the correct [D2]0,
+2 points for the correct formulation for either [H2] or [D2],
+2 points for the correct [H2],
+2 points for the correct [D2],
+and 2 points for the correct ΔD2.
+Full marks when the correct ΔD2 is shown using an appropriate approximation (without calculating
+each concentration).
+Partial points: 5 points for showing that [H2]0 ≃  [H2].
+No deficiency point when the sum of the concentration, 𝐶, is assumed to be 1.
+
+IChO
+Q2-6
+English (Official)
+In general, the molar ratio of the doubly substituted isotopologue, which contains two heavy isotope
+atoms in one molecule, increases with decreasing temperature. Let us consider the molar ratio of CO2
+molecules with molecular weights of 44 and 47, which are described as CO2[44] and CO2[47] below. The
+quantity Δ47 is defined as:
+𝑅47 refers to [CO2[47]]
+[CO2[44]] in the sample and 𝑅∗
+47 to [CO2[47]]
+[CO2[44]] at 𝑇→+∞. The natural abundances of carbon
+and oxygen atoms are shown below; ignore isotopes that are not shown here.
+12C
+13C
+natural abundance
+0.988888
+0.011112
+16O
+17O
+18O
+natural abundance
+0.997621
+0.0003790
+0.0020000
+The temperature dependence of Δ47 is determined as follows, where 𝑇is given as the absolute temper-
+ature in units of K:
+A.4
+The 𝑅47 of fossil plankton obtained from the Antarctic seabed was 4.50865×10–5.
+Estimate the temperature using this 𝑅47. This temperature is interpreted as the
+air temperature during the era in which the plankton lived. Consider only the
+most common isotopologue of CO2[47] for the calculation.
+9pt
+
+IChO
+Q2-7
+English (Official)
+The most common isotopologue of CO2[47] is 13C16O18O.
+The molar ratio of 13C16O18O in the case where all the isotopes are distributed randomly is:
+0.011112 × 0.002000 × 0.997621 × 2 [O is distinguishable] = 4.43423 × 10−5
+The molar ratio of 12C16O2 (CO2[44]) in the case where all the isotopes are distributed randomly is:
+0.988888 × 0.9976212 = 9.84188 × 10−1
+𝑅∗
+47 = 4.43423 × 10−5
+9.84188 × 10−1 = 4.50547 × 10−5
+Δ47 = 7.06 × 10−4
+𝑇= 296 K.
+9 points in total:
+2 points by indicating that the most common isotopologue of CO2[47] is 13C16O18O.
+3 points for the correct molar ratio of 13C16O18O (1 point when ×2 is missing),
+2 points for the correct molar ratio of 12C16O2,
+2 points for the correct 𝑇.
+(1 deficiency point when the calculated 𝑇is a negative value.)
+
+IChO
+Q3-1
+English (Official)
+Lambert–Beer Law?
+8 % of the total
+Question
+A.1
+B.1
+B.2
+Total
+Points
+10
+6
+6
+22
+ 
+Score
+ 
+ 
+ 
+ 
+In this problem, ignore the absorption of the cell and the solvent. The temperatures of all solutions and
+gases are kept constant at 25 °C.
+Part A
+An aqueous solution X was prepared using HA and NaA. The concentrations [A−], [HA], and [H+] in so-
+lution X are 1.00 × 10−2 mol L−1, 1.00 × 10−3 mol L−1, and 1.00 × 10−4 mol L−1, respectively, which are
+correlated via the following acid-base equilibrium:
+HA ⇌A−+ H+
+𝐾= [A−][H+]
+[HA]
+(1)
+The optical path length is 𝑙in Part A. Ignore the density change upon dilution. Assume that no chemical
+reactions other than eq 1 occur.
+
+IChO
+Q3-2
+English (Official)
+A.1
+The absorbance of X was 𝐴1 at a wavelength of 𝜆1. Then, solution X was diluted
+to twice its initial volume using hydrochloric acid with pH = 2.500. After the
+dilution, the absorbance was still 𝐴1 at 𝜆1. Determine the ratio 𝜀HA/𝜀A−, where
+𝜀HA and 𝜀A−represent the absorption coefficients of HA and of A−, respectively,
+at 𝜆1.
+10pt
+𝐾= [A−][H+]
+[HA]
+= (1.00 × 10−2)(1.00 × 10−4)
+1.00 × 10−3
+= 1.00 × 10−3 mol L−1
+Concentration before the dilution:
+[HA] = 1.00 × 10−3 mol L−1
+[A−] = 1.00 × 10−2 mol L−1
+[H+] = 1.00 × 10−4 mol L−1
+ 
+Concentrations just after the dilution (nominal initial concentrations before the equilibrium):
+[HA] = 5.00 × 10−4 mol L−1
+[A−] = 5.00 × 10−3 mol L−1
+[H+] = 1.00 × 10−4 + 3.16 × 10−3
+2
+= 1.63 × 10−3 mol L−1
+(pH = 2.500 →[H+] = 3.16 × 10−3 mol L−1)
+ 
+Equilibrium after the dilution:
+[A−][H+]
+[HA]
+= (5.00 × 10−3 −𝑥)(1.63 × 10−3 −𝑥)
+5.00 × 10−4 + 𝑥
+= 1.00 × 10−3 mol L−1
+Solve the equation for 𝑥: 𝑥= 1.19 × 10−3 mol L−1
+→[A−] = 3.81 × 10−3 mol L−1, [HA] = 1.69 × 10−3 mol L−1.
+Therefore,
+1.00 × 10−2𝜀A−+ 1.00 × 10−3𝜀HA = 3.81 × 10−3𝜀A−+ 1.69 × 10−3𝜀HA
+By solving this equation: 𝜀HA/𝜀A−= 9.0
+ 
+10 points in total:
+2 points for the correct 𝐾value,
+2 points for the formulation to give the correct [A−] and [HA] values after dilution,
+2 points for the correct [A−] and [HA] values after dilution (1 point for each),
+2 points for the formulation to give the correct relationship between 𝜀A−and 𝜀HA using [A−] and [HA],
+and 2 points for the correct relationship between 𝜀A−and 𝜀HA.
+
+IChO
+Q3-3
+English (Official)
+Part B
+Let us consider the following equilibrium in the gas phase.
+D ⇌2M
+(2)
+Pure gas D is filled into a cuboid container that has a transparent movable wall with a cross-section of 𝑆
+(see the figure below) at a pressure 𝑃, and equilibrium is established while the total pressure is kept at 𝑃.
+The absorbance of the gas is 𝐴= 𝜀(𝑛/𝑉)𝑙, where 𝜀, 𝑛, 𝑉, and 𝑙are the absorption coefficient, amount of
+the gas in moles, volume of the gas, and optical path length, respectively. Assume that all components
+of the gas mixture behave as ideal gases.
+Use the following definitions if necessary.
+Initial state
+After equilibrium
+D
+M
+D
+M
+Partial pressure
+𝑃
+0
+𝑝D
+𝑝M
+Amount in moles
+𝑛0
+0
+𝑛D
+𝑛M
+Volume
+𝑉0
+𝑉
+
+IChO
+Q3-4
+English (Official)
+B.1
+The absorbance of the gas at 𝜆B1 measured from direction 𝑥(𝑙= 𝑙𝑥) was 𝐴B1
+both at the initial state and after the equilibrium. Determine the ratio 𝜀D/𝜀M
+at 𝜆B1, where 𝜀D and 𝜀M represent the absorption coefficients of D and of M,
+respectively.
+6pt
+Solution 1:
+The absorbance at the initial state is:
+𝐴B1 = 𝜀D𝑛0
+𝑉0
+𝑙𝑥
+The absorbance after equilibrium is:
+𝐴B1 = 𝜀D𝑛D + 𝜀M𝑛M
+𝑉
+𝑙𝑥
+ 
+From the ideal gas law, the following relationship is obtained:
+𝑛0
+𝑉0
+= 𝑃
+𝑅𝑇= 𝑛D + 𝑛M
+𝑉
+(*1)
+ 
+From these equations, the following relationship is obtained:
+𝐴B1 = 𝜀D𝑛0
+𝑉0
+𝑙𝑥= 𝜀D(𝑛D + 𝑛M)
+𝑉
+𝑙𝑥= 𝜀D𝑛D + 𝜀M𝑛M
+𝑉
+𝑙𝑥
+→𝜀D𝑛M = 𝜀M𝑛M
+→0 = (𝜀M −𝜀D)𝑛M
+As 𝑛M > 0 after the equilibrium, 𝜀D = 𝜀M holds at 𝜆B1.
+ 
+Solution 2:
+Using the ideal gas law, the absorbance at the initial state is expressed as:
+𝐴B1 = 𝜀D𝑛0
+𝑉0
+𝑙𝑥= 𝜀D
+𝑃
+𝑅𝑇𝑙𝑥(*2)
+The absorbance after equilibrium is:
+𝐴B1 = 𝜀D𝑛D + 𝜀M𝑛M
+𝑉
+𝑙𝑥= 𝜀D𝑝D + 𝜀M𝑝M
+𝑅𝑇
+𝑙𝑥(*3)
+ 
+From these equations, the following relationship is obtained:
+𝐴B1 = 𝜀D
+𝑃
+𝑅𝑇𝑙𝑥= 𝜀D𝑝D + 𝜀M𝑝M
+𝑅𝑇
+𝑙𝑥
+ 
+Using the fact that 𝑝D = 𝑃−𝑝M,
+𝜀D𝑃= 𝜀D(𝑃−𝑝M) + 𝜀M𝑝M = 𝜀D𝑃+ (𝜀M −𝜀D)𝑝M
+→0 = (𝜀M −𝜀D)𝑝M
+As 𝑝M > 0 after the equilibrium, 𝜀D/𝜀M = 1 holds at 𝜆B1.
+ 
+6 points in total:
+3 points for showing conversion using ideal gas law (either eq. *1, *2, or *3).
+Full marks when the correct relationship between 𝜀D and 𝜀M is shown even without any derivation
+written.
+
+IChO
+Q3-5
+English (Official)
+B.2
+The absorbance of the gas at 𝜆B2 measured from direction 𝑦was 𝐴B2 both at
+the initial state (𝑙= 𝑙𝑦0) and after the equilibrium (𝑙= 𝑙𝑦). Determine the ratio
+𝜀D/𝜀M at 𝜆B2.
+6pt
+Solution 1:
+The absorbance at the initial state is:
+𝐴B2 = 𝜀D𝑛0
+𝑉0
+𝑙𝑦0
+The absorbance after equilibrium is:
+𝐴B2 = 𝜀D𝑛D + 𝜀M𝑛M
+𝑉
+𝑙𝑦
+ 
+Using the fact that:
+𝑙𝑦= 𝑙𝑦0
+𝑉
+𝑉0
+The absorbance after equilibrium is expressed as follows:
+𝐴B2 = 𝜀D𝑛D + 𝜀M𝑛M
+𝑉
+𝑙𝑦= 𝜀D𝑛D + 𝜀M𝑛M
+𝑉0
+𝑙𝑦0
+From these equations, the following relationship is obtained:
+𝐴B2 = 𝜀D𝑛0
+𝑉0
+𝑙𝑦0 = 𝜀D𝑛D + 𝜀M𝑛M
+𝑉0
+𝑙𝑦0
+Using the fact that:
+𝑛M = 2(𝑛0 −𝑛D) (*4)
+The following relationship is obtained:
+𝜀D𝑛0 = 𝜀D𝑛D + 2𝜀M(𝑛0 −𝑛D) = 2𝜀M𝑛0 + (𝜀D −2𝜀M)𝑛D
+→(𝜀D −2𝜀M)𝑛0 = (𝜀D −2𝜀M)𝑛D
+As 𝑛0 > 𝑛D after the equilibrium, 𝜀D = 2𝜀M holds at 𝜆B2.
+ 
+Solution 2:
+Using the fact that 𝑉0 = 𝑙𝑦0𝑆, the absorbance at the initial state is expressed as:
+𝐴B2 = 𝜀D𝑛0
+𝑉0
+𝑙𝑦0 = 𝜀D
+𝑛0
+𝑆
+Using the fact that 𝑉= 𝑙𝑦𝑆, the absorbance after equilibrium is expressed as:
+𝐴B2 = 𝜀D𝑛D + 𝜀M𝑛M
+𝑉
+𝑙𝑦= 𝜀D𝑛D + 𝜀M𝑛M
+𝑆
+From these equations, the following relationship is obtained:
+𝐴B2 = 𝜀D
+𝑛0
+𝑆= 𝜀D𝑛D + 𝜀M𝑛M
+𝑆
+Using the fact that:
+𝑛M = 2(𝑛0 −𝑛D) (*4)
+The following relationship is obtained:
+𝜀D𝑛0 = 𝜀D𝑛D + 2𝜀M(𝑛0 −𝑛D) = 2𝜀M𝑛0 + (𝜀D −2𝜀M)𝑛D
+→(𝜀D −2𝜀M)𝑛0 = (𝜀D −2𝜀M)𝑛D
+As 𝑛0 > 𝑛D after the equilibrium, 𝜀D/𝜀M = 2 holds at 𝜆B2.
+ 
+6 points in total:
+3 points for showing the relationship that 𝑛M is twice of 𝑛0 −𝑛D as in eq.*4.
+Full marks when the correct relationship between 𝜀D and 𝜀M is shown even without any derivation
+written.
+
+IChO
+Q4-1
+English (Official)
+The Redox Chemistry of Zinc
+11 % of the total
+Question
+A.1
+A.2
+B.1
+B.2
+B.3
+B.4
+Total
+Points
+6
+5
+4
+3
+5
+9
+32
+ 
+Score
+ 
+ 
+ 
+ 
+Zinc has long been used as alloys for brass and steel materials. The zinc contained in industrial wastewa-
+ter is separated by precipitation to detoxify the water, and the obtained precipitate is reduced to recover
+and reuse it as metallic zinc.
+Part A
+The dissolution equilibrium of zinc hydroxide Zn(OH)2(s) at 25 ∘C and the relevant equilibrium constants
+are given in eq. 1–4.
+
+IChO
+Q4-2
+English (Official)
+The solubility, 𝑆, of zinc (concentration of zinc in a saturated aqueous solution) is given in eq. 5.
+A.1
+When the equilibria in eq.
+1–4 are established, calculate the pH range
+in which [Zn(OH)2(aq)] is the greatest among [Zn2+(aq)], [Zn(OH)2(aq)] and
+[Zn(OH)2−
+4 (aq)].
+6pt
+Solution 1:
+From [Zn(OH)2(aq)] > [Zn2+]:
+𝐾sp
+[OH−]2 < 𝐾1 (1')
+Solve this for [OH−]:
+pH > 8.4
+[Zn(OH)2(aq)] > [Zn(OH)2−
+4 ]:
+𝐾1 > 𝐾2[OH−]2 (2')
+Solve this for [OH−]:
+pH < 11.8
+Thus,
+8.4 < pH < 11.8
+ 
+Solution 2:
+From (1):
+log[Zn2+][OH−]2 = log Ksp
+log[Zn2+] = log Ksp −2 log [OH−]
+From (2'):
+log[Zn(OH)2(aq)] = log K1
+[Zn(OH)2(aq)] > [Zn2+]:
+log Ksp −2 log [OH−] < log K1 (1')
+log Ksp −2 (pH −14) < log K1
+From (3'):
+log([Zn(OH)2−
+4 ]/[OH−]2) = log K2
+log[Zn(OH)2−
+4 ] = 2 log[OH−] + log K2
+[Zn(OH)2(aq)] > [Zn(OH)2−
+4 ]:
+log K1 > 2 log[OH−] + log K2 (2')
+log K1 > 2 (pH −14) + log K2
+Thus,
+8.4 < pH < 11.8
+ 
+6 points in total:
+3 points for 8.4 < pH
+3 points for pH < 11.8.
+Partial point:
+If correct answers are not obtained;
+(1′) and (2′): 2 points each.
+
+IChO
+Q4-3
+English (Official)
+A.2
+A saturated aqueous solution of Zn(OH)2(s) with pH = 7.00 was prepared and
+filtered. NaOH was added to this filtrate to increase its pH to 12.00. Calculate
+the molar percentage of zinc that precipitates when increasing the pH from 7.00
+to 12.00. Ignore the volume and temperature changes.
+5pt
+For pH=12.00:
+log[Zn(OH)2−
+4 ] = −29.19 + 2 pH = −5.19
+log[Zn(OH)2(aq)] = −5.58
+log[Zn2+] = 11.24 −2 pH = −12.76
+Thus, 𝑆= 9.0865 × 10−6 mol L−1 (1')
+For pH=7.00:
+log[Zn(OH)2−
+4 ] = −29.19 + 2 pH = −15.19
+log[Zn(OH)2(aq)] = −5.58
+log[Zn2+] = 11.24 −2 pH = −2.76
+Thus,
+𝑆= 1.7404 × 10−3 mol L−1 (2')
+The percentage of zinc precipitated is:
+1.7404 × 10−3 −9.0865 × 10−6
+1.7404 × 10−3
+= 0.9948 = 99.5%
+ 
+5 points in total:
+2 points for the correct value of (1′).
+2 points for the correct value of (2′).
+1 point for the final correct answer. The calculation for the negligible component is not required.
+Part B
+Next, the recovered zinc hydroxide is heated to obtain zinc oxide according to the reaction below:
+The zinc oxide is then reduced to metallic zinc by reaction with hydrogen:
+B.1
+In order for reaction (7) to proceed at a hydrogen pressure kept at 1 bar, it is nec-
+essary to reduce the partial pressure of the generated water vapor. Calculate
+the upper limit for the partial pressure of water vapor to allow reaction (7)
+to proceed at 300 ∘C. Here, the Gibbs formation energies of zinc oxide and
+water vapor at 300 ∘C and 1 bar for all gaseous species are Δ𝐺ZnO(300∘C) =
+−2.90 × 102 kJ mol−1 and Δ𝐺H2O(300∘C) = −2.20 × 102 kJ mol−1, respectively.
+4pt
+
+IChO
+Q4-4
+English (Official)
+Zn + 1
+2O2 →ZnO, Δ𝐺ZnO(300∘C) = −2.90 × 102 kJ mol−1
+H2 + 1
+2O2 →H2O, Δ𝐺H2O(300∘C) = −2.20 × 102 kJ mol−1
+Thus,
+ZnO + H2 →Zn + H2O, Δ𝐺= Δ𝐺H2O(300∘C) −Δ𝐺ZnO(300∘C) (1')
+= 7.0 × 101 kJ mol−1
+ln𝐾= ln
+𝑝H2O
+𝑝H2
+= −Δ𝐺
+𝑅𝑇(2')
+From 𝑇= 573.15 K,
+𝑝H2O = 4.14 × 10−7 bar = 4.1 × 10−7 bar
+ 
+4 points in total:
+1 point for the correct formulation of (1′).
+2 point for the correct formulation of (2′).
+1 point for the correct final answer.
+Metallic zinc is used as a negative electrode (anode) material for metal-air batteries. The electrode con-
+sists of Zn and ZnO. It uses the following redox reaction to generate electricity with the electromotive
+force (e.m.f.) at 25 ∘C and pressure of 1 bar, 𝐸∘.
+B.2
+A zinc–air battery was discharged at 20 mA for 24 hours. Calculate the change
+in mass of the negative electrode (anode) of the battery.
+3pt
+The reaction Zn →ZnO occurs at the negative electrode and consumes 2 mol electrons per mol Zn
+oxidized.
+Thus, the weight change is:
+𝑊= 0.02 × 24 × 60 × 60 × 16
+2𝐹
+(1')
+= 0.14 g
+ 
+3 points in total;
+2 points for the correct formulation (1').
+1 point for the correct final answer.
+
+IChO
+Q4-5
+English (Official)
+Mt. Fuji
+B.3
+Consider the change of e.m.f. of a zinc–air battery depending on the environ-
+ment. Calculate the e.m.f. at the summit of Mt. Fuji, where the temperature
+and altitude are −38 ∘C (February) and 3776 m, respectively. The atmospheric
+pressure is represented by
+at altitude ℎ[m] and temperature 𝑇[∘C]. The molar ratio of oxygen in the at-
+mosphere is 21%. The Gibbs energy change of reaction (8) is Δ𝐺ZnO(−38∘C) =
+−3.26 × 102 kJ mol−1 at −38 ∘C and 1 bar.
+5pt
+
+IChO
+Q4-6
+English (Official)
+Solution 1:
+From (9), the air pressure at 3776 m and 𝑇= −38 ∘C is
+𝑃= 0.6011 bar (1')
+From the oxygen content of 21% , the partial pressure of oxygen is:
+𝑃O2 = 0.126 bar
+From the Nernst equation (𝑇= −38 ∘C) :
+𝐸(−38 ∘C) −𝐸∘(−38 ∘C) = −𝑅𝑇
+2𝐹ln
+1
+√𝑃O2
+= −0.01048 V = −0.01 V (2')
+𝐸∘(−38 ∘C) = −Δ𝐺∘(−38 ∘C)
+2𝐹
+= 326000
+2𝐹
+= 1.6894 V = 1.69 V (3')
+From (2') and (3'):
+𝐸(−38 ∘C) = 1.68 V
+ 
+Solution 2:
+From (9), the air pressure at 3776 m and 𝑇= −38 ∘C is
+𝑃= 0.6011 bar (1')
+From the oxygen content of 21% , the partial pressure of oxygen is:
+𝑃O2 = 0.126 bar
+Δ𝐺(−38 ∘C) = Δ𝐺∘(−38 ∘C) −1
+2𝑅𝑇ln 𝑃O2 (2')
+= −3.24 × 102 kJ mol−1
+𝐸(−38 ∘C) = −Δ𝐺(−38 ∘C)
+2𝐹
+(3')
+= 1.68 V
+ 
+(∘is used for 1 bar)
+ 
+5 points in total:
+1 point for the correct value of (1′).
+2 points for the correct formulation of (2').
+1 point for the correct formulation of (3')
+1 point for the correct final answer.
+B.4
+Calculate the Gibbs energy change for reaction (6) at 25 ∘C. Note that the stan-
+dard reduction potentials, 𝐸∘(Zn2+/Zn) and 𝐸∘(O2/H2O) at 25 ∘C and 1 bar are
+given as (10) and (11), respectively.
+9pt
+
+IChO
+Q4-7
+English (Official)
+From (10):
+Zn2+ + 2e−→Zn, 𝐸∘= −0.77 V
+Δ𝐺∘= −2𝐹× −0.77 (1')
+= 148.59 kJ mol−1
+From (8):
+Zn + 1
+2O2 →ZnO, 𝐸∘= 1.65 V
+Δ𝐺∘= −2𝐹× 1.65 (2')
+= −318.40 kJ mol−1
+From (11):
+O2 + 4H+ + 4e−→2H2O, 𝐸∘= 1.23 V
+Δ𝐺∘= −4𝐹× 1.23 (3')
+= −474.71 kJ mol−1
+From (1):
+Zn2+ + 2OH−→Zn(OH)2(s), 𝐾sp = 1.74 × 10−17
+Δ𝐺∘= −𝑅𝑇ln𝐾−1
+sp (4')
+= −95.662 kJ mol−1
+From (4):
+H+ + OH−→H2O, 𝐾w = 1 × 10−14
+Δ𝐺∘= −𝑅𝑇ln𝐾−1
+w (5')
+= −79.912 kJ mol−1
+From (1′)×2+(2′)×2−(3′)−(4′)×2+(5′)×4
+2
+Zn(OH)2 →ZnO + H2O, Δ𝐺∘= 3.0 ∼3.4 × 103 J mol−1
+(distributed depending on the handling of figures)
+ 
+9 points in total:
+1 points for correct formulation (1′).
+1 points for correct formulation (2′).
+1 points for correct formulation (3′).
+2 points for correct formulation (4′).
+2 points for correct formulation (5′).
+2 point for the correct final answer.
+ 
+
+IChO
+Q5-1
+English (Official)
+Mysterious Silicon
+12 % of the total
+Question
+A.1
+A.2
+A.3
+A.4
+B.1
+B.2
+B.3
+Total
+Points
+9
+7
+6
+10
+5
+15
+8
+60
+ 
+Score
+ 
+ 
+ 
+ 
+Although silicon is also a group 14 element like carbon, their properties differ significantly.
+Part A
+Unlike the carbon–carbon triple bond, the silicon–silicon triple bond in a compound formulated as
+R1–Si ≡Si–R1 (R: organic substituent) is extremely reactive. For example, it reacts with ethylene to form
+a cyclic product that contains a four-membered ring.
+When R1–Si ≡Si–R1 is treated with an alkyne (R2–C ≡C–R2), the four-membered-ring compound A is
+formed as an initial intermediate. Further reaction of another molecule of R2–C ≡C–R2 with A affords
+isomers B and C, both of which have benzene-like cyclic conjugated structures, so-called ‘disilabenzenes’
+that contain a six-membered ring and can be formulated as (R1–Si)2(R2–C)4.
+
+IChO
+Q5-2
+English (Official)
+The 13C NMR analysis of the corresponding six-membered ring skeletons Si2C4 shows two signals for B
+and one signal for C.
+A.1
+Draw the structural formulae of A, B, and C using R1, R2, Si, and C, with one of
+the possible resonance structures.
+9pt
+Any resonance structure is acceptable.
+ 
+9 points in total: 3 points for each correct answer.A: 3 points (2 points when the Si=Si–C=C four-
+membered ring skeleton is drawn correctly.)B: 3 points: (2 points when the Si–Si–C–C–C–C six-
+membered ring skeleton is drawn correctly. 1 point when 1,4- or 1,3-disilabenzene is depicted. 0
+points when only the 1,4- or 1,3-disilabenzene is shown and R1 and R2 are drawn incorrectly.)C: 3
+points: (2 points when the Si–C–C–Si–C–C six-membered ring skeleton is drawn correctly. 1 point
+when 1,2- or 1,3-disilabenzene is depicted. 0 points when only the 1,2- or 1,3-disilabenzene is shown
+and R1 and R2 are drawn incorrectly.)
+A.2
+Calculate the aromatic stabilization energy (ASE) for benzene and C (in the case
+of R1 = R2 = H) as positive values, considering the enthalpy change in some
+hydrogenation reactions of unsaturated systems shown below (Fig. 1).
+7pt
+
+IChO
+Q5-3
+English (Official)
+Fig. 1
+The aromatic stabilization energy (ASE) can be calculated as the difference of the sum of the heat of
+hydrogenation of each double bond and the heat of hydrogenation of the aromatic compound.
+ASE for benzene: 135 × 3 −173 = 232 kJ mol–1
+ASE for 1,4-disilabenzene (C=C + 2 Si=C): (135 + 213 × 2) −389 = 172 kJ mol–1
+ 
+7 points in total: 3 points for ASE for benzene and 4 points for compound C.
+3 points for the correct ASE value for benzene (2 points when the values have the correct magnitude
+but are negative.).
+4 points for the correct ASE value for compound C, 1,4-disilabenzene.
+(3 points when the
+values have the correct magnitude but are negative.)
+(4 points for the ASE value for 1,2-
+disilabenzene (206 + 135 × 2) −326 = 150 kJ mol–1 or (213 × 2 + 135) −326 = 235 kJ mol–1 when
+the 1,2-disilabenzene is written as a structure of C. 4 points for the ASE value for 1,3-
+disilabenzene(135 + 213 × 2) −368 = 193 kJ mol–1 when the 1,3-disilabenzene is written as a struc-
+ture of C. )
+When a xylene solution of C is heated, it undergoes isomerization to give an equilibrium mixture of
+compounds D and E. The molar ratio is D : E = 1 : 40.0 at 50.0 ˚C and D : E = 1 : 20.0 at 120.0 ˚C.
+A.3
+Calculate Δ𝐻for the transformation of D to E. Assume that Δ𝐻does not de-
+pend on temperature.
+6pt
+
+IChO
+Q5-4
+English (Official)
+T = 50 ˚C = 323.15 K ( 1
+𝑅𝑇= 0.3722) : 𝐾DE = 40
+T = 120 ˚C = 393.15 K ( 1
+𝑅𝑇= 0.3095) : 𝐾DE = 20
+According to ln 𝐾DE = –Δ𝐻
+𝑅𝑇+ Δ𝑆
+𝑅
+Δ𝐻= −ln(𝐾DE50) −ln(𝐾DE120)
+1
+𝑅𝑇50 −
+1
+𝑅𝑇120
+= –
+ln 40– ln 20
+0.3722 −0.3059 = −10.5 kJ mol–1
+ 
+6 points: (+4 points for the correct equation. -2 points for the positive value. )
+The isomerization from C to D and to E proceeds via transformations of 𝜋-bonds into 𝜎-bonds without
+breaking any 𝜎-bonds. A 13C NMR analysis revealed one signal for the Si2C4 skeleton of D and two signals
+for that of E. The skeleton of D does not contain any three-membered rings, while E has two three-
+membered rings that share an edge.
+ 
+A.4
+Draw the structural formulae of D and E using R1, R2, Si, and C.
+10pt
+
+IChO
+Q5-5
+English (Official)
+Based on the signals observed in the 13C NMR spectra, the following structures could be suggested
+for D and E:
+In addition, considering that D has no three-membered ring in its skeleton while E has two three-
+membered rings that share an edge, the structures of D and E can be determined to be those shown
+below:
+10 points in total: 5 points for each correct structure.
+(4 points for incorrect substituents R1 or R2. 3 points for other candidates based on the informa-
+tion from the 13C NMR spectra; 2 points for Si-regioisomers that would satisfy the 13C NMR spectral
+information; 1 point for Si-regioisomers that would not satisfy the 13C NMR spectral information.)
+For D: 2 points for other Dewer-benzene structure (because "not contain any three-membered
+rings"). For E: 2 points for other benzvalene structure (because "two three-membered rings that
+share an edge.").
+ 
+Part B
+Silicon is able to form highly coordinated compounds (> four substituents) with electronegative elements
+such as fluorine. As metal fluorides are often used as fluorination reagents, highly coordinated silicon
+fluorides also act as fluorination reagents.
+The fluorination reaction of CCl4 using Na2SiF6 was carried out as follows.
+• Standardization of Na2SiF6 solution :
+· Preparation
+Aqueous solution F: 0.855 g of Na2SiF6 (188.053 g mol–1) dissolved in water (total volume: 200 mL).
+Aqueous solution G: 6.86 g of Ce2(SO4)3 (568.424 g mol–1) dissolved in water (total volume: 200 mL).
+· Procedure
+
+IChO
+Q5-6
+English (Official)
+Precipitation titration of a solution F (50.0 mL) by dropwise adding solution G in the presence of xylenol
+orange, which coordinates to Ce3+, as an indicator. After adding 18.8 mL of solution G, the color of the
+solution changes from yellow to magenta. The generated precipitate is a binary compound that contains
+Ce3+, and the only resulting silicon compound is Si(OH)4.
+B.1
+Write the balanced equation for the reaction of Na2SiF6 with Ce2(SO4)3.
+5pt
+Na2SiF6 = 188.053 g mol–1. The concentration of Na2SiF6 in solution F is
+0.855 g
+200 mL = 4.548 × 10–3 mol
+0.2 L
+= 2.274 × 10–2 mol L–1 (F)
+Ce2(SO4)3 = 568.424 g mol–1. The concentration of Ce2(SO4)3 in solution G is
+6.860 g
+200 mL = 1.207 × 10–2 mol
+0.2 L
+= 6.034 × 10–2 mol L–1 (G)
+The concentration of Ce3+ ions in G is 6.034 × 10−2 × 2 = 1.207 × 10−2 mol L−1.
+In 50.0 mL of solution F: 2.274 × 10−2 × 50.0
+1000 = 1.137 × 10−3 mol of Na2SiF6 was included.
+In 18.8 mL of solution G: 6.034 × 10−2 × 18.8
+1000 = 1.134 × 10−3 mol of Ce2(SO4)3 was included. Ac-
+cordingly, Na2SiF6 should react with Ce2(SO4)3 in a 1:1 ratio.
+Ans. Na2SiF6 + Ce2(SO4)3 + 4 H2O ⟶2 CeF3 + Si(OH)4 + Na2SO4 + 2 H2SO4
+ 
+5 points: (+1 points when “Na2SiF6 + Ce2(SO4)3” is written on the left side, and +2 points when “CeF3”
+is written on the right side of the equation; +1 points when “Si(OH)4” is written on the right side of
+the equation.) Full mark for showing ionic compounds, which soluble in water as ions/ion pairs such
+as NaHSO4, Na+, H+, and etc. (The calculation procedure is not necessary.)
+• Reaction of CCl4with Na2SiF6:
+(Substance losses by e.g. evaporation are negligible during the following operations.)
+Na2SiF6(𝑥[g]) was added to CCl4 (500.0 g) and heated to 300˚C in a sealed pressure-resistant reaction
+vessel. The unreacted Na2SiF6 and generated NaCl were removed by filtration. The filtrate was diluted
+to a total volume of 1.00 L with CCl4 (solution H). The 29Si and 19F NMR spectra of solution H showed SiF4
+as the only silicon compound. In the 19F NMR spectrum, in addition to SiF4, signals corresponding to
+CFCl3, CF2Cl2, CF3Cl, and CF4 were observed (cf. Table 1). The integration ratios in the 19F NMR spectrum
+are proportional to the number of fluorine nuclei.
+Table 1
+19F NMR data
+CFCl3
+CF2Cl2
+CF3Cl
+CF4
+Integration ratio
+45.0
+65.0
+18.0
+2.0
+SiF4 is hydrolyzed to form H2SiF6 according to the following eq. 8:
+Solution H (10 mL) was added to an excess amount of water, which resulted in the complete hydrolysis of
+SiF4. After separation, the H2SiF6 generated from the hydrolysis in the aqueous solution was neutralized
+and completely converted to Na2SiF6 (aqueous solution J).
+
+IChO
+Q5-7
+English (Official)
+The precipitate of unreacted Na2SiF6 and NaCl, which was removed by filtration in the initial step (under-
+lined), was completely dissolved in water to give an aqueous solution (solution K; 10.0 L).
+Then, additional precipitation titrations using solution G were carried out, and the endpoints of the titra-
+tions with G were as follows:
+·For solution J (entire amount): 61.6 mL.
+·For 100 mL of solution K: 44.4 mL.
+It should be noted here that the coexistence of NaCl or SiO2 has no effect on the precipitation titration.
+B.2
+Calculate the mass of the NaCl produced in the reaction vessel (information
+underlined), and calculate the mass (𝑥[g]) of the Na2SiF6 used as a starting
+material.
+15pt
+3 SiF4 + 2 H2O ⟶SiO2 + 2 H2SiF6
+The ratio of the consumed SiF4 and the generated H2SiF6 should be 3:2.
+As Na2SiF6 reacts with Ce2(SO4)3 in a 1:1 ratio, the amount of SiF 2–
+6
+in the aqueous solution J is
+(6.034 × 10–2 mol L−1) × (61.6 × 10−3 L) = 3.717 × 10–3 mol. Considering the equation shown above,
+10 mL of the diluted solution H contains 3.717 × 10–3 mol × 3
+2 = 5.576 × 10−3 mol of SiF4. Thus, 1.00
+L of diluted solution H contains 5.576 × 10–3 mol × 1000
+10
+= 5.576 × 10−1 mol of SiF4.
+The amount of fluorine atoms that replace the chlorine atoms of CCl4 should be twice the amount
+of SiF4 formed during the reaction. Thus, 2 × 0.5576 = 1.115 mol of F– should replace Cl– to result in
+the formation of NaCl. 1.115 mol × 58.44 g mol–1 = 65.17 g of NaCl was formed.
+Ans.: 65.2 g (NaCl)
+As Na2SiF6 reacts with Ce2(SO4)3 in a 1:1 ratio, the amount of SiF 2−
+6
+in 100 mL of aqueous solution
+K is 44.4 × 10−3 L × (6.034 × 10−2 mol L−1) = 2.679 × 10−3 mol. Accordingly, the residual amount
+of Na2SiF6 in 10.0 L of aqueous solution K is 2.679 × 10−3 mol × 10.0 L
+100 mL = 0.2679 mol. In total, the
+amount of Na2SiF6 used as a starting material is (0.2679 mol + 0.5576 mol) × 188.0 g mol–1 = 155.2 g
+Ans.: 155 g (Na2SiF6)
+ 
+15 points in total:
+·10 points for the correct amount of NaCl:
++3 points for the amount of SiF 2–
+6
+in solution J (3.717 × 10–3mol)
++2 point for the amount of SiF4 in 10 mL of the diluted solution H (5.576 × 10−3 mol)
++2 point for the amount of SiF4 in 1.00 L of the solution H (5.576 × 10−1 mol)
++2 points for the amount of NaCl in mol (1.115mol)
++1 point when the amount of NaCl is shown in gram.
+·5 points for the correct amount of Na2SiF6:
++2 points for the amount of SiF 2–
+6
+in solution K (2.68 × 10–3mol)
++1 point for the amount of SiF 2–
+6
+before dilution to prepare solution K (2.68 × 10–1mol)
++1 point for the addition of the amount of SiF4 in solution H (8.26 × 10–1mol)
++1 for answering the initial amount of Na2SiF6 in [g].
+B.3
+77.8% of the CCl4 used as a starting material was unreacted. Calculate the mass
+of CF3Cl generated.
+8pt
+
+IChO
+Q5-8
+English (Official)
+500.0 g = 3.250 mol of CCl4 was initially used as a starting material. Thus, the amount of the products
+that contain at least one F atom is 3.250 mol × 0.222 = 0.721 mol.
+The ratio of integrals in the 19F NMR spectrum is CFCl3 ∶CF2Cl2 ∶CF3Cl ∶CF4 = 45.0 : 65.0 : 18.0
+:
+2.0.
+Thus, the mole ratio of these compounds should be CFCl3 ∶CF2Cl2 ∶CF3Cl ∶CF4 = 45.0
+:
+32.5 :
+6.0 :
+0.5 = 90 :
+65 :
+12 :
+1.
+Accordingly, the amount of CF3Cl (104.46 g mol–1) is
+0.721 mol ×
+12
+90 + 65 + 12 + 1 = 0.0515 mol = 0.0515 × 104.46 g = 5.38 g
+Ans.: 5.38 g
+ 
+8 points: (6 points for the answer in [mol]; 4 points for the correct molar ratio of substances
+CFCl3 ∶CF2Cl2 ∶CF3Cl ∶CF4 = 90 : 65 : 12 : 1).
+
+IChO
+Q6-1
+English (Official)
+The Solid-State Chemistry of Transition Metals
+13 % of the total
+Question
+A.1
+A.2
+A.3
+B.1
+B.2
+B.3
+B.4
+C.1
+C.2
+C.3
+Total
+Points
+6
+3
+3
+6
+4
+4
+4
+5
+5
+5
+45
+ 
+Score
+ 
+ 
+ 
+ 
+Volcano at Sakurajima island
+Part A
+Japan is one of the countries with the highest numbers of volcanos worldwide. When silicate minerals
+crystallize from magma, a part of the transition-metal ions (Mn+) in the magma is incorporated into the
+silicate minerals. The Mn+ studied in the problem are coordinated by oxide ions (O2−) and adopt a four-
+coordinate tetrahedral (𝑇d) geometry in the magma and six-coordinate octahedral (𝑂h) geometry in the
+silicate minerals, both of which exhibit a high-spin electron configuration. The distribution coefficient of
+Mn+ between the silicate minerals and magma, 𝐷, can be expressed by:
+where [M]s and [M]l are the concentrations of Mn+ in the silicate minerals and the magma, respectively.
+The table below shows the 𝐷values of Cr2+and Mn2+ as examples.
+
+IChO
+Q6-2
+English (Official)
+Let ΔO and CFSEO be the energy separation of the d-orbitals of Mn+ and the crystal-field stabilization
+energy in a 𝑂h field, respectively. Let ΔT and CFSET be those in a 𝑇d field.
+A.1
+Calculate |CFSEO−CFSET| = ΔCFSE in terms of ΔO for Cr2+, Mn2+, and Co2+;
+assume ΔT = 4/9ΔO.
+6pt
+The d-orbitals of a six-coordinate octahedral complex split into two groups eg (d𝑥2−𝑦2, d𝑧2), and t2g
+(d𝑥𝑦, d𝑦𝑧, d𝑧𝑥) with an energy separation of ΔO. The energies of the eg and t2g orbitals relative to the
+barycenter are +0.60ΔO and –0.40ΔO, respectively. Likewise, the d-orbitals of a four-coordinate tetra-
+hedral complex split into two groups t2 (d𝑥𝑦, d𝑦𝑧, d𝑧𝑥) and e (d𝑥2−𝑦2, d𝑧2) with an energy separation
+of ΔT. The energies of the t2 and e orbitals relative to the barycenter are +0.40ΔT and –0.60ΔT, re-
+spectively. Therefore, in the case of a high-spin electron configuration, CFSEO and CFSET for Cr2+
+(3d4 ∶t2g
+3eg
+1 or e2t2
+2) are –0.60ΔO and –0.40ΔT (= –0.18ΔO), respectively. CFSEO and CFSET for Mn2+
+(3d5 ∶t2g
+3eg
+2 or e2t2
+3) are both zero. CFSEO and CFSET for Co2+ (3d7 ∶t2g
+4eg
+3 or e4t2
+3) are –0.80ΔO
+and –1.2ΔT (= –0.53ΔO), respectively. Accordingly, |CFSEO−CFSET| = ΔCFSE values for each metal ion
+are,
+Cr2+: |–0.60ΔO – (–0.18ΔO)| = 0.42ΔO, Mn2+: 0, Co2+: |–0.80ΔO – (–0.53ΔO)| = 0.27ΔO
+ 
+6 points in total: 2 points each for ΔCFSE of the three divalent metal ions.
+A.2
+A linear relationship is observed by plotting ln𝐷against ΔCFSE / ΔO in the Carte-
+sian coordinate system shown below.
+Estimate 𝐷for Co2+.
+3pt
+
+IChO
+Q6-3
+English (Official)
+The coordinates of Mn2+ and Cr2+ are (0, 0.095) and (0.42, 1.97), respectively. The linear regression
+line calculated from these coordinates would be
+y = 4.46x + 0.100
+ΔCFSE of Co2+ is 0.27ΔO
+Therefore, 𝐷= exp(4.46 × 0.27 + 0.100) = 3.68 (= 3.7)
+ 
+Whether the graph is drawn does not affect grading.
+If the coordinates of Mn2+ and Cr2+ are correctly plotted and the 𝐷is estimated with guide of the
+graph, full mark is given.
+3 points for the calculation of 𝐷.
+Partial credit of 2 points if the ln𝐷is correctly estimated from the linear regression line or the graph.
+If the intercept of the linear regression line is assumed as zero (i.e., Mn2+ is at the origin of the
+coordinate), full mark is given.
+In order to avoid double punishment with A.1: If the answers of A.1 were wrong but the coordinates
+of Mn2+ and Cr2+ are correctly plotted in the graph (or simultaneous equations are given) according
+to the answers of A.1, and 𝐷of Co2+ is correctly estimated from ln𝐷assuming a linear relationship,
+full mark is given.
+Metal oxides MO (M: Ca, Ti, V, Mn, or Co) crystallize in a rock-salt structure wherein the Mn+ adopts an 𝑂h
+geometry with a high-spin electron configuration. The lattice enthalpy of these oxides is mainly governed
+by the Coulomb interactions based on the radius and charge of the ions and some contributions from
+the CFSE of Mn+ in the 𝑂hfield.
+
+IChO
+Q6-4
+English (Official)
+A.3
+Choose the appropriate set of lattice enthalpies [kJ mol−1] from one of the op-
+tions (a) to (f).
+3pt
+The lattice enthalpy is determined by the Coulomb interactions, which are proportional to the prod-
+uct of the valences of the constituent ions and inversely proportional to the sum of the ionic radii.
+As the target compounds are oxides of divalent metal ions, we should consider the ionic radii of the
+metal ions. The radii of divalent metal ions within the same period decrease with increasing atomic
+number. Let us compare the lattice enthalpies of CaO and MnO with no contribution from the CFSE:
+The ionic radius of Mn2+ is smaller than that of Ca2+, and therefore, the lattice enthalpy is higher for
+MnO. So, the participants should choose (a), (b), or (c). Then, let us compare the lattice enthalpies of
+TiO (d2) and VO (d3): The ionic radius of V2+ is smaller than that of Ti2+, and the CFSE is higher for VO
+than for TiO. Accordingly, the lattice enthalpy is also higher for VO. Based on these observations, the
+answer should be (a) or (c). Finally, let us compare the lattice enthalpies of TiO (d2) and CoO (d7): The
+ionic radius of Co2+ is smaller than that of Ti2+, while their CFSEs are equal. Thus, the lattice enthalpy
+is higher for CoO. Thus, the correct answer is (a). Partial credit is given for (b) and (c).
+ 
+3 points for the correct answer (a). Partial credit of 2 points for (c) and 1 point for (b).
+Part B
+A mixed oxide A, which contains La3+ and Cu2+, crystallizes in a tetragonal unit cell shown in Fig.1. In the
+[CuO6] octahedron, the Cu–O length along the z-axis (𝑙𝑧) is longer than that of the x-axis (𝑙𝑥), and [CuO6]
+is distorted from the regular 𝑂h geometry. This distortion removes the degeneracy of the eg orbitals
+(d𝑥2−𝑦2 and d𝑧2).
+
+IChO
+Q6-5
+English (Official)
+Fig. 1
+A can be synthesized by thermal decomposition (pyrolysis) of complex B, which is formed by mixing metal
+chlorides in dilute aqueous ammonia solution containing squaric acid C4H2O4, i.e., a diacid. The pyrolysis
+behavior of B in dry air shows a weight loss of 29.1% up to 200 °C due to the loss of crystallization water,
+followed by another weight loss up to 700 °C due to the release of CO2. The total weight loss during the
+formation of A from B is 63.6%. It should be noted that only water and CO2 are released in the pyrolysis
+reaction.
+B.1
+Write the chemical formulae for A and B.
+6pt
+The unit cell shown in Fig. 1 contains four La3+, two Cu2+, and eight O2−ions. Therefore, A: La2CuO4.
+As the formula weight of La2CuO4 is 405.3, that of B should be 1113.5 considering the following
+equation: 405.3 ÷ (1 – 0.636). Given that the weight loss due to crystallization water is 29.1%, the
+number of molecules of crystallization water is 18.00 considering the following equation: (1113.5
+× 0.291) ÷ 18 (18H2O; M = 324). Complex B is a trinuclear complex that consists of two La3+ and
+one Cu2+ ions. Considering that the synthetic solution is basic, the squaric acid is deprotonated and
+coordinates to the metal ion as C4O4
+2−. The number of squaric acid molecules is 4.00 based on the
+following equation: (1113.5 – 138.9 × 2 – 63.5 – 324) ÷ 112 (C4O4
+2−; M = 112). B: La2Cu(C4O4)4(H2O)18
+(La2CuC16O34H36)
+ 
+6 points in total (2 and 4 points for A and B, respectively). Partial credit of 2 points for the correct
+number of crystallization water (La2Cu(H2O)18) for B. (full marks are also given for A: La4Cu2O8 and
+B: La4Cu2(C4O4)8(H2O)36 (La4Cu2C32O68H72), which correspond to the numbers of elements in the
+unit cell)
+B.2
+Calculate 𝑙𝑥and 𝑙𝑧using Fig. 1.
+4pt
+
+IChO
+Q6-6
+English (Official)
+𝑙𝑥: 0.3833 ÷ 2 = 0.1917 (= 0.192 nm).
+𝑙𝑧: (1.3313 – 0.2520 × 2) ÷ 4 = 0.2068 (= 0.207 nm)
+ 
+4 points in total (2 points for each correct answer).
+B.3
+For Cu2+ in the distorted [CuO6] octahedron in A of Fig. 1, write the names of the
+split eg orbitals (d𝑥2−𝑦2 and d𝑧2) in (i) and (ii), and draw the electron configuration
+in the dotted box in your answer sheet.
+4pt
+(i) d𝑥2−𝑦2 , (ii) d𝑧2
+4 points in total: 2 points for the correct names of the orbitals in (i) and (ii), and 2 points for the correct
+electron configuration in the dotted box. Full mark is given even spin up and down directions of the
+electrons are not shown (the electrons can be shown in arrows, lines, circles etc.).
+A is an insulator. When one La3+ is substituted with one Sr2+, one hole is generated in the crystal lattice
+that can conduct electricity. As a result, the Sr2+-doped A shows superconductivity below 38 K. When a
+substitution reaction took place for A, 2.05 × 1027 holes m−3 were generated.
+B.4
+Calculate the percentage of Sr2+ substituted for La3+ based on the mole ratio
+in the substitution reaction. Note that the valences of the constituent ions and
+the crystal structure are not altered by the substitution reaction.
+4pt
+The corresponding reaction equation, where the amount of Sr2+ is x%, is:
+La2CuO4 + (2x/100)Sr2+ →[La2(1−x/100)Sr(2x/100)CuO4](2x/100)−+ (2x/100)La3+
+The charge of [La2(1−x/100)Sr(2x/100)CuO4] is negative, and the amount of doped holes is (2x/100)h+
+per mole. The volume of the unit cell is 0.38332 × 1.3313 = 0.1956 nm3. The unit cell contains four
+La3+, two Cu2+, and eight O2−ions, i.e., the unit contains two La2CuO4. Accordingly, the number of
+holes per unit cell is (4x/100).
+Since the concentration of holes is the number of holes divided by the unit cell volume, the following
+equation is satisfied: (4x/100)/(0.1956 × 10−27) = 2.05 × 10−27, x = 10%
+Alternative answer without giving the substitution reaction; density of La3+ in the unit cell
+4/(0.38332 × 1.3313) = 20.45 nm−3
+Density of holes in the unit cell is 2.05 nm−3
+Therefore, the percentage of substitution is 2.05/20.45 × 100 = 10%
+ 
+4 points for the correct answer; whether the substitution reaction is given does not affect grading;
+partial credit of 1 point for 20% (forgetting that the unit cell contains two La2CuO4).
+
+IChO
+Q6-7
+English (Official)
+Part C
+Cu2(CH3CO2)4 is composed of four CH3CO2
+−coordinated to two Cu2+ (Fig. 2A). Cu2(CH3CO2)4 exhibits
+high levels of structural symmetry, with two axes passing through the carbon atoms of the four CH3CO2
+−
+and an axis passing through the two Cu2+, all of which are oriented orthogonal relative to each other.
+When a dicarboxylate ligand is used instead of CH3CO2
+−, a “cage complex” is formed. The cage com-
+plex Cu4(L1
+L1
+L1)4 is composed of planar dicarboxylate L1 (Fig. 2B) and Cu2+ (Fig. 2C). The angle θ between
+the coordination directions of the two carboxylates, indicated by the arrows in Fig. 2B, determines the
+structure of the cage complex. The θ is 0° for L1. Note that hydrogen atoms are not shown in Fig. 2.
+Fig. 2
+C.1
+The θ of the planar dicarboxylate L2 below is fixed to 90˚. If the composition
+of the cage complex formed from L2 and Cu2+ is Cu𝑛(L2
+L2
+L2)𝑚, give the smallest
+integer combination of n and m. Assume that only the CO2
+−groups of L2 form
+a coordination bond to Cu2+ ions.
+5pt
+
+IChO
+Q6-8
+English (Official)
+n = m = 12
+ 
+5 points in total. Partial credit of 2 points for all answers with n : m = 1 : 1 (charge neutrality is
+satisfied but Cu2+ would not be 4-coordinate) or n = 6, m = 12 (Cu2+ is 4-coordinate but the complex
+would be an anion).
+A zinc complex, Zn4O(CH3CO2)6, contains four tetrahedral Zn2+, six CH3CO2
+−, and one O2−(Fig. 3A). In
+Zn4O(CH3CO2)6, the O2−is located at the origin, and the three axes passing through the carbon atoms of
+CH3CO2
+−are oriented orthogonal relative to each other. When p-benzenedicarboxylate (Fig. 3B, L3, θ =
+180°) is used instead of CH3CO2
+−, the Zn2+ clusters are linked to each other to form a crystalline solid (X)
+that is called a “porous coordination polymer” (Fig. 3C). The composition of X is [Zn4O(L3
+L3
+L3)3]𝑛, and it has
+a cubic crystal structure with nano-sized pores. One pore is represented as a sphere in Fig. 3D, and each
+tetrahedral Zn2+ cluster is represented as a dark gray polyhedron in Fig. 3C and 3D. Note that hydrogen
+atoms are not shown in Fig. 3.
+
+IChO
+Q6-9
+English (Official)
+Fig. 3
+C.2
+X has a cubic unit cell with a side length of 𝑎(Fig. 3C) and a density of 0.592
+g cm−3. Calculate 𝑎in [cm].
+5pt
+The molecular weight of Zn4O(L3
+L3
+L3)3 is 770.
+According to Figure 3C, there are eight Zn4O(L3
+L3
+L3)3 units in the unit cell. Therefore, the molecular
+weight per unit cell can be calculated as 770 × 8 = 6160.
+The weight of the unit cell is 6160 ÷ 𝑁A = 1.02 × 10−20 g
+Let the length of the side of the unit cell be 𝑎[cm], then, (1.02 × 10−20) g / 𝑎3 [cm3] = 0.592 g cm−3.
+𝑎= 2.6 × 10−7 cm
+ 
+5 points in total.
+Partial credit of 3 points for the correct formulation to derive the molecular weight of the unit cell; 2
+points for the correct value of 𝑎.
+ 
+C.3
+X contains a considerable number of pores, and 1 g of X can accommodate
+3.0 × 102 mL of CO2 gas in the pores at 1 bar and 25 °C. Calculate the average
+number of CO2 molecules per pore.
+5pt
+
+IChO
+Q6-10
+English (Official)
+There is one pore per Zn4O(L3
+L3
+L3)3 unit.
+Number of pores [mol] per 1 [g] of X: 1 [g] / 770 = 0.00130.
+Based on the ideal gas equation, 3.0 × 102 [mL] of adsorbed CO2 corresponds to:
+(1 × 105 [Pa] × 3.0 × 10−4 [m3]) / (8.31 × 298 [K]) = 0.0121 [mol] of CO2.
+Therefore, 0.0121 ÷ 0.00130 = 9.3 molecules of CO2 per pore.
+ 
+5 points in total.
+Partial credit of 3 points for the correct formulation to calculate the number of pores in 1 g; 2 points
+for the correct calculation of the number of molecules of CO2 per pore.
+
+IChO
+Q7-1
+English (Official)
+Playing with Non-benzenoid Aromaticity
+13 % of the total
+Question
+A.1
+A.2
+A.3
+B.1
+Total
+Points
+5
+2
+19
+10
+36
+ 
+Score
+ 
+ 
+ 
+ 
+Prof. Nozoe (1902–1996) opened the research field of non-benzenoid aromatic compounds, which are
+now ubiquitous in organic chemistry.
+Photo courtesy: Tohoku Univ.
+Part A
+Lineariifolianone is a natural product with a unique structure, which was isolated from Inula linariifolia.
+From valencene (1), a one-step conversion yields 2, before a three-step conversion via 3 yields ketone 4.
+Eremophilene (5) is converted into 6 by performing the same four-step conversion.
+
+IChO
+Q7-2
+English (Official)
+Inula linariifolia
+A.1
+Draw the structures of 2 and 6 and clearly identify the stereochemistry where
+necessary.
+5pt
+
+IChO
+Q7-3
+English (Official)
+2 (2 pt in total):
+–1 pt for missing double bond,
+–1 pt for stereochemistry error.
+ 
+6 (3 pt in total):
+–1 pt for missing double bond,
+–2 pt for stereochemistry error.
+Then, ketone 4 is converted into ester 15. Compound 8 (molecular weight: 188) retains all the stereocen-
+ters in 7. Compounds 9 and 10 have five stereocenters and no carbon-carbon double bonds. Assume
+that H2
+18O is used instead of H2
+16O for the synthesis of 18O-labelled-lineariifolianones 13 and 14 from 11
+and 12, respectively. Compounds 13 and 14 are 18O-labelled isotopomers. Ignoring isotopic labelling,
+both 13 and 14 provide the same product 15 with identical stereochemistry.
+
+IChO
+Q7-4
+English (Official)
+
+IChO
+Q7-5
+English (Official)
+A.2
+Choose the appropriate structure for A.
+2pt
+III
+A is reacted with the potassium enolate of 4, thus I, II, IV are inappropriate because these reagents
+have acidic protons.
+2 pt in total
+others: 0 pt
+A.3
+Draw the structures of 8–14 and clearly identify the stereochemistry where nec-
+essary. Also, indicate the introduced 18O atoms for 13 and 14 as shown in the
+example below.
+19pt
+
+IChO
+Q7-6
+English (Official)
+
+IChO
+Q7-7
+English (Official)
+8 (3 pt in total):
+–1 pt each for missing one double bond or drawing an allene instead of an alkyne,
+0 pt for incorrect planar structure,
+-2 pt for an opposite stereochemistry next to the alkyne,
+-2 pt for other stereochemistry errors.
+ 
+9–12 (2 pt each, 8 pt in total):
+–1 pt each for missing atoms (e.g., fluorine atom, oxygen of epoxide),
+-1 pt for stereochemistry error,
+Two sets of compounds 9, 11, 13 and 10, 12, 14 are interconvertible,
+ 
+Structures of 13 and 14/18O labelling on hydroxy groups of 13 and 14 (3 pt each, 6 pt in total):
+-1 pt each for incorrect or unclear 18O labelling on the diol moiety,
+-1 pt each for incomplete transformation (diol only, ketone only),
+0 pt for incorrect planar structure other than the above,
+-2 pt for stereochemistry error.
+ 
+18O labelling on carbonyl group of 13 and 14 (1 pt each, 2 pt in total):
+0 pt when 18O is incorporated in the carbonyl group of neither 13 nor 14.
+
+IChO
+Q7-8
+English (Official)
+Part B
+Compound 19 is synthesized as shown below. In relation to non-benzenoid aromaticity, 19 can be used
+as an activator for alcohols, and 20 was converted to 22 via ion-pair intermediate 21. Although the
+formation of 21 was observed by NMR, 21 gradually decomposes to give 18 and 22.
+B.1
+Draw the structures of 17–19 and 21. Identifying the stereochemistry is not
+necessary.
+10pt
+
+IChO
+Q7-9
+English (Official)
+17 (2 pt in total):
+stereochemistry is ignored,
+0 pt for bromination on aryl ring.
+ 
+18 (2 pt in total):
+ 
+19 (3 pt in total):
+Full mark for ionic structure.
+ 
+21 (3 pt in total):
+–1 pt when Cl−is omitted,
+–1 pt when C–Cl is covalent,
+–1 pt each for other errors on connectivity,
+–1 pt when the alkoxide and chlorocyclopropenium are given.
+
+IChO
+Q8-1
+English (Official)
+Dynamic Organic Molecules and Their Chirality
+11 % of the total
+Question
+A.1
+A.2
+A.3
+B.1
+B.2
+Total
+Points
+9
+3
+7
+3
+4
+26
+ 
+Score
+ 
+ 
+ 
+ 
+Part A
+Polycyclic aromatic hydrocarbons with successive ortho-connections are called [n]carbohelicenes (here,
+n represents the number of six-membered rings) (see below). [4]Carbohelicene ([4]C) is efficiently pre-
+pared by a route using a photoreaction as shown below, via an intermediate (Int.) that is readily oxidized
+by iodine.
+The photoreaction proceeds in a manner similar to the following example.
+
+IChO
+Q8-2
+English (Official)
+Note: For all of Question 8, please draw alternating single and double bonds in your answers to
+the problems as depicted in the examples of carbohelicene. Do not use circles for conjugated 𝜋
+𝜋
+𝜋
+systems.
+A.1
+Draw the structures of A–C. Stereoisomers should be distinguished.
+9pt
+3 points each. When B and C are reversed, give 1 point each. When missing double bonds in B and
+C, -1 point each.
+If B is blank and C is the trans-isomer (i.e. B), give 2 points for C.
+-1 point for each "circled" answer (this is applied for all the following questions in Q8)
+A.2
+Attempts to synthesize [5]carbohelicene from the same phosphonium salt and
+an appropriate starting compound resulted in the formation of only a trace
+amount of [5]carbohelicene, instead affording product D whose molecular
+weight was 2 Da lower than that of [5]carbohelicene. The 1H NMR chemical
+shifts of D are listed below. Draw the structure of D.
+[D (𝛿, ppm in CS2, r.t.), 8.85 (2H), 8.23 (2H), 8.07 (2H), 8.01 (2H), 7.97 (2H), 7.91
+(2H)]
+3pt
+
+IChO
+Q8-3
+English (Official)
+Structural isomer D’: 1 point
+Structural isomer D’’: 1 point
+  Any careless mistakes such as contamination with sp3 carbons: -1 point each.
+
+IChO
+Q8-4
+English (Official)
+[5]- and larger [n]carbohelicenes have helical chirality and interconversion between enantiomers of these
+helicenes is significantly slow at room temperature. The chirality of [n]carbohelicenes is defined as (M)
+or (P) as shown below.
+[n]Carbohelicenes with n larger than 4 can be enantiomerically separated by a chiral column chromatog-
+raphy, which was developed by Prof. Yoshio Okamoto.
+Photo courtesy: The Japan Prize Foundation
+Multiple helicenes are molecules that contain two or more helicene-like structures. If its helical chirality
+is considered, several stereoisomers exist in a multiple helicene. For example, compound E contains
+three [5]carbohelicene-like moieties in one molecule. One of the stereoisomers is described as (P, P, P)
+as shown below.
+
+IChO
+Q8-5
+English (Official)
+A.3
+The nickel-mediated trimerization of 1,2-dibromobenzene generates tripheny-
+lene. When the same reaction is applied to an enantiomer of F, (P)-F, multiple
+helicene G (C66H36) is obtained. Given that interconversion between stereoiso-
+mers does not occur during the reaction, identify all the possible stereoiso-
+mers of G formed in this process, without duplication. As a reference, one iso-
+mer should be drawn completely with the chirality defined as in the example
+above, with numerical labels; the other stereoisomers should be listed with lo-
+cation numbers and M and P labels according to the same numbering. For in-
+stance, the other stereoisomers of E should be listed as (1, 2, 3) = (P, M, P), (P,
+M, M), (P, P, M), (M, M, M), (M, M, P), (M, P, P), and (M, P, M).
+7pt
+
+IChO
+Q8-6
+English (Official)
+A representative example
+One structure should be drawn fully; chemical structure (2 points) and its stereochemistry (1 point
+for the original chirality (outside), 1 point for the new chirality (inside))
+For the other three isomers (1 point each).
+Overcount (answering the same stereochemistry multiple times for an isomer) (-1 point each; this
+reduction is applied repeatedly up to 4 times).
+0 points if no representative structure is drawn.
+
+IChO
+Q8-7
+English (Official)
+Part B
+Sumanene is a bowl-shaped hydrocarbon that was first reported in Japan in 2003. The name "sumanene"
+derives from a Sanskrit-Hindi word "suman" that means sunflower. The synthesis of sumanene was
+achieved by a reaction sequence that consists of a ring-opening and a ring-closing metathesis.
+Representative metathesis reactions catalyzed by a ruthenium catalyst (Ru*) are shown below.
+B.1
+Draw the structure of intermediate I (its stereochemistry is not required).
+3pt
+
+IChO
+Q8-8
+English (Official)
+Double bond saturation (such as I’): 0 points.
+Any careless mistakes such as contamination with wrong sp2 carbon atoms: -1 point each.
+Any different carbon frameworks: 0 points.
+
+IChO
+Q8-9
+English (Official)
+B.2
+Starting from the optically active precursor J, the same reaction sequence gives
+the optically active sumanene derivative K. The stereocenters in J suffer no in-
+version during the metathesis reaction. Draw the structure of K with the ap-
+propriate stereochemistry.
+4pt
+No stereochemistry: 1 point.
+The other enantiomer: 2 points.
+Lower-symmetry structure (Me at a different position): 0 points.
+
+IChO
+Q9-1
+English (Official)
+Likes and Dislikes of Capsule
+10 % of the total
+Question
+A.1
+A.2
+A.3
+A.4
+A.5
+Total
+Points
+13
+2
+2
+3
+3
+23
+ 
+Score
+ 
+ 
+ 
+ 
+Good kids don’t do this, but if you unseam a tennis ball, you can disassemble it into two U-shaped pieces.
+Based on this idea, compounds 1 and 2 were synthesized as U-shaped molecules with different sizes.
+Compound 3 was prepared as a comparison of 1 and the encapsulation behavior of these compounds
+was investigated.
+
+IChO
+Q9-2
+English (Official)
+The synthetic route to 2 is shown below. The elemental composition of compound 9: C; 40.49%, H; 1.70%,
+and O; 17.98% by mass.
+
+IChO
+Q9-3
+English (Official)
+A.1
+Draw the structures of 4–9; the stereochemistry can be neglected. Use "PMB"
+as a substituent instead of drawing the whole structure of p-methoxybenzyl
+group shown in the scheme above.
+13pt
+
+IChO
+Q9-4
+English (Official)
+4 (2 pt)
+5 (3 pt)
+ 
+ 
+6 (2 pt)
+ 
+ 
+7 (2 pt)
+ 
+ 
+ 
+8 (2 pt)
+ 
+ 
+9 (2 pt)
+ 
+ 
+ 
+·2 points for the correct structures of compounds 4 and 6-9.
+·3 points for the correct structure of compound 5.
+·For compounds 4-9, any careless mistakes such as the wrong number of carbons or forgetting to
+write double or triple bonds: -1 point each.
+·For compound 6, 1 point for structures that show the reduced double bond in a different position.
+·Full mark will be given if a structure of p-methoxybenzyl group is drawn instead of using PMB.
+· minimum score: 0 points.
+In the mass spectrum of 1, the ion peak corresponding to its dimer (1
+1
+12) was clearly observed, whereas
+
+IChO
+Q9-5
+English (Official)
+an ion peak for 3
+3
+32 was not observed in the spectrum of 3. In the 1H NMR spectra of a solution of 1
+1
+12,
+all the NH protons derived from 1 were observed to be chemically equivalent, and their chemical shift
+was significantly different from that of the NH protons of 3. These data indicate that hydrogen bonds
+are formed between the NH moieties of 1 and atoms X of another molecule of 1 to form the dimeric
+capsule.
+A.2
+Circle all the appropriate atom(s) X in 1.
+2pt
+2 points for the correct answer
+A.3
+Give the number of the hydrogen bonds in the dimeric capsule (1
+1
+12).
+2pt
+8 (because 8 NH protons were observed equally in the 1H NMR spectrum of the dimer.)
+2 points for the correct answer.
+The dimeric capsule of 1 (1
+1
+12) has an internal space wherein an appropriate small molecule Z can be
+encapsulated. This phenomenon is expressed by the following equation:
+The equilibrium constant of the encapsulation of Z into 1
+1
+12 is given as below:
+Encapsulation of a molecule into a capsule could be monitored by NMR spectroscopy. For example, 1
+1
+12
+in C6D6 gave different signals in the 1H NMR spectra before and after addition of CH4.
+Compound 2 also forms a rigid and larger dimeric capsule (2
+2
+22). The 1H NMR spectrum of2
+2
+22 was measured
+in C6D6, C6D5F, and a C6D6/C6D5F solvent mixture, with all other conditions being kept constant. The
+chemical shifts for the Ha proton of 2 in the above solvents are summarized below, and no other signals
+from the Ha in 2, except for the listed, were observed. Assume that the interior of the capsule is always
+filled with the largest possible number of solvent molecules and that each signal corresponds to one
+species of the filled capsule.
+
+IChO
+Q9-6
+English (Official)
+solvent
+𝛿(ppm) of Ha
+C6D6
+4.60
+C6D5F
+4.71
+C6D6 / C6D5F
+4.60, 4.71, 4.82
+A.4
+Determine the number of C6D6 and C6D5F molecules encapsulated in 2
+2
+22 giving
+each Ha signal.
+3pt
+1 point for the correct number of encapsulated C6D6 and C6D5F molecules for each NMR signal.
+𝛿(ppm) of Ha
+numbers of C6D6
+numbers of C6D5F
+4.60 ppm
+2
+0
+4.71 ppm
+0
+2
+4.82 ppm
+1
+1
+The observation of the third signal in the mixed solvent indicates that two solvent molecules are
+initially encapsulated in the capsule. Thus, the signal at 4.82 ppm is ascribed to a capsule containing
+one molecule of C6D6 and one molecule of C6D5F.
+1H NMR measurements in C6D6 revealed that2
+2
+22 can incorporate one molecule of 1-adamantanecarboxylic
+acid (AdA), and the association constants (𝐾a) which are expressed below were determined for various
+temperatures. [solvent@2
+2
+22] denotes a species containing one or more solvent molecules.
+Similarly, the 𝐾a values of CH4 and 1
+1
+12 given as eq (2) at various temperatures in C6D6 were also deter-
+mined by 1H NMR measurements. The plots of the two association constants (as ln 𝐾a vs 1/T) are shown
+below.
+
+IChO
+Q9-7
+English (Official)
+No C6D6 molecule is encapsulated in 1
+1
+12. In line II, the entropy change (Δ𝑆) is ( 1 ) and enthalpy change
+(Δ𝐻) is ( 2 ), indicating that the driving force for the encapsulation in line II is ( 3 ). Therefore, line I
+corresponds to ( 4 ), and line II corresponds to ( 5 ).
+A.5
+Choose the correct options in gaps (1)–(5) in the following paragraph from A
+and B.
+A
+B
+(1)
+positive
+negative
+(2)
+positive
+negative
+(3)
+Δ𝑆
+Δ𝐻
+(4)
+1
+1
+12 and CH4
+2
+2
+22 and AdA
+(5)
+1
+1
+12 and CH4
+2
+2
+22 and AdA
+3pt
+(1): A
+(2): A
+(3): A
+(4): A
+(5): B
+3 points in total
+2 points for correct answers for (1)-(3).
+1 point for correct answers for (4) and (5).
+No points when the former part ((1)-(3)) is incorrect even if the latter part ((4) and (5)) is correct.
+ 
+ Transforming Δ𝐺= −𝑅𝑇ln 𝐾𝑎= Δ𝐻−𝑇Δ𝑆gives
+ln 𝐾𝑎= −Δ𝐻
+𝑅𝑇+ Δ𝑆
+𝑅
+(If Δ𝐻is negative, the slope is positive; if the y-intercept is negative, Δ𝑆is negative.)
+The relationship between 1
+1
+12 and CH4 is that the entropy change is unfavorable (Δ𝑆< 0) given that
+the two components become one component. Nevertheless, the encapsulation of CH4 occurs (Δ𝐺<
+0), indicating that the enthalpy change is exothermic and favorable (Δ𝐻< 0). This result indicates a
+plot with a positive slope and a negative y-intercept for 1
+1
+12 and CH4.
+Therefore, the plot with a negative slope (Δ𝐻> 0) and positive y-intercept (Δ𝑆> 0) is 2
+2
+22 and AdA.
+This is due to the release of the two molecules of C6D6 that were initially encapsulated and the en-
+capsulation of one molecule of AdA.

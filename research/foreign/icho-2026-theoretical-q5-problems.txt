@@ -1,0 +1,90 @@
+Theory
+Q5-1
+English (Official)
+T5. Cardiolipins
+6%
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+Σ
+1
+6
+4
+2
+2
+3
+18
+In this problem you are asked to be creative and build molecules from fragments. For instance, if you
+are required to draw a chiral phospholipid such as W using fragments a-e, it can be assembled as shown
+below.
+Cardiolipins are a family of acyclic phospholipids differing in fatty acid residues. They are essential for
+energy production and membrane stability. Defects can lead to certain diseases. PL1 belongs to this
+family. Using only the structural elements a-d in the quantities stated below, it is possible to assemble
+the non-ionised form of PL1. R is a hydrocarbon substituent in the fatty acid structure.
+PL1 does not contain any peroxide bonds.
+5.1
+Tick one correct statement regarding the value of n (number of type a frag-
+ments).
+(a) n is an even number,
+(b) n is an odd number,
+(c) n can be either an odd or an even number.
+1.0 pt
+Some cardiolipins are chiral molecules, even if they contain four identical fatty acid residues, as in the case
+of PL1. One enantiomer of PL1 is found in prokaryotes and eukaryotes, and the other only in archaea. All
+other diastereomers of PL1 are achiral molecules, since they have a plane of symmetry. Do not consider
+the chirality of phosphorus atoms as stereocentres.
+PL1 is a diprotic acid with the same acidic groups.
+Its second deprotonation is less favourable
+(𝑝𝐾𝑎2 ≫𝑝𝐾𝑎1) due to the special, stable structure of monoanion Y.
+
+Theory
+Q5-2
+English (Official)
+5.2
+Draw the structure of one enantiomer of PL1. Draw the structure of Y in a way
+that shows the stabilisation that explains the difference between 𝑝𝐾𝑎1 and
+𝑝𝐾𝑎2. Use the abbreviation R for the fatty acid residues.
+6.0 pt
+A series of experiments was conducted to identify the fatty acid (RCOOH) in PL1 found predominantly
+in mammalian hearts. During reductive ozonolysis, RCOOH forms three different organic products in
+equimolar amounts.
+5.3
+Determine the molecular formula of the fatty acid (RCOOH), if the non-ionised
+form of PL1 contains 255 𝜎and 𝜋bonds between atoms in total. Support your
+answer with calculations.
+If you were unable to find the structural formula of PL1, you can use a-d fragments
+from 5.1.
+4.0 pt
+100 g of RCOOH reacts with 181.0 g of iodine. RCOOH also reacts in similar way with X and forms an
+adduct with an iodine mass fraction of 36.57%.
+5.4
+Determine the molecular formula of X. Support your answer with calculations.
+2.0 pt
+The phase behavior of PL1 depends on pH. In physiological conditions, PL1 is a dianion and it forms a
+lamellar phase.
+5.5
+Which lipid phase is formed by PL1 when both acid residues in it are protonated?
+Note that knowledge of PL1 structure is not required to solve this question.
+Tick the correct answer.
+(a) micellar
+(b) lamellar
+(c) hexagonal
+(d) inverse
+hexagonal
+2.0 pt
+
+Theory
+Q5-3
+English (Official)
+The following balanced reaction equations show the hydrolysis of phospholipids PL1-PL3:
+- The non-ionised form of PL2 contains 254 𝜎and 𝜋bonds between atoms in total. It is a chiral and a
+more symmetrical molecule than PL1,
+- Z contains C, H, and O only, and it doesn’t react with H2 in the presence of a catalyst,
+- Phospholipid PL3 is a charged molecule at physiological pH values, and it exists as pair of enantiomers.
+5.6
+Draw the structures of PL2 and PL3 using R to show the fatty acid residues.
+Show stereochemistry where appropriate.
+3.0 pt

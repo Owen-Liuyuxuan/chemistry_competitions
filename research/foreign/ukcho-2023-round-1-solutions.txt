@@ -1,0 +1,843 @@
+1 
+ 
+ 
+ 
+ 
+55th INTERNATIONAL  
+ 
+CHEMISTRY OLYMPIAD  
+ 
+2023 
+ 
+UK Round One 
+ 
+MARK SCHEME 
+ 
+ 
+ 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors.  
+Allow where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+ 
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme and where ECF is not allowed.  
+ 
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+ 
+Organic structures are shown in their skeletal form, but also accept displayed formulae as 
+long as the representation is unambiguous.  
+ 
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+ 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+Total 
+Marks 
+Available 
+7 
+20 
+18 
+21 
+20 
+86 
+
+2 
+ 
+1. 
+This question is about rocket fuel  
+Mark 
+(a) 
+H2 + ½O2 → H2O 
+State symbols not required 
+Accept any multiple with correct stoichiometry e.g., 2H2 + O2 → 2H2O  
+ 
+(b) 
+ +494 kJ mol−1  
+If the equation used is H2 + ½O2 → H2O: 
+ΔrH = ∑bonds broken(reactants) − ∑bonds formed (products) 
+−241 kJ mol−1 = [(432 + y) − (2 × 460)] kJ mol−1 
+y = [−241 − 432 + (2 × 460)] kJ mol−1 
+y = +247 kJ mol−1 (for ½ mole of O2)  
+1 mole of O=O is 2y = +494 kJ mol−1 
+If the equation used is 2H2 + O2 → 2H2O:  
+ΔrH = ∑bonds broken(reactants) − ∑bonds formed (products) 
+[2 × −241] kJ mol−1 = [(2 × 432) + y − (4 × 460)] kJ mol−1 
+y = [(2 × −241) − (2 × 432) + (4 × 460)] kJ mol−1 
+y = +494 kJ mol−1 
+ 
+(c) 
+(i) 
+35.2 mol 
+1 dm3 = 1000 cm3 
+Density (ρ) = mass (m) / volume (v)  
+m(H2) = ρv  
+m(H2) = 0.071 g cm−3 × 1000 cm3 = 71 g 
+n(H2)= m/Mr = 71 g / 2.016 g mol−1 = 35.2 mol  
+ 
+ 
+(ii) 
+8480 kJ 
+Energy released = 35.2 mol × +241 kJ mol−1 = 8480 kJ 
+ 
+(d) 
+(i) 
+CO2 + 4H2 → CH4 + 2H2O  
+ 
+ 
+(ii) 
+Oxidation state of H in reactant 
+0 
+Oxidation state of C in reactant 
++4 
+Oxidation state of H in product 
++1 
+Oxidation state of C in product 
+−4 
+All four oxidation states must be correct for the mark. + sign is not needed.   
+ 
+(e) 
+−869.0 kJ  
+ 
+z = [+8.2 + (2 × 6.8) + −890.8] kJ mol−1 = −869.0 kJ mol−1, therefore −869.0 kJ. 
+No penalty if final answer in kJ mol-1. No marks if value given in wrong units. 
+ 
+ 
+Total out of 7 7 
+ 
+ 
+ 
+
+3 
+ 
+2. 
+This question is about electronegativity, bonding and structure 
+Mark 
+(a) 
+0.962 
+𝜒𝐶𝑙−𝜒𝐻= 0.102√427 −244 + 432
+2
+ 
+𝜒𝐶𝑙−𝜒𝐻= 0.962  
+The value should be positive, but accept if quoted as −0.962.  
+ 
+(b) 
+3.16 
+𝜒𝐶𝑙−𝜒𝐻= 0.962 
+𝜒𝐶𝑙= 0.962 + 2.20 
+𝜒𝐶𝑙= 3.16 
+ECF can be awarded from part (a). Answer to part (b) must be 2.20 more positive than 
+answer to part (a). No marks are to be awarded for calculation that assumes Cl is less 
+electronegative than H.  
+ 
+(c) 
+2.96 
+𝜒𝑁= 0.00197[E𝑖+ E𝑒𝑎] + 0.19 
+𝜒𝑁= 0.00197[(14.5 × 96.49) + 6.80] + 0.19 
+𝜒𝑁= 2.96 
+ 
+(d) 
+(i) 
+I 
+ 
+ 
+(ii) 
+E 
+(iii) 
+L 
+(iv) 
+G 
+(v) 
+J 
+All five correct scores two marks. Four or three correct scores one mark. Two, one or 
+none correct scores no marks.  
+(e) 
+AlP 
+Allow if they have written compound I. No ECF allowed if they have labelled one of the 
+other five compounds in part (d) closer to the metallic corner of the triangle.  
+ 
+(f) 
+(i) 
+B 
+
+
+ 
+(ii) 
+N 
+(iii) 
+E 
+One mark each 
+(g) 
+(i) 
+H3BO3 + NH3 → BN + 3H2O 
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+ 
+
+4 
+ 
+ 
+(ii) 
+B2O3 + 10N2 + 3CaB6 → 20BN + 3CaO 
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(h) 
+(i) 
+4.78 × 10−23 cm3 
+𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑐𝑢𝑏𝑒= (𝑠𝑖𝑑𝑒 𝑙𝑒𝑛𝑔𝑡ℎ)3 
+v = a3 = (3.63 ×10−10 m)3 = 4.78 ×10−29 m3 = 4.78 ×10−23 cm3 
+No marks for answer in m3 or Å as question asked for cm3. 
+ 
+ 
+(ii) 
+3.45 g cm−3 
+Unit cell has 4 B and 4 N. 
+(4 N completely within cube. 8 × 1/8 B on corners, 6 × 1/2 B on faces = 4 B). 
+Mass of unit cell is 4(10.81+14.01) g mol−1 / 6.02 × 1023 mol−1 = 1.649 × 10−22 g 
+Density (ρ) = mass (m) / volume (v)  
+= 1.649 × 10−22 g / 4.78 × 10−23 cm3 = 3.45 g cm−3 
+Correct final answer scores full marks. First mark for correct number of B and N in 
+unit cell. Second mark for correct mass of unit cell. Third mark for final answer. 
+Allow ECF from part (h)(i). 
+ 
+ 
+ 
+ 
+(iii) 
+3.74 × 10−23 cm3 
+𝑎𝑟𝑒𝑎 𝑜𝑓 𝑟𝑒𝑔𝑢𝑙𝑎𝑟 ℎ𝑒𝑥𝑎𝑔𝑜𝑛= 3√3
+2
+× (𝑠𝑖𝑑𝑒 𝑙𝑒𝑛𝑔𝑡ℎ)2 
+area = 
+3√3
+2  × (1.47 × 10−10 m)2 = 5.614 × 10−20 m2 = 5.614 × 10−16 cm2 
+𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑟𝑖𝑔ℎ𝑡 𝑝𝑟𝑖𝑠𝑚= (𝑎𝑟𝑒𝑎 𝑜𝑓 𝑏𝑎𝑠𝑒) × (ℎ𝑒𝑖𝑔ℎ𝑡) 
+v = 5.614 × 10−16 cm2 × 6.66 ×10−8 cm = 3.74 × 10−23 cm3 
+No marks for answer in m3 or Å as question asked for cm3. 
+ 
+ 
+(iv) 
+2.20 g cm−3 
+Unit cell has 2 B and 2 N. 
+(6 × 1/6 B on corners and 3 × 1/3 B on edges, making total of 2). 
+(6 × 1/6 N on corners and 3 × 1/3 N on edges, making total of 2). 
+Mass of unit cell is 2(10.81+14.01) g mol−1 / 6.02 × 1023 mol−1 = 8.246 × 10−23 g 
+Density (ρ) = mass (m) / volume (v)  
+= 8.246 × 10−23 g / 3.74 × 10−23 cm3 = 2.20 g cm−3 
+Correct final answer scores full marks. First mark for correct number of B and N in 
+unit cell. Second mark for correct mass of unit cell. Third mark for final answer. 
+Allow ECF from part (h)(iii). 
+ 
+ 
+ 
+ 
+(v) 
+Unit cell has 2 B and 2 N. 
+(1 B completely within unit cell, 4 × 1/12 and 4 × 2/12 B on corners, making total of 2). 
+(1 N completely within unit cell, 2 × 1/6 and 2 × 2/6 N on edges, making total of 2). 
+Both must be correct for the mark.  
+ 
+ 
+Total out of 20 20 
+
+5 
+ 
+3. 
+This question is about amino acid complexes 
+Mark 
+(a) 
+(i) 
+ 
+(ii) 
+ 
+
+ 
+One mark each. If R group not drawn out or drawn out incorrectly, then one of the two 
+marks can be awarded if protonation states correct in both structures.   
+(b) 
+(i) 
+ 
+No marks if R group not drawn out correctly. 
+ 
+(ii) 
+5.98 
+Isoelectric point = (pKa1 + pKa2) / 2 = (2.36 + 9.60) / 2 = 5.98 
+ 
+(c) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+✓ 
+ 
+As base is being added, pH must rise over course of titration. Expect buffer zones (line 
+flattens out) around the pH of the two pKa values of 2.36 and 9.60. 
+ 
+ 
+ 
+
+6 
+ 
+(d) 
+ 
+ 
+
+ 
+One mark for cis isomer, one mark for trans isomer. If three complexes are drawn 
+maximum mark is one out of two. If four complexes are drawn no marks should be 
+awarded. Other views are acceptable, e.g. with linking chain at front and behind.   
+(e) 
+ 
+ 
+
+ 
+One mark for mer isomer, this has the three O in the same meridian or plane of the metal 
+ion. One mark for fac isomer, this has the three O on the same triangular face of the 
+octahedron. If three complexes are drawn maximum mark is one out of two. If four 
+complexes are drawn no marks should be awarded. Other views are acceptable, e.g. with 
+linking chain at different positions.   
+(f) 
+RhMt3 
+ 
+
+
+ 
+Number of d-electrons in outer shell  
+6 
+ 
+ 
+Arrangement 1 
+ 
+Arrangement 2 
+Spin magnetic moment, μ 
+0 BM 
+Spin magnetic moment, μ 
+4.90 BM = 2√6 BM = √24 BM 
+First mark for 6 d-electrons. Second mark for correct low spin arrangement. Third mark 
+for correct high spin arrangement. Fourth mark for spin magnetic moments both correct. 
+Student does not have to write ‘low spin’ or ‘high spin’. Arrangements can be either way 
+around. Do not penalise if units of BM missing. No ECF for spin magnetic moments 
+based on incorrect orbital diagrams, or orbital diagrams based on incorrect number of d-
+electrons. No marks for arrangement if student draws two electrons with same spin in 
+same orbital. All singularly filled orbitals must have parallel spins (all arrows pointing in 
+same direction), otherwise no marks for arrangement. If singularly filled orbitals all have 
+electrons pointing down this is also correct.  
+ 
+ 
+ 
+
+7 
+ 
+ 
+CuMt2 
+ 
+
+
+ 
+Number of d-electrons in outer shell 
+9 
+ 
+Arrangement 1 
+ 
+ 
+Arrangement 2 
+Spin magnetic moment, μ 
+1.73 BM = √3 BM 
+Spin magnetic moment, μ 
+ 
+First mark for 9 d-electrons. Second and third mark for drawing the single correct spin 
+arrangement (two marks for this). If two spin arrangements are drawn the student can get 
+one of the two marks if at least one of these is correct. Fourth mark for spin magnetic 
+moment correct. Student does not have to write ‘low spin’ or ‘high spin’. Do not penalise if 
+units of BM missing. No ECF for spin magnetic moment based on incorrect orbital 
+diagram, or orbital diagram based on incorrect number of d-electrons. No marks for 
+arrangement if student draws two electrons with same spin in same orbital. If singularly 
+filled orbital has electron pointing down this is also correct. 
+(g) 
+ 
+ 
+ 
+𝜇= √𝑛(𝑛+ 2) 
+High spin n = 5, theoretical μ = 5.91 BM 
+Low spin n = 1, theoretical μ = 1.73 BM 
+Experimental data of 5.63 BM best matches high spin.  
+High spin 
+Low spin 
+✓ 
+ 
+ 
+ 
+Total out of 18 18 
+ 
+ 
+ 
+
+8 
+ 
+4. 
+This question is about vaping 
+Mark 
+(a) 
+(i) 
+One mark each. Minus one for each incorrect answer down to zero.   
+Nitrile 
+Alcohol 
+Ester 
+Ketone 
+Ether 
+Carboxylic 
+Acid 
+ 
+ 
+✓ 
+ 
+✓ 
+ 
+ 
+ 
+(ii) 
+31 
+Full formula is C31H52O3. 
+ 
+(b) 
+One mark for each fully correct column. 
+Structure 
+Is this structure consistent with the data from… 
+… mass spectrometry? 
+…1H NMR? 
+…13C NMR? 
+ 
+✓ 
+× 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+× 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+× 
+
+
+ 
+(c) 
+One mark each. For the first alkene product there is no difference between E and Z 
+isomers. For the second alkene product the stereochemistry must be correctly E for all 
+three double bonds to get the mark. The student does not have to write explicitly that the 
+alkene is E.  
+aldehyde/ketone 
+phosphonium ylide 
+major alkene product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 
+ 
+ 
+One mark each. The first row and the second row can be either way around. The two 
+answers containing C=C bonds must have the correct stereochemistry to get the mark. 
+The student does not have to write explicitly that the alkene is E or Z. 
+aldehyde/ketone 
+phosphonium ylide 
+major alkene product 
+ 
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) 
+A 
+ 
+B 
+ 
+ 
+ 
+
+ 
+C 
+ 
+D 
+ 
+One mark each. In B the alkene must be drawn with E stereochemistry for the mark. ECF 
+can be awarded for C and D if trivial errors propagated but transformation correct.   
+(e) 
+ 
+ECF can be awarded if trivial errors propagated but cation must be tertiary.    
+ 
+ 
+ 
+
+10 
+ 
+(f) 
+W 
+ 
+X 
+ 
+
+
+
+ 
+Y 
+ 
+Z 
+ 
+One mark each. No ECF as students have enough information to work backwards.  
+ 
+Total out of 21 21 
+ 
+ 
+ 
+
+11 
+ 
+5. 
+This question is about cheese 
+Mark 
+(a) 
+(i)  
+ 
+ 
+ 
+(ii)  3.86 
+By definition, 𝑝𝐾𝑎= −𝑙𝑜𝑔10(𝐾𝑎) = 3.86 
+ 
+(b) 
+ 
+It must be clearly shown that the hydrogen bond comes from the H of the hydroxyl group. 
+ 
+(c) 
+(i)  
+Oxidation 
+Reduction 
+Condensation Hydrolysis  Isomerisation 
+Elimination 
+ 
+ 
+ 
+✓ 
+ 
+ 
+ 
+ 
+No marks if more than one answer ticked. 
+(ii) 
+ 
+A 
+glucose 
+B 
+galactose 
+ 
+ 
+One mark each. 
+(d) 
+C12H22O11 + H2O → 4C3H6O3 
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(e) 
+3C3H6O3 → 2C3H6O2 + C2H4O2 + CO2 + H2O 
+State symbols not required. Accept any multiple with correct stoichiometry. 
+ 
+(f) 
+(i) 
+1.77 × 10−6 m3 
+𝑉= 4 𝜋 (0.5 × 1.5 × 10−2 𝑚)3
+3
+= 1.77 × 10−6 m3 
+ 
+(ii) 
+1.98 × 10−2 g 
+𝑛𝐶𝑂2 = 𝑝𝑉
+𝑅𝑇=
+101325 Pa × 1.77 × 10−6 m3
+8.314 J K−1 mol−1 × (21 + 273) K = 7.337 × 10−5 mol 
+       𝑛𝐶3𝐻6𝑂3 = 3𝑛𝐶𝑂2 = 2.201 × 10−4 mol  
+       𝑀𝐶3𝐻6𝑂3 = [3 × 12.01 + 6 × 1.008 + 3 × 16.00] g mol−1 = 90.078 g mol−1  
+       𝑚𝐶3𝐻6𝑂3 = 𝑛𝐶3𝐻6𝑂3 × 𝑀𝐶3𝐻6𝑂3 = 2.201 × 10−4 mol × 90.078 g mol−1 = 1.98 × 10−2 g 
+Allow ECF from parts (e) and (f)(i). 
+ 
+
+12 
+ 
+(g) 
+3.46 × 10−2 mol dm−3 
+Labelling the total concentration as 𝑐𝑡𝑜𝑡, we have the two equations 
+[CO2(ch)] + [HCO3(ch)
+−
+ ] = 𝑐𝑡𝑜𝑡 
+and 
+[H(ch)
++ ][HCO3(ch)
+−
+ ]
+[CO2(ch)]
+= 𝐾 
+We use the first equation to express [HCO3(ch)
+−
+ ] = 𝑐𝑡𝑜𝑡−[CO2(ch)] and substitute this into 
+the second equation as 
+[H(ch)
++ ](𝑐𝑡𝑜𝑡−[CO2(ch)])
+[CO2(ch)]
+ 
+With [H(ch)
++ ] = 10−pH = 10−5.20 mol dm−3, this rearranges to give 
+[CO2(ch)] =
+𝑐𝑡𝑜𝑡
+1 +
+𝐾
+[H(ch)
++
+]
+= 3.70 × 10−2 mol dm−3
+1 +
+4.47×10−7 mol dm−3
+10−5.20 mol dm−3
+= 3.46 × 10−2 mol dm−3 
+Full credit for correct concentration of CO2 in cheese. One mark for correctly expressing 
+[H+(ch)] in terms of pH. 
+ 
+ 
+(h) 
+ 
+𝑘H𝑉
+ch𝑝b 
+4𝜋𝑟3𝑝b
+3𝑅𝑇 
+4𝜋𝑟3𝑝b
+3𝑅𝑇
+𝐾⋅10pH 
+𝐾⋅10pH𝑘H𝑉
+ch𝑝b 
+𝑉
+ch𝑝b
+3𝑅𝑇 
+𝐾⋅10−pH𝑘H𝑉
+ch𝑝b 
+𝒏CO2(g) 
+ 
+✓ 
+ 
+ 
+ 
+ 
+𝒏CO2(ch) 
+✓ 
+ 
+ 
+ 
+ 
+ 
+𝒏HCO3(ch)
+−
+ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+One mark for every correct identification. How the expressions are derived is explained 
+below (not required of students): 
+For CO2(g) the ideal gas law states 𝑝𝑉= 𝑛𝑅𝑇, which rearranges to 
+𝑛CO2(g) = 𝑝𝑉
+𝑅𝑇= 4𝜋𝑟3𝑝𝑏
+3𝑅𝑇 
+For CO2(ch), 𝑛CO2(ch) = [CO2(ch)] ⋅𝑉
+𝑐ℎ , which combined with Henry’s law gives 
+𝑛CO2(ch) = 𝑘𝐻𝑉
+𝑐ℎ𝑝𝑏 
+For HCO3−(ch) rearrange the expression for the acid dissociation constant as 
+𝑛HCO3(ch)
+−
+= [HCO3(ch)
+−
+ ] ⋅𝑉
+𝑐ℎ= 𝐾[CO2(ch)] ⋅𝑉
+𝑐ℎ
+[H(ch)
++ ]
+= 𝐾⋅10𝑝𝐻 𝑘𝐻𝑉
+𝑐ℎ𝑝𝑏 
+
+
+ 
+(i) 
+𝑎= 𝑘H𝑉
+ch(1 + 𝐾⋅10pH)     and      𝑏=  4𝜋
+3𝑅𝑇   
+One mark each for correct expression for a and b. 
+Working (not required of students): 
+𝜂= 𝑛CO2(ch) + 𝑛HCO3(ch)
+−
++ 𝑛CO2(g)
+= 𝑘𝐻𝑉
+𝑐ℎ(𝑝𝑎𝑡𝑚+ 𝛾
+𝑟) + 𝐾⋅ 10𝑝𝐻𝑘𝐻𝑉
+𝑐ℎ(𝑝𝑎𝑡𝑚+ 𝛾
+𝑟) + 4𝜋𝑟3
+3𝑅𝑇(𝑝𝑎𝑡𝑚+ 𝛾
+𝑟) 
+we can collect the terms as 
+(𝑘𝐻𝑉
+𝑐ℎ+ 𝐾⋅𝑘𝐻𝑉
+𝑐ℎ ⋅10𝑝𝐻+ 4𝜋𝑟3
+3𝑅𝑇) (𝑝𝑎𝑡𝑚+ 𝛾
+𝑟) = 𝜂 
+ 
+
+ 
+
+13 
+ 
+or 
+(𝑘𝐻𝑉
+𝑐ℎ(1 + 𝐾⋅10𝑝𝐻) + 4𝜋𝑟3
+3𝑅𝑇) (𝑝𝑎𝑡𝑚+ 𝛾
+𝑟) = 𝜂 
+so that 
+𝑎= 𝑘𝐻𝑉
+𝑐ℎ(1 + 𝐾⋅10𝑝𝐻)     𝑎𝑛𝑑      𝑏=  4𝜋
+3𝑅𝑇   
+(j) 
+𝑟= 6.96 × 10−3 m  or  𝑟= 1.16 × 10−4 m  
+The question suggested that 𝛾𝑟−1 should be small compared to patm. Only the first of these 
+roots (𝑟= 6.96 × 10−3 m) satisfies this condition and gives the correct answer. 
+One mark for each correct value of r that solves the equation and one mark for identifying 
+the larger value (r = 6.96 × 10−3 m) as the physical solution. 
+𝑑= 2.35 × 10−4 mol
+101325 Pa
+−1.70 × 10−9 mol Pa−1 = 6.193 × 10−10 mol Pa−1 
+(𝑑
+𝑏)
+1
+3
+= 7.073 × 10−3 m  
+𝛾𝜂
+3 𝑝𝑎𝑡𝑚
+2
+𝑑=
+9.28 Pa m × 2.35 × 10−4 mol
+3 × 1013252 Pa2 ×  6.193 × 10−10 mol Pa−1 = 1.143 × 10−4 m  
+The equation for 𝑟 becomes 
+𝑟= 7.073 × 10−3 × (1 − 1.143 × 10−4 ⋅1
+𝑟) 
+Multiplying both side by 𝑟 gives 
+𝑟2 = 7.073 × 10−3 𝑟−8.087 × 10−7      or      𝑟2 −7.073 × 10−3 𝑟+ 8.087 × 10−7 = 0 
+which is solved by 
+𝑟= 1
+2 ⋅ 7.073 × 10−3 ± √(1
+2 ⋅ 7.073 × 10−3)
+2
+−8.087 × 10−7 
+giving either 𝑟= 6.96 × 10−3 m  or  𝑟= 1.16 × 10−4 m.  
+A note on deriving the simplified equation (non-examinable). The approximation makes use 
+of the Taylor series (1 + 𝑥)𝛼= 1 + 𝛼𝑥+ ⋯≈1 + 𝛼𝑥, valid for |𝑥| ≪1. First write 
+𝑎+ 𝑏𝑟3 = 𝜂(𝑝𝑎𝑡𝑚+ 𝛾
+𝑟)
+−1
+=
+𝜂
+𝑝𝑎𝑡𝑚
+(1 +
+𝛾
+𝑟𝑝𝑎𝑡𝑚
+)
+−1
+≈
+𝜂
+𝑝𝑎𝑡𝑚
+(1 −
+𝛾
+𝑟𝑝𝑎𝑡𝑚
+) 
+Then subtract a and divide both sides by b 
+𝑟3 ≈( 𝜂
+𝑝𝑎𝑡𝑚
+−𝑎) ⋅1
+𝑏−
+𝜂𝛾
+𝑝𝑎𝑡𝑚
+2
+𝑏⋅1
+𝑟=  𝑑
+𝑏−
+𝜂𝛾
+𝑝𝑎𝑡𝑚
+2
+𝑏⋅1
+𝑟 
+and take the cube root, employing the truncated Taylor series approximation again 
+𝑟≈(𝑑
+𝑏−
+𝜂𝛾
+𝑝𝑎𝑡𝑚
+2
+𝑏⋅1
+𝑟)
+1
+3
+= (𝑑
+𝑏)
+1
+3
+(1 −
+𝜂𝛾
+𝑝𝑎𝑡𝑚
+2
+𝑑⋅1
+𝑟)
+1
+3
+≈(𝑑
+𝑏)
+1
+3
+(1 −
+𝜂𝛾
+3𝑝𝑎𝑡𝑚
+2
+𝑑⋅1
+𝑟) 
+
+
+ 
+ 
+Total out of 20 20 
+ 

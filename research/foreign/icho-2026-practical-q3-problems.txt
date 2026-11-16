@@ -1,0 +1,264 @@
+Experiment
+Q3-1
+English (Official)
+P3. The Adventures of Hodja Nasreddin
+Equipment
+Item
+Quantity
+Label
+Part A
+pH meter with stand and probe
+stored in 3 M KCl
+1
+Volumetric pipette, 50 mL
+1
+Glass rod
+1
+Part B
+Thermometer
+1
+Funnel for filtration
+1
+Cotton wool
+1
+Glass beaker, 200 mL
+2
+Measuring cylinder, 50 mL
+1
+Plastic Pasteur pipette, 3 mL
+2
+Plastic cup, 250 mL
+20
+
+Experiment
+Q3-2
+English (Official)
+Chemicals
+Name
+State
+Concentration
+Quantity
+Placed in
+Label
+Part A
+Solution X3
+aq
+To be
+determined
+200 mL
+Plastic bottle,
+250 mL
+X3
+Solution X4
+aq
+To be
+determined
+200 mL
+Plastic bottle,
+250 mL
+X4
+Solution X5
+aq
+To be
+determined
+200 mL
+Plastic bottle,
+250 mL
+X5
+Solution X6
+aq
+To be
+determined
+200 mL
+Plastic bottle,
+250 mL
+X6
+Part B
+Solution Y1
+aq
+-
+3 mL
+Eppendorf
+tube, 4 mL
+Y1
+Sliced red
+cabbage
+s
+-
+15 g
+Glass bottle,
+100 mL
+RC
+Hydrochloric acid
+aq
+0.0100 M
+100 mL
+Plastic bottle,
+250 mL
+HCl
+0.01 M
+
+Experiment
+Q3-3
+English (Official)
+15 % of total
+Question
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+Total
+Points
+2
+0
+50
+12
+1
+9
+2
+10
+1
+87
+Part A
+The chemist Nasreddin prepared solutions of different acids with the same pH value. To do this, he
+took:
+- a strong monoprotic acid HA,
+- a weak monoprotic acid HB,
+- a diprotic acid H2C.
+He obtained six solutions (X1–X6), all with the same pH value when rounded to the nearest integer.
+These six solutions included three solutions of individual acids and three pairwise mixtures, which con-
+tained individual acids in a 1 ∶1 molar ratio (not necessarily in order given below).
+HA
+HB
+H2C
+HA + HB
+(1 ∶1)
+HA + H2C
+(1 ∶1)
+HB + H2C
+(1 ∶1)
+In this part, you need to perform titrations of solutions X3–X6 with a pH meter. Unfortunately, on the
+way to IChO 2026, Nasreddin lost solutions X1 and X2, but he promises to help in determining their
+composition.
+1. Using a volumetric pipette, transfer 50.0 mL of X3 into a plastic cup.
+2. Measure the pH of X3 using the pH meter.
+Q3.1
+Tick the pH value of X3 to the nearest integer.
+2 pt
+3. Using the pH meter, titrate 50.0 mL of X3 with 0.0100 M NaOH solution by adding 0.5 mL portions
+of NaOH solution and measuring the pH of the resulting solution until it reaches ~10. Do not use
+the stirring plate in this experiment.
+4. Record the pH values. When a more accurate measurement is required, wait until the displayed
+pH value is stable for at least 5 seconds.
+5. Repeat steps 1, 3 and 4 for X4–X6.
+Q3.2
+Record your results for the titration of solutions X3–X6. You may sketch the
+titration curves on the provided grids, but they will not be graded.
+0 pt
+
+Experiment
+Q3-4
+English (Official)
+Q3.3
+Determine the ranges of NaOH volume (in mL) that correspond to the equiva-
+lence points during the titrations of X3–X6. Tick the appropriate boxes based
+on your results from Q3.2.
+For example, if the equivalence point lies in the range 4.0 < 𝑉
+≤4.5, you
+must tick the box as shown below:
+50 pt
+Nasreddin provides the following titration curve of 50.0 mL X1 with 0.0100 M NaOH solution, where
+𝑉1 = 34.75 mL:
+He also notes that for solution X2, the ratio between the total 𝑉(NaOH) to reach the second equivalence
+point relative to 𝑉(NaOH) to reach the first equivalence point is approximately 3 ∶2.
+Q3.4
+Determine the composition of X1–X6. Tick the appropriate boxes.
+12 pt
+Q3.5
+Give the pH of the resulting solution after mixing equal volumes of X1–X6.
+1 pt
+
+Experiment
+Q3-5
+English (Official)
+Part B
+Nasreddin also prepared universal indicators Y1 and Y2 for acid−base titration. To prepare Y2, he made
+an extract from red cabbage.
+Prepare a fresh solution of Y2 from red cabbage as follows:
+1. Transfer all the sliced red cabbage into the 200 mL glass beaker with 60 mL of water.
+2. Place the beaker on the hotplate and heat it at 70–95∘C for 20 min.
+3. Filter the extract through the funnel with cotton wool and collect the Y2 solution in the clean
+200 mL glass beaker.
+4. Determine the order of colour transitions of Y2 as pH changes using the available solutions and
+equipment. Using 100 μL of Y2 per 1 mL of analyte provides the most reliable results.
+Q3.6
+Arrange the colours of Y2 in order of increasing pH using the colour abbrevia-
+tions listed below.
+Red/pink
+Yellow
+Green
+Blue
+Violet
+R
+Y
+G
+B
+V
+9 pt
+The extract of red cabbage contains anthocyanins responsible for such a wide range of colours. Below
+are the structures of anthocyanins at different pH:
+Q3.7
+Arrange A–D according to which structures are most dominant as the pH is
+changed from low to high.
+2 pt
+
+Experiment
+Q3-6
+English (Official)
+To prepare Y1, Nasreddin mixed two individual indicators from the table:
+#
+Indicator
+pH range of colour changes
+1
+Bromophenol blue (BPB)
+yellow < 3.0 – 4.6 < blue
+2
+Congo red (CR)
+blue < 3.0 – 5.2 < red
+3
+Bromocresol green (BG)
+yellow < 3.8 – 5.4 < blue
+4
+Methyl red (MR)
+red < 4.4 – 6.2 < yellow
+5
+Chlorophenol red (CPR)
+yellow < 5.2 – 6.8 < purple
+6
+Bromothymol blue (BTB)
+yellow < 6.0 – 7.6 < blue
+7
+Phenol red (PR)
+yellow < 6.8 – 8.2 < pink
+8
+Thymol blue (TB)
+yellow < 8.0 – 9.6 < blue
+9
+Phenolphthalein (PP)
+colourless < 8.2 – 10.0 < pink
+10
+Alizarin yellow R (AYR)
+yellow < 10.1 – 12.0 < red
+Determine the pH ranges of the colour changes of Y1 using the pH meter and available solutions. Using
+5 μL of Y1 per 1 mL of analyte provides the most reliable results.
+Q3.8
+Tick the appropriate boxes for the pH ranges of the colour changes of Y1.
+10 pt
+Q3.9
+Determine the composition of Y1. Tick the appropriate boxes.
+1 pt

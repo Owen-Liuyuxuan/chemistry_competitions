@@ -1,0 +1,1160 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+ 
+2024 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Joshua Pak, Chair, Idaho State University, ID 
+ 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Chris Fowler, High Point University, NC 
+Esther Hines, Billerica High School, MA 
+Brent Shenton, Valencia High School, CA (retired) 
+Edward Tisko, University of Nebraska at Omaha, NE 
+Kelli Slunt, University of Mary Washington, VA 
+ 
+DIRECTIONS TO THE EXAMINER 
+The laboratory practical part of the National Olympiad Examination is designed to test skills related to the laboratory. Because the 
+format of this part of the test is quite different from the first two parts, there is a separate, detailed set of instructions for the examiner. 
+This gives explicit directions for setting up and administering the laboratory practical. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+ 
+ 
+Part I 
+ 
+60 questions 
+ 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+ 
+ 
+Part II  
+8 questions 
+ 
+problem-solving, explanations 
+1 hour, 45 minutes 
+ 
+ 
+Part III  
+2 lab questions  
+laboratory practical 
+ 
+1 hour, 30 minutes 
+There are two laboratory tasks to be completed during the 90 minutes allotted to this part of the test. Students may carry out the two 
+tasks in any order they wish and move directly from one to the other within the allotted time. Each procedure must be approved for 
+safety by the examiner before the student begins that procedure.  
+A periodic table and other useful information are provided on page two for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, watch, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period.  Please indicate on the 
+exam sheet the item replaced or refilled. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+WHEN DIRECTED, TURN TO PAGE 2 AND READ THE INTRODUCTION AND SAFETY CONSIDERATIONS 
+CAREFULLY BEFORE YOU PROCEED. There are two laboratory-related tasks for you to complete during the next 90 minutes. 
+There is no need to stop between tasks or to do them in the given order. Simply proceed at your own pace from one to the other, using 
+your time productively. You are required to have a procedure for each problem approved for safety by an examiner before you carry out 
+any experimentation on that problem. You are permitted to use a non-programmable calculator. At the end of the 90 minutes, all answer 
+sheets should be turned in. Be sure that you have filled in all the required information at the top of each answer sheet. Carefully follow 
+all directions from your examiner for safety procedures and the proper disposal of chemicals at your examination site. 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022  1023 mol–1 
+h = 6.626  10–34 J s 
+c = 2.998  108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 21, 2024  
+Page 3 
+ 
+Student Instructions 
+ 
+Introduction 
+These problems test your ability to design and carry out laboratory experiments and to draw conclusions from your experimental work. 
+You will be graded on your experimental design, on your skills in data collection, and on the accuracy and precision of your results. 
+Clarity of thinking and communication are also components of successful solutions to these problems, so make your written responses 
+as clear and concise as possible. 
+ 
+Safety Considerations 
+You are required to wear approved eye protection at all times during this laboratory practical. You also must follow all 
+directions given by your examiner for dealing with spills and with disposal of wastes. 
+ 
+ 
+Lab Problem 1 
+ 
+Question: Using the provided materials, determine the enthalpy of (heat of) solution, in kJ/mol, for the three unknown solids.  
+ 
+ 
+Lab Problem 2 
+ 
+Question: Surface tension in a hydrophilic glass capillary tube can qualitatively provide information about intermolecular forces 
+within a sample.  Using the provided materials, design and carry out an experiment to determine the specific identity of the 
+substance in each of five numbered vials.  Each vial contains one of these substances: 
+ 
+Water  
+10% salt water  
+Vegetable oil 
+Acetone 
+Isopropanol  
+ 
+ 
+ 
+
+ 
+Page 4 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024  
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 1 
+Examiner’s Name: _________________________________________________________________________ 
+ACS Local Section Name: ___________________________________________________________________ 
+ 
+1.  Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+STUDENT USNCO ID: 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+ 
+Examiner’s Initials: ________ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 21, 2024  
+Page 5 
+ 
+ 
+ 
+ 
+3.  Show all calculations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  The enthalpy of solution for unknown 1 is __________ kJ/mol.  
+ 
+     The enthalpy of solution for unknown 2 is __________ kJ/mol. 
+ 
+     The enthalpy of solution for unknown 3 is __________ kJ/mol. 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+Proctor, please indicate the item replaced or refilled provided (if any): 
+
+ 
+Page 6 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024  
+ 
+ 
+Answer Sheet for Laboratory Practical Problem 2 
+Examinor's Name:__________________________________________________________________________ 
+ACS Local Section Name:____________________________________________________________________ 
+ 
+1. Give a brief description of your experimental plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Record your data/observations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+For safety reasons, before beginning your experiment you must get approval from the examiner. 
+ 
+Examiner’s Initials: ________ 
+
+ 
+Property of ACS USNCO – Not for use as USNCO Local Section Exam after April 21, 2024  
+Page 7 
+ 
+ 
+ 
+3. Show all calculation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Identify the substance in each unknown vial, giving a brief justification for your choices. 
+Unknown # 
+Contains 
+Justification 
+ 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT USNCO ID: 
+Proctor, please indicate the item replaced or refilled provided (if any): 
+
+ 
+Page 8 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024  
+This page intentionally left blank 
+ 
+
+Property of ACS USNCO – 2024 USNCO National Exam Part III Examiner’s Instructions 
+Page 1 
+ 
+2024 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART III 
+EXAMINER’S INSTRUCTIONS 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD LABORATORY PRACTICAL TASK FORCE 
+Joshua Pak, Chair, Idaho State University, ID 
+Borislava Bekker, American River College, CA 
+Daniel Collins, Texas A&M University, TX 
+Chris Condeiu, Lewis University, IL 
+Chris Fowler, High Point University, NC 
+Esther Hines, Billerica High School, MA 
+Brent Shenton, Valencia High School, CA (retired) 
+Edward Tisko, University of Nebraska at Omaha, NE 
+Kelli Slunt, University of Mary Washington, VA 
+ 
+Thank you for administering the 2024 USNCO laboratory practical on behalf of your Local Section. It is essential that you follow the 
+instructions provided in order to ensure consistency of results nationwide. There may be considerable temptation to assist the students 
+after they begin the lab exercise. It is extremely important that you do not lend any assistance or hints whatsoever to the students once 
+they begin work. As in international competition, the students are not allowed to speak to anyone until the activity is complete. 
+The equipment needed for each student for both lab exercises should be available at their lab station or table when the students enter the 
+room. The equipment should be initially placed and the materials separated for Lab Problem #1 and for Lab Problem #2. 
+Students are permitted to request one replacement or refill of a chemical during the laboratory period. Please indicate on the 
+exam sheet the item replaced or refilled. 
+It is your responsibility to ensure that all students wear approved eye protection at all times, tie back long hair into a ponytail, 
+and wear close-toed shoes during this laboratory practical. A lab coat or apron for each student is desirable but not mandatory. 
+You will also need to give students explicit directions for handling spills and for disposing of waste materials, following approved 
+safety practices for your examination site. Please check and follow procedures appropriate for your site. 
+After the students have settled, read the following instructions to the students.  
+Hello, my name is ________. Welcome to the lab practical portion of the U.S. National Chemistry Olympiad Examination. In 
+this part of the exam, we will be assessing your lab skills and your ability to reason through a laboratory problem and 
+communicate its results. Do not touch any of the equipment in front of you until you are instructed to do so.  
+You will be asked to complete two laboratory problems. All the materials and equipment you may want to use to solve each 
+problem has been set out for you and is grouped by the number of the problem. You may use equipment from one problem to 
+work on the other problem, but the suggested ideal equipment and chemicals to be used for each problem has been grouped 
+for you. You will have one hour and thirty minutes to complete the two problems. You may choose to start with either problem. 
+You are required to have a procedure for each problem approved for safety by an examiner. (Remember that approval does 
+not mean that your procedure will be successful – it is a safety approval.) When you are ready for an examiner to come to your 
+station for each safety approval, please raise your hand. 
+ (Continued on the next page) 
+
+ 
+Page 2 
+Property of ACS USNCO – 2024 USNCO National Exam Part III Examiner’s Instructions 
+Safety is an important consideration during the lab practical. You must wear safety goggles at all times. Please wash off any 
+chemicals spilled on your skin or clothing with large amounts of tap water.  
+The appropriate procedures for disposing of solutions at the end of this lab practical are:  
+____________________________________________________________________________________________________ 
+____________________________________________________________________________________________________ 
+We are about to begin the lab practical. Please do not turn the page until directed to do so. Read the directions on the front 
+page. Please write your USNCO Id on the cover and pages 4-7 of the booklet. Are there any questions before we begin? 
+Distribute Part III booklets and again remind students not to turn the page until the instruction is given. Part III contains student 
+instructions and answer sheets for both laboratory problems. There is a periodic table on page two of the booklet. Allow students enough 
+time to read the brief cover directions. 
+Do not turn to page three until directed to do so. When you start to work, be sure to fill out all of the information at the top of 
+the answer sheets. Are they any additional questions? 
+If there are no further questions, the students should be ready to start Part III. 
+You may begin. 
+After one hour and thirty minutes, give the following directions. 
+This is the end of the lab practical. Please stop and bring me your answer sheets. Thank you for your cooperation during this 
+portion of the exam. 
+Collect all the lab materials. Make sure that the student has filled in their ID number on each page and other required information on the 
+answer sheets. At this point, you might wish to take a few minutes to discuss the lab practical with the students. They can learn about 
+possible observations and interpretations, and you can acquire feedback as to what they actually did and how they reacted to the 
+problems.  
+Please remember to return the answer sheets from Part III, the Gradescope answer sheets from Part I, and the Part II booklets 
+in the UPS Next Day return envelope you were provided to this address: 
+American Chemical Society 
+U.S. National Chemistry Olympiad  
+1155 16th Street, NW – Room 834 
+Washington, DC 20036 
+The label on the UPS Express Pak envelope should have this address and your return address already. The cost of the shipping is billed 
+to ACS USNCO. You can keep a copy of the tracking number to allow you to track your shipment. 
+Wednesday, April 24, 2024, is the absolute deadline for receipt of the exam material. Materials received after this deadline CANNOT 
+be graded. Be sure to have your envelope sent no later than Monday, April 22, 2024 for it to arrive on time. 
+THERE WIL BE NO EXCEPTIONS TO THIS DEADLINE DUE TO THE TIGHT SCHEDULE FOR GRADING THIS 
+EXAMINATION. 
+NOTE THAT THE EXAMINER WILL NEED TO INITIAL EACH STUDENT’S EXPERIMENTAL PLAN. PLEASE DO 
+NOT COMMENT ON THE PLAN OTHER THAN LOOKING FOR ANY POTENTIAL UNSAFE PRACTICES. 
+ 
+ 
+(Continued on the next page) 
+
+ 
+Property of ACS USNCO – 2024 USNCO National Exam Part III Examiner’s Instructions 
+Page 3 
+ 
+Each student should have available the following: 
+Materials needed: 
+Each student should have available the following equipment and materials: 
+• 
+Thermometer (alcohol or digital) 
+• 
+Spatula 
+• 
+Graduated cylinder (25 ml or larger) 
+• 
+Beaker (250 ml or larger)  
+• 
+Styrofoam cup with a cap (see picture below) 
+• 
+Glass stirring rod 
+• 
+Wash bottle 
+• 
+Access to milligram balance 
+• 
+Access to DI or distilled water 
+• 
+5 open ended glass capillary tubes – suggested ones (link)  
+• 
+Ruler with mm  
+• 
+Access to paper towels and a sink with running water  
+Chemicals needed:  
+• 
+urea (5-10g) 
+• 
+sodium carbonate (5-10g) 
+• 
+sodium acetate (5-10g) 
+• 
+DI water or distilled water  (at least 1 mL) 
+• 
+Acetone (at least 1 mL) 
+• 
+Vegetable oil (at least 1 mL) 
+• 
+Isopropanol (at least 1 mL) 
+• 
+10% salt water (at least 1 mL) 
+Suggested Set-up Photos 
+ 
+ 
+
+Lab Problem 1 Prompt:  
+Using the provided materials, determine the enthalpy of (heat of) solution, in kJ/mol, for the 
+three unknown solids. 
+ 
+Equipment and materials provided:  
+Please see attached instructions for site coordinators.  
+ 
+Questions for the Examination Paper:  
+1. Give a brief description of your experimental plan.  
+2. Record your data/observations.  
+3. Show all calculations.  
+4.  The enthalpy of solution for unknown 1 is  ____ kJ/mol.  
+     The enthalpy of solution for unknown 2 is  ____ kJ/mol. 
+     The enthalpy of solution for unknown 3 is  ____ kJ/mol. 
+ 
+Suggested Experimental Plan and Expected Results:  
+ 
+Procedures will vary, but should follow the basic steps of:  
+1. Measure a volume, or weigh an amount, of water.  
+2. Place water in calorimetry cup. Some students may have weighed calorimetry 
+apparatus before and after addition of water.  
+3. Take temperature of water.  
+4. Weigh out an amount of unknown solid.  
+5. Add solid to water in calorimetry cup.  
+6. Some form of stirring or swirling of the cup.  
+7. Record new temperature. 
+ 
+Students should create a data table, or clearly show their collected data.  Students should provide 
+more than one trial for each unknown. 
+ 
+ 
+Unknown 
+1 – Trial 1 
+Unknown 
+1 – Trial 2 
+Unknown 
+2 – Trial 1 
+Unknown 
+2 – Trial 2 
+Unknown 
+3 – Trial 1 
+Unknown 
+3 – Trial 2 
+Mass of 
+empty 
+calorimetry 
+cup (g) 
+4.36 
+4.36 
+4.36 
+4.36 
+4.36 
+4.36 
+Mass of 
+calorimetry 
+cup and 
+water (g) 
+29.51 
+30.21 
+31.95 
+30.78 
+27.03 
+28.98 
+Mass of 
+water (g) 
+25.15 
+25.85 
+27.59 
+26.42 
+22.67 
+24.62 
+Temperature 
+of water in 
+cup (°C) 
+22.4 
+22.3 
+22.5 
+22.4 
+22.2 
+22.3 
+
+Mass of 
+unknown 
+solid (g) 
+2.06 
+2.15 
+2.18 
+2.20 
+2.26 
+2.05 
+Final 
+temperature 
+of aqueous 
+mixture 
+(°C) 
+17.3 
+17.2 
+27.6 
+27.8 
+27.0 
+26.9 
+ 
+ 
+Sample Calculations: 
+ 
+Unknown 1  ∆Hsol = +13.9 kJ/mol. 60.06 g/mol. +231 J/g  
+ 
+qwater = mc∆T. q = (25.15g)(4.18 J/g* C)(17.3 C - 22.4 C) = -536.15 J  
+ 
+qwater = -qhydration       qhydration = +536.15 J  
+ 
+∆Hsol = 536.15 J / 2.06 g = +260.3 J/g or for unknown 1  +15.63 kJ/mol (Endothermic)  
+ 
+ 
+Unknown 2  ∆Hsol = -26.7 kJ/mol. 105.99 g/mol. 252 J/g  
+ 
+qwater = mc∆T. q = (27.59g)(4.18 J/g* C)(27.6 C - 22.5 C) = +588.16 J  
+ 
+qwater = -qhydration       qhydration = -588.16 J  
+ 
+∆Hsol = -588.16 J / 2.18 g = -269.8 J/g or for unknown 2 -28.60 kJ/mol (Exothermic) 
+ 
+ 
+Unknown 3  ∆Hsol = -17.3 kJ/mol 82.03 g/mol -211 J/g  
+ 
+qwater = mc∆T. q = (22.67g)(4.18 J/g* C)(27.0 C - 22.2 C) = +454.85 J  
+ 
+qwater = -qhydration       qhydration = -454.85 J  
+ 
+∆Hsol = -454.85 J / 2.26 g = -201.3 J/g or for unknown 3 -16.51 kJ/mol (Exothermic)  
+ 

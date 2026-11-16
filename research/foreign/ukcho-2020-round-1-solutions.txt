@@ -1,0 +1,719 @@
+52nd INTERNATIONAL  
+CHEMISTRY OLYMPIAD 
+2020 
+UK Round One 
+MARK SCHEME 
+ 
+Although we would encourage students to always quote answers to an appropriate 
+number of significant figures, do not penalise students for significant figure errors. Allow 
+where a student’s answers differ slightly from the mark scheme due to the use of 
+rounded/non-rounded data from an earlier part of the question.  
+In general, ‘error carried forward’ (referred to as ECF) can be applied. We have tried to 
+indicate where this may happen in the mark scheme. 
+For answers with missing or incorrect units, penalise one mark for the first occurrence in 
+each question and write UNIT next to it. Do not penalise for subsequent occurrences in 
+the same question.  
+Organic structures are shown in their skeletal form, but also accept displayed formulae as 
+long as the representation is unambiguous.  
+State symbols are not required for balanced equations and students should not be 
+penalised if they are absent. 
+No half marks are to be awarded. One blank tick box has been included per mark 
+available for each part. Please mark by placing a tick in each box if mark is scored. 
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+10 
+10 
+17 
+12 
+17 
+20 
+86 
+This resource was downloaded from https://rsc.li/2WmGF2V
+
+1. 
+This question is about calcium carbide 
+Mark 
+(a) 
+(i) 
+CaO  +  3C  →  CaC2  +  CO 
+Must be fully correct for mark. 
+ 
+(ii) 
+ 
+Charge must be indicated for mark to be awarded. 
+ 
+(b) 
+CaC2  +  2H2O  →  Ca(OH)2  +  C2H2 
+Must be fully correct for mark. 
+ 
+(c) 
+Moles of HCl(aq) = 0.0346 dm3 × 0.250 mol dm−3 = 8.65 × 10−3 mol 
+Moles of Ca(OH)2 in 20.0 cm3 = 8.65 × 10−3 mol / 2 = 4.325 × 10−3 mol in 20.0 cm3 
+Moles of Ca(OH)2 in 50.0 cm3 = 2.5 × 4.325 × 10−3 mol = 0.0108 mol  (One mark) 
+Moles of CaC2 = 0.0108 mol 
+Mr (CaC2) = 64.1 g mol−1 
+Mass of CaC2 = 0.0108 mol × 64.1 g mol−1 = 0.693 g 
+Percentage by mass CaC2 = 0.693 g / 0.752 g = 92.2%  (One mark) 
+Correct answer scores both marks regardless of working. 
+ 
+ 
+(d) 
+2 calcium atoms and 4 carbon atoms. 
+1 mark for each correct answer. 
+ 
+ 
+(e) 
+Molar volume of CaC2 = 64.1 g mol−1 / 2.20 g cm−3 = 29.14 cm3 = 2.914 × 10−5 m3   
+One mark for correct molar volume in m3. 
+Volume of CaC2 unit cell = 2 × 2.914 × 10−5 m3 / 6.02 × 1023 mol−1  
+= 9.68 × 10−29 m3 = 96.8 Å3 
+One mark for correct molar volume in m3 or in Å3. 
+Length of side z = 9.68 × 10−29 m3 / (3.88 × 10−10 m)2 = 6.43 × 10−10 m = 6.43 Å  One mark 
+Correct answer scores three marks regardless of working. 
+ 
+ 
+ 
+ 
+Total out of 10 10 
+ 
+ 
+
+2. 
+This question is about hydrogen as a fuel 
+Mark 
+(a) 
+ΔH
+⦵r = ΣΔH
+⦵f (Products) − ΣΔH
+⦵f (Reactants) 
+ΔH
+⦵r = −393.5 kJ mol–1 − (−74.8 kJ mol–1 + 2 × −285.8 kJ mol–1) 
+= +253 kJ mol–1 
+ 
+(b) 
+Reaction 2:  2H+(aq)  +  2e–  →  H2(g) 
+(Reduction occurs at the cathode). Either “Reaction 2” or the reaction equation gets the 
+mark. 
+ 
+(c) 
+ΔH
+⦵ = 2 × 285.8 kJ mol–1 = +571.6 kJ mol–1 
+Sign must be correct for mark. A negative value scores zero marks.  
+ 
+(d) 
+ΔS
+⦵ = 2 × 163.0 J K–1 mol–1 = +326.0 J K–1 mol–1  
+ΔG
+⦵ = 571.6 kJ mol–1 – 298 K × 0.326 kJ K–1 mol–1 = +474.5 kJ mol–1 (one mark) 
+E
+⦵ = 474.5 × 103 J mol–1 / (4 × 96485 C mol–1) = −1.23 V (one mark)  
+Correct final answer scores both marks. One mark for calculation of ΔG
+⦵ and one mark for 
+calculation of E
+⦵. 
+ECF: Allow ECF from part (c). 
+
+ 
+(e) 
+E
+⦵ = −1.23 V 
+(the same answer as in part (d) – the other half reaction is the standard hydrogen electrode 
+with E
+⦵ = 0.00 V) 
+ECF: Accept if answer is same as part (d) or answer is –1.13 V if no answer achieved for 
+part (d). 
+ 
+(f) 
+CH4(g)  +  2O2(g)  →  CO2(g)  +  2H2O(l) 
+ΔH
+⦵r = ΣΔH
+⦵f (Products) − ΣΔH
+⦵f (Reactants) 
+ΔH
+⦵r = 2 × −285.8 kJ mol–1 −393.5 kJ mol–1 + 74.8 kJ mol–1 = −890 kJ mol–1 
+ 
+(g) 
+ΔH
+⦵r = −285.8 kJ mol–1 
+The same reaction as the standard enthalpy change of formation of water, which is given. 
+This is the only correct answer – no ECF for this part.  
+ 
+ 
+ 
+
+(h) 
+relative Mr(H2) = 2          relative Mr(CH4) = 16  
+Ratio = heat released with H2 / heat released with CH4 
+= (−285.8 kJ mol–1 / 2½) / (−890.3 kJ mol–1 / 16½)  
+= 0.908  or  0.908 to 1  or  1 to 1.101. 
+ECF: Answer = (answer to part (g) × 16½) / (2½ × answer to part (f)) 
+Answer with given values = (−352.8 kJ mol–1 / 2½) / (−943.2 kJ mol–1 / 16½)  
+= 1.058 
+Correct final answer scores two marks. This must be the correct way around, i.e. value 
+lower than 1. One mark is given for the inverse ratio of 1.101  or  1.101 to 1. All other values 
+score no marks.  
+ 
+ 
+ 
+Total out of 10 10 
+ 
+ 
+
+3. 
+This question is about sun cream 
+Mark 
+(a) 
+ester 
+aldehyde 
+ketone  
+✔ 
+ 
+carboxylic acid  
+ether 
+✔ 
+phenol 
+✔ 
+Must all be correct for mark. 
+(b) 
+ 
+Only these two atoms must be circled for the mark. 
+ 
+(c) 
+A 
+ 
+ 
+ 
+B  
+ 
+ 
+ 
+ 
+ 
+ 
+C  
+ 
+ 
+D  
+ 
+ 
+One mark each. No ECF to be awarded as there is sufficient information to work backwards 
+as well as forwards.  
+(d) 
+(i) 
+ 
+Double bond must be unambiguously trans. Stereochemistry of chiral centre must be 
+clearly indicated as of (S) configuration (as drawn in the CORRECT views) and not 
+of (R) configuration (as drawn in the INCORRECT views). Abbreviations are allowed 
+as long as groups are unambiguously defined.  
+ 
+ 
+ 
+
+ 
+(ii) 
+ 
+Double bond must be unambiguously cis. No marks if trans. Stereochemistry of 
+chiral centre can be either S or R but must be drawn unambiguously. Abbreviations 
+are allowed as long as groups are unambiguously defined. 
+ 
+(e) 
+E 
+ 
+F 
+ 
+No ECF. Accept both cis and trans isomers 
+or if sterochemistry drawn as undefined. 
+ 
+ 
+One mark each. 
+(f) 
+G 
+ 
+No stereochemistry required. ECF can be 
+awarded only if structure has no alkene or 
+carbonyl functional groups and is consistent 
+with the structure of F (having been reduced) 
+or consistent with the stucture of H (the 
+alcohol to make the ester). 
+H 
+ 
+No ECF. No stereochemistry required. 
+ 
+ 
+One mark each. 
+(g) 
+The same molecular formula   ✔ 
+ 
+The same melting points 
+Rotate plane-polarised light in the same direction 
+If any other answer ticked then no marks.  
+
+(h) 
+(i) 
+ 
+All must be correct for mark. 
+ 
+(ii) 
+ 
+ 
+The structures are worth two of the three marks. The structures can be in any order. 
+Three correct structures and one blank box is worth two marks. Two correct 
+structures and two blank boxes is worth one mark. Three correct structures and one 
+incorrect structure or duplicated structure is worth one mark. All other combinations 
+are worth zero marks for this part. 
+The YES/NO for enantiomers are worth one of the three marks. Must all be correct 
+for the mark. Every structure they have drawn must have the correct YES/NO for that 
+structure. (NB Any structure with a plane of symmetry or a centre of inversion does 
+not have an enantiomer and so is a NO, others are YES). This means ECF is being 
+awarded for the chirality mark, i.e. if the YES/NO are consistent for every structure 
+they have drawn they get the mark.  
+ 
+ 
+ 
+ 
+Total out of 17 17 
+ 
+ 
+
+4. 
+This question is about silicon oxides 
+Mark 
+(a) 
+(i) 
+CO2 
+ 
+(ii) 
+ 
+A total charge of 4− or four individual charges of 1− must be indicated for mark to be 
+awarded.  
+(X = Na4SiO4 – This is not needed for the mark). 
+ 
+(iii) 
+SiO2  +  2Na2CO3  →  Na4SiO4  +  2CO2 
+Must be fully correct for mark. 
+ 
+(b) 
+CaSiO3  +  2HCl  +10H2O  →  SiO2.11H2O  +  CaCl2 
+Must be fully correct for mark. 
+ 
+(c) 
+4 
+ 
+(d) 
+(i) 
+ 
+The overall charge must be indicated as 6− or the sum of individual charges must be 
+equal to 6−. 3D shape is not important. Credit can be given for alternative answers 
+as long as formula is correct, overall charge is correct, and has only Si–O bonds and 
+no Si=O double bonds, Si–Si bonds or O–O bonds drawn. An example of an 
+alternative (incorrect) structure which should be credited is shown.  
+ 
+(ii) 
+ 
+The overall charge must be indicated as 12− or the sum of individual charges must 
+be equal to 12−. 3D shape is not important. Credit can be given for alternative 
+answers as long as formula is correct, overall charge is correct, and has only Si–O 
+bonds and no Si=O double bonds, Si–Si bonds or O–O bonds drawn. 
+ 
+ 
+ 
+
+(e) 
+From overall formula need to remove 3 × Mg2+ and 2 × OH−  
+This leaves [Si4O10]4− 
+The overall charge must be indicated for the mark.  
+ 
+(f) 
+Mineral  
+20.32 g / 24.305 g mol−1 = 0.836 mol Mg = n Mg 
+28.18 g / 28.035 g mol−1 = 1.003 mol Si = n Si  (One mark for both) 
+Talc has ratio of 3 Mg to 4 Si 
+Chrysotile has 3 Mg to 2 Si. 
+Mineral with x talc and (1 − x) chrysotile has ratio 3 Mg to 2 (1+x) Si 
+So n Si / n Mg = 2 (1 + x) / 3  (One mark) 
+n Si / n Mg = 1.003 / 0.836 = 2 (1 + x) / 3 
+x = 0.8 
+so 80% talc (One mark) 
+Correct final answer with working scores three marks. Exact steps may vary. First mark can 
+be awarded for correct calculation of the number of moles of both Mg and Si. Second mark 
+can be awarded for a correct ratio in terms of x and 1−x (can be either way around). Third 
+mark is only for correct answer as a percentage.  
+ 
+ 
+ 
+ 
+Total out of 12 12 
+ 
+ 
+
+5. 
+This question is about colourful compounds 
+Mark 
+(a) 
+  
+ 
+(b) 
+(i) 
+ΔE = 6.626 × 10−34 m2 kg s−1 × 2.998 × 108 m s−1 / 210 × 10−9 m 
+= 9.46 × 10−19 J or 9.46 × 10−19 m2 kg s−2 
+ 
+ 
+(ii) 
+𝐿𝐿2 =
+(2𝑛𝑛+ 1)ℎ2
+8𝑚𝑚𝑒𝑒Δ𝐸𝐸
+ 
+n = 2   (One mark) 
+L2 = 5 × (6.626 × 10−34 m2 kg s−1)2 / (8 × 9.109 × 10−31 kg × 9.46 × 10−19 m2 kg s−2) 
+= 3.1844 × 10−19 m2 
+L = 5.64 × 10−10 m 
+= 5.64 Å   (One mark) 
+Correct answer in Å scores both marks. First mark can be awarded for explicit 
+statement of n = 2. Do not award second mark if answer is only in m and not in Å. 
+ECF: Answer = (5.49 × 10−9 / answer to part (i)½) Å 
+ 
+ 
+(c) 
+(i) 
+𝜀𝜀 = λ / d2 
+= 5714 Å / (2 × 2.052 Å)2 
+𝜀𝜀 = 339.3 Å−1 
+No mark if given in different units.  
+ 
+(ii) 
+d2 = λ / 𝜀𝜀 
+d2 = 5687 Å / 339.3 Å−1 
+d2 = 16.7609 Å2 
+d = 4.094 Å 
+N–Zn bond = 2.047 Å 
+No mark if given in different units. 
+ 
+(iii) 
+λ = 𝜀𝜀d2 
+λ = 339.3 Å−1 × (4.112 Å)2 
+λ = 573.7 nm 
+No mark if given in different units. 
+ 
+ 
+ 
+ 
+
+(d) 
+𝑘𝑘1(493𝐾𝐾) = 𝐴𝐴 exp ൬−
+𝐸𝐸𝑎𝑎
+𝑅𝑅𝑇𝑇(493𝐾𝐾)൰
+𝑘𝑘1(393𝐾𝐾) = 𝐴𝐴 exp ൬−
+𝐸𝐸𝑎𝑎
+𝑅𝑅𝑇𝑇(393𝐾𝐾)൰
+ 
+𝑘𝑘1(493𝐾𝐾)
+𝑘𝑘1(393𝐾𝐾) = exp
+𝐸𝐸𝑎𝑎
+𝑅𝑅൬−
+1
+𝑇𝑇(493𝐾𝐾) +
+1
+𝑇𝑇(393𝐾𝐾)൰ One mark 
+𝑙𝑙𝑙𝑙൬
+𝑘𝑘1(493𝐾𝐾)
+𝑘𝑘1(393𝐾𝐾)൰=
+𝐸𝐸𝑎𝑎
+𝑅𝑅൬−
+1
+𝑇𝑇(493𝐾𝐾) +
+1
+𝑇𝑇(393𝐾𝐾)൰  One mark 
+𝐸𝐸𝑎𝑎=
+𝑅𝑅𝑅𝑅𝑅𝑅൬
+𝑘𝑘1(493𝐾𝐾)
+𝑘𝑘1(393𝐾𝐾)൰
+൬−
+1
+𝑇𝑇(493𝐾𝐾) +
+1
+𝑇𝑇(393𝐾𝐾)൰
+ 
+𝐸𝐸𝑎𝑎=
+8.314 𝐽𝐽 𝐾𝐾−1 𝑚𝑚𝑚𝑚𝑚𝑚−1𝑙𝑙𝑙𝑙ቀ
+3.31 × 1012 𝑠𝑠−1
+1.32 × 1012 𝑠𝑠−1ቁ
+ቀ−
+1
+493 𝐾𝐾+
+1
+393 𝐾𝐾ቁ
+ 
+Ea = 14.8 kJ mol−1  One mark 
+Correct final answer with working scores full marks. One mark can be awarded for method if 
+they have an expression where A has been removed. Second mark can be awarded if a 
+logarithm has subsequently been taken. Third mark is for final answer.  
+
+ 
+ 
+(e) 
+−2𝛼𝛼+ 𝛽𝛽𝛽𝛽= −𝛼𝛼൬2 −𝛼𝛼𝛼𝛼𝛼𝛼
+𝐸𝐸𝑎𝑎
+൰ 
+−2𝛼𝛼+ 𝛽𝛽𝛽𝛽= −2𝛼𝛼+ 𝛼𝛼2𝑅𝑅𝑅𝑅
+𝐸𝐸𝑎𝑎
+ 
+𝛽𝛽= 𝛼𝛼2𝑅𝑅
+𝐸𝐸𝑎𝑎
+ 
+One mark  
+𝑇𝑇൬𝛽𝛽
+𝛾𝛾൰
+1
+2
+= ൬2𝐸𝐸𝑎𝑎
+𝜇𝜇൰
+1
+2 𝛼𝛼𝛼𝛼𝛼𝛼
+𝐸𝐸𝑎𝑎
+ 
+𝑇𝑇൬𝛽𝛽
+𝛾𝛾൰
+1
+2
+=  𝑇𝑇൬2𝐸𝐸𝑎𝑎
+𝜇𝜇൰
+1
+2
+ቆ𝛼𝛼2𝑅𝑅2
+𝐸𝐸𝑎𝑎
+2 ቇ
+1
+2
+ 
+൬𝛽𝛽
+𝛾𝛾൰
+1
+2
+= ቆ𝛼𝛼2𝑅𝑅
+𝐸𝐸𝑎𝑎
+ቇ
+1
+2
+൬2𝐸𝐸𝑎𝑎𝑅𝑅
+𝜇𝜇𝐸𝐸𝑎𝑎
+൰
+1
+2
+ 
+൬𝛽𝛽
+𝛾𝛾൰
+1
+2
+= (𝛽𝛽)
+1
+2 ൬2𝑅𝑅
+𝜇𝜇൰
+1
+2
+ 
+𝛾𝛾= 𝜇𝜇
+2𝑅𝑅 
+Two marks. No partial credit for γ. 
+
+ 
+ 
+ 
+ 
+ 
+
+(f) 
+ln ቆ
+𝑘𝑘2(83 𝐾𝐾)
+𝑇𝑇(83 𝐾𝐾)
+ቇ= 𝛽𝛽𝑇𝑇(83 𝐾𝐾) + 𝑖𝑖−ቆln ቆ
+𝑘𝑘2(61 𝐾𝐾)
+𝑇𝑇(61 𝐾𝐾)
+ቇ= 𝛽𝛽𝑇𝑇(61 𝐾𝐾) + 𝑖𝑖ቇ 
+ln ቆ
+𝑘𝑘2(83 𝐾𝐾)
+𝑇𝑇(83 𝐾𝐾)
+ቇ−ln ቆ
+𝑘𝑘2(61 𝐾𝐾)
+𝑇𝑇(61 𝐾𝐾)
+ቇ= 𝛽𝛽𝑇𝑇(83 𝐾𝐾) −𝛽𝛽𝑇𝑇(61 𝐾𝐾) 
+One mark 
+ln ቆ
+𝑘𝑘2(83 𝐾𝐾)𝑇𝑇(61 𝐾𝐾)
+𝑇𝑇(83 𝐾𝐾)𝑘𝑘2(61 𝐾𝐾)
+ቇ= 𝛽𝛽൫𝑇𝑇(83 𝐾𝐾) −𝑇𝑇(61 𝐾𝐾)൯ 
+𝛽𝛽=
+ln ൬
+𝑘𝑘2(83 𝐾𝐾)𝑇𝑇(61 𝐾𝐾)
+𝑇𝑇(83 𝐾𝐾)𝑘𝑘2(61 𝐾𝐾)൰
+൫𝑇𝑇(83 𝐾𝐾) −𝑇𝑇
+(61 𝐾𝐾)൯ 
+One mark 
+𝛽𝛽=
+ln ቀ
+8.74 × 1010s−1× 61 𝐾𝐾
+83 𝐾𝐾 × 6.23 × 1010s−1ቁ
+(83 𝐾𝐾−61 𝐾𝐾)
+ 
+β = 1.389 × 10−3 K−1  One mark 
+Correct final answer with working scores full marks regardless of method. First mark 
+awarded for expression where the constant i has been removed. Second mark for correct 
+algebraic expression where β is the subject. Third mark is for correct final answer with units.  
+
+ 
+ 
+(g) 
+𝛽𝛽= 𝛼𝛼2𝑅𝑅
+𝐸𝐸𝑎𝑎
+ 
+𝐸𝐸𝑎𝑎= 𝛼𝛼2𝑅𝑅
+𝛽𝛽 
+𝐸𝐸𝑎𝑎= 2.2352× 8.314 J K−1 mol−1
+1.389 × 10−3 K−1
+ 
+Ea = 2.2352 × 8.314 J K−1 mol−1 / 1.389 × 10−3 K−1    
+Ea = 29.9 kJ mol−1 
+ECF: Allow ECF from part (f). Answer = (0.0415 / answer to (f)) kJ mol−1 
+Answer with given value = 43.9 kJ mol−1  
+Allow ECF from part (e) only if dimensionality is correct in expression for Ea 
+ 
+ 
+Total out of 17 17 
+ 
+ 
+ 
+
+6. 
+This question is about anammox and ladderanes. 
+Mark 
+(a) 
+(i) 
+nitrogen gas 
+0 
+ammonium ion 
+−3 
+ 
+Both must be correct for mark.  
+(ii) 
+nitrite ion (NO2−) 
++3 
+hydrazine (NH2NH2) 
+−2 
+hydroxylamine (NH2OH) 
+−1 
+ 
+ 
+All three correct two marks. Two correct one mark. One or zero correct no marks.  
+(b) 
+(i) 
+NO2−  +  4e−  +  5H+  →  NH2OH  +  H2O 
+Must be fully correct for mark 
+Also accept NO2−  +  4e−  +  6H+  →  [NH3OH]+  +  H2O 
+ 
+(ii) 
+NH4+  +  NH2OH  →  NH2NH2  + H2O  +  H+ 
+or  NH4+  +  NH2OH  →  NH2NH2  +  H3O+ 
+or  NH4+  +  NH2OH  →  [NH2NH3]+  +  H2O 
+Must be fully correct for mark 
+Also accept analogous equations if hydroxylamine is protonated  
+ 
+(iii) 
+NH2NH2  →  N2  +  4e−  +  4H+ 
+or [NH2NH3]+  →  N2  +4e−  +  5H+ 
+Must be fully correct for mark 
+ 
+(c) 
+NO2−  +  NH4+  →  N2  +  2H2O 
+Must be fully correct for mark 
+ 
+(d) 
+A 
+ 
+One mark. No stereochemistry required. 
+B 
+ 
+One mark. No stereochemistry required. 
+ECF is allowed based on A only if their 
+structure of B is consistent with molecular 
+formula.  
+ 
+ 
+C 
+ 
+One mark. No stereochemistry required. No 
+ECF as can work backwards.  
+D 
+ 
+One mark. No stereochemistry required. No 
+ECF. 
+ 
+ 
+
+Anion E− 
+ 
+No stereochemistry required. Either of these 
+above is worth two marks.  
+ 
+Either of these incorrect structures above 
+can be given one mark as the student has 
+correctly realised the acidic carbon is next to 
+sulfur. ECF: Maximum ECF score here is 
+one mark as there is information to work 
+forwards and backwards. ECF one mark only 
+awarded if chlorine is in same place as on 
+structure D and anion is on carbon next to 
+sulfur.   
+F 
+ 
+One mark. No stereochemistry required. No 
+ECF as can work backwards.  
+ 
+ 
+ 
+ 
+G 
+ 
+One mark. No stereochemistry required. No 
+ECF as sufficent new information.  
+X 
+ 
+One mark. No ECF as sufficent new 
+information. 
+ 
+ 
+H 
+ 
+One mark. No stereochemistry required. No 
+ECF as sufficent new information. 
+I 
+ 
+ 
+One mark. No stereochemistry required. 
+ECF can be awarded from H only if their 
+structure of I has the correct number of 
+signals in the 13C NMR and is consistent with 
+an elimination from their incorrect stucture of 
+H. 
+ 
+ 
+J 
+ 
+One mark. No stereochemistry required. No ECF as sufficent new information. Accept if 
+double bond drawn explicitly as cis or trans. 
+ 
+
+ 
+One mark. No stereochemistry required. Must have exactly and unambiguously eight carbon 
+atoms in the side chain to score the mark. 
+ 
+ 
+Total out of 20 20 
+ 
+ 

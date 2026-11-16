@@ -1,0 +1,1145 @@
+1 
+ 
+ 
+ 
+ 
+54th INTERNATIONAL  
+CHEMISTRY OLYMPIAD  
+2022 
+UK Round One  
+ 
+STUDENT QUESTION BOOKLET  
+ 
+* * * * *  
+■ 
+The time allowed is two hours. 
+■ 
+Attempt all six questions.  
+■ 
+Write your answers in the student answer booklet.  
+■ 
+Write only the essential steps of your calculations in the answer booklet. 
+■ 
+Always give the appropriate unit and number of significant figures.  
+■ 
+The final page of this question booklet includes a copy of the periodic table and 
+some useful physical constants and quantities.  
+■ 
+Do NOT write anything in the right-hand margin of the answer booklet. 
+■ 
+The marks available for each question are shown below. These may be helpful 
+when dividing your time between questions. 
+ 
+Question 
+1 
+2 
+3 
+4 
+5 
+6 
+Total 
+Marks 
+Available 
+9 
+9 
+24 
+13 
+19 
+12 
+86 
+ 
+Some of the questions will contain material you will not be familiar with. However, you 
+should be able to work through the problems by applying the skills you have learnt as a 
+chemist. There are different ways to approach the tasks – even if you cannot complete 
+certain parts of a question, you may find later parts straightforward. 
+ 
+ 
+
+2 
+ 
+Q1 This question is about E10 petrol 
+To help tackle the causes of climate 
+change, in September 2021 the UK 
+government changed the standard 
+petrol grade at fuel pumps from E5 to 
+E10 petrol. These E values refer to 
+the percentage of ethanol in the 
+ethanol-hydrocarbon fuel mixture. It 
+has been argued that the change from 
+E5 to E10 was one contributing factor 
+to the petrol shortage in October 2021 
+as retailers attempted to remove their 
+stock supplies of E5.  
+ 
+E values and octane numbers are both displayed on petrol pumps. There is only a small 
+proportion of the straight chain isomer of octane in petrol as this tends to “knock” in the 
+engine. Knocking is where the fuel ignites prematurely and this reduces engine efficiency. 
+Branched chain isomers of octane knock much less and a lot of these are found in petrol. 
+One major isomer is 2,2,4-trimethylpentane.   
+(a) 
+Draw the skeletal formula of 2,2,4-trimethylpentane. 
+Blending ethanol into fuel mixtures such as in E5 and E10 also reduces knocking. Ethanol is 
+a biofuel and is often produced by fermenting sugar from crop plants. The plants capture 
+carbon dioxide from the atmosphere and convert this into sugars such as glucose, C6H12O6, 
+through photosynthesis. 
+(b) 
+Write the equation for the formation of glucose in photosynthesis from carbon dioxide. 
+The anaerobic fermentation of glucose produces ethanol and carbon dioxide.  
+(c) 
+Write the equation for the anaerobic fermentation of glucose.  
+One of the characteristics of an effective fuel is the amount of energy it releases, or its 
+enthalpy of combustion. One method to determine this is to use average bond enthalpies. 
+Some average bond enthalpies are given below. 
+Bond 
+Average bond enthalpy / kJ mol−1 
+C–C 
+347 
+C–H 
+413 
+O=O 
+498 
+C–O 
+358 
+C=O 
+805 
+O–H 
+464 
+When calculated by this method, all the different isomers of octane have the same value. 
+(d) 
+Calculate the enthalpy of combustion of an isomer of octane.  
+ 
+ 
+ 
+
+3 
+ 
+Assume that 1 litre of E10 fuel contains 100 mL of ethanol and 900 mL of octane isomers, 
+and that 1 litre of E5 fuel contains 50 mL of ethanol and 950 mL of octane isomers. The 
+density of pure ethanol is 0.789 g cm−3 and the density of pure octane isomers is  
+0.703 g cm−3. You can assume that there is no volume change on mixing.   
+The enthalpy of combustion of ethanol using average bond enthalpies is −1276 kJ mol−1. 
+(e) 
+For both E5 and E10 fuels, calculate the energy, in kJ, released when 1 litre of the fuel 
+is burnt. 
+If you did not get an answer for part (d) then you may use a value of −6666 kJ mol−1 for 
+the enthalpy of combustion of octane isomers in this calculation.  
+(f) 
+Taking the energy released from burning 1 litre of E5 as 100%, calculate the 
+percentage of the energy released from burning 1 litre of E10 fuel. 
+All the carbon dioxide released by the combustion of ethanol is offset by the carbon dioxide 
+captured when the plants are grown. As such, the contribution from the ethanol is not 
+counted when the CO2 footprints of the E5 and E10 fuels are compared.  
+(g) 
+Taking the CO2 produced from burning 1 litre of E5 fuel as 100%, calculate the 
+percentage of CO2 produced from burning 1 litre of E10 fuel. Consider only CO2 formed 
+from the combustion of octane isomers.  
+ 
+ 
+
+4 
+ 
+2. This question is about the chemistry of nitrous oxide 
+Nitrous oxide, N2O, is used as a propellant in 
+whipped cream, as a fuel additive to improve 
+combustion in car engines, and as an 
+anaesthetic in medicine and dentistry. When 
+inhaled, nitrous oxide can result in hysterical 
+euphoria, which led to the nickname 
+“laughing gas”. It is now known that there are 
+serious health risks associated with using 
+nitrous oxide recreationally. 
+ 
+Nitrous oxide can be formed from nitrous acid, HNO2, a weak acid, that is used in the 
+production of dyes. 
+(a) 
+Draw the dot and cross diagram for HNO2. 
+Nitrous acid can be converted into nitrous oxide by two different methods. The first method is 
+shown below. Firstly nitrous acid reacts with O2 to form molecule A. Molecule A then reacts 
+with ammonia to form a salt [B+][C−], which subsequently thermally decomposes into nitrous 
+oxide and water. 
+ 
+Elemental analysis shows that A contains 1.60% hydrogen and 22.23% nitrogen by mass.  
+(b) 
+Determine the formula of A. 
+(c) 
+Draw the ions B+ and C− clearly showing their shape. 
+The second method thermally decomposes nitrous acid. For every two molecules of nitrous 
+acid, one molecule each of D, E, and water are formed. E is a brownish-red gas in equilibrium 
+with a colourless gas X. 
+D and E then react with each other to form molecule F, which then thermally decomposes to 
+form nitrous oxide and oxygen. 
+(d) 
+Write the formulae of D, E, F, and X. 
+Nitrous oxide is a linear molecule with a nitrogen atom in the middle. 
+(e) 
+Draw the structure for N2O. 
+ 
+ 
+ 
+ 
+ 
+
+5 
+ 
+3. This question is about cubane 
+Platonic solids are three-dimensional shapes 
+where all faces, edges, and angles are congruent 
+(identical). There are only five such solids. Plato 
+hypothesised that the classical elements — air, 
+earth, fire, and water — each corresponded to 
+one of the shapes. 
+With the advances in chemistry in the last 2360 
+years, we no longer think that there are four 
+elements or that they are made of Platonic solids. 
+However, we can make a Platonic solid out of 
+elements.  
+ 
+One such molecule, cubane, is of interest 
+and potential use because of its unusual 
+structure. 
+ 
+(a) 
+State the molecular formula of cubane. 
+One synthesis of cubane proceeds via cubane-1,4-dicarboxylic acid. The structures of cubane-
+carboxylic acid and the three isomers of cubane-dicarboxylic acid are shown below. 
+ 
+(b) 
+Complete the table in the answer booklet with the number of peaks in the 13C NMR 
+spectrum of: 
+ 
+(i) 
+Cubane 
+ 
+(ii) 
+Cubane-carboxylic acid 
+ 
+(iii) 
+Cubane-1,2-dicarboxylic acid 
+ 
+(iv) 
+Cubane-1,3-dicarboxylic acid 
+ 
+(v) 
+Cubane-1,4-dicarboxylic acid. 
+ 
+ 
+ 
+
+6 
+ 
+The start of the cubane synthesis is shown below. 
+  
+A was treated with three equivalents of Br2 to form B. In B, which has the molecular formula 
+C7H9O2Br3, each of the three bromine atoms are exactly three bonds away from the two 
+oxygen atoms. 
+B was then reacted with excess sodium hydroxide. This reaction is proposed to proceed via 
+intermediate C, which then reacts with another molecule of itself to form compound D. 
+(c) 
+Draw the structures of A and B. 
+The reaction from intermediate C to D is 
+known as a Diels-Alder cycloaddition. The 
+simplest 
+example 
+of 
+a 
+Diels-Alder 
+cycloaddition, 
+between 
+butadiene 
+and 
+ethene, is shown on the right. 
+ 
+Three other examples of Diels–Alder cycloadditions are shown below: 
+ 
+(d) 
+Draw the structures of products W and X. 
+Y dimerises via a Diels-Alder reaction to produce the product shown. 
+(e) 
+Draw the structure of starting material Y. 
+(f) 
+Based on this knowledge of the Diels-Alder reaction, draw the structure of  
+intermediate C. 
+
+7 
+ 
+ 
+Compound D reacts with aqueous acid to form compound E, which on exposure to UV light, 
+reacts intramolecularly to form compound F. Compound F contains two four-membered rings. 
+Lastly, compound F is reacted with sodium 
+hydroxide followed by hydrochloric acid. This 
+results in a reaction known as the Favorskii 
+Rearrangement. The general reaction for a 
+Favorskii Rearrangement is shown here: 
+ 
+(g) 
+On the structure in the answer booklet, circle the electrophilic carbon atom(s). 
+(h) 
+Using the frameworks provided in the answer booklet, draw the structures of E and F. 
+This dicarboxylic acid can be chemically converted to cubane. 
+ 
+(i) 
+Using the frameworks provided in the answer booklet, draw the structures of G and H. 
+An isomer of cubane, barrelene, can also be constructed using a Diels-Alder reaction. 
+ 
+The two starting materials undergo a Diels-Alder reaction to form Q. An additional ring is formed 
+to give product R, which then reacts to give three products, one of which is shown. Compound 
+S is a gas, and compound T when treated with NaOH gives barrelene-1,2-dicarboxylic acid. 
+(j) 
+Using the frameworks provided in the answer booklet, draw the structures of Q, R, S, 
+and T. 
+
+8 
+ 
+Q4 This question is about coronavirus testing 
+A typical lateral flow test works by a 
+sample liquid flowing along a paper 
+medium (from left-to-right in the 
+picture). Lateral flow tests for 
+COVID-19 use the strong binding 
+between spike proteins on the 
+surface of virus particles and 
+antibodies to detect coronavirus. The 
+red/pink colour in many lateral flow 
+tests is from gold nanoparticles 
+coated with antibodies. 
+  
+To use a particular lateral flow test, a swab is taken and placed in 1.0 cm3 extraction solution 
+containing 7.3 mmol dm–3 Na2HPO4 and 4.6 mmol dm–3 KH2PO4 at pH 7.4 at 25 °C. 
+(a) 
+What is the purpose of these chemicals in the extraction solution? Tick the correct 
+answer in the answer booklet. 
+Make a very acidic 
+solution 
+Make a neutral 
+solution 
+Make a very alkaline 
+solution 
+Make a buffered 
+solution 
+(b) 
+If 1.0 cm3 of 0.10 mol dm–3 HCl were then added to the extraction solution, what pH 
+would the resulting solution be? Tick the correct answer in the answer booklet. 
+Very Acidic 
+Neutral 
+pH 7.4 
+Very Alkaline 
+During the test a person swabs their nose/throat and places it in the extraction solution. The 
+resulting solution is called the test solution. A test sample of a few drops (0.10 cm3) of the test 
+solution are placed on the sample pad. 
+If the person taking the test has COVID-19, there will typically be 7.1 × 106 virus particles per 
+cm3 in the test solution. Each virus particle has approximately 20 spike proteins on its 
+surface.  
+(c) 
+What is the concentration of spike proteins, [SP], in the test sample placed on the pad in 
+mol dm–3? 
+If you do not get an answer, use [SP] = 1.0 × 10 –11 mol dm–3 in subsequent calculations. 
+Once the sample passes the conjugate pad, it becomes saturated with red-coloured 
+antibody-coated Au nanoparticles (NP), to a concentration 1.6 × 1012 NP per cm3. 
+An equilibrium is set up where the NP bind to any spike proteins, SP. Assume that any binding 
+that takes place between spike proteins and nanoparticles is 1:1.  
+SP (aq) + NP (aq) ⇌ SPNP (aq) 
+𝐾𝐾=
+[SPNP]
+[NP][SP] = 1.2 × 1010 mol−1dm3 
+ 
+ 
+ 
+
+9 
+ 
+(d)  As there is a large excess of nanoparticles, you can assume that the concentration of 
+nanoparticles at equilibrium is still 1.6 × 1012 NP per cm3 
+Determine [SPNP] at equilibrium in mol dm–3. 
+If you do not get an answer, use [SPNP]= 1.0 × 10 –11 mol dm–3 in subsequent 
+calculations. 
+The resulting mixture flows over the test strip 
+which contains surface-immobilized antibodies 
+(AB). When considering the amount of a 
+substance on a surface, we use surface 
+density, σA, instead of concentration. 
+The test strip is 3.0 mm long, 1.0 mm wide and 
+0.10 mm deep, with a surface density of 
+antibodies, σ𝐴𝐴𝐴𝐴 = 1.2 × 109 mm−2.  
+ 
+(e) 
+(i) 
+Calculate how many surface-immobilized antibodies, AB, there are on the test 
+strip surface. 
+ 
+(ii) 
+Calculate how many free spike proteins, SP, and how many nanoparticle-bound 
+spike proteins, SPNP, are present in a volume of solution of the size of the test 
+strip before any interaction with the test strip. 
+The surface-immobilized antibodies, AB, bind to any spike protein present (free SP and 
+nanoparticle-bound SPNP) with the following equilibria: 
+AB (surface) + SP (aq) ⇌ ABSP (surface) 
+AB (surface) + SPNP (aq) ⇌ ABSPNP (surface) 
+These have the same equilibrium constant: 
+𝐾𝐾= σABSP
+σAB[SP] =
+σABSPNP
+σAB[SPNP] = 3.3 × 1010mol−1dm3 
+(f) 
+Determine the number of nanoparticles immobilized on the test strip, ABSPNP, once the 
+whole 0.10 cm3 test sample has fully flowed past.  
+The visibility of the test line depends on the number of nanoparticles which become 
+immobilized on it. Nanoparticles are visible down to a surface density of 3 × 106 NP per mm2. 
+(g) 
+Determine the minimum number of virus particles present in the test sample which 
+would give a positive result. 
+ 
+ 
+
+10 
+ 
+5. This question is about making the smallest Chinese knot 
+The 2022 International Chemistry Olympiad is being 
+organised by Tianjin University in China. Traditional 
+Chinese culture often features decorative knots tied 
+from strands of cord or material. In 2021, researchers 
+managed to tie a molecule into the smallest ever 
+Chinese knot. 
+They first synthesised an organic ligand to act as the 
+strands of thread. Coordination of atoms on these 
+organic ligands to metal ions produced a (3 × 3) 
+interwoven grid as shown below. The twelve strand 
+ends were joined with a chemical reaction and the 
+metal ions were then removed to give a purely organic 
+Chinese knot. 
+ (3 × 3) grid 
+A Chinese knot from rope 
+The synthesis of one of the organic strands can begin from two different starting materials: A 
+or B which can both be converted into 3-fluoro-4-nitrophenol. 
+ 
+(a) 
+(i) 
+Draw the structure of A. 
+ 
+(ii) 
+Draw the structure of the active electrophile formed when A reacts to form  
+3-fluoro-4-nitrophenol.  
+Elemental Analysis of B revealed: C 51.81%; H 3.62%; N 10.07%. 
+(b) 
+Draw the structure of B. 
+3-Fluoro-4-nitrophenol is converted into compound D. In the reaction of C to D, a primary 
+amine (RNH2) is used, where R is an alkyl group. 
+(c) 
+(i) 
+Draw the structure of C.   
+ 
+(ii) 
+Draw the structure of D. Use the abbreviation R for the alkyl group from the 
+primary amine. 
+ 
+
+11 
+ 
+Compound D is converted into the organic strand in three steps. The final two steps use the 
+same palladium catalyst mix. Treating compound E and thiazolothiazole with this mix gives 
+compound F. Treating compound F and reagent G with this mix gives the organic strand. 
+ 
+(d) 
+Draw the structures of compound E and reagent G.   
+In the 1H NMR spectrum of D, the signals from the alkyl group R are as follows:  
+3.26 ppm (2H, doublet of triplets); 1.77 ppm (1H, multiplet); 1.63 ppm (2H, doublet of triplets) 
+0.98 ppm (6H, doublet). 
+(e) 
+Draw the structure of the primary amine (RNH2) used to synthesise D. 
+Atoms in each strand coordinate to transition metal ions to form the (3 × 3) grid.  
+(f) 
+On the structure of the strand in the answer booklet, draw in the place 
+of the metal ions and show which atoms coordinate to each metal ion. 
+Use the style of the picture on the right, where the metal ion is 
+represented by a letter M in a circle, and the atoms which are 
+coordinating have an arrow to show which metal they coordinate to. 
+ 
+(g) 
+What is the overall coordination geometry around each metal ion in this 3 × 3 grid best 
+described as? Tick the correct answer in the answer booklet. 
+tetrahedral 
+trigonal planar 
+square planar 
+octahedral 
+square pyramidal 
+hexagonal planar 
+ 
+ 
+ 
+
+12 
+ 
+The formula of the metal salt added to form the grid can be written as MX2•6H2O, where M2+ 
+is a divalent cation of a first-row transition metal, X– is a tetrahedral anion of charge −1, and 
+there are six molecules of water of crystallisation in the salt. Upon shaking the salt in 
+aqueous sodium hydroxide, a green precipitate is formed that upon standing turns brown. 
+Upon gentle heating of the salt, there is a 32.0% loss in mass. Anion X− contains two different 
+elements, neither of which is oxygen.  
+(h) 
+Identify M2+ and draw the structure of anion X−.  
+The 3 × 3 grid is then subjected to a reaction known as alkene metathesis, which joins two 
+terminal alkenes into a disubstituted alkene, producing ethene as a by-product. Due to the 
+rigid structure of the grid, only adjacent strands can be joined in this reaction. 
+ 
+Although this reaction only joins adjacent strand ends, there are still many possibilities of 
+which ends can be joined. Depending on which ends join first, sometimes some ends are left 
+too far away from other ends to be joined at all. Once the alkene metathesis reaction is 
+complete, the metal ions are removed by addition of EDTA. After metal ion removal, four 
+different types of organic structure remain, depending on which ends join: (i) Chinese knots; 
+(ii) two interlinked rings; (iii) individual rings; (iv) linear organic molecules.  
+ 
+(i) 
+In the answer booklet tick which of the four structures will be present after the following 
+connections are made between the strand ends and then the metal ions removed.  
+ 
+(i) 
+(1,2) (3,4) (5,6) (7,8) (9,10) (11,12) 
+ 
+(ii) 
+(1,2) (4,5) (6,7) (8,9) (10,11) (3 and 12 remain unjoined) 
+ 
+(iii) 
+(1,2) (3,4) (5,6) (8,9) (10,11) (7 and 12 remain unjoined) 
+ 
+(iv) 
+(2,3) (4,5) (6,7) (8,9) (10,11) (12,1) 
+ 
+ 
+ 
+
+13 
+ 
+6. This question is about storing vaccines 
+Because of degradation of components, 
+vaccines need to be refrigerated, which 
+increases their cost and makes distribution 
+difficult. A recently developed process 
+called “ensilication” can drastically improve 
+the vaccines’ stability. Ensilicated vaccine 
+components can be stored at room 
+temperature and withstand heating up to 
+100 °C.  
+ 
+The ensilication process begins with the hydrolysis of ethyl orthosilicate, Si(OCH2CH3)4, to 
+form orthosilicic acid, Si(OH)4, (process 1). This is added to a solution of the protein/antibody, 
+which catalyses the decomposition of the acid into silica, SiO2 (process 2). 
+(a) 
+Write the chemical equations for processes 1 and 2. 
+At the end of the process a suspension of silica nanoparticles loaded with protein is formed. 
+The protein can be released using a solution of NaF and HCl, which breaks up the silica 
+(process 3). 
+SiO2 + 6 NaF + 6 HCl → H2SiF6 + 6 NaCl + 2 H2O 
+(b) 
+Calculate the standard enthalpy change of this reaction given the following data: 
+NaOH + HCl → NaCl + H2O 
+ΔH
+⦵ = −56.7 kJ mol−1 
+SiO2 + 6 HF → H2SiF6 + 2 H2O 
+ΔH
+⦵ = −100.3 kJ mol−1 
+NaOH + HF → H2O + NaF 
+ΔH
+⦵ = −61.5 kJ mol−1 
+Process 2 is thermodynamically favoured but slow, which is why it requires a catalyst. The 
+equilibrium constant for this reaction is 
+𝐾𝐾eq = 1/[Si(OH)4] 
+and 
+ln[Si(OH)4] = −1680
+𝑇𝑇
+−0.605 
+where [Si(OH)4] is the equilibrium concentration in mol dm−3, and 𝑇𝑇 is the temperature in K. 
+(c) 
+Calculate the molar enthalpy change, ΔH
+⦵, and molar entropy change, ΔS
+⦵, for 
+process 2. 
+ 
+ 
+ 
+
+14 
+ 
+Dynamic light scattering can be used to determine the size of the nanoparticles. Assume our 
+solution contains spherical particles of only two types: ensilicated protein with radius 𝑟𝑟
+1 and 
+free protein with radius 𝑟𝑟2. The intensity of the light scattered by these particles can be 
+converted into an autocorrelation function, c. 
+𝑐𝑐= ቆ1 − Γ 𝑡𝑡
+𝑟𝑟
+1
++ 1
+2 ൬Γ 𝑡𝑡
+𝑟𝑟
+1
+ ൰
+2
+ቇ+  𝐴𝐴ቆ1 − Γ 𝑡𝑡
+𝑟𝑟2
++ 1
+2 ൬Γ 𝑡𝑡
+𝑟𝑟2
+ ൰
+2
+ቇ 
+where 𝐴𝐴 is a dimensionless constant, 𝑡𝑡 is time in μs, 𝑟𝑟
+1 and 𝑟𝑟2 are the radii in nm and 
+Γ = 0.170713 nm μs−1. Note: the following calculations are sensitive to rounding error. Work 
+to the specified number of significant figures in (d)−(f). 
+(d) 
+Calculate the constant 𝐴𝐴, given that at 𝑡𝑡= 0, the autocorrelation function 𝑐𝑐0 =  1.56744. 
+If you do not get an answer, use 𝐴𝐴= 0.50000 in subsequent calculations. 
+The equation for 𝑐𝑐 can be rearranged into the form 𝑓𝑓= 𝑎𝑎× 𝑡𝑡−𝑏𝑏, where 
+𝑓𝑓= 𝑐𝑐−𝑐𝑐0
+Γ𝑡𝑡
+,
+𝑎𝑎= 1
+2 Γ(𝑟𝑟
+1
+−2 + 𝐴𝐴 𝑟𝑟2
+−2),
+𝑏𝑏= 𝑟𝑟
+1
+−1 + 𝐴𝐴 𝑟𝑟2
+−1. 
+(e) 
+Calculate the values of the slope 𝑎𝑎 and intercept 𝑏𝑏, given that 𝑐𝑐= 1.54289 at 𝑡𝑡= 1 μs 
+and 𝑐𝑐= 1.51937 at 𝑡𝑡= 2 μs.  
+If you do not get an answer, use 𝑎𝑎= 0.00250 nm−1μs−1 and 𝑏𝑏= 0.12500  nm−1 in 
+subsequent calculations. 
+(f) 
+Hence calculate the radii 𝑟𝑟
+1 and 𝑟𝑟2. Consider first solving for 𝑥𝑥1 = 𝑟𝑟
+1
+−1 and 𝑥𝑥2 = 𝑟𝑟2
+−1.  
+ 
+ 
+
+15 
+ 
+Acknowledgements & References 
+ 
+Q1 The image is © Dr Ben Pilgrim 
+https://www.energylivenews.com/2021/10/08/did-e10-rollout-fuel-the-panic-buying-at-uks-petrol-
+stations/   
+ 
+Q2 The image is © Shutterstock 
+ 
+Q3 The image is © Carla Keen 
+Cubane Journal of the American Chemical Society, 1964, 86, 3157-3158. 
+https://doi.org/10.1021/ja01069a041  
+Synthesis of Substituted Bicyclo[2.2.2]octatrienes Journal of Organic Chemistry, 1997, 62, 9076-
+9082. 
+https://doi.org/10.1021/jo971039y 
+Pilot-Scale Production of Dimethyl 1,4-Cubanedicarboxylate Organic Process Research and 
+Development, 2013, 17, 1503-1509.  
+https://doi.org/10.1021/op400181g 
+ 
+Q4 The images are © Scott Ollington and © Dr Alex Thom 
+Quantifying the Numbers of Gold Nanoparticles in the Test Zone of Lateral Flow Immunoassay 
+Strips ACS Applied Nano Materials, 2019, 2, 5020-5028. 
+https://pubs.acs.org/doi/abs/10.1021/acsanm.9b00956 
+Antibody Affinity Governs the Inhibition of SARS-CoV-2 Spike/ACE2 Binding in Patient Serum 
+ACS Infectious Diseases, 2021, 7, 2362-2369. 
+https://pubs.acs.org/doi/abs/10.1021/acsinfecdis.1c00047 
+Optical Detection of CoV-SARS-2 Viral Proteins to Sub-Picomolar Concentrations ACS Omega, 
+2021, 6, 6404-6413. 
+https://pubs.acs.org/doi/abs/10.1021/acsomega.1c00008 
+Use of Lateral Flow Immunoassay to Characterize SARS-CoV-2 RBD-Specific Antibodies and 
+Their Ability to React with the UK, SA and BR P.1 Variant RBDs Diagnostics, 2021, 11, 1190. 
+https://www.mdpi.com/2075-4418/11/7/1190 
+Structures and distributions of SARS-CoV-2 spike proteins on intact virions Nature, 2020, 588, 
+498-502. 
+https://www.nature.com/articles/s41586-020-2665-2 
+ 
+Q5 The images are © Prof. David Leigh 
+A molecular endless (74) knot Nature Chemistry, 2021, 13, 117-122. 
+https://doi.org/10.1038/s41557-020-00594-x 
+ 
+Q6 The image is © Shutterstock 
+Thermal stability, storage and release of proteins with tailored fit in silica Scientific Reports, 
+2017, 7, 46568. 
+https://doi.org/10.1038/srep46568 
+ 
+This work is published under the following Creative Commons License  
+Attribution-NonCommercial-ShareAlike CC BY-NC-SA 
+This license lets others remix, tweak, and build upon your work non-commercially, as long as they 
+credit you and license their new creations under the identical terms. 
+ 
+Authors of 2022 UK Round One Paper (listed alphabetically) 
+Dr Helen Alonzi (St Bartholomew’s School)  
+Dr Ryan Beattie (Bradley Stoke Community School, Olympus Academy Trust) 
+Peter Bolgar (Fitzwilliam College and St Catharine’s College, University of Cambridge) 
+Chloe Francis (Royal Society of Chemistry) 
+Mark Jordan (Royal Society of Chemistry) 
+Sky Kang (Up Learn) 
+Dr JL Kiappes (University College London) 
+Dr Ben Pilgrim (University of Nottingham) 
+Dr Penny Robotham (The National Mathematics and Science College) 
+Dr Andy Taylor (King Edward VI Camp Hill School for Boys) 
+Dr Alex Thom (Girton College, University of Cambridge) 
+Dr George Trenins (ETH Zürich)  
+ 
+
+16 
+ 
+ 
+Physical Constants & Formulae 
+ 
+ 
+ 
+Avogadro’s constant 
+NA 
+6.02 × 1023 mol−1 
+molar gas constant 
+R 
+8.314 J K−1 mol−1 
+Faraday constant 
+F 
+96485 C mol−1 
+Planck constant 
+h 
+6.626 × 10−34 m2 kg s−1 
+speed of light in vacuum 
+c 
+2.998 × 108 m s−1 
+mass of electron 
+me 
+9.109 × 10−31 kg 
+ 
+ 
+ 
+1 nm = 1 × 10−9 m 
+1 Å = 1 × 10−10 m 
+0 °C = 273 K 
+ 
+ 
+ 
+ΔG
+⦵ = ΔH
+⦵ −TΔS
+⦵ 
+ΔG
+⦵ = – nFE
+⦵   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+17 
+ 
+1 
+H 
+1.008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+He 
+4.003 
+3 
+Li 
+6.94 
+4 
+Be 
+9.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.06 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.102 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.87 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.38 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.63 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.904 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+ 
+44 
+Ru 
+101.07 
+45 
+Rh 
+102.91 
+46 
+Pd 
+106.42 
+47 
+Ag 
+107.87 
+48 
+Cd 
+112.41 
+49 
+In 
+114.82 
+50 
+Sn 
+118.71 
+51 
+Sb 
+121.76 
+52 
+Te 
+127.60 
+53 
+I 
+126.90 
+54 
+Xe 
+131.29 
+55 
+Cs 
+132.91 
+56 
+Ba 
+137.33 
+57 
+La 
+138.91 
+72 
+Hf 
+178.49 
+73 
+Ta 
+180.95 
+74 
+W 
+183.84 
+75 
+Re 
+186.21 
+76 
+Os 
+190.23 
+77 
+Ir 
+192.22 
+78 
+Pt 
+195.08 
+79 
+Au 
+196.97 
+80 
+Hg 
+200.59 
+81 
+Tl 
+204.38 
+82 
+Pb 
+207.2 
+83 
+Bi 
+208.98 
+84 
+Po 
+ 
+85 
+At 
+ 
+86 
+Rn 
+ 
+87 
+Fr 
+ 
+88 
+Ra 
+ 
+89 
+Ac 
+ 
+104 
+Rf 
+ 
+105 
+Db 
+ 
+106 
+Sg 
+ 
+107 
+Bh 
+ 
+108 
+Hs 
+ 
+109 
+Mt 
+ 
+110 
+Ds 
+ 
+111 
+Rg 
+ 
+112 
+Cn 
+ 
+113 
+Nh 
+ 
+114 
+Fl 
+ 
+115 
+Mc 
+ 
+116 
+Lv 
+ 
+117 
+Ts 
+ 
+118 
+Og 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lanthanides 
+58 
+Ce 
+140.12 
+59 
+Pr 
+140.91 
+60 
+Nd 
+144.24 
+61 
+Pm 
+ 
+62 
+Sm 
+150.4 
+63 
+Eu 
+151.96 
+64 
+Gd 
+157.25 
+65 
+Tb 
+158.93 
+66 
+Dy 
+162.50 
+67 
+Ho 
+164.93 
+68 
+Er 
+167.26 
+69 
+Tm 
+168.93 
+70 
+Yb 
+173.05 
+71 
+Lu 
+174.97 
+Actinides 
+90 
+Th 
+232.04 
+91 
+Pa 
+231.04 
+92 
+U 
+238.03 
+93 
+Np 
+ 
+94 
+Pu 
+ 
+95 
+Am 
+ 
+96 
+Cm 
+ 
+97 
+Bk 
+ 
+98 
+Cf 
+ 
+99 
+Es 
+ 
+100 
+Fm 
+ 
+101 
+Md 
+ 
+102 
+No 
+ 
+103 
+Lr 
+ 

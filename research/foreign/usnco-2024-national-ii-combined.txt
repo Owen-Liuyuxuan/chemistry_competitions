@@ -1,0 +1,1357 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC
+20036 All rights reserved. Printed in U.S.A. 
+2024 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART II 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+Monica Marie Arroyo, Pontifical Catholic University of Puerto Rico, Ponce, PR 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Jesse Bernstein, Miami Country Day School, Miami, FL (retired) 
+Alan D. Crosby, Newton South HS, Newton, MA (retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+James Dohm, University of Pennsylvania, Philadelphia, PA 
+Kimberly Gardner, United States Air Force Academy, CO 
+Paul Groves, South Pasadena HS, South Pasadena, CA (retired) 
+Nicolas Hamel, Clackamas Community College, Oregon City, OR (retired) 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Mariusz Kozik, Canisius College, Buffalo, NY 
+Sarah Leite, Hopkins School, New Haven, CT 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los Angeles, CA 
+Jane Nagurney, Scranton Preparatory School, Scranton, PA (retired) 
+Anne O'Connor, Cleveland State University, Cleveland, OH 
+DIRECTIONS TO THE EXAMINER 
+Part II of this test requires that student answers be written in this test booklet in the spaces provided underneath the questions. Part II 
+test booklet and scratch paper should be made available to the student only during the examination period. All testing materials including 
+scratch paper should be collected from students after the examination. Only test booklets should be shipped to the USNCO office 
+immediately after the national exam and no later than April 22, 2024. 
+When the student has completed Part II, or after one hour and forty-five minutes have elapsed, the student must turn in Part II of the 
+testing materials and all scratch paper. Be sure that the student has supplied the same identification number used for Part I has been 
+used again for Part II. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+Part I 
+60 questions 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+Part II 
+8 questions 
+problem-solving, explanations 
+1 hour, 45 minutes 
+Part III 
+2 lab questions 
+laboratory practical 
+ 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page two for student reference. 
+Students should be permitted to use only non-programmable calculators. The use of a programmable calculator, cell phone, 
+or any other device that can access the internet or make copies or photographs during the exam is grounds for 
+disqualification. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+Part II requires complete responses to questions involving problem-solving and explanations. One hour and forty-five minutes are 
+allowed to complete this part. Be sure to use the same identification number you used for Part I and write it on top of each page in 
+the indicated fields. Use separate sheets for scratch paper and do not attach your scratch paper to this examination. When you 
+complete Part II (or at the end of one hour and forty-five minutes) you must turn in all testing materials and scratch paper.  
+STUDENT USNCO ID: 
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC
+20036 All rights reserved. Printed in U.S.A. 
+ABBREVIATIONS AND SYMBOLS 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S 
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure      
+ VP 
+volt 
+V 
+volume 
+V 
+year       
+ y 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022 x 
+1023 mol–1 
+h = 6.626 x 
+10–34 J s 
+c = 2.998 x  
+108 m s–1
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+EQUATIONS 
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+-
+o
+1
+ln
+constant
+H
+K
+R
+T
+æ
+ö
+-D
+æ
+ö
+=
++
+ç
+÷ç
+÷
+è
+ø
+è
+ø
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+æ
+ö
+æ
+ö
+=
+-
+ç
+÷
+ç
+÷
+è
+ø
+è
+ø
+ 
+1
+PERIODIC TABLE OF THE ELEMENTS
+18
+1A
+8A 
+1 
+H 
+1.008
+2 
+13 
+14 
+15 
+16 
+ 17 
+2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003
+3 
+Li 
+6.941
+4 
+Be 
+9.012
+5 
+B 
+10.81
+6 
+C 
+12.01
+7 
+N 
+14.01
+8 
+O 
+16.00
+9 
+F 
+19.00
+10 
+Ne 
+20.18
+11 
+Na 
+22.99
+12 
+Mg 
+24.31
+3 
+3B 
+4 
+4B 
+5 
+5B 
+6 
+6B 
+7 
+7B 
+8 
+8B 
+9 
+8B 
+ 10 
+8B 
+ 11 
+1B 
+ 12 
+2B 
+13 
+Al 
+26.98
+14 
+Si 
+28.09
+15 
+P 
+30.97
+16 
+S 
+32.07
+17 
+Cl 
+35.45
+18 
+Ar 
+39.95
+19 
+K 
+39.10
+20 
+Ca 
+40.08
+21 
+Sc 
+44.96
+22 
+Ti 
+47.88
+23 
+V 
+50.94
+24 
+Cr 
+52.00
+25 
+Mn 
+54.94
+26 
+Fe 
+55.85
+27 
+Co 
+58.93
+28 
+Ni 
+58.69
+29 
+Cu 
+63.55
+30 
+Zn 
+65.39
+31 
+Ga 
+69.72
+32 
+Ge 
+72.61
+33 
+As 
+74.92
+34 
+Se 
+78.97
+35 
+Br 
+79.90
+36 
+Kr 
+83.80
+37 
+Rb 
+85.47
+38 
+Sr 
+87.62
+39 
+Y 
+88.91
+40 
+Zr 
+91.22
+41 
+Nb 
+92.91
+42 
+Mo 
+95.95
+43 
+Tc 
+(98)
+44 
+Ru 
+101.1
+45 
+Rh 
+102.9
+46 
+Pd 
+106.4
+47 
+Ag 
+107.9
+48 
+Cd 
+112.4
+49 
+In 
+114.8
+50 
+Sn 
+118.7
+51 
+Sb 
+121.8
+52 
+Te 
+127.6
+53 
+I 
+126.9
+54 
+Xe 
+131.3
+55 
+Cs 
+132.9
+56 
+Ba 
+137.3
+57 
+La 
+138.9
+72 
+Hf 
+178.5
+73 
+Ta 
+180.9
+74 
+W 
+183.8
+75 
+Re 
+186.2
+76 
+Os 
+190.2
+77 
+Ir 
+192.2
+78 
+Pt 
+195.1
+79 
+Au 
+197.0
+80 
+Hg 
+200.6
+81 
+Tl 
+204.4
+82 
+Pb 
+207.2
+83 
+Bi 
+209.0
+84 
+Po 
+(209)
+85 
+At 
+(210)
+86 
+Rn 
+(222)
+87 
+Fr 
+(223)
+88 
+Ra 
+(226)
+89 
+Ac 
+(227)
+104 
+Rf 
+(261)
+105 
+Db 
+(262)
+106 
+Sg 
+(263)
+107 
+Bh 
+(262)
+108 
+Hs 
+(265)
+109 
+Mt 
+(266)
+110 
+Ds 
+(281)
+111 
+Rg 
+(272)
+112 
+Cn 
+(285)
+113 
+Nh 
+(286)
+114 
+Fl 
+(289)
+115 
+Mc 
+(289)
+116 
+Lv 
+(293)
+117 
+Ts 
+(294)
+118 
+Og 
+(294)
+58 
+Ce 
+140.1
+59 
+Pr 
+140.9
+60 
+Nd 
+144.2
+61 
+Pm 
+(145)
+62 
+Sm 
+150.4
+63 
+Eu 
+152.0
+64 
+Gd 
+157.3
+65 
+Tb 
+158.9
+66 
+Dy 
+162.5
+67 
+Ho 
+164.9
+68 
+Er 
+167.3
+69 
+Tm 
+168.9
+70 
+Yb 
+173.0
+71 
+Lu 
+175.0
+90 
+Th 
+232.0
+91 
+Pa 
+231.0
+92 
+U 
+238.0
+93 
+Np 
+(237)
+94 
+Pu 
+(244)
+95 
+Am 
+(243)
+96 
+Cm 
+(247)
+97 
+Bk 
+(247)
+98 
+Cf 
+(251)
+99 
+Es 
+(252)
+100 
+Fm 
+(257)
+101 
+Md 
+(258)
+102 
+No 
+(259)
+103 
+Lr 
+(262)
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 3 
+Question 1  (page 1 of 2) 
+USNCO ID Number: 
+1. [10%] 
+An unknown salt MX2 is a group 2 metal halide.
+a.
+10.00 g MX2 dissolves in 50.0 g water to give a homogeneous solution.  The freezing point of this solution is –4.50
+°C.  What is the molar mass of MX2?  For water, Kf = 1.86 °C/m.
+b.
+10.00 g Na2CO3 and 10.00 g MX2 are mixed in 200.0 mL of water.  A precipitate of MCO3 forms.  What is the pH
+of the supernatant?  The Ka of H2CO3 is 4.3 ´ 10-7 and the Ka of HCO3
+– is 4.7 ´ 10-11
+c.
+A solution of 10.00 g MX2 in water is treated with excess silver nitrate.  The precipitate is dried; the mass of the
+dried compound is 15.2 g.  What is the identity of MX2?
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 4 
+Question 1  (page 2 of 2) 
+USNCO ID Number: 
+d.
+A sample of 10.00 g MX2 dissolved in 50 mL water is treated with increasing amounts of Na2SO4 up to 10 g in total.
+How will the mass of precipitate formed vary with the mass of added Na2SO4?  Graph your answer on the grid
+provided.
+e. 
+What color flame test does MX2 give?
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 5 
+Question 2  (page 1 of 2) 
+USNCO ID Number: 
+2. [13%] 
+A sample of solid calcium fluoride is suspended in water in an unreactive container and stirred until it achieves
+equilibrium.  The pH of the solution is lowered by careful addition of nitric acid, and the pH and concentration of 
+Ca2+(aq) are noted at several points as shown on the graph below.  Note that the units on the y axis are millimoles 
+per liter. 
+a.
+Determine the Ksp of CaF2 from the data provided.
+b.
+Qualitatively, what is the cause for the increase in solubility of CaF2 at low pH?
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 6 
+Question 2  (page 2 of 2) 
+USNCO ID Number: 
+c.
+From the data provided, determine the Ka of HF.
+d.
+How many moles of HNO3 must be added to the CaF2/water mixture to achieve a pH = 3.00 in this experiment?  The
+volume of solution is 1.00 L.
+e.
+Carbon dioxide dissolves in water at 25 °C and 1 atm pressure to the extent of 0.0345 mol L-1.  An aliquot of the
+solution taken from the above experiment at pH = 5 is stirred under 1 atm CO2 and the pH slowly raised by addition
+of solid NaOH until CaCO3 just begins to precipitate.  What is the pH of the solution at this point?  The Ksp of
+CaCO3 is 8.7 ´ 10-9, the Ka of aqueous CO2 (“H2CO3”) is 4.3 ´ 10-7, and the Ka of HCO3
+– is 4.7 ´ 10-11.
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 7 
+Question 3  (page 1 of 2) 
+USNCO ID Number: 
+3. [13%] 
+Ethene, C2H4, can react in the gas phase in the presence of radicals R to form polyethylene as shown in the
+equation below.  Here n is the degree of polymerization.  The forward reaction is second-order while the reverse 
+reaction is first-order.  The values of these rate constants are independent of the degree of polymerization n and the 
+identity of R. 
+a.
+A sample of polyethylene has an average degree of polymerization n = 1200.  How many polymer chains are present
+in 1.0 g of this material?
+b.
+Calculate ∆H° and ∆S° for the polymerization reaction.
+C2H4(g) +  •CH2(CH2)2nCH2R
+•CH2(CH2)(2n+2)CH2R
+kf
+kr
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 8 
+Question 3  (page 2 of 2) 
+USNCO ID Number: 
+c.
+The bond dissociation enthalpy (BDE) for a typical carbon-carbon single bond is 345 kJ mol-1.  From the data given,
+what is the BDE of the carbon-carbon double bond in ethene?
+d.
+Ethene is charged to a fixed vessel at 25 bar and 720 K.  Traces of radical are then added to initiate polymerization.
+What is the percent conversion of ethene into polymer at equilibrium under these conditions?
+e.
+In the presence of a catalyst for the polymerization reaction, the forward rate constant as a function of temperature is
+ln(kf) = –3050(1/T) + 21.0.  By what factor does the catalyst accelerate the rate of the forward reaction at 500 K?
+f.
+By what factor does the catalyst change the rate of the reverse reaction at 500 K?
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 9 
+Question 4  (page 1 of 3) 
+USNCO ID Number: 
+4. [13%] 
+Copper(II) forms a complex ion with ammonia, Cu(NH3)4
+2+, with Kf = 1.7 ´ 1013.  An electrochemical cell is set up
+as shown below at 298 K.  Half-cell A contains 100 mL of 1.00 M Cu(NO3)2, while half-cell B contains 100 mL of 
+a solution that contains a small amount of copper(II) and is 0.100 M in NH3.  A solution of nitric acid is slowly 
+added to half-cell B and the potential measured by the voltmeter is recorded as a function of the added volume of 
+HNO3. 
+a.
+Which half-cell is the cathode and which is the anode?  Justify your answer.
+voltmeter
+Cu
+Cu
+1 M Cu2+
+0.100 M NH3
+small amt. of Cu(II)
+buret containing
+HNO3 solution
+salt bridge
+Half-cell A
+Half-cell B
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 10 
+Question 4  (page 2 of 3) 
+USNCO ID Number: 
+b.
+Qualitatively explain the shape of the graph.
+c.
+What is the total concentration of copper(II) in the solution in half-cell B?
+d.
+What is the concentration of nitric acid in the buret?
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 11 
+Question 4  (page 3 of 3) 
+USNCO ID Number: 
+e.
+Suppose that the experiment is set up again with silver metal in place of copper metal and silver(I) ion in place of
+copper(II) ion, but with all concentrations and all other reagents identical.  What would the graph of E vs. mL added
+HNO3 look like in this experiment?  Sketch your result on the grid below (the graph shown above is redrawn for
+your convenience), and explain your answer.  Silver(I) forms a complex ion with ammonia, Ag(NH3)2
++, with Kf =
+1.7 ´ 107.
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 12 
+Question 5  (page 1 of 1) 
+USNCO ID Number: 
+5. [12%] 
+Write net equations for each of the reactions below.  Use appropriate ionic and molecular formulas and omit
+formulas for all ions or molecules that do not take part in a reaction.  Write structural formulas for all organic 
+substances, and clearly show stereochemistry where relevant.  You need not balance the equations or show the 
+phase of the species. 
+a.
+Aqueous ammonia and acetic acid are mixed.
+b.
+Sodium iodate is added to an excess of hydriodic acid.
+c.
+Manganese(IV) oxide is added to concentrated aqueous hydrochloric acid.
+d.
+Propyl benzoate is heated with aqueous sodium hydroxide.
+e.
+Calcium oxide and graphite are heated to 2200 °C.
+f.
+Iodine-124 undergoes radioactive decay by electron capture.
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 13 
+Question 6  (page 1 of 2) 
+USNCO ID Number: 
+6. [14%] 
+Consider the properties of the group 1 elements, whose valence shell electron configuration is ns1, in the table
+below. 
+Element M 
+n 
+First ionization 
+energy, kJ mol-1 
+Energy required to excite the valence 
+electron to the (n+1)s orbital, kJ mol-1 
+Molar density of 
+solid MCl, mol cm-3 
+H 
+1 
+1312 
+984 
+0.0403 
+Li 
+2 
+520 
+325 
+0.0507 
+Na 
+3 
+496 
+308 
+0.0371 
+K 
+4 
+420 
+252 
+0.0266 
+Rb 
+5 
+403 
+241 
+0.0232 
+Cs 
+6 
+376 
+222 
+0.0237 
+a.
+Rationalize the observed trend in first ionization energies with increasing n.
+b.
+Suppose a hydrogen atom were excited to its 2s1 state.  If that excited state atom were to transfer its electron to Cs+
+to form a ground-state Cs atom, how much energy would that reaction absorb or release?
+c.
+All but one of the atoms listed in the table have an excited state that is significantly lower in energy than the (n+1)s1
+state described in the table.  Explain this observation, noting which atom is the exception and why.
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 14 
+Question 6  (page 2 of 2) 
+USNCO ID Number: 
+d.
+All but one of the atoms listed in the table have an excited state that is modestly higher in energy (38 – 55 kJ mol-1)
+than the (n+1)s1 state described in the table.  Explain this observation, noting which atom is the exception and why.
+e.
+The compounds MCl(s) show a smooth decrease in their molar densities, except that HCl(s) is less dense than
+expected from the trend and CsCl(s) is more dense than expected.  Explain this periodic trend, and give reasons for
+the two exceptions to the trend.
+f.
+137Cs (136.9070895 amu) undergoes radioactive decay to give a stable product whose atomic mass is 136.9058274
+amu.  What type of radioactive decay is this, and what is the identity of the decay product?
+g.
+Calculate the energy, in kJ mol-1, released by the radioactive decay of 137Cs.
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 15 
+Question 7  (page 1 of 2) 
+USNCO ID Number: 
+7. [13%] 
+Flash vacuum pyrolysis of carbonyl azide (CON6) at 420 °C gives low yields of a cyclic compound, diazirinone, as
+shown in the equation below.  Note that the illustrations of carbonyl azide and diazirinone correctly show the 
+connectivity of the atoms but are NOT correct Lewis structures.  The bond dissociation enthalpies (BDE, in  
+kJ mol-1) of various bonds among carbon, oxygen, and nitrogen are given in the table. 
+Bond 
+BDE, kJ mol-1
+Bond 
+BDE, kJ mol-1 
+Bond 
+BDE, kJ mol-1 
+Bond 
+BDE, kJ mol-1 
+C–O 
+350 
+C–N 
+290 
+N–N 
+160 
+N–O 
+200 
+C=O 
+741 
+C=N 
+615 
+N=N 
+418 
+N=O 
+480 
+CºO 
+1080 
+CºN 
+891 
+NºN 
+949 
+a.
+Draw complete Lewis structures for carbonyl azide and for diazirinone, including all lone pairs and nonzero formal
+charges.  You need only draw one Lewis structure for each molecule, even if there are multiple possible resonance
+structures.
+b.
+Diazirinone decomposes in the gas phase over the course of several days at room temperature to give carbon
+monoxide and nitrogen gas.  Based on the given BDEs, calculate ∆H° for this decomposition reaction.
+N
+N
+N
+C
+O
+N
+N
+N
+N
+N
+C
+O
++ 2 N2
+carbonyl azide
+diazirinone
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 16 
+Question 7  (page 2 of 2) 
+USNCO ID Number: 
+c.
+The actual ∆H° for the decomposition of diazirinone is –347 kJ mol-1.  Comment on any discrepancy you find
+between this value and the value you determined in part b.  Be sure your comment addresses the direction of
+deviation of the two values.
+d.
+Will ∆G° for decomposition at 298 K be algebraically greater than, less than, or equal to ∆H° for decomposition?
+Briefly justify your answer.
+e.
+There is an isomer of diazirinone that has a chain structure with the connectivity NCNO.  Draw a Lewis structure for
+this molecule and clearly describe or sketch its geometry.
+f.
+Would you expect acyclic NCNO to be more or less stable than diazirinone?  Clearly justify your prediction.
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 17 
+Question 8  (page 1 of 2) 
+USNCO ID Number: 
+8. [12%] 
+Consider the three isomers of C4H9NO2 shown below:
+a.
+Which compound is the most basic?  Justify your answer.
+b.
+Draw the structures of the conjugate acids of the three compounds.
+c.
+Draw the structure of a chiral isomer of C4H9NO2.
+H2N
+O
+OCH3
+NH2
+O
+CH3O
+I
+II
+III
+HO
+H
+N
+OH
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 18 
+Question 8  (page 2 of 2) 
+USNCO ID Number: 
+Consider the two nitrogen heterocycles shown below:
+d.
+Which compound is more basic?  Draw the structure of its conjugate acid.
+e.
+Which compound is more reactive towards Br2?  Explain why it is more reactive and draw the structure of a major
+product of its reaction with Br2.
+N
+CH3
+N
+N
+CH3
+IV
+V
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 19 
+This page is intentionally left blank 
+
+Property of ACS USNCO – Not for use as USNCO National Exam after April 21, 2024 
+Page 20
+This page is intentionally left blank 
+
+2024 USNCO Part 2 Solutions 
+1 
+1. a. 
+(–4.50 °C)/(–1.86 °C/m) = 2.42 m
+Since MX2 gives 3 moles of ions per mole of compound, the solution is (2.42 m/3) = 
+0.807 m.   
+(0.807 mol MX2/kg water) ´ (0.0500 kg water) = 0.0404 mol MX2 
+10.00 g MX2/0.0404 mol = 248 g mol-1 
+b.
+10.00 g Na2CO3/(105.99 g mol-1) = 0.09435 mol Na2CO3.
+After reaction with 0.0404 mol MX2, approximately 0.0404 mol MCO3 will precipitate,
+leaving behind 0.0540 mol CO3
+2- in solution.  In 200 mL, this gives a 0.270 M solution of
+CO3
+2-.  The carbonate ion reacts with water as follows:
+CO3
+2-(aq) + H2O(l)  ⇌ HCO3
+–(aq) + OH–(aq) 
+Keq = Kw/(Ka of HCO3
+–) 
+[HCO%
+&][OH&]
+[CO%
+(&]
+ = 2.1 ´ 10-4 
+[OH&](
+[).+,)] = 2.1 ´ 10-4 
+[OH–] = 7.6 ´ 10-3 M 
+pH = 14 + log10[OH–] = 11.88 
+c.
+15.2 g AgX/(0.0404 • 2 mol X) = 188 g mol-1 of AgX
+Since the atomic mass of Ag is 107.9, the molar mass of X is 80 => X is Br.
+Subtracting the mass of 2 Br from 248 g mol-1 molar mass of MX2 gives an atomic mass
+of M = 88.  Thus M = Sr.
+d.
+0.0404 mol SrSO4 ´ 183.69 g mol-1 = 7.42 g SrSO4 is the maximum amount of
+precipitate that can form.  The amount actually formed will increase linearly until 0.0404
+mol Na2SO4 (= 5.74 g) are added, then will not increase further as Sr2+ becomes the
+limiting reagent.
+e.
+Sr gives a red flame test.
+
+2024 USNCO Part 2 Solutions 
+2 
+2. a. 
+From the graph, the molar solubility of CaF2 at high pH is about 0.21 mmol/L, so [Ca2+]
+= 2.1×10-4 M and [F–] = 2[Ca2+]. 
+Ksp = [Ca2+][F–]2 = (2.1 × 10-4)(4.2 × 10-4)2 = 3.7 × 10-11 
+b.
+F– reacts with H+ to form HF, lowering the concentration of F– and shifting the solubility
+equilibrium to cause more solid CaF2 to dissolve.
+c.
+Choosing any low-pH point should work, but it is better to choose a point with pH < 3 so
+that the error from reading the plot is minimized.  As an example, we can use pH = 2
+(1.36 × 10-3 M = [Ca2+]).  At this point, [H3O+] = 10–pH = 0.010 M.  One can determine
+the concentration of F– from the Ksp:
+Ksp = [Ca2+][F–]2 
+3.7 × 10-11 = [1.36 × 10-3][F–]2 
+[F–] = 1.65 ´ 10-4 M 
+Since each Ca2+ in solution must be accompanied by two fluorines (in whatever form), 
+[F–] + [HF] = 2[Ca2+] 
+[1.65 ´ 10-4] + [HF] = 2[1.36 × 10-3] 
+[HF] = 2.56 ´ 10-3 M 
+One can then solve for Ka: 
+Ka = 
+[H%O-][F–]
+[HF]
+= 
+[).)0][1.65×0)&5]
+[2.56×0)&%]
+ = 6.4 ´ 10-4 
+d.
+At pH = 3, from the graph, [Ca2+] = 3.9 ´ 10-4 M, so [F–] + [HF] = 7.8 ´ 10-4 M.  At this
+pH, [H3O+] = 1.0 ´ 10-3 M, so
+6.4 ´ 10-4 = 
+[0.001][F–]
+[HF]
+[F–]/[HF] = 0.64 
+(7.8 ´ 10-4 – [HF]) = 0.64[HF] 
+[HF] = 4.8 ´ 10-4 M 
+The added nitric acid either protonates fluoride ion or produces H3O+.  So 
+mol added HNO3 = mol HF + mol H3O+ 
+mol added HNO3 = 4.8 ´ 10-4 + 1.0 ´ 10-3 
+Total of 1.5 ´ 10-3 mol added HNO3 
+e.
+[Ca2+] = 2.1 ´ 10-4 M.  From the Ksp,
+[Ca2+][CO3
+2-] = 8.7 ´ 10-9 
+[CO3
+2-] = 4.1 ´ 10-5 M 
+One can relate the concentration of CO3
+2- to the concentration of H2CO3 by combining 
+the two acid-base dissociations: 
+H2CO3 + 2 H2O  ⇌ CO3
+2- + 2 H3O+ 
+Keq = (Ka of H2CO3)(Ka of HCO3
+–) = 2.0 ´ 10-17 
+[CO%
+(&][H%O-](
+[H(CO%]
+ = 2.0 ´ 10-17
+[8.0 ´ 0)&:][H%O-](
+[).);8<]
+ = 2.0 ´ 10-17 
+[H3O+] = 1.3 ´ 10-7 M 
+pH = 6.88 
+
+2024 USNCO Part 2 Solutions 
+3 
+3. a.  
+M = 1200(28.05 g mol-1) = 3370 g mol-1
+Thus 1.0 g polymer = 3.0 ´ 10-5 mol = 1.8 ´ 1019 molecules 
+b.
+Keq = kf/kr, so ln(Keq) = ln(kf) – ln(kr) = 10500(1/T) – 16.5
+Since ∆G° = –RTln(Keq) = ∆H° – T∆S°, ln(Keq) = –(∆H°/R)(1/T) + (∆S°/R)
+∆H° = –10500R = –87.3 kJ mol-1 
+∆S° = –16.5R = –137 J mol-1 K-1 
+c.
+∆H°rxn = {BDE of C=C} – 2´{BDE of C–C} = –87.3 kJ mol-1
+{BDE of C=C} – 2´(345 kJ mol-1) = –87.3 kJ mol-1 
+{BDE of C=C} = 603 kJ mol-1 
+d.
+Since the properties of the shorter and longer polymer radicals are the same, their
+concentrations are effectively equal, so Kp = 1/PC2H4.
+Kp = kf/kr = 0.147 at 720 K
+So at equilibrium PC2H4 = 6.8 bar.  Thus 6.8/25 ´ 100% = 27% unreacted ethene, 73%
+incorporation into polymer.
+e.
+From the equations:
+kf (uncatalyzed, 500 K) = 1310 bar-1 s-1 
+kf (catalyzed, 500 K) = 2.96 ´ 106 bar-1 s-1 
+kcat/kuncat = 2300 
+The catalyzed reaction is 2300 times faster than the uncatalyzed one. 
+f.
+Since addition of a catalyst cannot change Keq, the reverse reaction must also be
+accelerated by a factor of 2300 by the catalyst.
+
+2024 USNCO Part 2 Solutions 
+4 
+4. a. 
+Half-cell B has a much lower concentration of Cu2+(aq).  Not only is it stated that there is
+only a small amount of Cu(II), at [NH3] = 0.1 M, almost all copper will be in the form of 
+Cu(NH3)4
+2+.  Since current will flow spontaneously in a concentration cell in a direction 
+that tends to equalize the concentrations in the two half-cells, reduction of Cu(II) will 
+happen preferentially in half-cell A, which is thus the cathode.  Half-cell B is the anode. 
+b.
+As HNO3 is added, it protonates NH3 and decreases its concentration.  Less NH3 means a
+higher concentration of uncomplexed Cu2+ and hence a smaller voltage.  When all the
+NH3 is protonated, then all the Cu(II) is in the form of Cu2+(aq), which does not change
+further, so the voltage is stable after the endpoint.
+c.
+The easiest way to solve this is to use the potential past the endpoint, where the copper is
+in the form of Cu2+(aq).  From the graph, E = 0.14 V:
+E = E° – (RT/nF)ln([Cu2+]B/[Cu2+]A)
+With n = 2, [Cu2+]A = 1.00:
+0.14 = 0 – (0.0128)ln([Cu2+]B) 
+[Cu2+] = 1.8 ´ 10-5 M 
+d.
+The endpoint is at 3.15 mL, at which point the NH3 has been neutralized:
+0.100 L solution ´ 0.100 mol L-1 NH3 = C ´ 0.00315 L HNO3 solution 
+C = 3.2 M 
+e.
+In the original titration, before the endpoint, the Cu(II) is almost all complexed, so:
+Kf = 1.7 ´ 1013 = 
+[Cu(NH%)5
+(-]
+[Cu(-][NH%]5 = 
+[1.8 ×1)&:]
+[Cu(-][NH%]5
+[Cu2+] = 1.1 ´ 10-18[NH3]–4 
+E = (–0.0128)ln((1.1 ´ 10-18)[NH3]–4) 
+E = 0.53 + 0.51•ln[NH3] 
+Repeating the calculation for Ag(I), which differs in the magnitude and expression for Kf 
+and has n = 1 rather than n = 2: 
+Kf = 1.7 ´ 107 = 
+[Ag(NH%)(
+-]
+[Ag-][NH%]( = 
+[1.8 ×1)&:]
+[Ag-][NH%](
+[Ag+] = 1.1 ´ 10-12[NH3]–2 
+E = (–0.0257)ln((1.1 ´ 10-12)[NH3]–2) 
+E = 0.71 + 0.51•ln[NH3] 
+So before the endpoint, the Ag experiment will give potentials that are 0.18 V higher than 
+the correspoding values for the Cu experiment. 
+After the endpoint, the only difference between the Cu and Ag experiments is that n = 1 
+for Ag (vs. n = 2 for Cu).  This results in a doubling of the cell potential for Ag.  So: 
+
+2024 USNCO Part 2 Solutions  
+5 
+
+2024 USNCO Part 2 Solutions  
+6 
+5. a. 
+NH3 + CH3COOH ® NH4
++ + CH3COO–
+b.
+IO3
+– + H+ + I– ® I3
+– + H2O (I2 also acceptable in place of I3
+–)
+c.
+MnO2 + H+ + Cl– ® Mn2+ + H2O + Cl2
+d. 
+e.
+CaO + C ® CaC2 + CO
+f.
+124I ® 124Te
+O
+O
++ OH–
+OH
++
+O
+O
+
+2024 USNCO Part 2 Solutions 
+7 
+6. a.  
+Electron energies are proportional to –Zeff
+2/n2.  For the valence electrons, Zeff only
+increases slightly going down a column of the periodic table, so electrons with larger 
+values of n have higher energies and thus are easier to ionize. 
+b.
+The 2s1 state of H has an energy = –1312 kJ mol-1 + 984 kJ mol-1 = –328 kJ mol-1.  This
+is higher in energy than the valence electron in Cs at –376 kJ mol-1, so the electron
+transfer to Cs+ will release 48 kJ mol-1 of energy.
+c.
+In all cases except H, the ns electron can be promoted to an np orbital, which is
+significantly lower in energy than the (n+1)s orbital.  There is no 1p orbital, so this is not
+possible for H.
+d.
+In all cases except H, the (n+1)p orbital is modestly higher in energy than the (n+1)s
+orbital, giving rise to an excited state of modestly higher energy.  For H, there is a 2p
+orbital, but in one-electron atoms the energy depends only on n, not l, so its energy is the
+same as that of the 2s state.
+e.
+For Li – Rb, the MCl(s) compounds form ionic lattices with the rock salt structure.  As
+the cations increase in size going down the column, the lattices expand and hence the
+molar density decreases.  HCl(s) is a molecular crystal, and the weaker intermolecular
+forces give relatively long intermolecular distances and hence a less dense packing.
+CsCl(s) adopts a different lattice than the rock salt lattice (it is commonly called the CsCl
+lattice), which allows it to pack more densely than the rock salt lattice with a cation the
+size of cesium would.
+f.
+b– decay forms 137Ba.
+g.
+E = ∆mc2.  ∆m = –1.26 ´ 10-3 amu ´ (1.661 ´ 10-27 kg amu-1) = –2.09 ´ 10-30 kg
+E = (2.09 ´ 10-30 kg)(2.998 ´ 108 m s-1)2 = 1.88 ´ 10-13 J = 1.88 ´ 10-16 kJ 
+(1.88 ´ 10-16 kJ)(6.022 ´ 1023 mol-1) = 1.13 ´ 108 kJ mol-1 
+
+2024 USNCO Part 2 Solutions  
+8 
+7. a.
+Other resonance structures are acceptable in both cases. 
+b.
+∆H° = S(BDE of bonds broken) – S(BDE of bonds formed)
+∆H° = {(N=N) + (C=O) + 2 ´ (C–N)} – {(CºO) + (NºN)}
+∆H° = {418 + 741 + 2 ´ 290} – {1080 + 949} kJ mol-1
+∆H° = –290 kJ mol-1
+c.
+The reaction is more exothermic than expected, indicating that the bonds are weaker in
+the reactant than would be expected based on typical bond dissociation enthalpies.  This
+is likely due to the three-membered ring in the structure.  This means that the bonds in the
+ring cannot achieve ideal bond angles, so they are not as strong as expected.
+d.
+∆S° is highly positive since two molecules are produced from one.  Since ∆G° = ∆H° –
+T∆S°, ∆G° < ∆H°.
+e. 
+, linear at carbon and bent at the middle nitrogen. 
+f.
+Entropically, there should be little difference between the molecules.  Enthalpically, one
+can estimate ∆H° of isomerization from the diazinone to NCNO:
+∆H° = {(N=N) + (C=O) + 2 ´ (C–N)} – {(CºN) + (C–N) + (N=O)}
+∆H° = {418 + 741 + 2 ´ 290} – {891 + 290 + 480} kJ mol-1
+∆H° = 78 kJ mol-1
+Even considering that diazirinone is ~57 kJ mol-1 less stable than one would expect (from
+the results of b./c.), formation of NCNO is still expected to be endothermic, and thus
+diazirinone is expected to be more stable.
+N
+N
+N
+C
+O
+N
+N
+N
+N
+N
+C
+O
+N
+C
+N
+O
+
+2024 USNCO Part 2 Solutions 
+9 
+8. a. 
+Compound II is most basic.  Nitrogen is the least electronegative atom with a lone pair in
+each of the three structures, but in I that lone pair is engaged in resonance with the 
+carbonyl group; since the resonance is lost on protonation, that nitrogen is not basic.  The 
+oxime III is basic at nitrogen, but the greater amount of s character in the lone pair and 
+the fact that the nitrogen is bonded to an electronegative oxygen atom, make it less basic 
+than the amine in II. 
+b. 
+c.
+c.
+Many possible answers, including
+d.
+The imidazole V is much more basic than the pyrrole IV.  Protonation of the imidazole at
+the unmethylated nitrogen results in better resonance in the conjugate acid than was
+present in the conjugate base.  No such enhancement of resonance is possible in IV (in
+fact, resonance that is present in the neutral compound is lost on protonation at nitrogen,
+which means that pyrrole actually protonates preferentially at carbon).
+H3N
+O
+OCH3
+NH2
+O
+CH3O
+I
+II
+III
+HO
+H
+N
+OH
+H
+H
+O
+OCH3
+NH2
+O
+OCH3
+NH2
+N
+N
+CH3
+H
+N
+N
+CH3
+H
+
+2024 USNCO Part 2 Solutions 
+10 
+e.
+Since reaction with bromine takes place at carbon, the additional N in the imidazole V is
+electron-withdrawing and deactivating, since its lone pair is in the plane of the ring and
+so cannot stabilize the cationic intermediate in the reaction.  In contrast, the lone pair of
+the nitrogen on pyrrole is stabilizing to the intermediate:
+N
+CH3
++ Br2
+N
+CH3
+Br
+H
+N
+CH3
+Br
+H
+N
+CH3
+Br
+H
+Br
+–HBr
+N
+CH3
+Br
+N
+CH3
+Br
+or polybrominated
+products also OK

@@ -1,0 +1,1918 @@
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+Distributed by the American Chemical Society, 1155 16th Street, N.W., Washington, DC 20036 
+All rights reserved. Printed in U.S.A. 
+2023 U.S. NATIONAL 
+CHEMISTRY OLYMPIAD 
+NATIONAL EXAM PART II 
+Prepared by the American Chemical Society Chemistry Olympiad Examinations Task Force 
+OLYMPIAD EXAMINATIONS TASK FORCE 
+Seth N. Brown, Chair, University of Notre Dame, Notre Dame, IN 
+James Ayers, Colorado Mesa University, Grand Junction, CO 
+Jerry Bell, Simmons University, Boston, MA (retired) 
+Jesse Bernstein, Miami Country Day School, Miami, FL (retired) 
+Mark DeCamp, University of Michigan, Dearborn, MI (retired) 
+James Dohm, ExxonMobil, Houston, TX 
+Xu Duan, Holton-Arms School, Bethesda, MD 
+Kimberly Gardner, United States Air Force Academy, CO  
+Paul Groves, South Pasadena HS, South Pasadena, CA (retired) 
+John Kotz, State University of New York, Oneonta, NY (retired) 
+Sarah Leite, Hopkins School, New Haven, CT 
+Michael A. Morgan, Francisco Bravo Medical Magnet HS, Los Angeles, CA 
+Jane Nagurney, Scranton Preparatory School, Scranton, PA (retired) 
+DIRECTIONS TO THE EXAMINER 
+Part II of this test requires that student answers be written in this test booklet in the spaces provided underneath the questions. Part II 
+test booklet and scratch paper should be made available to the student only during the examination period. All testing materials including 
+scratch paper should be collected from students after the examination. Only test booklets should be shipped to the USNCO office 
+immediately after the national exam and no later than April 24, 2023. 
+When the student has completed Part II, or after one hour and forty-five minutes have elapsed, the student must turn in Part II of the 
+testing materials and all scratch paper. Be sure that the student has supplied the same identification number used for Part I has been 
+used again for Part II. 
+There are three parts to the National Olympiad Examination. You have the option of administering the three parts in any order, and you 
+are free to schedule rest breaks between parts. 
+Part I 
+60 questions 
+single-answer multiple-choice 
+1 hour, 30 minutes 
+Part II 
+8 questions 
+problem-solving, explanations 
+1 hour, 45 minutes 
+Part III 
+2 lab questions 
+laboratory practical 
+ 
+1 hour, 30 minutes 
+A periodic table and other useful information are provided on page two for student reference. 
+Students should be permitted to use non-programmable calculators. The use of a programmable calculator, cell phone, or any 
+other device that can access the internet or make copies or photographs during the exam is grounds for disqualification. 
+DIRECTIONS TO THE EXAMINEE - DO NOT TURN THE PAGE UNTIL DIRECTED TO DO SO. 
+Part II requires complete responses to questions involving problem-solving and explanations. One hour and forty-five minutes are 
+allowed to complete this part. Be sure to use the same identification number you used for Part I and write it on top of each page in 
+the indicated fields. Use separate sheets for scratch paper and do not attach your scratch paper to this examination. When you complete 
+Part II (or at the end of one hour and forty-five minutes) you must turn in all testing materials and scratch paper.  
+Do not forget to turn in your U.S. citizenship/Green Card Holder statement before leaving the testing site today. 
+STUDENT USNCO ID: 
+
+ 
+Page 2 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+ 
+ABBREVIATIONS AND SYMBOLS 
+ 
+CONSTANTS 
+amount of substance 
+n 
+ampere 
+A 
+atmosphere 
+atm 
+atomic mass unit 
+u 
+Avogadro constant 
+NA 
+Celsius temperature 
+°C 
+centi– prefix 
+c 
+coulomb 
+C 
+density 
+d 
+electromotive force 
+E 
+energy of activation 
+Ea 
+enthalpy 
+H 
+entropy 
+     S  
+equilibrium constant 
+  K 
+Faraday constant 
+F 
+free energy 
+G 
+frequency 
+ν 
+gas constant 
+R 
+gram 
+g 
+hour 
+h 
+joule 
+J 
+kelvin 
+K 
+kilo– prefix 
+k 
+liter 
+L 
+measure of pressure mm Hg 
+milli– prefix 
+m 
+molal 
+m 
+molar 
+M 
+molar mass 
+M 
+mole 
+mol 
+Planck’s constant 
+h 
+pressure 
+P 
+rate constant 
+k 
+reaction quotient 
+Q 
+second 
+s 
+speed of light 
+c 
+temperature, K 
+T 
+time 
+t 
+vapor pressure                 VP 
+volt 
+V 
+volume 
+V 
+year                                    y 
+ 
+R = 8.314 J mol–1 K–1 
+R = 0.08314 L bar mol–1 K–1 
+F = 96,500 C mol–1 
+F = 96,500 J V–1 mol–1 
+NA = 6.022  1023 mol–1 
+h = 6.626  10–34 J s 
+c = 2.998  108 m s–1 
+0 °C = 273.15 K 
+1 atm = 1.013 bar = 760 mm Hg 
+Specific heat capacity of H2O = 
+4.184 J g–1 K–1 
+ 
+ 
+ 
+EQUATIONS 
+   
+ 
+ 
+                        
+o
+ln
+RT
+E
+E
+Q
+nF
+=
+−
+                                
+o
+1
+ln
+constant
+H
+K
+R
+T
+
+
+−∆
+
+
+=
++
+
+
+
+
+
+
+
+                       
+2
+1
+1
+2
+1
+1
+ln
+a
+E
+k
+k
+R
+T
+T
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 1  
+PERIODIC TABLE OF THE ELEMENTS 
+18 
+ 1A  
+ 
+8A 
+1 
+H 
+1.008 
+ 
+ 
+2 
+13 
+14 
+15 
+16 
+ 17 
+ 2A 
+3A 
+4A 
+5A 
+6A 
+ 7A 
+2 
+He 
+4.003 
+3 
+Li 
+6.941 
+4 
+Be 
+9.012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+B 
+10.81 
+6 
+C 
+12.01 
+7 
+N 
+14.01 
+8 
+O 
+16.00 
+9 
+F 
+19.00 
+10 
+Ne 
+20.18 
+11 
+Na 
+22.99 
+12 
+Mg 
+24.31 
+ 
+ 3 
+3B 
+ 
+ 4 
+4B 
+ 
+ 5 
+5B 
+ 
+ 6 
+6B 
+ 
+ 7 
+7B 
+ 
+ 8 
+8B 
+ 
+ 9 
+8B 
+ 
+ 10 
+8B 
+ 
+  11 
+1B 
+ 
+  12 
+2B 
+13 
+Al 
+26.98 
+14 
+Si 
+28.09 
+15 
+P 
+30.97 
+16 
+S 
+32.07 
+17 
+Cl 
+35.45 
+18 
+Ar 
+39.95 
+19 
+K 
+39.10 
+20 
+Ca 
+40.08 
+21 
+Sc 
+44.96 
+22 
+Ti 
+47.88 
+23 
+V 
+50.94 
+24 
+Cr 
+52.00 
+25 
+Mn 
+54.94 
+26 
+Fe 
+55.85 
+27 
+Co 
+58.93 
+28 
+Ni 
+58.69 
+29 
+Cu 
+63.55 
+30 
+Zn 
+65.39 
+31 
+Ga 
+69.72 
+32 
+Ge 
+72.61 
+33 
+As 
+74.92 
+34 
+Se 
+78.97 
+35 
+Br 
+79.90 
+36 
+Kr 
+83.80 
+37 
+Rb 
+85.47 
+38 
+Sr 
+87.62 
+39 
+Y 
+88.91 
+40 
+Zr 
+91.22 
+41 
+Nb 
+92.91 
+42 
+Mo 
+95.95 
+43 
+Tc 
+(98) 
+44 
+Ru 
+101.1 
+45 
+Rh 
+102.9 
+46 
+Pd 
+106.4 
+47 
+Ag 
+107.9 
+48 
+Cd 
+112.4 
+49 
+In 
+114.8 
+50 
+Sn 
+118.7 
+51 
+Sb 
+121.8 
+52 
+Te 
+127.6 
+53 
+I 
+126.9 
+54 
+Xe 
+131.3 
+55 
+Cs 
+132.9 
+56 
+Ba 
+137.3 
+57 
+La 
+138.9 
+72 
+Hf 
+178.5 
+73 
+Ta 
+180.9 
+74 
+W 
+183.8 
+75 
+Re 
+186.2 
+76 
+Os 
+190.2 
+77 
+Ir 
+192.2 
+78 
+Pt 
+195.1 
+79 
+Au 
+197.0 
+80 
+Hg 
+200.6 
+81 
+Tl 
+204.4 
+82 
+Pb 
+207.2 
+83 
+Bi 
+209.0 
+84 
+Po 
+(209) 
+85 
+At 
+(210) 
+86 
+Rn 
+(222) 
+87 
+Fr 
+(223) 
+88 
+Ra 
+(226) 
+89 
+Ac 
+(227) 
+104 
+Rf 
+(261) 
+105 
+Db 
+(262) 
+106 
+Sg 
+(263) 
+107 
+Bh 
+(262) 
+108 
+Hs 
+(265) 
+109 
+Mt 
+(266) 
+110 
+Ds 
+(281) 
+111 
+Rg 
+(272) 
+112 
+Cn 
+(285) 
+113 
+Nh 
+(286) 
+114 
+Fl 
+(289) 
+115 
+Mc 
+(289) 
+116 
+Lv 
+(293) 
+117 
+Ts 
+(294) 
+118 
+Og 
+(294) 
+ 
+ 
+ 
+ 
+58 
+Ce 
+140.1 
+59 
+Pr 
+140.9 
+60 
+Nd 
+144.2 
+61 
+Pm 
+(145) 
+62 
+Sm 
+150.4 
+63 
+Eu 
+152.0 
+64 
+Gd 
+157.3 
+65 
+Tb 
+158.9 
+66 
+Dy 
+162.5 
+67 
+Ho 
+164.9 
+68 
+Er 
+167.3 
+69 
+Tm 
+168.9 
+70 
+Yb 
+173.0 
+71 
+Lu 
+175.0 
+ 
+ 
+ 
+90 
+Th 
+232.0 
+91 
+Pa 
+231.0 
+92 
+U 
+238.0 
+93 
+Np 
+(237) 
+94 
+Pu 
+(244) 
+95 
+Am 
+(243) 
+96 
+Cm 
+(247) 
+97 
+Bk 
+(247) 
+98 
+Cf 
+(251) 
+99 
+Es 
+(252) 
+100 
+Fm 
+(257) 
+101 
+Md 
+(258) 
+102 
+No 
+(259) 
+103 
+Lr 
+(262) 
+
+Question 1 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 3 
+1. [12%] A is an ionic compound that contains only the elements hydrogen, nitrogen, and oxygen. 
+a. 
+A 1.000-g sample of A is dissolved in 20 mL water and titrated with 0.5000 M NaOH solution, giving the data 
+shown below.  What is the molar mass of A?  
+                                Write your answer here: 
+ 
+b. When a 1.000-g sample of A is heated at 230 °C in an evacuated 1.50 L vessel, it decomposes into gaseous 
+products, giving a final pressure of 784 mm Hg.  How many moles of gas are formed in this reaction? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 1 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 4 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+c. 
+If the gases produced from the decomposition of 1.000 g of A are instead first passed through a column packed 
+with magnesium perchlorate (which strongly absorbs water vapor) and then collected at 25 °C and a pressure of 
+755 mm Hg, the total volume of gas is 308 mL.  How many moles of gas are collected in this experiment? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d. What is the formula of A?  Explain your reasoning. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Write Lewis structures for the cation and the anion present in A and for the product(s) of its decomposition at 
+230 °C.  Your Lewis structures should include all bonds, lone pairs, and nonzero formal charges.  You should 
+show all significant resonance structures for each species. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 2 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 5 
+2. [14%] When water is bound to a metal ion, its acidity increases.  For example, the pKa of Zn2+(aq) is 8.96. 
+a. 
+Calculate the pH of a 0.010 M solution of zinc nitrate, Zn(NO3)2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Calculate the pH of a 0.010 M solution of zinc acetate, Zn(CH3COO)2.  The pKa of CH3COOH is 4.75.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Zinc hydroxide is sparingly soluble, with Ksp = 4.5 × 10-17.  Calculate the pH of a solution of water saturated 
+with solid Zn(OH)2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 2 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 6 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+d. Under what circumstances, if any, will a solution of zinc acetate spontaneously form a precipitate of Zn(OH)2?  
+If precipitation is possible, specify the circumstances under which it is spontaneous.  If it is not possible, justify 
+why not. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Zinc also forms a complex ion, Zn(OH)42-, with Kf = 5.0 × 1014.  Calculate the solubility of Zn(OH)2 in a 
+solution with pH = 12.00. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 3 (page 1 of 2) 
+USNCO ID Number: 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+Page 7 
+3.
+[12%] Hydrogen gas reacts with oxygen gas to give water vapor with ∆H°rxn = –241.8 kJ mol-1 and
+∆S°rxn = –44.5 J mol-1 K-1.
+H2(g) + 0.5 O2(g) → H2O(g) 
+Species 
+S°, J mol-1 K-1 
+Cp, J g-1 K-1 
+H2O(g) 
+??? 
+4.18 
+H2(g) 
+130.7 
+14.4 
+O2(g) 
+205.2 
+0.92 
+a.
+Calculate S° of H2O(g).
+b.
+The bond dissociation enthalpy (BDE) of an average O–H bond in water is 463 kJ mol-1 and the BDE of the H–
+H bond in H2 is 436 kJ mol-1.  What is the BDE of the O=O bond in O2?
+c.
+0.100 mol H2(g) and 0.100 mol O2(g), both initially at 100 °C, react completely in a sealed vessel that is
+maintained at 1 bar pressure. The vessel is machined as part of a 1.00-kg block of aluminum (Cp = 0.89 J g-1 K-1),
+which efficiently absorbs the heat generated in the reaction but which is well insulated from its surroundings.
+What is the final temperature of the aluminum block and the contents of the reaction vessel?  Assume that Cp and
+ΔHorxn are independent of temperature.
+
+Question 3 (page 2 of 2) 
+USNCO ID Number: 
+Page 8 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+d.
+Humid air at 298 K has an overall pressure of 1.0 bar and is 20. vol% O2 and 3.1 vol% H2O.  What is the
+minimum volume percentage of H2(g) in humid air necessary for its combustion to be spontaneous?
+e.
+The lower flammability limit (LFL) of a substance is its minimum volumetric concentration needed to
+propagate a flame under a given set of conditions.  The LFL of hydrogen gas in humid air is approximately 
+4%. Account for the difference between your answer in part d and the experimental value for the LFL.
+
+Question 4 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+Page 9 
+4. [13%] The vapor pressure of pure water at its melting point, 0.0 °C, is 611 Pa (6.11 × 10-3 bar). 
+a. 
+0.880 mol MgCl2 is added to 1.00 kg liquid water at 0.0 °C.  Calculate the vapor pressure of this solution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. The enthalpy of sublimation of ice is 51.1 kJ mol-1 at 0.0 °C and the enthalpy of vaporization of liquid water is 
+45.1 kJ mol-1 at 0.0 °C.  Assuming these enthalpies are independent of temperature, calculate the temperature at 
+which pure ice has the same vapor pressure as the magnesium chloride solution at 0.0 °C calculated in part a. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 4 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 10 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+c. 
+At the freezing point temperature of the aqueous magnesium chloride solution, the vapor pressure of the 
+solution is equal to the vapor pressure of pure ice.  Explain why this statement is true. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d. Using the principle enunciated in part c, calculate the freezing point temperature of the solution of 0.880 mol 
+MgCl2 dissolved in 1.00 kg water. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+The temperature calculated in part d is the temperature of the system when the first solid appears at equilibrium 
+as the system is cooled.  As more solid is formed, do you expect the temperature to increase, decrease, or 
+remain constant?  Briefly justify your choice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 5 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+Page 11 
+5. [12%] Write net equations for each of the reactions below.  Use appropriate ionic and molecular formulas and omit 
+formulas for all ions or molecules that do not take part in a reaction.  Write structural formulas for all organic substances, 
+and clearly show stereochemistry where relevant.  You need not balance the equations or show the phase of the species. 
+a. 
+Aqueous hydrochloric acid is added to a solution of sodium hypochlorite. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Aluminum foil is added to concentrated aqueous potassium hydroxide solution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+Metallic sodium is added to liquid ammonia in the presence of a trace amount of iron(III) nitrate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 5 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 12 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+d. Potassium tetrachloroplatinate is heated with two equivalents of aqueous ammonia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Sodium tert-butoxide is added to 3-bromo-3-ethylpentane in N,N-dimethylformamide (DMF) solution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+Cobalt-57 undergoes radioactive decay by electron capture. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 6 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+Page 13 
+6. [12%] The standard reduction potentials of some compounds of platinum and silver at 298 K are given below. 
+Half-reaction 
+E°, V 
+Pt2+(aq) + 2e– → Pt(s) 
++1.188 
+PtCl42-(aq) + 2e–  → Pt(s) + 4 Cl–(aq) 
++0.758 
+PtCl62-(aq) + 2e– → PtCl42-(aq) + 2 Cl–(aq) 
++0.726 
+Ag+(aq) + e– → Ag(s) 
++0.799 
+ 
+a. 
+What is Kf for the PtCl42- ion? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. What is E° for the reduction of hexachloroplatinate(IV) to give platinum metal? 
+PtCl62-(aq) + 4e– → Pt(s) + 6 Cl–(aq) 
+ 
+ 
+ 
+ 
+ 
+ 
+An electrolytic cell is set up as shown below. 
+ 
+
+Question 6 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 14 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+c. 
+What is the minimum potential that would need to be applied in order to cause the platinum electrode to 
+dissolve to form PtCl42-(aq) and the Ag+(aq) to deposit on the Ag electrode? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d. As electrolysis is carried out, is it thermodynamically possible for a significant amount of 
+hexachloroplatinate(IV) to be produced at the anode?  Justify your answer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 7 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 15 
+7. [13%] Fluorine atoms and methyl groups each form one bond, so there are often analogous compounds with the formulas 
+AFn and A(CH3)n.  In the graphs below, the normal boiling points and the A–X bond distances of a series of AXn 
+molecules are compared (A = 2p element; X = F or CH3). 
+Boiling point comparison 
+Bond length comparison 
+ 
+ 
+ 
+a. 
+Draw or clearly describe the shapes of the molecules BF3 and NF3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. In all cases, the normal boiling points of the AFn molecules are lower than those of the A(CH3)n molecules.  
+Explain this observation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 7 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 16 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+c. 
+Not counting the boron compounds, the trend in boiling points is that they decrease as the central atom A moves 
+to the right in the periodic table.  Explain this trend. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d. Explain why BF3 has a higher boiling point than CF4, while B(CH3)3 has a lower boiling point than C(CH3)4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Explain why the A–C bond distances decrease as A moves to the right in the periodic table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+f. 
+Explain why the A–F bond distances increase as A moves to the right in the periodic table. 
+ 
+ 
+ 
+ 
+ 
+
+Question 8 (page 1 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023  
+Page 17 
+8. [12%] Consider the two cyclic compounds cyclopentanone and 1-methylcyclopentene. 
+ 
+a. 
+Which compound has the higher normal boiling point?  Justify your choice. 
+ 
+ 
+ 
+ 
+ 
+ 
+b. One of the two compounds will rapidly decolorize bromine in carbon tetrachloride solvent.  Which one?  Draw 
+the structure of the major product formed in the reaction, clearly showing stereochemistry if relevant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. 
+One of the two compounds will react rapidly with the Grignard reagent methylmagnesium bromide.  Which 
+one?  Draw the structure of the major organic product formed in the reaction (as isolated after workup with 
+dilute aqueous acid), clearly showing stereochemistry if relevant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question 8 (page 2 of 2)  
+ 
+ 
+ 
+USNCO ID Number: 
+ 
+ 
+ 
+ 
+Page 18 
+Property of ACS USNCO – Not for use as USNCO National Exam after April 23, 2023 
+d. The product of the reaction in part c can be transformed into either cyclopentanone or 1-methylcyclopentene in 
+good yield in a single reaction.  Specify which compound is the product and the reagent(s) needed to 
+accomplish this transformation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. 
+Both cyclopentanone and 1-methylcyclopentene are achiral.  Draw the structure of an acyclic isomer of 1-
+methylcyclopentene that is chiral. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+1 
+1. a. 
+The endpoint is at 25.0 mL added NaOH, and from the shape of the titration curve the 
+compound is a monoprotic acid.  So n = (0.0250 L)(0.5000 mol L-1) = 0.0125 mol.  1.000 
+g/0.0125 mol = 80.0 g mol-1. 
+ 
+b. 
+ 
+PV = nRT 
+ 
+ 
+(784 torr)(1.50 L) = n(62.4 L torr mol-1 K-1)(503.15 K) 
+ 
+ 
+n = 0.0375 mol 
+ 
+This is 3 mol gas per mol A, given the answer to part a. 
+ 
+c. 
+ 
+PV = nRT 
+ 
+ 
+(755 torr)(0.308 L) = n(62.4 L torr mol-1 K-1)(298.15 K) 
+ 
+ 
+n = 0.0125 mol 
+ 
+This is 1 mol gas per mol A, so the decomposition must have produced 2 mol H2O per 
+mol A. 
+ 
+d. 
+Each mol of A produces two mol H2O when it decomposes, so the formula unit must 
+contain at least four H's and two O's.  The molar mass of the gas produced in part c. is 
+thus 80 – 2(18) = 44.  The titration in part a indicates that the acid has a pKa of 9.25; the 
+only reasonable possibility is ammonium ion, NH4
++.  This means that the gas observed in 
+part c. must contain at least one N.  The only possible formulas of the gas in c. (M = 44, 
+at least one N, only possible elements H, N, O) are NH30, H14NO, N2H16, N2O, and N3H2.  
+The only chemically reasonable option in this list is N2O, nitrous oxide. 
+ 
+ 
+The overall formula of A is thus N2O + 2(H2O) = H4N2O3.  Given the presence of 
+ammonium ion, this translates to (NH4)NO3, ammonium nitrate. 
+ 
+e.
+ 
+ 
+ 
+ 
+ 
+ 
+N
+H
+H
+H
+H
+N
+O
+O
+O
+N
+O
+O
+O
+N
+O
+O
+O
+H
+O
+H
+N
+N
+O
+N
+N
+O
+
+2023 USNCO Part 2 Solutions 
+ 
+2 
+2. a. 
+The major reaction is  
+Zn(OH2)2+(aq) + H2O(l) 
+ Zn(OH)+(aq) + H3O+(aq) 
+Keq = 10–8.96 = 1.10 ´ 10-9 = 
+[Zn(OH)(][H*O(]
+[Zn(OH+)+(]  
+ 
+Since [Zn(OH)+] and [H3O+] are approximately equal, and [Zn(OH2)2+] » 0.010 (since the 
+reaction is quite unfavorable), then 
+[H3O+]2 = 1.10 ´ 10-11 
+[H3O+] = 3.31 ´ 10-6 M 
+pH = –log10[H3O+] = 5.48 
+ 
+This pH is much lower than that of pure water, so the assumption of [Zn(OH)+] » [H3O+] 
+is justified. 
+ 
+b. 
+Now the major reaction is  
+Zn(OH2)2+(aq) + CH3COO–(aq) 
+ Zn(OH)+(aq) + CH3COOH(aq) 
+Keq = 
+,-./.12
+,-.3.45 = 6.17 ´ 10-5 = 
+[Zn(OH)(][CH*COOH]
+[Zn(OH+)+(][CH*COO.] 
+ 
+Similarly to above, [Zn(OH)+] » [CH3COOH].  Because the reaction is again rather 
+unfavorable, [Zn(OH2)2+] and [CH3COO–] will be little changed from the initial solution, 
+so [Zn(OH2)2+] = 0.5[CH3COO–].  Thus: 
+6.17 ´ 10-5 = 
+[CH*COOH]+
+0.5[CH*COO.]+ 
+3.08 ´ 10-5 = [CH3COOH]2/[CH3COO–]2 
+5.55 ´ 10-3 = [CH3COOH]/[CH3COO–] 
+ 
+The ratio of acetate ion to acetic acid determines the pH: 
+pH = pKa + log([CH3COO–]/[CH3COOH]) 
+pH = 4.75 + log(180) 
+pH = 7.01 
+ 
+Note that the initial concentration of zinc acetate was never used in this calculation!  So 
+as long as it is high enough to justify the assumptions made, the pH is the same. 
+ 
+c. 
+[Zn2+] » 0.5[OH–] in this solution, so: 
+Ksp = 4.5 ´ 10-17 = [Zn2+][OH–]2 = 0.5[OH–]3 
+[OH–] = 4.48 ´ 10-6 M 
+pOH = –log[OH–] = 5.35 
+pH = 14 – pOH = 8.65 
+ 
+d. 
+From part b, the pH of the solution is 7.01 (independent of the amount of zinc acetate), so 
+[OH–] = 1.02 ´ 10-7.  Precipitation of Zn(OH)2 is spontaneous if Qsp > Ksp, so: 
+[Zn2+][OH–]2 > 4.5 ´ 10-17 
+[Zn2+][1.02 ´ 10-7]2 > 4.5 ´ 10-17 
+[Zn2+] > 4.3 ´ 10-3 M 
+ 
+Thus precipitation is spontaneous if the concentration of zinc acetate is greater than 
+0.0043 M. 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+3 
+e. 
+At pH = 12.00, [OH–] = 0.010 M.  From the solubility equilibrium: 
+[Zn2+][OH–]2 = [Zn2+][0.010]2 = 4.5 ´ 10-17 
+[Zn2+] = 4.5 ´ 10-13  
+ 
+From the complex ion equilibrium: 
+Kf = 5.0 ´ 1014 = 
+[Zn(OH)3
++.]
+[Zn+(][OH.]3 
+[Zn(OH)4
+2-] = (5.0 ´ 1014)[ 4.5 ´ 10-13][0.010]4 
+[Zn(OH)4
+2-] = 2.25 ´ 10-6 
+ 
+Obviously, almost all the zinc in solution is in the form of the complex ion, so 2.3 ´ 10-6 
+moles of Zn(OH)2 will dissolve per liter of pH 12 solution. 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+4 
+3. a.  
+∆S°rxn = S° (H2O(g)) – S° (H2(g)) – 0.5•S° (O2(g)) 
+ 
+–44.5 J mol-1 K-1 = S° (H2O(g)) – (130.7 J mol-1 K-1) – 0.5•(205.2 J mol-1 K-1) 
+ 
+S° (H2O(g)) = 188.8 J mol-1 K-1 
+ 
+b. 
+∆H°rxn = 0.5´BDE(O=O) + BDE(H–H) – 2´BDE(O–H) 
+ 
+–242 kJ mol-1 = 0.5´BDE(O=O) + 436 kJ mol-1 – 2´(463 kJ mol-1) 
+ 
+ 
+BDE(O=O) = 496 kJ mol-1 
+ 
+c. 
+Reacting 0.1 mol H2 (the limiting reagent) will produce 24.18 kJ of heat (at constant 
+pressure).  The contents of the vessel after reaction are 0.1 mol H2O and 0.05 mol O2, so 
+the total heat capacity of the reaction contents plus the Al block is (1.802 g H2O)´(4.18 J 
+g-1 K-1) + (1.60 g O2)´(0.92 J g-1 K-1) + (1000 g)´(0.89 J g-1 K-1) = 899 J K-1. 
+ 
+ 
+∆T = q/Cp = (24180 J)/(899.0 J K-1) = 26.9 K 
+ 
+Since the initial temperature is 373 K, the final temperature is 400 K (127 °C). 
+ 
+d. 
+∆G = ∆G° + RTln(Q).  At 298 K, ∆G° = ∆H° – T∆S° = –241.8 kJ mol-1 – (298 K)(–
+0.0445 kJ mol-1 K-1) = –228.5 kJ mol-1. 
+ 
+For the reaction to just be spontaneous, ∆G = 0, so Q = e–∆G°/RT = 1.1 ´ 1040.   
+ 
+ 
+Q = 1.1 ´ 1040 = 
+9(H+O)
+9(H+)•9(O+);/+ 
+ 
+Substituting in p(H2O) = 0.031 bar and p(O2) = 0.20 bar gives 
+ 
+ 
+p(H2) = 6.1 ´ 10-42 bar 
+ 
+This corresponds to 6.1 ´ 10-40 volume% of H2.  (This is much, much less than one 
+molecule per liter, so any amount of hydrogen in humid air would react spontaneously to 
+form water vapor.) 
+ 
+e. 
+The thermodynamic spontaneity of the reaction need not correspond to the kinetic 
+conditions required to support a self-sustaining flame.  Evidently at concentrations below 
+about 4 vol%, the reaction cannot proceed rapidly enough to produce enough reactive 
+intermediates to support continued rapid reaction. 
+ 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+5 
+4. a. 
+Pvap,soln = (xH2O)(Pvap H2O, pure) 
+ 
+nH2O = 1000 g ´ 1 mol/18.02 g = 55.49 mol 
+ 
+Because each mol MgCl2 forms 3 moles of ions, the total moles are 55.49 mol H2O + 
+3(0.880) mol ions = 58.13 mol.  So xH2O = 55.49/58.13 = 0.955. 
+ 
+Pvap,soln = (0.955)(611 Pa) = 584 Pa 
+ 
+b. 
+ln(P2/P1) = (–∆H°subl/R)(1/T2 – 1/T1) 
+ 
+ln(584 Pa/611 Pa) = (–51100 J mol-1/8.314 J mol-1 K-1)(1/T2 – 1/273.15 K) 
+ 
+ 
+7.353 ´ 10-6 K-1 = 1/T2 – 1/273.15 K 
+T2 = 272.6 K = –0.5 °C 
+ 
+c. 
+When the solution freezes, the solid formed is pure ice.  Unlike the flexible structure of 
+water in solution, the ice crystal has a rigid structure that cannot accommodate impurities 
+such as magnesium or chloride ions.  If pure ice is in equilibrium with the aqueous 
+solution, then the vapor in equilibrium with ice must be in equilibrium with the vapor in 
+equilibrium with the solution.  This is the same as saying that the vapor pressures are 
+equal. 
+ 
+d. 
+At the freezing point temperature, the vapor pressure of pure ice is equal to the vapor 
+pressure of the solution, which is 0.955 times the vapor pressure of pure water at this 
+temperature (as in part a).  If we call this vapor pressure Pf, then: 
+ 
+ 
+From the temperature-dependence of the vapor pressure of ice: 
+ln(Pf/611 Pa) = (–∆H°subl/R)(1/Tf – 1/273.15 K) 
+ln(Pf) = (–∆H°subl/R)(1/Tf – 1/273.15 K) + ln(611 Pa) 
+ 
+ 
+The vapor pressure of pure water at this temperature is Pf/0.955, so: 
+ln(1.047•Pf/611 Pa) = (–∆H°vap/R)(1/Tf – 1/273.15 K) 
+ln(Pf) = (–∆H°vap/R)(1/Tf – 1/273.15 K) + ln(611 Pa) – ln(1.047) 
+ 
+ 
+Equating the two expressions for ln(Pf) gives: 
+ln(1.047) = ([∆H°subl–∆H°vap]/R)•(1/Tf – 1/273.15 K) 
+ 6.36 ´ 10-5 K-1 = (1/Tf – 1/273.15 K) 
+Tf = 268.5 K = –4.7 °C 
+ 
+ 
+Note that this number is slightly different from the value obtained from the molal 
+freezing point depression equation (–4.9 °C), as the derivation of that equation assumes 
+that ln(1 – x) ≈ –x and that 1/T2 – 1/T1 ≈ (ΔT)/T1
+2.  Those assumptions are fine at the limit 
+of dilute concentrations but they introduce small errors as concentration is increased. 
+ 
+e. 
+As more pure ice crystallizes from the solution, the concentration of ions in solution 
+increases, further depressing the freezing point.  Thus the temperature will decrease as 
+more solid forms. 
+ 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+6 
+5. a. 
+H+ + Cl–+ OCl–® Cl2 + H2O 
+b. 
+Al + OH–+ H2O ® Al(OH)4
+–+ H2 
+c. 
+Na + NH3 ® Na+ + NH2
+– + H2 
+d. 
+PtCl4
+2- + NH3 ®
+ 
+ + Cl–
+ 
+e.  
+ 
+f. 
+57Co  ®  57Fe + g 
+ 
+ 
+ 
+Pt
+NH3
+NH3
+Cl
+Cl
+CH3
+CH3
+CH3
+O–
++
+Br
++
+CH3
+CH3
+CH3
+OH
++  Br–
+
+2023 USNCO Part 2 Solutions 
+ 
+7 
+ 
+6. a.  
+ 
+Pt2+(aq) + 2e– ® Pt(s) 
+∆G° = –2F(1.188 V) 
+ 
+ 
+Pt(s) + 4 Cl–(aq) ® PtCl4
+2-(aq) + 2e– 
+∆G° = –2F(–0.758 V) 
+ 
+ 
+Pt2+(aq) + 4 Cl–(aq) ® PtCl4
+2-(aq) 
+∆G° = –2F(1.188 – 0.758 V) 
+ 
+ 
+ 
+= –83.0 kJ mol-1 
+ 
+ 
+Kf = e–∆G°/RT = e–(–83000 J mol-1)/(8.314 J mol-1 K-1)(298 K) 
+ 
+ 
+Kf = 3.5 ´ 1014 
+ 
+b. 
+ 
+PtCl6
+2-(aq) + 2e– ® PtCl4
+2-(aq) + 2 Cl–(aq) 
+∆G° = –2F(0.726 V) 
+ 
+ 
+PtCl4
+2-(aq) + 2e–  ® Pt(s) + 4 Cl–(aq) 
+∆G° = –2F(0.758 V) 
+ 
+ 
+PtCl6
+2-(aq) + 4e– ® Pt(s) + 6 Cl–(aq) 
+∆G° = –2F(0.726 + 0.758 V) 
+ 
+For the summed half-reaction, ∆G° = –4FE°.  So E° = (0.726 + 0.758 V)/2 = 0.742 V. 
+ 
+c. 
+The net reaction of the electrolysis is: 
+2 Ag+(aq) + Pt(s) + 4 Cl–(aq) ® 2 Ag(s) + PtCl4
+2-(aq) 
+ 
+For this reaction, E° = 0.799 V – 0.758 V = 0.041 V 
+ 
+Under the nonstandard conditions of the electrolysis setup: 
+E = E° – 
+=>
+?@ln
+[PtCl3
++.]
+[Ag(]+[Cl.]3 
+ 
+E = 0.041 V – 0.01284 V•ln
+[0.001]
+[0.1]+[0.1]3 
+E = –0.048 V 
+ 
+Thus, at least 0.048 V of potential must be applied for electrons to flow spontaneously to 
+oxidize the Pt and reduce the Ag+. 
+ 
+d. 
+There are several ways to analyze this situation.  One is to consider the electrolytic 
+oxidation to form PtCl6
+2-: 
+4 Ag+(aq) + Pt(s) + 6 Cl–(aq) ® 4 Ag(s) + PtCl4
+2-(aq) 
+E° = 0.799 V – 0.742 V = 0.057 V 
+ 
+This reaction is thus even more favorable under standard conditions than formation of 
+PtCl4
+2-!  Under these nonstandard conditions,  
+E = E° – 
+=>
+G@ln
+[PtCl2
++.]
+[Ag(]3[Cl.]2 
+E = 0.057 V – (0.00642 V) ln
+[PtCl2
++.]
+[0.1]3[0.1]2 
+E = –0.091 V – (0.00642 V)ln([PtCl6
+2-]) 
+ 
+Under the conditions of the electrolysis, this will be spontaneous if E > –0.048 V, which 
+corresponds to [PtCl6
+2-] < 1.3 ´ 10-3 M.  So in fact PtCl6
+2- will (thermodynamically) be 
+produced exclusively at the beginning of the electrolysis and will continue to be produced 
+until its concentration is quite similar to that of the initial concentration of PtCl4
+2- (there 
+will be some slight effect of the changing Cl– and Ag+ concentrations).  This is definitely 
+significant!  (There may be kinetic factors at play that would favor one form over the 
+other, but that is more difficult to predict, and the question specifically asked about the 
+thermodynamic possibilities.) 
+ 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+8 
+7. a.  
+BF3 is trigonal planar, NF3 is trigonal pyramidal. 
+ 
+b. 
+In all of the molecules, the major type of intermolecular forces at play are London 
+dispersion forces.  F and CH3 have the same number of electrons, but the extremely high 
+electronegativity of F means that it holds its electrons tightly and thus has an unusually 
+low polarizability.  This means that the ability of a spontaneous dipole in one molecule to 
+induce a dipole in a neighboring molecule is low, and hence the LDF are relatively weak, 
+leading to low boiling points. 
+ 
+c. 
+As one moves to the right, from CX4 to FX, the number of electrons per molecule 
+decreases as the number of X groups decreases.  Since the London dispersion forces 
+increase with increasing numbers of electrons, this leads to a general decline in normal 
+boiling points. 
+ 
+d. 
+Based on the reasoning in c., the relatively low boiling point of B(CH3)3 is expected since 
+it has fewer electrons than C(CH3)4.  BF3's relatively high boiling point is surprising on 
+these grounds.  The Lewis acidity of BF3 means that there are weak intermolecular 
+attractions based on the weakly Lewis basic lone pairs on F interacting with the empty p 
+orbital on the boron of a neighboring molecule.  This type of interaction is not possible in 
+any of the other molecules. 
+ 
+e. 
+As one moves to the right in the 2p block, the atomic radius of A becomes smaller 
+because the increasing effective nuclear charge (since the added electrons only 
+incompletely shield the added protons).  The contracted orbitals around A thus form 
+bonds at shorter interatomic distances. 
+ 
+f. 
+The decreasing atomic size of A is offset by increasing lone pair-lone pair repulsions 
+between A and F as one goes to the right in the periodic table.  (At the left, BF3 actually 
+has an attractive interaction between the empty p orbital on B and the filled p orbitals on 
+F.)  This weakens the bonds and pushes the atoms farther apart. 
+ 
+ 
+ 
+
+2023 USNCO Part 2 Solutions 
+ 
+9 
+8. a. 
+Cyclopentanone has the higher normal boiling point (131 °C vs. 76 °C).  Both 
+compounds have the same number of electrons and roughly the same shape, so London 
+dispersion forces should be very similar in the two compounds.  Neither substance forms 
+hydrogen bonds in the pure liquids.  1-Methylcyclopentene contains only nonpolar 
+carbon-carbon and carbon-hydrogen bonds, while cyclopentanone has a very polar C=O 
+bond.  So cyclopentanone experiences significant dipole-dipole interactions, which 
+strengthens its intramolecular attractions compared to 1-methylcyclopentene. 
+ 
+b.
+ 
+     
+trans, racemic
+ 
+ 
+c.
+ 
+ 
+ 
+d.
+ 
+ 
+ 
+e.
+ 
+ 
+ 
+CH3
++ Br2
+CH3
+Br
+Br
+O
+1) CH3MgBr
+2) aqueous workup
+CH3
+HO
+CH3
+HO
+H2SO4
+heat
+CH3
+H
+or
+C
+C
+C
+H
+CH2CH3
+CH3
+H
